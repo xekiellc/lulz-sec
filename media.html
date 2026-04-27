@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Library — LULZ-SEC.COM</title>
+  <meta name="description" content="Podcasts, YouTube videos, documentaries and articles about LulzSec, whistleblowers, ethical hacking and digital rights.">
+  <meta property="og:title" content="Media Library — LULZ-SEC.COM">
+  <meta property="og:image" content="https://lulz-sec.com/images/og-image.svg">
+  <meta name="robots" content="index, follow">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/svg+xml" href="/images/og-image.svg">
+</head>
+<body>
+
+<div class="scan"></div>
+
+<div class="topbar">
+  <span>&#9608;</span> &nbsp;
+  We don't track you. We're not Sony. &nbsp;
+  <span>|</span> &nbsp;
+  <a href="/">&#8592; Back to Home</a> &nbsp;
+  <span>|</span> &nbsp;
+  Essential watching, listening &amp; reading. &nbsp;
+  <span>&#9608;</span>
+</div>
+
+<div class="wrap">
+
+<nav>
+  <div class="logo-wrap" onclick="window.location.href='/'">
+    <div class="lg g1">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+    <div class="lg g2">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+    <div class="logo-main">LULZ<span class="dash">-</span>SEC<span class="tld">.COM</span></div>
+  </div>
+  <div class="nav-links">
+    <a href="/zero-day.html">Zero Day<span class="kb">[Z]</span></a>
+    <a href="/archive.html">Archive<span class="kb">[A]</span></a>
+    <a href="/legends.html">Legends<span class="kb">[L]</span></a>
+    <a href="/foia.html">FOIA<span class="kb">[F]</span></a>
+    <a href="/white-hat.html">White Hat<span class="kb">[W]</span></a>
+    <a href="/community.html">Community<span class="kb">[C]</span></a>
+  </div>
+  <div class="nav-right">
+    <div class="nav-search">
+      <span style="color:var(--gm);font-size:11px;">/</span>
+      <input type="text" placeholder="search the lulz..." />
+    </div>
+    <div class="nav-pgp">PGP &#9679;</div>
+  </div>
+</nav>
+
+<!-- PAGE HEADER -->
+<div class="page-header">
+  <div class="page-eyebrow">&#9608; MEDIA LIBRARY</div>
+  <div class="page-title">WATCH. LISTEN. READ.</div>
+  <div class="page-sub">The essential media universe for lulz-sec.com. Podcasts, documentaries, YouTube channels, and articles — curated by Claude daily. Everything you need to understand the history, the people, and the mission.</div>
+</div>
+
+<div class="page-content">
+
+  <!-- FILTER TABS -->
+  <div style="display:flex;gap:0;margin-bottom:24px;flex-wrap:wrap;border-bottom:1px solid var(--bd);padding-bottom:0;">
+    <div onclick="filterMedia('ALL')" id="tab-ALL" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid var(--g);color:var(--g);transition:all .15s;">All</div>
+    <div onclick="filterMedia('LULZSEC')" id="tab-LULZSEC" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">LulzSec</div>
+    <div onclick="filterMedia('LEGENDS')" id="tab-LEGENDS" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Legends</div>
+    <div onclick="filterMedia('ZERO DAY')" id="tab-ZERO DAY" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Zero Day</div>
+    <div onclick="filterMedia('WHITE HAT')" id="tab-WHITE HAT" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">White Hat</div>
+    <div onclick="filterMedia('HACKING')" id="tab-HACKING" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Hacking</div>
+    <div onclick="filterMedia('RIGHTS')" id="tab-RIGHTS" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Rights</div>
+    <div onclick="filterMedia('podcast')" id="tab-podcast" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Podcasts Only</div>
+    <div onclick="filterMedia('youtube')" id="tab-youtube" style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:8px 16px;cursor:pointer;border-bottom:2px solid transparent;color:var(--gd);transition:all .15s;">Video Only</div>
+  </div>
+
+  <!-- MEDIA GRID -->
+  <div id="media-grid" class="card-grid">
+    <div class="card">
+      <div style="font-size:10px;color:var(--gd);">Media library loading...</div>
+    </div>
+  </div>
+
+  <!-- LAST UPDATED -->
+  <div id="media-meta" style="font-size:9px;color:var(--gx);margin-top:20px;letter-spacing:.5px;text-align:right;"></div>
+
+  <!-- SUGGEST MEDIA -->
+  <div style="margin-top:40px;background:var(--s1);border:1px solid var(--bd2);padding:24px;border-left:3px solid var(--a);">
+    <div style="font-size:9px;letter-spacing:3px;color:var(--a);text-transform:uppercase;margin-bottom:6px;">&#9608; Community</div>
+    <div style="font-family:var(--osw);font-size:20px;color:var(--g);letter-spacing:1px;margin-bottom:8px;">SUGGEST A PODCAST OR VIDEO</div>
+    <div style="font-size:11px;color:var(--gd);line-height:1.8;margin-bottom:16px;">Found something that belongs in this library? A podcast episode, documentary, YouTube video, or article that fits the lulz-sec mission? Submit it and we'll review it.</div>
+    <form name="media-suggestion" method="POST" data-netlify="true" style="display:flex;gap:8px;flex-wrap:wrap;">
+      <input type="hidden" name="form-name" value="media-suggestion">
+      <input type="url" name="url" placeholder="URL of the podcast, video, or article" required style="flex:2;min-width:200px;background:var(--bg);border:1px solid var(--bd2);color:var(--g);font-family:var(--mono);font-size:10px;padding:9px;outline:none;" onfocus="this.style.borderColor='var(--gm)'" onblur="this.style.borderColor='var(--bd2)'">
+      <input type="text" name="reason" placeholder="Why it belongs here (optional)" style="flex:2;min-width:200px;background:var(--bg);border:1px solid var(--bd2);color:var(--g);font-family:var(--mono);font-size:10px;padding:9px;outline:none;" onfocus="this.style.borderColor='var(--gm)'" onblur="this.style.borderColor='var(--bd2)'">
+      <button type="submit" class="btn-p">Submit &rarr;</button>
+    </form>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-top">
+    <div>
+      <div class="foot-slogan">still laughing. still <span>watching.</span></div>
+      <div class="foot-tagline">the lulz were never just about chaos. they were about power, and who gets to keep it.</div>
+    </div>
+    <div class="foot-links">
+      <a href="/">Home</a>
+      <a href="/zero-day.html">Zero Day</a>
+      <a href="/archive.html">Archive</a>
+      <a href="/legends.html">Legends</a>
+      <a href="/about.html">About</a>
+    </div>
+  </div>
+  <div class="foot-bottom">
+    <div class="foot-legal">
+      &copy; 2025 lulz-sec.com &nbsp;&#183;&nbsp; independent tribute &amp; education site &nbsp;&#183;&nbsp; not affiliated with the original LulzSec group<br>
+      We do not track visitors. We do not run ads. We do not condone illegal hacking.
+    </div>
+    <div class="foot-pgp">PGP: 0xDEAD BEEF CAFE BABE</div>
+  </div>
+</footer>
+
+</div>
+<script src="/js/main.js"></script>
+<script>
+let allMedia = [];
+
+const TYPE_ICONS = {
+  podcast: '&#127911;',
+  youtube: '&#9654;',
+  article: '&#128196;',
+  documentary: '&#127916;',
+};
+
+const CAT_COLORS = {
+  'LULZSEC': 'var(--p)',
+  'LEGENDS': 'var(--a)',
+  'ZERO DAY': 'var(--c)',
+  'WHITE HAT': 'var(--gd)',
+  'HACKING': 'var(--g)',
+  'RIGHTS': 'var(--g)',
+};
+
+async function loadMedia() {
+  try {
+    const res = await fetch('/data/podcasts.json');
+    const data = await res.json();
+    allMedia = data.episodes || [];
+
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('media-meta').textContent =
+        `Library updated: ${d.toLocaleString()} — ${allMedia.length} items`;
+    }
+
+    renderMedia(allMedia);
+  } catch(err) {
+    document.getElementById('media-grid').innerHTML =
+      '<div class="card"><div style="font-size:10px;color:var(--gd);">Media library loading — pipeline runs daily at 8am UTC.</div></div>';
+  }
+}
+
+function renderMedia(items) {
+  const grid = document.getElementById('media-grid');
+  if (!items.length) {
+    grid.innerHTML = '<div class="card"><div style="font-size:10px;color:var(--gd);">No items in this category yet.</div></div>';
+    return;
+  }
+
+  grid.innerHTML = items.map(item => {
+    const icon = TYPE_ICONS[item.type] || '&#9658;';
+    const catColor = CAT_COLORS[item.category] || 'var(--g)';
+    const catLabel = item.category || 'MEDIA';
+    const year = item.year || (item.publishedAt ? new Date(item.publishedAt).getFullYear() : '');
+    const duration = item.duration || '';
+    const note = item.editorial_note || item.description || '';
+
+    return `
+      <div class="card" onclick="window.open('${item.url}','_blank')" style="cursor:pointer;">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+          <div style="font-size:11px;color:${catColor};border:1px solid ${catColor};padding:2px 6px;letter-spacing:1px;text-transform:uppercase;">${catLabel}</div>
+          <div style="font-size:14px;">${icon}</div>
+        </div>
+        <div class="card-title">${item.title}</div>
+        <div class="card-body" style="margin-top:6px;">${note}</div>
+        <div class="card-footer" style="display:flex;justify-content:space-between;align-items:center;">
+          <span style="color:var(--gm);">${item.source || ''}</span>
+          <span>${year}${duration ? ' &nbsp;&#183;&nbsp; ' + duration : ''}</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function filterMedia(filter) {
+  // Update tabs
+  document.querySelectorAll('[id^="tab-"]').forEach(tab => {
+    tab.style.borderBottomColor = 'transparent';
+    tab.style.color = 'var(--gd)';
+  });
+  const activeTab = document.getElementById('tab-' + filter);
+  if (activeTab) {
+    activeTab.style.borderBottomColor = 'var(--g)';
+    activeTab.style.color = 'var(--g)';
+  }
+
+  if (filter === 'ALL') {
+    renderMedia(allMedia);
+  } else if (filter === 'podcast' || filter === 'youtube' || filter === 'article') {
+    renderMedia(allMedia.filter(m => m.type === filter));
+  } else {
+    renderMedia(allMedia.filter(m => m.category?.toUpperCase() === filter.toUpperCase()));
+  }
+}
+
+loadMedia();
+</script>
+</body>
+</html>
