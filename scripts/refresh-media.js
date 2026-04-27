@@ -3,7 +3,7 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
-const parser = new RSSParser();
+const parser = new RSSParser({ timeout: 10000 });
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
 // ─── PODCAST RSS FEEDS ────────────────────────────────────────────────────────
@@ -53,7 +53,6 @@ const PODCAST_FEEDS = [
 ];
 
 // ─── CURATED STATIC MEDIA ─────────────────────────────────────────────────────
-// These are the evergreen items — always in the library
 const CURATED_MEDIA = [
   {
     type: 'youtube',
@@ -157,12 +156,17 @@ const CURATED_MEDIA = [
   },
 ];
 
-// ─── FETCH PODCAST RSS ────────────────────────────────────────────────────────
-async function fetchPodcasts() {
-  const episodes = [];
-  for (const feed of PODCAST_FEEDS) {
+// ─── FETCH PODCAST RSS WITH TIMEOUT ──────────────────────────────────────────
+async function fetchFeedWithTimeout(feed) {
+  return new Promise(async (resolve) => {
+    const timeout = setTimeout(() => {
+      console.log(`⏱ Timeout: ${feed.name} — skipping`);
+      resolve([]);
+    }, 10000);
+
     try {
       const result = await parser.parseURL(feed.url);
+      clearTimeout(timeout);
       const items = result.items.slice(0, 3).map(item => ({
         type: 'podcast',
         title: item.title?.trim(),
@@ -174,24 +178,35 @@ async function fetchPodcasts() {
         duration: item.itunes?.duration || '',
         category: feed.category,
       }));
-      episodes.push(...items);
       console.log(`✓ ${feed.name}: ${items.length} episodes`);
+      resolve(items);
     } catch (err) {
+      clearTimeout(timeout);
       console.log(`✗ ${feed.name}: ${err.message}`);
+      resolve([]);
     }
-  }
-  return episodes;
+  });
+}
+
+async function fetchPodcasts() {
+  const results = await Promise.all(PODCAST_FEEDS.map(feed => fetchFeedWithTimeout(feed)));
+  return results.flat();
 }
 
 // ─── CLAUDE CLASSIFICATION ────────────────────────────────────────────────────
 async function classifyWithClaude(episodes) {
-  const episodeList = episodes.slice(0, 30).map((e, i) =>
+  if (!episodes.length) {
+    console.log('No live episodes to classify — using curated only');
+    return [];
+  }
+
+  const episodeList = episodes.slice(0, 20).map((e, i) =>
     `${i + 1}. TITLE: ${e.title}\n   SOURCE: ${e.source}\n   DESC: ${e.description?.slice(0, 200)}`
   ).join('\n\n');
 
   const prompt = `You are the editorial AI for lulz-sec.com — a legal tribute site honoring LulzSec, whistleblowers, and digital freedom fighters.
 
-Review these ${Math.min(episodes.length, 30)} podcast episodes. Select the 8 most relevant for our audience.
+Review these podcast episodes. Select the 6 most relevant for our audience.
 
 Prioritize episodes about:
 - LulzSec, Anonymous, hacktivist history (LULZSEC)
@@ -201,11 +216,11 @@ Prioritize episodes about:
 - Digital rights, surveillance, press freedom (RIGHTS)
 
 For each selected episode return:
-- index: episode number from the list
+- index: episode number from the list (0-based)
 - category: one of "LULZSEC", "LEGENDS", "ZERO DAY", "WHITE HAT", "RIGHTS", "HACKING"
-- editorial_note: one punchy sentence in lulz-sec voice — irreverent, informed, never boring
+- editorial_note: one punchy sentence in lulz-sec voice
 
-Return ONLY a valid JSON array of up to 8 objects. No markdown, no explanation.
+Return ONLY a valid JSON array. No markdown, no explanation.
 
 EPISODES:
 ${episodeList}`;
@@ -220,7 +235,8 @@ ${episodeList}`;
         'x-api-key': ANTHROPIC_API_KEY,
         'anthropic-version': '2023-06-01',
         'content-type': 'application/json',
-      }
+      },
+      timeout: 30000,
     });
 
     const text = res.data.content[0].text.trim();
@@ -230,11 +246,7 @@ ${episodeList}`;
     return selected;
   } catch (err) {
     console.log(`✗ Claude classification failed: ${err.message}`);
-    return episodes.slice(0, 8).map((e, i) => ({
-      index: i,
-      category: e.category || 'HACKING',
-      editorial_note: '',
-    }));
+    return [];
   }
 }
 
@@ -242,18 +254,16 @@ ${episodeList}`;
 async function main() {
   console.log('🎙️ Starting lulz-sec media refresh...');
 
-  // Fetch live podcast episodes
   const liveEpisodes = await fetchPodcasts();
-  console.log(`📻 Total live episodes fetched: ${liveEpisodes.length}`);
+  console.log(`📻 Total live episodes: ${liveEpisodes.length}`);
 
-  // Classify with Claude
   const classified = await classifyWithClaude(liveEpisodes);
 
-  // Build classified episodes
   const freshEpisodes = classified.map(item => {
     const source = liveEpisodes[item.index] || liveEpisodes[0];
+    if (!source) return null;
     return {
-      type: source.type || 'podcast',
+      type: 'podcast',
       title: source.title,
       url: source.url,
       source: source.source,
@@ -263,15 +273,13 @@ async function main() {
       category: item.category,
       editorial_note: item.editorial_note,
     };
-  }).filter(e => e.title && e.url);
+  }).filter(Boolean).filter(e => e.title && e.url);
 
-  // Combine: fresh classified episodes + curated static library
   const allMedia = {
     last_updated: new Date().toISOString(),
     episodes: [...freshEpisodes, ...CURATED_MEDIA],
   };
 
-  // Write to file
   const outPath = path.join(__dirname, '..', 'data', 'podcasts.json');
   fs.writeFileSync(outPath, JSON.stringify(allMedia, null, 2));
   console.log(`✅ Media library written: ${allMedia.episodes.length} items`);
