@@ -1,0 +1,79 @@
+{
+  "last_updated": "2025-04-27",
+  "crew": [
+    {
+      "handle": "SABU",
+      "real_name": "Hector Monsegur",
+      "status": "White Hat",
+      "current": "Director, Rhino Security Labs",
+      "badge": "cb-w"
+    },
+    {
+      "handle": "TOPIARY",
+      "real_name": "Jake Davis",
+      "status": "Consultant",
+      "current": "Cybersecurity Consultant",
+      "badge": "cb-w"
+    },
+    {
+      "handle": "TFLOW",
+      "real_name": "Mustafa Al-Bassam",
+      "status": "White Hat",
+      "current": "Co-founder, Celestia Labs",
+      "badge": "cb-w"
+    },
+    {
+      "handle": "KAYLA",
+      "real_name": "Ryan Ackroyd",
+      "status": "White Hat",
+      "current": "NCA CyberChoices Advisor",
+      "badge": "cb-w"
+    },
+    {
+      "handle": "PWNSAUCE",
+      "real_name": "Darren Martyn",
+      "status": "Low Profile",
+      "current": "Irish Security Scene",
+      "badge": "cb-l"
+    },
+    {
+      "handle": "AVUNIT",
+      "real_name": "Unknown",
+      "status": "Never Caught",
+      "current": "Identity unknown after 14 years",
+      "badge": "cb-g"
+    }
+  ],
+  "legends": [
+    {
+      "name": "Assange",
+      "status": "FREE",
+      "color": "amber"
+    },
+    {
+      "name": "Snowden",
+      "status": "EXILE",
+      "color": "amber"
+    },
+    {
+      "name": "Swartz",
+      "status": "RIP",
+      "color": "red"
+    },
+    {
+      "name": "Manning",
+      "status": "FREE",
+      "color": "green"
+    },
+    {
+      "name": "Mitnick",
+      "status": "RIP",
+      "color": "red"
+    },
+    {
+      "name": "Hammond",
+      "status": "FREE",
+      "color": "green"
+    }
+  ]
+}
