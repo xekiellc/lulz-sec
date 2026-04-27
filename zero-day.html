@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zero Day — LULZ-SEC.COM</title>
+  <meta name="description" content="Live CVE feed, breach tracker, and vulnerability intelligence. Updated 4x daily.">
+  <meta property="og:title" content="Zero Day — LULZ-SEC.COM">
+  <meta property="og:image" content="https://lulz-sec.com/images/og-image.svg">
+  <meta name="robots" content="index, follow">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/svg+xml" href="/images/og-image.svg">
+</head>
+<body>
+
+<div class="scan"></div>
+
+<div class="topbar">
+  <span>&#9608;</span> &nbsp;
+  We don't track you. We're not Sony. &nbsp;
+  <span>|</span> &nbsp;
+  <a href="/">&#8592; Back to Home</a> &nbsp;
+  <span>|</span> &nbsp;
+  <a href="/foia.html">File a FOIA &rarr;</a> &nbsp;
+  <span>&#9608;</span>
+</div>
+
+<div class="wrap">
+
+<nav>
+  <div class="logo-wrap" onclick="window.location.href='/'">
+    <div class="lg g1">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+    <div class="lg g2">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+    <div class="logo-main">LULZ<span class="dash">-</span>SEC<span class="tld">.COM</span></div>
+  </div>
+  <div class="nav-links">
+    <a href="/zero-day.html" style="color:var(--g)">Zero Day<span class="kb">[Z]</span></a>
+    <a href="/archive.html">Archive<span class="kb">[A]</span></a>
+    <a href="/legends.html">Legends<span class="kb">[L]</span></a>
+    <a href="/foia.html">FOIA<span class="kb">[F]</span></a>
+    <a href="/white-hat.html">White Hat<span class="kb">[W]</span></a>
+    <a href="/community.html">Community<span class="kb">[C]</span></a>
+  </div>
+  <div class="nav-right">
+    <div class="nav-search">
+      <span style="color:var(--gm);font-size:11px;">/</span>
+      <input type="text" placeholder="search the lulz..." />
+    </div>
+    <div class="nav-pgp">PGP &#9679;</div>
+  </div>
+</nav>
+
+<!-- PAGE HEADER -->
+<div class="page-header">
+  <div class="page-eyebrow">&#9608; 02 / INTEL</div>
+  <div class="page-title">ZERO DAY</div>
+  <div class="page-sub">Live CVE feed, breach tracker, and vulnerability intelligence — curated by Claude in the lulz-sec editorial voice. Updated 4x daily. If it's broken, we're writing about it.</div>
+</div>
+
+<div class="page-content">
+  <div class="main-grid">
+    <div class="feed">
+      <div class="sec-label"><div class="live-dot"></div>Live Feed — Updated 4x Daily</div>
+      <div id="feed-container">
+        <div class="fi">
+          <div class="fi-tag t-zd">Loading</div>
+          <div class="fi-body">
+            <div class="fi-hed">Feed loading — pipeline runs at 6am, 12pm, 6pm, midnight UTC</div>
+            <div class="fi-meta"><span>Now</span>lulz-sec.com</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sidebar">
+      <!-- CATEGORY FILTER -->
+      <div class="sb">
+        <div class="sec-label">Categories</div>
+        <div style="display:flex;flex-direction:column;gap:6px;">
+          <div onclick="filterFeed('ALL')" class="filter-btn active" id="filter-ALL" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--gm);color:var(--g);cursor:pointer;text-transform:uppercase;">All Stories</div>
+          <div onclick="filterFeed('ZERO DAY')" class="filter-btn" id="filter-ZERO DAY" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--c);cursor:pointer;text-transform:uppercase;">Zero Day / CVE</div>
+          <div onclick="filterFeed('BREACH')" class="filter-btn" id="filter-BREACH" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--r);cursor:pointer;text-transform:uppercase;">Breaches</div>
+          <div onclick="filterFeed('FOIA')" class="filter-btn" id="filter-FOIA" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--a);cursor:pointer;text-transform:uppercase;">FOIA / Transparency</div>
+          <div onclick="filterFeed('RIGHTS')" class="filter-btn" id="filter-RIGHTS" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--g);cursor:pointer;text-transform:uppercase;">Digital Rights</div>
+          <div onclick="filterFeed('LEGENDS')" class="filter-btn" id="filter-LEGENDS" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--p);cursor:pointer;text-transform:uppercase;">Legends</div>
+          <div onclick="filterFeed('WHITE HAT')" class="filter-btn" id="filter-WHITE HAT" style="font-size:10px;letter-spacing:1px;padding:6px 10px;border:1px solid var(--bd);color:var(--gd);cursor:pointer;text-transform:uppercase;">White Hat</div>
+        </div>
+      </div>
+
+      <!-- SOURCES -->
+      <div class="sb">
+        <div class="sec-label">Sources</div>
+        <div style="font-size:10px;color:var(--gd);line-height:2;letter-spacing:.5px;">
+          <div>&#9658; Krebs on Security</div>
+          <div>&#9658; EFF Deeplinks</div>
+          <div>&#9658; Ars Technica Security</div>
+          <div>&#9658; Dark Reading</div>
+          <div>&#9658; The Intercept</div>
+          <div>&#9658; The Register</div>
+          <div>&#9658; The Hacker News</div>
+          <div>&#9658; NewsAPI</div>
+        </div>
+      </div>
+
+      <!-- LAST UPDATED -->
+      <div class="sb">
+        <div class="sec-label">Pipeline</div>
+        <div style="font-size:10px;color:var(--gd);line-height:1.9;">
+          <div>Runs: <span style="color:var(--g)">4x daily</span></div>
+          <div>Schedule: <span style="color:var(--g)">6am, 12pm, 6pm, midnight UTC</span></div>
+          <div>Curation: <span style="color:var(--g)">Claude AI</span></div>
+          <div>Sources: <span style="color:var(--g)">8 feeds</span></div>
+          <div id="last-updated" style="margin-top:8px;padding-top:8px;border-top:1px solid var(--bd);color:var(--gx);">Last updated: loading...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-top">
+    <div>
+      <div class="foot-slogan">still laughing. still <span>watching.</span></div>
+      <div class="foot-tagline">the lulz were never just about chaos. they were about power, and who gets to keep it.</div>
+    </div>
+    <div class="foot-links">
+      <a href="/">Home</a>
+      <a href="/archive.html">Archive</a>
+      <a href="/legends.html">Legends</a>
+      <a href="/foia.html">FOIA</a>
+      <a href="/about.html">About</a>
+    </div>
+  </div>
+  <div class="foot-bottom">
+    <div class="foot-legal">
+      &copy; 2025 lulz-sec.com &nbsp;&#183;&nbsp; independent tribute &amp; education site &nbsp;&#183;&nbsp; not affiliated with the original LulzSec group<br>
+      We do not track visitors. We do not run ads. We do not condone illegal hacking.
+    </div>
+    <div class="foot-pgp">PGP: 0xDEAD BEEF CAFE BABE</div>
+  </div>
+</footer>
+
+</div>
+
+<script src="/js/main.js"></script>
+<script>
+// Zero Day page — load full feed with filter
+let allArticles = [];
+
+async function loadZeroDayFeed() {
+  try {
+    const res = await fetch('/data/feed.json');
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById('last-updated').textContent = 'Last updated: ' + d.toLocaleString();
+    }
+
+    renderArticles(allArticles);
+  } catch(err) {
+    console.log('Feed error:', err);
+  }
+}
+
+function renderArticles(articles) {
+  const container = document.getElementById('feed-container');
+  if (!articles.length) {
+    container.innerHTML = '<div class="fi"><div class="fi-body"><div class="fi-hed">No articles in this category yet.</div></div></div>';
+    return;
+  }
+
+  const tagMap = {
+    'ZERO DAY': 't-zd', 'CVE': 't-zd',
+    'FOIA': 't-fo', 'TRANSPARENCY': 't-fo',
+    'BREACH': 't-br',
+    'RIGHTS': 't-fr', 'FREEDOM': 't-fr',
+    'LEGENDS': 't-cm',
+    'WHITE HAT': 't-wh', 'BOUNTY': 't-wh',
+  };
+
+  let html = '';
+  articles.forEach((a, i) => {
+    const tc = tagMap[a.category?.toUpperCase()] || 't-fr';
+    const tl = a.category || 'NEWS';
+    const time = timeAgo(a.publishedAt);
+
+    if (i === 0) {
+      html += `
+        <div class="lead" onclick="window.open('${a.url}','_blank')">
+          <div class="lead-tag ${tc}">${tl}</div>
+          <div class="lead-hed">${a.title}</div>
+          <div class="lead-deck">${a.summary || a.description || ''}</div>
+          <div class="lead-meta"><span>${time}</span>${a.source || ''}</div>
+        </div>`;
+    } else {
+      html += `
+        <div class="fi" onclick="window.open('${a.url}','_blank')">
+          <div class="fi-tag ${tc}">${tl}</div>
+          <div class="fi-body">
+            <div class="fi-hed">${a.title}</div>
+            <div class="fi-meta"><span>${time}</span>${a.source || ''}</div>
+          </div>
+        </div>`;
+    }
+  });
+
+  container.innerHTML = html;
+}
+
+function filterFeed(category) {
+  // Update active button
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.style.borderColor = 'var(--bd)';
+  });
+  document.getElementById('filter-' + category).style.borderColor = 'var(--gm)';
+
+  if (category === 'ALL') {
+    renderArticles(allArticles);
+  } else {
+    const filtered = allArticles.filter(a =>
+      a.category?.toUpperCase() === category.toUpperCase()
+    );
+    renderArticles(filtered);
+  }
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return 'Recently';
+  const now = new Date();
+  const then = new Date(dateStr);
+  const diff = Math.floor((now - then) / 1000);
+  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
+  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
+  if (diff < 604800) return Math.floor(diff/86400) + 'd ago';
+  return then.toLocaleDateString();
+}
+
+loadZeroDayFeed();
+</script>
+</body>
+</html>
