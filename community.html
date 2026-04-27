@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Community — LULZ-SEC.COM</title>
-  <meta name="description" content="Join the lulz-sec community. Discord, newsletter, anonymous tips, and more.">
+  <meta name="description" content="Join the lulz-sec community. Discord, anonymous tips, and more.">
   <meta property="og:title" content="Community — LULZ-SEC.COM">
   <meta property="og:image" content="https://lulz-sec.com/images/og-image.svg">
   <meta name="robots" content="index, follow">
@@ -58,16 +58,22 @@
 </div>
 
 <div class="page-content">
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:40px;">
 
-    <!-- DISCORD -->
-    <div style="background:var(--s1);border:1px solid var(--bd2);padding:28px;border-top:3px solid var(--g);">
-      <div style="font-size:9px;letter-spacing:3px;color:var(--gm);text-transform:uppercase;margin-bottom:8px;">&#9608; Real-time</div>
-      <div style="font-family:var(--osw);font-size:28px;color:var(--g);letter-spacing:2px;margin-bottom:12px;">DISCORD</div>
-      <div style="font-size:11px;color:var(--gd);line-height:1.9;margin-bottom:20px;">
-        Zero day alerts piped directly from the feed. FOIA wins as they happen. White hat bounty tips. LulzSec history discussion. A place for people who remember 2011 and people who wish they did.
+  <!-- DISCORD -->
+  <div style="background:var(--s1);border:1px solid var(--bd2);padding:28px;margin-bottom:24px;border-top:3px solid var(--g);">
+    <div style="font-size:9px;letter-spacing:3px;color:var(--gm);text-transform:uppercase;margin-bottom:8px;">&#9608; Real-time</div>
+    <div style="font-family:var(--osw);font-size:28px;color:var(--g);letter-spacing:2px;margin-bottom:12px;">DISCORD</div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
+      <div>
+        <div style="font-size:11px;color:var(--gd);line-height:1.9;margin-bottom:20px;">
+          Zero day alerts piped directly from the feed. FOIA wins as they happen. White hat bounty tips. LulzSec history discussion. A place for people who remember 2011 and people who wish they did.
+        </div>
+        <a href="https://discord.gg/lulzsec" target="_blank">
+          <button class="btn-p">Join Discord &rarr;</button>
+        </a>
+        <div style="font-size:8px;color:var(--gx);margin-top:8px;">Free. Always open. No surveillance.</div>
       </div>
-      <div style="font-size:10px;color:var(--gd);line-height:2;margin-bottom:20px;border-top:1px solid var(--bd);padding-top:16px;">
+      <div style="font-size:10px;color:var(--gd);line-height:2;border-left:1px solid var(--bd);padding-left:20px;">
         <div>&#9658; #zero-day — live CVE and breach alerts</div>
         <div>&#9658; #foia-wins — community transparency victories</div>
         <div>&#9658; #bounties — bug bounty tips and wins</div>
@@ -76,40 +82,12 @@
         <div>&#9658; #tips — moderated public interest tips</div>
         <div>&#9658; #general — everything else</div>
       </div>
-      <a href="https://discord.gg/lulzsec" target="_blank">
-        <button class="btn-p" style="width:100%;">Join Discord &rarr;</button>
-      </a>
-      <div style="font-size:8px;color:var(--gx);margin-top:8px;text-align:center;">Free. Always open. No surveillance.</div>
     </div>
-
-    <!-- NEWSLETTER -->
-    <div style="background:var(--s1);border:1px solid var(--bd2);padding:28px;border-top:3px solid var(--r);">
-      <div style="font-size:9px;letter-spacing:3px;color:var(--r);text-transform:uppercase;margin-bottom:8px;">&#9608; Weekly</div>
-      <div style="font-family:var(--osw);font-size:28px;color:var(--g);letter-spacing:2px;margin-bottom:12px;">THE LULZ REPORT</div>
-      <div style="font-size:11px;color:var(--gd);line-height:1.9;margin-bottom:20px;">
-        Every week: the top CVEs, the FOIA win of the week, legend updates, community highlights, and one white hat opportunity you should know about. No ads. No tracking. No selling your email. We're not Sony.
-      </div>
-      <div style="font-size:10px;color:var(--gd);line-height:2;margin-bottom:20px;border-top:1px solid var(--bd);padding-top:16px;">
-        <div>&#9658; Top CVEs of the week</div>
-        <div>&#9658; FOIA win of the week</div>
-        <div>&#9658; Legend status updates</div>
-        <div>&#9658; Community highlights</div>
-        <div>&#9658; White hat opportunity of the week</div>
-        <div>&#9658; Darknet Diaries episode pick</div>
-      </div>
-      <form name="newsletter" method="POST" data-netlify="true" style="display:flex;flex-direction:column;gap:8px;">
-        <input type="hidden" name="form-name" value="newsletter">
-        <input type="email" name="email" placeholder="your@email.com" required style="background:var(--bg);border:1px solid var(--bd2);color:var(--g);font-family:var(--mono);font-size:11px;padding:10px;outline:none;" onfocus="this.style.borderColor='var(--gm)'" onblur="this.style.borderColor='var(--bd2)'">
-        <button type="submit" class="btn-p" style="width:100%;">Subscribe to The Lulz Report &rarr;</button>
-      </form>
-      <div style="font-size:8px;color:var(--gx);margin-top:8px;text-align:center;">Free forever. Unsubscribe anytime. No tracking. No ads.</div>
-    </div>
-
   </div>
 
   <!-- ANONYMOUS TIP -->
-  <div style="background:var(--s1);border:1px solid var(--bd2);padding:28px;margin-bottom:40px;border-left:3px solid var(--a);">
-    <div style="font-size:9px;letter-spacing:3px;color:var(--a);text-transform:uppercase;margin-bottom:8px;">&#9608; Secure & Anonymous</div>
+  <div style="background:var(--s1);border:1px solid var(--bd2);padding:28px;margin-bottom:24px;border-left:3px solid var(--a);">
+    <div style="font-size:9px;letter-spacing:3px;color:var(--a);text-transform:uppercase;margin-bottom:8px;">&#9608; Secure &amp; Anonymous</div>
     <div style="font-family:var(--osw);font-size:24px;color:var(--g);letter-spacing:2px;margin-bottom:12px;">SUBMIT A TIP</div>
     <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;">
       <div>
@@ -121,7 +99,7 @@
           <div>&#9658; Government documents obtained via FOIA</div>
           <div>&#9658; Unreported data breaches or vulnerabilities</div>
           <div>&#9658; Corporate or government surveillance programs</div>
-          <div>&#9658; Whistleblower stories that need amplification</div>
+          <div>&#9658; Whistleblower stories needing amplification</div>
           <div>&#9658; LulzSec community members with updates</div>
         </div>
       </div>
@@ -131,7 +109,7 @@
         <input type="text" name="source-url" placeholder="URL or source (optional)" style="background:var(--bg);border:1px solid var(--bd2);color:var(--g);font-family:var(--mono);font-size:10px;padding:8px;outline:none;" onfocus="this.style.borderColor='var(--gm)'" onblur="this.style.borderColor='var(--bd2)'">
         <input type="text" name="contact" placeholder="Contact method (optional — Signal, email, etc.)" style="background:var(--bg);border:1px solid var(--bd2);color:var(--g);font-family:var(--mono);font-size:10px;padding:8px;outline:none;" onfocus="this.style.borderColor='var(--gm)'" onblur="this.style.borderColor='var(--bd2)'">
         <button type="submit" class="btn-p">Submit Anonymously &rarr;</button>
-        <div style="font-size:8px;color:var(--gx);letter-spacing:.5px;">No IP logging &nbsp;&#183;&nbsp; No identity required &nbsp;&#183;&nbsp; Encrypted in transit &nbsp;&#183;&nbsp; Powered by Netlify Forms</div>
+        <div style="font-size:8px;color:var(--gx);letter-spacing:.5px;">No IP logging &nbsp;&#183;&nbsp; No identity required &nbsp;&#183;&nbsp; Encrypted in transit</div>
       </form>
     </div>
   </div>
@@ -143,13 +121,13 @@
       <a href="https://twitter.com/lulzsec" target="_blank" style="text-decoration:none;">
         <div class="card" style="text-align:center;">
           <div style="font-family:var(--osw);font-size:18px;color:var(--g);margin-bottom:6px;">X / TWITTER</div>
-          <div style="font-size:10px;color:var(--gd);">@lulzsec — the social voice is the brand. Breaking CVEs, FOIA wins, legend updates. Follow for the lulz.</div>
+          <div style="font-size:10px;color:var(--gd);">@lulzsec — breaking CVEs, FOIA wins, legend updates. The social voice is the brand.</div>
         </div>
       </a>
       <a href="mailto:contact@lulz-sec.com" style="text-decoration:none;">
         <div class="card" style="text-align:center;">
           <div style="font-family:var(--osw);font-size:18px;color:var(--g);margin-bottom:6px;">EMAIL</div>
-          <div style="font-size:10px;color:var(--gd);">contact@lulz-sec.com — for press inquiries, partnership requests, and things too sensitive for the tip form.</div>
+          <div style="font-size:10px;color:var(--gd);">contact@lulz-sec.com — press inquiries, partnerships, and sensitive tips.</div>
         </div>
       </a>
       <div class="card" style="text-align:center;cursor:default;">
