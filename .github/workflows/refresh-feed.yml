@@ -1,0 +1,35 @@
+name: Refresh Zero Day Feed
+
+on:
+  schedule:
+    - cron: '0 6,12,18,0 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install axios rss-parser
+
+      - name: Run feed refresh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node scripts/refresh-feed.js
+
+      - name: Commit updated feed
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "lulz-sec-bot"
+          git add data/feed.json
+          git diff --staged --quiet || git commit -m "chore: refresh zero day feed"
+          git push
