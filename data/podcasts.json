@@ -1,4 +1,138 @@
 {
-  "last_updated": "",
-  "episodes": []
+  "last_updated": "2026-04-27T21:32:18.754Z",
+  "episodes": [
+    {
+      "type": "podcast",
+      "title": "Weev, Part 2",
+      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/30142034-0c23-433e-85e6-e476fa7cc1e9",
+      "source": "Malicious Life",
+      "host": "Ran Levi",
+      "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
+      "duration": "1729",
+      "category": "LEGENDS",
+      "editorial_note": "Weev's battle against the CFAA shows how the system crushes digital dissidents who dare to expose corporate negligence."
+    },
+    {
+      "type": "podcast",
+      "title": "Weev, Part 1",
+      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/7d9d5336-9826-4318-98b8-d621263fbe7b",
+      "source": "Malicious Life",
+      "host": "Ran Levi",
+      "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
+      "duration": "1796",
+      "category": "LEGENDS",
+      "editorial_note": "The tragic parallel between Swartz and weev reveals how broken laws destroy brilliant minds who challenge the establishment."
+    },
+    {
+      "type": "podcast",
+      "title": "Cuckoo Spear [B-Side]",
+      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/2dfca5a6-8223-4550-b326-083e52edc2c3",
+      "source": "Malicious Life",
+      "host": "Ran Levi",
+      "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
+      "duration": "1843",
+      "category": "ZERO DAY",
+      "editorial_note": "APT-10's LODEINFO backdoor demonstrates how nation-state actors weaponize sophisticated malware against critical infrastructure."
+    },
+    {
+      "type": "youtube",
+      "category": "LULZSEC",
+      "title": "Sabu: The Rise and Reflections of LulzSec's Leader",
+      "description": "Hector Monsegur (Sabu) in depth — from hacktivism to white hat. His most comprehensive interview. Essential listening for anyone who wants to understand LulzSec from the inside.",
+      "source": "BeyondTrust Podcast",
+      "url": "https://www.beyondtrust.com/podcast/ep-50-the-rise-and-reflections-of-sabu-hector-monsegur",
+      "year": "2025",
+      "duration": "58 min"
+    },
+    {
+      "type": "podcast",
+      "category": "LULZSEC",
+      "title": "From Hacktivist to White Hat — Sabu Interview",
+      "description": "Monsegur on founding LulzSec, the FBI turn, and his pen testing career. The story of how the most wanted hacker in America became one of its most effective security researchers.",
+      "source": "Adopting Zero Trust",
+      "url": "https://podcasts.apple.com/us/podcast/from-hacktivist-to-white-hat-hacker-a-chat-with/id1633461773?i=1000637027399",
+      "year": "2023",
+      "duration": "56 min"
+    },
+    {
+      "type": "podcast",
+      "category": "LULZSEC",
+      "title": "What It's Like to Fight LulzSec",
+      "description": "The law enforcement side of the 50 Days — told by the people who chased LulzSec across the internet in real time. Malicious Life at its best.",
+      "source": "Malicious Life",
+      "url": "https://www.cybereason.com/blog/malicious-life-podcast-what-its-like-to-fight-lulzsec",
+      "year": "2022",
+      "duration": "45 min"
+    },
+    {
+      "type": "youtube",
+      "category": "LEGENDS",
+      "title": "Edward Snowden — Joe Rogan Experience #1368",
+      "description": "Nearly 3 hours. NSA mass surveillance, PRISM, life in exile, and why he still believes it was worth it. The most-watched Snowden interview ever. 10M+ views.",
+      "source": "Joe Rogan Experience",
+      "url": "https://open.spotify.com/episode/7MaJD5vZsNSNrKQVEk5gbD",
+      "year": "2019",
+      "duration": "2h 45m"
+    },
+    {
+      "type": "youtube",
+      "category": "LEGENDS",
+      "title": "Julian Assange and the Dark Secrets of War — DW Documentary 4K",
+      "description": "Full documentary post-release. WikiLeaks, Collateral Murder, the Belmarsh years, and what his freedom actually means for press freedom globally.",
+      "source": "DW Documentary",
+      "url": "https://www.youtube.com/watch?v=PYIyq6tpQ-4",
+      "year": "2024",
+      "duration": "42 min"
+    },
+    {
+      "type": "youtube",
+      "category": "LEGENDS",
+      "title": "The Internet's Own Boy — Aaron Swartz Documentary",
+      "description": "The definitive film about Aaron Swartz. Free on YouTube. If you watch one thing on this list, make it this. 26 years old. Facing 35 years. Gone too soon.",
+      "source": "YouTube — Free",
+      "url": "https://www.youtube.com/watch?v=9vz06QO3UkQ",
+      "year": "2014",
+      "duration": "1h 45m"
+    },
+    {
+      "type": "youtube",
+      "category": "WHITE HAT",
+      "title": "DEF CON Conference Talks — Full Archive",
+      "description": "Free recordings of the world's most important hacker conference going back decades. Elite research, zero-day disclosures, and the culture that produced LulzSec.",
+      "source": "DEF CON — YouTube",
+      "url": "https://www.youtube.com/@DEFCONConference",
+      "year": "Ongoing",
+      "duration": "Archive"
+    },
+    {
+      "type": "youtube",
+      "category": "WHITE HAT",
+      "title": "The Cyber Mentor — Ethical Hacking Full Course",
+      "description": "Heath Adams. The best free ethical hacking course on YouTube. Beginner to advanced. OSCP prep, web app testing, career advice. 1M+ subscribers.",
+      "source": "The Cyber Mentor — YouTube",
+      "url": "https://www.youtube.com/@TCMSecurityAcademy",
+      "year": "Ongoing",
+      "duration": "Full course"
+    },
+    {
+      "type": "article",
+      "category": "LULZSEC",
+      "title": "A Passion for Change — Topiary's Full Interview",
+      "description": "The rare 3-hour interview with Jake Davis (Topiary) conducted just after LulzSec disbanded. Most of it was never published until now. Essential reading.",
+      "source": "openDemocracy",
+      "url": "https://www.opendemocracy.net/en/passion-for-change-lulzsec-interview/",
+      "year": "2011",
+      "duration": "Long read"
+    },
+    {
+      "type": "article",
+      "category": "LEGENDS",
+      "title": "Julian Assange: Inside the WikiLeaks Saga",
+      "description": "The definitive video biography. From anonymous hacker to global figure to Belmarsh prisoner to free man. The most comprehensive single piece on Assange.",
+      "source": "YouTube Documentary",
+      "url": "https://www.youtube.com/watch?v=5MU54RdAhJE",
+      "year": "2025",
+      "duration": "1h 20m"
+    }
+  ]
 }
