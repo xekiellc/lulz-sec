@@ -1,0 +1,70 @@
+{
+  "name": "LULZ-SEC.COM",
+  "short_name": "LULZ-SEC",
+  "description": "A legal tribute to the hackers, whistleblowers, and digital freedom fighters who gave the finger to power.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030b03",
+  "theme_color": "#00ff41",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["news", "education", "security"],
+  "icons": [
+    {
+      "src": "/images/og-image.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/og-image.svg",
+      "sizes": "800x800",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Zero Day",
+      "short_name": "Zero Day",
+      "description": "Live CVE and breach feed",
+      "url": "/zero-day.html",
+      "icons": [{ "src": "/images/og-image.svg", "sizes": "any" }]
+    },
+    {
+      "name": "The Archive",
+      "short_name": "Archive",
+      "description": "LulzSec history and crew profiles",
+      "url": "/archive.html",
+      "icons": [{ "src": "/images/og-image.svg", "sizes": "any" }]
+    },
+    {
+      "name": "FOIA Machine",
+      "short_name": "FOIA",
+      "description": "Transparency tools and resources",
+      "url": "/foia.html",
+      "icons": [{ "src": "/images/og-image.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Hall of Legends",
+      "short_name": "Legends",
+      "description": "Snowden, Assange, Swartz and more",
+      "url": "/legends.html",
+      "icons": [{ "src": "/images/og-image.svg", "sizes": "any" }]
+    }
+  ]
+}
