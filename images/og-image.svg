@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <pattern id="scanlines" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="800" height="2" fill="rgba(0,255,65,0.022)"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="800" fill="#030b03"/>
+  <rect width="800" height="800" fill="url(#scanlines)"/>
+  <rect x="14" y="14" width="772" height="772" fill="none" stroke="#00ff41" stroke-width="1.2" opacity="0.3"/>
+  <path d="M14 80 L14 14 L80 14" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M720 14 L786 14 L786 80" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M14 720 L14 786 L80 786" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <path d="M720 786 L786 786 L786 720" fill="none" stroke="#00ff41" stroke-width="2.5"/>
+  <circle cx="14" cy="14" r="3" fill="#ff2d2d"/>
+  <circle cx="786" cy="14" r="3" fill="#ff2d2d"/>
+  <circle cx="14" cy="786" r="3" fill="#ff2d2d"/>
+  <circle cx="786" cy="786" r="3" fill="#ff2d2d"/>
+  <text x="400" y="52" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="4" fill="#003b0e">EST. 2011 — REBORN 2025</text>
+  <g transform="translate(400, 591) scale(2.5)" filter="url(#glow)">
+    <ellipse cx="0" cy="-152" rx="56" ry="10" fill="#00ff41" opacity="0.08" stroke="#00ff41" stroke-width="1.5"/>
+    <rect x="-37" y="-200" width="74" height="50" rx="2" fill="#030b03" stroke="#00ff41" stroke-width="1.5"/>
+    <rect x="-37" y="-154" width="74" height="8" fill="#00c032" opacity="0.28"/>
+    <path d="M-37 -198 Q0 -205 37 -198" stroke="#00ff41" stroke-width="1" fill="none"/>
+    <path d="M-18 -188 Q0 -191 18 -188" stroke="#00ff41" stroke-width="0.6" opacity="0.35" fill="none"/>
+    <ellipse cx="0" cy="-111" rx="38" ry="41" fill="#030b03" stroke="#00ff41" stroke-width="1.5"/>
+    <ellipse cx="0" cy="-109" rx="30" ry="33" fill="#071007"/>
+    <circle cx="17" cy="-120" r="14.5" stroke="#00ff41" stroke-width="1.5" fill="none"/>
+    <circle cx="17" cy="-120" r="10" stroke="#008f24" stroke-width="0.8" fill="none" opacity="0.45"/>
+    <circle cx="11" cy="-126" r="2.5" fill="#00ff41" opacity="0.68"/>
+    <path d="M31.5 -108 Q43 -100 40 -87" stroke="#008f24" stroke-width="1" fill="none" stroke-dasharray="2,2"/>
+    <ellipse cx="-17" cy="-120" rx="6.5" ry="8" fill="#030b03" stroke="#00ff41" stroke-width="1"/>
+    <ellipse cx="-17" cy="-120" rx="3.2" ry="3.8" fill="#00ff41" opacity="0.88"/>
+    <path d="M-27 -131 Q-17 -137 -7 -131" stroke="#00ff41" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M7 -132 Q17 -138 27 -132" stroke="#00ff41" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M-3 -111 Q0 -104 3 -111" stroke="#008f24" stroke-width="1" fill="none"/>
+    <path d="M-20 -97 Q-9 -91 0 -96 Q9 -91 20 -97" stroke="#00ff41" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+    <path d="M-20 -97 Q-15 -105 -10 -100" stroke="#00ff41" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M20 -97 Q25 -105 30 -100" stroke="#00ff41" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <rect x="-11" y="-91" width="22" height="11" rx="2" fill="#030b03" stroke="#00ff41" stroke-width="1"/>
+    <path d="M-39 -72 Q-39 -84 0
