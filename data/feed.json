@@ -1,4 +1,85 @@
 {
-  "last_updated": "",
-  "articles": []
+  "last_updated": "2026-04-27T20:15:01.750Z",
+  "articles": [
+    {
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
+      "category": "ZERO DAY",
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. When your Patch Tuesday looks like a CVE Christmas morning, you know someone's been very naughty."
+    },
+    {
+      "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
+      "url": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 27 Apr 2026 13:09:54 GMT",
+      "category": "ZERO DAY",
+      "summary": "PhantomRPC strikes Windows with five different privilege escalation paths through RPC's architectural weakness. Because why have one way to pwn a system when you can have five?"
+    },
+    {
+      "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
+      "url": "https://theintercept.com/2026/04/26/mk-ultra-korean-war-prisoner-experiments/",
+      "source": "The Intercept",
+      "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
+      "category": "RIGHTS",
+      "summary": "Four Democrats hold the keys to Trump's domestic surveillance kingdom, and privacy advocates are sweating bullets. Democracy hanging by four votes while warrantless wiretapping waits in the wings."
+    },
+    {
+      "title": "Kash Patel Got Arrested for Public Urination After a Night of Drinking",
+      "url": "https://theintercept.com/2026/04/24/kash-patel-arrest-alcohol-drinking/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 24 Apr 2026 16:02:02 +0000",
+      "category": "FOIA",
+      "summary": "Declassified docs finally confirm CIA ran MK-ULTRA experiments on North Korean POWs in US custody. The agency that swore they'd never hurt a fly was busy scrambling brains decades before extraordinary rendition became trendy."
+    },
+    {
+      "title": "Medical and utility tech companies hacked by digital intruders",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/itron_medtronic_hacked/",
+      "source": "The Register",
+      "publishedAt": "2026-04-27T17:53:16.000Z",
+      "category": "RIGHTS",
+      "summary": "Palantir scored $130M to help Trump's IRS conduct 'massive-scale' data mining operations. Because nothing says 'drain the swamp' like paying Peter Thiel's surveillance empire to digitally strip-search every American."
+    },
+    {
+      "title": "Microsoft updates the Windows Update Experience: You can hit pause now",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsoft_updates_the_windows_update/",
+      "source": "The Register",
+      "publishedAt": "2026-04-27T11:19:25.000Z",
+      "category": "BREACH",
+      "summary": "ShinyHunters allegedly snatched 10 million records from ADT after the home security giant got digitally burgled. The irony is so thick you could cut it with a compromised smart lock."
+    },
+    {
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "url": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 27 Apr 2026 17:24:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Claude Mythos Preview is discovering vulnerabilities faster than teams can patch them, fundamentally breaking the vulnerability disclosure timeline. AI just made every security team's job exponentially harder."
+    },
+    {
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "source": "Anchor.host",
+      "publishedAt": "2026-04-26T16:57:56Z",
+      "category": "BREACH",
+      "summary": "Researchers found 73 fake VS Code extensions on Open VSX delivering GlassWorm v2 malware to unsuspecting developers. Supply chain attacks just got an IDE makeover."
+    },
+    {
+      "title": "Fuel crisis grips Tuvalu amid Strait of Hormuz blockades",
+      "url": "https://cryptobriefing.com/fuel-crisis-grips-tuvalu-amid-strait-of-hormuz-blockades/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-26T05:26:49Z",
+      "category": "ZERO DAY",
+      "summary": "Litecoin Foundation called their 13-block reorg a zero-day, but GitHub commits show they quietly patched it four weeks earlier. Nothing says responsible disclosure like lying about your own timeline."
+    },
+    {
+      "title": "Daily Hacker News for 2026-04-24",
+      "url": "https://www.daemonology.net/hn-daily/2026-04-24.html",
+      "source": "Daemonology.net",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Mythos AI discovered over 2,000 unknown vulnerabilities in seven weeks, prompting them to restrict public release. When your AI is too good at breaking things, maybe don't let it loose on the internet."
+    }
+  ]
 }
