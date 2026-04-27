@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# We believe in open access. We just block AI training bots via Cloudflare.
+# If you're a human reading this: hello. You found an easter egg.
+# You cannot arrest an idea.
+
+Sitemap: https://lulz-sec.com/sitemap.xml
