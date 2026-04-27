@@ -3,7 +3,6 @@
 
 // ─── KEYBOARD SHORTCUTS ───────────────────────────────────────────────────────
 document.addEventListener('keydown', (e) => {
-  // Don't fire if user is typing in an input
   if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
 
   switch(e.key.toLowerCase()) {
@@ -13,6 +12,7 @@ document.addEventListener('keydown', (e) => {
     case 'f': window.location.href = '/foia.html'; break;
     case 'w': window.location.href = '/white-hat.html'; break;
     case 'c': window.location.href = '/community.html'; break;
+    case 'm': window.location.href = '/media.html'; break;
     case '/':
       e.preventDefault();
       document.querySelector('.nav-search input')?.focus();
@@ -66,10 +66,8 @@ async function loadFeed() {
       return;
     }
 
-    // First article is the lead story
     const lead = data.articles[0];
     const rest = data.articles.slice(1, 6);
-
     const tagClass = getTagClass(lead.category);
     const tagLabel = lead.category || 'NEWS';
 
@@ -135,7 +133,6 @@ async function loadTicker() {
     const data = await res.json();
     if (!data.articles || data.articles.length === 0) return;
 
-    // Build ticker from top 8 articles, duplicated for seamless scroll
     const items = data.articles.slice(0, 8);
     const tickerHTML = [...items, ...items].map(a => {
       const pill = getCategoryPill(a.category);
