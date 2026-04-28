@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T01:58:51.755Z",
+  "last_updated": "2026-04-28T08:07:14.517Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a staggering 167 vulns including a SharePoint zero-day and the deliciously named 'BlueHammer' Defender flaw. Meanwhile Chrome hits zero-day #4 because apparently browsers are just swiss cheese now."
+      "summary": "Microsoft's April patch bonanza fixes 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. When your monthly security update looks like a CVE phone book, maybe it's time to reconsider your development practices."
     },
     {
       "title": "The Internet Still Works: SmugMug Powers Online Photography",
@@ -15,7 +15,15 @@
       "source": "EFF",
       "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
       "category": "RIGHTS",
-      "summary": "Congress tries to slip another surveillance fig leaf past us with the 'Foreign Intelligence Accountability Act.' Because nothing says accountability like warrantless spying with a prettier name."
+      "summary": "EFF calls out Congress for serving up another surveillance state appetizer disguised as 'accountability.' Speaker Johnson's new FISA 702 bill is apparently just lipstick on the warrantless spying pig."
+    },
+    {
+      "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case",
+      "source": "EFF",
+      "publishedAt": "Fri, 24 Apr 2026 22:57:05 +0000",
+      "category": "RIGHTS",
+      "summary": "California wants to ban social media for under-16s while forcing everyone to verify their identity first. Because nothing says 'protecting kids' like creating a state-mandated digital ID system that would make Xi Jinping jealous."
     },
     {
       "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
@@ -23,7 +31,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 27 Apr 2026 13:09:54 GMT",
       "category": "ZERO DAY",
-      "summary": "Windows RPC gets pwned by 'PhantomRPC' - an architectural weakness with five different exploit paths. Microsoft's spaghetti code strikes again, this time with privilege escalation sprinkles."
+      "summary": "Researchers discover 'PhantomRPC' - an architectural flaw in Windows RPC that offers five different paths to privilege escalation. It's like Microsoft built a choose-your-own-adventure book for local admin access."
     },
     {
       "title": "Parsing Agentic Offensive Security's Existential Threat",
@@ -31,7 +39,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 27 Apr 2026 13:00:00 GMT",
       "category": "ARCHIVE",
-      "summary": "Meet 'fast16' - the malware that rewrites cyber sabotage history by predating Stuxnet by five years. Turns out industrial chaos had a prototype nobody knew about."
+      "summary": "Meet 'fast16' - malware that predates Stuxnet by five years, rewriting the timeline of sophisticated cyber sabotage. Turns out the digital warfare arms race started even earlier than we thought."
     },
     {
       "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
@@ -39,47 +47,39 @@
       "source": "The Intercept",
       "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
       "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to Trump's domestic spying dreams as Section 702 hangs in the balance. Will they hand over warrantless surveillance or grow a spine?"
+      "summary": "Four Democrats hold the keys to Trump's domestic surveillance kingdom, and advocates are watching to see if they'll hand over warrantless spying powers. Democracy hanging by the votes of four people - what could go wrong?"
     },
     {
       "title": "Kash Patel Got Arrested for Public Urination After a Night of Drinking",
       "url": "https://theintercept.com/2026/04/24/kash-patel-arrest-alcohol-drinking/",
       "source": "The Intercept",
       "publishedAt": "Fri, 24 Apr 2026 16:02:02 +0000",
-      "category": "LEGENDS",
-      "summary": "Declassified docs finally confirm the CIA ran MK-ULTRA experiments on North Korean POWs in U.S. custody. Your tax dollars at work, folks - torturing prisoners for 'science.'"
+      "category": "FOIA",
+      "summary": "Declassified docs finally confirm the CIA ran MK-ULTRA experiments on North Korean POWs in US custody. Nothing like a good FOIA win to remind us that conspiracy theories sometimes undersell government fuckery."
+    },
+    {
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 28 Apr 2026 12:07:00 +0530",
+      "category": "BREACH",
+      "summary": "Home security giant ADT got digitally burgled by ShinyHunters, who claim 10 million records while ADT insists it was just a 'limited set.' The irony is so thick you could cut it with a compromised smart lock."
     },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
       "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
       "source": "The Hacker News",
       "publishedAt": "Mon, 27 Apr 2026 19:49:00 +0530",
-      "category": "BREACH",
-      "summary": "ADT gets digitally burgled by ShinyHunters who claim 10 million records while the 'security' company insists it was just a 'limited set.' The irony is chef's kiss perfect."
-    },
-    {
-      "title": "Litecoin Suffers Denial-of-Service Attack Due To Network Bug — Details",
-      "url": "https://bitcoinist.com/litecoin-suffer-denial-of-service-attack-due-to-bug/",
-      "source": "Bitcoinist",
-      "publishedAt": "2026-04-26T22:00:05Z",
-      "category": "BREACH",
-      "summary": "73 fake VS Code extensions on Open VSX are pushing GlassWorm v2 malware, because apparently even our development tools aren't safe from supply chain shenanigans."
-    },
-    {
-      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "source": "Anchor.host",
-      "publishedAt": "2026-04-26T16:57:56Z",
       "category": "ZERO DAY",
-      "summary": "Litecoin gets DoS'd via zero-day vulnerability hitting major mining pools over the weekend. The Foundation patched it quickly but the blockchain hiccup was real."
+      "summary": "Microsoft admits CVE-2026-32202 in Windows Shell is being actively exploited after initially downplaying it. Nothing builds confidence like a vendor going 'oops, that spoofing vulnerability is actually being used to spoof people.'"
     },
     {
-      "title": "Litecoin says its 13-block reorg was not a 'zero-day, but GitHub commit history shows otherwise",
-      "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
-      "source": "CoinDesk",
-      "publishedAt": "2026-04-26T08:34:37Z",
-      "category": "BREACH",
-      "summary": "GoDaddy just hands over a 27-year-old domain to a complete stranger without documentation. When your registrar goes full chaos mode, maybe it's time to switch providers."
+      "title": "Flowtriq Detects 48.3 Gbps Multi-Vector DDoS Attack in Under One Second",
+      "url": "https://apnews.com/press-release/ein-presswire-newsmatics/flowtriq-detects-48-3-gbps-multi-vector-ddos-attack-in-under-one-second-b4e14969206f90e8dc5d1a944b8261a8",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-27T06:07:24Z",
+      "category": "WHITE HAT",
+      "summary": "Claude Mythos Preview is finding vulnerabilities faster than teams can remediate them, fundamentally changing the math of disclosure. When AI can pwn your infrastructure faster than humans can patch it, we've entered a very interesting new era."
     }
   ]
 }
