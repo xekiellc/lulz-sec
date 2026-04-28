@@ -15,7 +15,18 @@
   <meta name="twitter:title" content="LULZ-SEC.COM — Still Laughing. Still Watching.">
   <meta name="twitter:description" content="A legal tribute to the hackers, whistleblowers, and digital freedom fighters who gave the finger to power.">
   <meta name="twitter:image" content="https://lulz-sec.com/images/og-image.svg">
+
   <!-- No tracking. We mean it. -->
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#00ff41">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="LULZ-SEC">
+  <link rel="apple-touch-icon" href="/images/icon-192.png">
+
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/svg+xml" href="/images/og-image.svg">
 </head>
@@ -426,5 +437,14 @@
 </div>
 
 <script src="/js/main.js"></script>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js')
+      .then(reg => console.log('[PWA] Service worker registered:', reg.scope))
+      .catch(err => console.log('[PWA] Service worker failed:', err));
+  });
+}
+</script>
 </body>
 </html>
