@@ -1,10 +1,54 @@
 // lulz-sec.com — main.js
-// keyboard shortcuts, easter egg, utilities
+
+// ─── NAV INJECTION ────────────────────────────────────────────────────────────
+// Replaces nav on every page automatically — no per-page edits needed
+function injectNav() {
+  const existingNav = document.querySelector('nav');
+  if (!existingNav) return;
+
+  const path = window.location.pathname;
+
+  function isActive(href) {
+    if (href === '/' && path === '/') return true;
+    if (href !== '/' && path.includes(href.replace('.html', ''))) return true;
+    return false;
+  }
+
+  function navLink(href, label, key) {
+    const active = isActive(href) ? 'style="color:var(--g)"' : '';
+    return `<a href="${href}" ${active}>${label}<span class="kb">[${key}]</span></a>`;
+  }
+
+  existingNav.outerHTML = `
+    <nav>
+      <div class="logo-wrap" onclick="window.location.href='/'">
+        <div class="lg g1">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+        <div class="lg g2">LULZ<span style="color:var(--r)">-</span>SEC<span style="font-size:13px;color:var(--gd);font-family:var(--mono);font-weight:400;margin-left:3px;">.COM</span></div>
+        <div class="logo-main">LULZ<span class="dash">-</span>SEC<span class="tld">.COM</span></div>
+      </div>
+      <div class="nav-links">
+        ${navLink('/zero-day.html', 'Zero Day', 'Z')}
+        ${navLink('/archive.html', 'Archive', 'A')}
+        ${navLink('/legends.html', 'Legends', 'L')}
+        ${navLink('/foia.html', 'FOIA', 'F')}
+        ${navLink('/white-hat.html', 'White Hat', 'W')}
+        ${navLink('/media.html', 'Media', 'M')}
+        ${navLink('/community.html', 'Community', 'C')}
+      </div>
+      <div class="nav-right">
+        <div class="nav-search">
+          <span style="color:var(--gm);font-size:11px;">/</span>
+          <input type="text" placeholder="search the lulz..." />
+        </div>
+        <div class="nav-pgp">PGP &#9679;</div>
+      </div>
+    </nav>
+  `;
+}
 
 // ─── KEYBOARD SHORTCUTS ───────────────────────────────────────────────────────
 document.addEventListener('keydown', (e) => {
   if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-
   switch(e.key.toLowerCase()) {
     case 'z': window.location.href = '/zero-day.html'; break;
     case 'a': window.location.href = '/archive.html'; break;
@@ -35,7 +79,6 @@ const quotes = [
 let quoteIndex = 0;
 const mascotWrap = document.querySelector('.mascot-wrap');
 const mascotTip = document.getElementById('mascot-tip');
-
 if (mascotWrap && mascotTip) {
   mascotWrap.addEventListener('mouseenter', () => {
     mascotTip.textContent = quotes[quoteIndex % quotes.length];
@@ -56,21 +99,17 @@ if (daysEl) {
 async function loadFeed() {
   const feedContainer = document.getElementById('feed-container');
   if (!feedContainer) return;
-
   try {
     const res = await fetch('/data/feed.json');
     const data = await res.json();
-
     if (!data.articles || data.articles.length === 0) {
       feedContainer.innerHTML = '<div class="fi"><div class="fi-body"><div class="fi-hed">Feed loading...</div><div class="fi-meta">Check back shortly — pipeline runs 4x daily.</div></div></div>';
       return;
     }
-
     const lead = data.articles[0];
     const rest = data.articles.slice(1, 6);
     const tagClass = getTagClass(lead.category);
     const tagLabel = lead.category || 'NEWS';
-
     let html = `
       <div class="lead" onclick="window.open('${lead.url}','_blank')">
         <div class="lead-tag ${tagClass}">${tagLabel}</div>
@@ -79,7 +118,6 @@ async function loadFeed() {
         <div class="lead-meta"><span>${timeAgo(lead.publishedAt)}</span>${lead.source || ''}</div>
       </div>
     `;
-
     rest.forEach(article => {
       const tc = getTagClass(article.category);
       const tl = article.category || 'NEWS';
@@ -93,7 +131,6 @@ async function loadFeed() {
         </div>
       `;
     });
-
     feedContainer.innerHTML = html;
   } catch(err) {
     console.log('Feed not ready yet:', err);
@@ -102,12 +139,9 @@ async function loadFeed() {
 
 function getTagClass(category) {
   const map = {
-    'ZERO DAY': 't-zd', 'CVE': 't-zd',
-    'FOIA': 't-fo', 'TRANSPARENCY': 't-fo',
-    'BREACH': 't-br', 'HACK': 't-br',
-    'RIGHTS': 't-fr', 'FREEDOM': 't-fr',
-    'COMMUNITY': 't-cm', 'ARCHIVE': 't-cm',
-    'WHITE HAT': 't-wh', 'BOUNTY': 't-wh',
+    'ZERO DAY':'t-zd','CVE':'t-zd','FOIA':'t-fo','TRANSPARENCY':'t-fo',
+    'BREACH':'t-br','HACK':'t-br','RIGHTS':'t-fr','FREEDOM':'t-fr',
+    'COMMUNITY':'t-cm','ARCHIVE':'t-cm','WHITE HAT':'t-wh','BOUNTY':'t-wh',
   };
   return map[category?.toUpperCase()] || 't-fr';
 }
@@ -127,18 +161,15 @@ function timeAgo(dateStr) {
 async function loadTicker() {
   const tickerInner = document.querySelector('.ticker-inner');
   if (!tickerInner) return;
-
   try {
     const res = await fetch('/data/feed.json');
     const data = await res.json();
     if (!data.articles || data.articles.length === 0) return;
-
     const items = data.articles.slice(0, 8);
     const tickerHTML = [...items, ...items].map(a => {
       const pill = getCategoryPill(a.category);
       return `<div class="ti">${pill}${a.title}</div>`;
     }).join('');
-
     tickerInner.innerHTML = tickerHTML;
   } catch(err) {
     console.log('Ticker not ready:', err);
@@ -147,11 +178,9 @@ async function loadTicker() {
 
 function getCategoryPill(category) {
   const map = {
-    'ZERO DAY': 'tp-cve', 'CVE': 'tp-cve',
-    'FOIA': 'tp-foia', 'TRANSPARENCY': 'tp-foia',
-    'BREACH': 'tp-breach', 'HACK': 'tp-breach',
-    'EXILE': 'tp-exile', 'LEGENDS': 'tp-exile',
-    'LULZ': 'tp-lulz', 'ARCHIVE': 'tp-lulz',
+    'ZERO DAY':'tp-cve','CVE':'tp-cve','FOIA':'tp-foia','TRANSPARENCY':'tp-foia',
+    'BREACH':'tp-breach','HACK':'tp-breach','EXILE':'tp-exile','LEGENDS':'tp-exile',
+    'LULZ':'tp-lulz','ARCHIVE':'tp-lulz',
   };
   const cls = map[category?.toUpperCase()] || 'tp-lulz';
   const label = category || 'NEWS';
@@ -160,6 +189,7 @@ function getCategoryPill(category) {
 
 // ─── INIT ─────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
+  injectNav();
   loadFeed();
   loadTicker();
 });
