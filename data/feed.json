@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T13:28:55.604Z",
+  "last_updated": "2026-04-28T19:19:56.344Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulnerabilities including a SharePoint zero-day and 'BlueHammer' in Windows Defender — because apparently Patch Tuesday is now Patch Christmas. Chrome also patched its fourth zero-day this year because browsers are basically Swiss cheese at this point."
-    },
-    {
-      "title": "The Internet Still Works: SmugMug Powers Online Photography",
-      "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
-      "source": "EFF",
-      "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Congress is trying to slap a fresh coat of paint on the surveillance state with the 'Foreign Intelligence Accountability Act' — spoiler alert: it's still just warrantless spying with better branding. EFF says reject this fig leaf while we still have Fourth Amendment rights left to protect."
-    },
-    {
-      "title": "EFF Challenges Secrecy In Eastern District of Texas Patent Case",
-      "url": "https://www.eff.org/deeplinks/2026/04/eff-challenges-secrecy-eastern-district-texas-patent-case",
-      "source": "EFF",
-      "publishedAt": "Fri, 24 Apr 2026 22:57:05 +0000",
-      "category": "RIGHTS",
-      "summary": "California wants to ban social media for under-16s and force everyone to verify their identity online — because nothing says 'protecting kids' like building a surveillance infrastructure that would make Orwell weep. Privacy dies so legislators can feel good about 'doing something.'"
+      "summary": "Microsoft drops a nuclear payload of 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' weakness. April showers bring security nightmares."
     },
     {
       "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
@@ -31,7 +15,31 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 27 Apr 2026 13:09:54 GMT",
       "category": "ZERO DAY",
-      "summary": "Windows RPC mechanism has an architectural flaw called 'PhantomRPC' with five different privilege escalation paths — because Microsoft's idea of secure design is apparently 'let's see how many ways this can break.' Twenty years of the same mistakes, different CVE numbers."
+      "summary": "Windows RPC architecture has a massive unpatched flaw with five different exploit paths for privilege escalation. Microsoft's response: *crickets*."
+    },
+    {
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Critical GitHub RCE vulnerability allows remote code execution with a single git push command. When even your version control system can't be trusted, we've reached peak irony."
+    },
+    {
+      "title": "What is Claude Mythos: a new technological revolution or a marketing myth?",
+      "url": "https://mezha.ua/en/articles/shcho-take-claude-mythos-nova-tehnologichna-revolyuciya-chi-marketingoviy-mif-310721/",
+      "source": "Mezha.ua",
+      "publishedAt": "2026-04-27T17:44:04Z",
+      "category": "ZERO DAY",
+      "summary": "Hugging Face's robotics platform LeRobot has a critical unpatched RCE flaw. Because apparently we needed our AI overlords to be hackable too."
+    },
+    {
+      "title": "The Internet Still Works: SmugMug Powers Online Photography",
+      "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
+      "source": "EFF",
+      "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
+      "category": "RIGHTS",
+      "summary": "Congress scrambles to pass another insufficient 702 reauthorization bill as FISA surveillance powers expire. Same surveillance state, new fig leaf."
     },
     {
       "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
@@ -39,47 +47,39 @@
       "source": "The Intercept",
       "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
       "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to Trump's domestic spying dreams as Section 702 hangs in the balance. These are the people who'll decide whether the surveillance state gets a warrantless Christmas or if Americans keep some semblance of privacy rights."
+      "summary": "Four Democrats hold the keys to Trump's domestic spying dreams as warrantless surveillance hangs in the balance. Democracy's fate decided by a handful of fence-sitters, as usual."
     },
     {
-      "title": "SUSE's sovereignty pitch meets an inconvenient $6 billion question",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/sovereignty_its_all_about_the/",
+      "title": "Don't pay Vect a ransom - your data's likely already wiped out",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
       "source": "The Register",
-      "publishedAt": "2026-04-28T10:00:07.000Z",
+      "publishedAt": "2026-04-28T18:36:31.000Z",
       "category": "FOIA",
-      "summary": "Declassified docs finally confirm the CIA ran MK-ULTRA experiments on North Korean POWs in U.S. custody — because apparently torture needed a research and development department. Only took decades of FOIA fights to drag this particular horror into the light."
+      "summary": "Declassified docs finally confirm CIA ran MK-ULTRA experiments on North Korean POWs in US custody. The horror show was even worse than we thought."
     },
     {
-      "title": "Medical and utility tech companies admit digital breakins",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/itron_medtronic_hacked/",
-      "source": "The Register",
-      "publishedAt": "2026-04-27T17:53:16.000Z",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 28 Apr 2026 23:49:00 +0530",
       "category": "BREACH",
-      "summary": "Checkmarx becomes the latest victim in an ongoing supply-chain attack explicitly targeting security and dev tools — because hackers understand that poisoning the well is more efficient than attacking each village individually. The irony of a security company getting pwned never gets old."
+      "summary": "Medical device giant Medtronic and utility tech firm Itron both admit to security breaches in Friday document dumps. Nothing says 'we're screwed' like a Friday news dump."
     },
     {
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 28 Apr 2026 16:00:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "Hugging Face's LeRobot platform has a critical RCE vulnerability (CVE-2026-25874) with a CVSS of 9.3 — because apparently even our robot overlords ship with default credentials and bad input validation. Nearly 24,000 GitHub stars can't patch stupid."
+      "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
+      "url": "https://hackread.com/shinyhunters-leak-udemy-zara-7-eleven-data-breach/",
+      "source": "HackRead",
+      "publishedAt": "2026-04-27T16:44:26Z",
+      "category": "BREACH",
+      "summary": "Medtronic confirms breach after ShinyHunters claims theft of 9+ million records. When your pacemaker company gets pwned, that's what we call a cardiac event."
     },
     {
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 28 Apr 2026 12:07:00 +0530",
-      "category": "LEGENDS",
-      "summary": "Chinese Silk Typhoon hacker Xu Zewei gets extradited from Italy for cyberattacks against COVID research — because even during a global pandemic, nation-state actors gonna nation-state. Nothing says 'crimes against humanity' quite like attacking medical research during a health crisis."
-    },
-    {
-      "title": "Morning Minute: NFTs Storm Back, Led by Bored Apes",
-      "url": "https://decrypt.co/365600/morning-minute-nfts-storm-back-led-by-bored-apes",
-      "source": "Decrypt",
-      "publishedAt": "2026-04-27T11:57:00Z",
-      "category": "ZERO DAY",
-      "summary": "Claude Mythos AI discovers thousands of zero-days in browsers and operating systems, sending India's CERT-In and major telecos into damage control mode. When your AI assistant becomes better at finding vulnerabilities than your entire security team, it's time to reassess everything."
+      "title": "Daily Hacker News for 2026-04-24",
+      "url": "https://www.daemonology.net/hn-daily/2026-04-24.html",
+      "source": "Daemonology.net",
+      "publishedAt": "2026-04-25T00:00:00Z",
+      "category": "BREACH",
+      "summary": "TeamPCP supply chain campaign returns from 26-day hiatus with simultaneous hits on Checkmarx, Bitwarden CLI, and xinference PyPI. These kids don't take breaks, they take scalps."
     }
   ]
 }
