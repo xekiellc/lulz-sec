@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T08:00:43.146Z",
+  "last_updated": "2026-04-29T13:23:17.975Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,15 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a biblical 167 security fixes including a SharePoint zero-day called 'BlueHammer' - because apparently even Patch Tuesday needs steroids now. Chrome's fourth zero-day of the month is just the cherry on this vulnerability sundae."
-    },
-    {
-      "title": "The Internet Still Works: SmugMug Powers Online Photography",
-      "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
-      "source": "EFF",
-      "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Congress rushes to rubber-stamp another surveillance reauthorization disguised as 'accountability' - because nothing says reform like keeping the warrantless spying machine humming. Speaker Johnson's fig leaf is so transparent it's practically glass."
+      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and a deliciously named 'BlueHammer' Windows Defender flaw. Because apparently security through obscurity includes naming conventions."
     },
     {
       "title": "Feuding Ransomware Groups Leak Each Other's Data",
@@ -23,7 +15,7 @@
       "source": "Dark Reading",
       "publishedAt": "Tue, 28 Apr 2026 20:13:30 GMT",
       "category": "LEGENDS",
-      "summary": "NSA chief during the Snowden era finally admits they fucked up royally 13 years later. Chris Inglis gets refreshingly honest about how the agency completely mishandled having their digital pants pulled down by one brilliant contractor."
+      "summary": "NSA's former deputy director gets confessional about the Snowden clusterfuck 13 years later. Nothing says institutional learning like waiting over a decade to admit you screwed up."
     },
     {
       "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
@@ -31,39 +23,55 @@
       "source": "The Intercept",
       "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
       "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to Trump's domestic surveillance kingdom, and privacy advocates are sweating bullets. It's democracy by committee, where the committee decides if the government gets to read your texts without asking."
+      "summary": "Four Democrats hold the keys to Trump's domestic surveillance dreams under Section 702. Democracy hanging by the thread of four politicians' consciences—what could go wrong?"
     },
     {
-      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+      "title": "GitHub: Woah, a genuinely helpful AI-assisted bug report that isn't total slop. Here, Wiz, take this wad of cash",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
       "source": "The Register",
-      "publishedAt": "2026-04-29T06:32:14.000Z",
-      "category": "LEGENDS",
-      "summary": "Declassified docs confirm the CIA ran MK-ULTRA mind control experiments on POWs because apparently regular war crimes weren't creative enough. The agency that brought you psychological torture now has the receipts in black and white."
+      "publishedAt": "2026-04-29T13:02:16.000Z",
+      "category": "FOIA",
+      "summary": "Declassified docs confirm the CIA ran MK-ULTRA mind control experiments on POWs. Shocking absolutely no one who's been paying attention to America's greatest hits of psychological warfare."
     },
     {
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "title": "EU waves through open source age-check tool to keep kids safe online",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/",
+      "source": "The Register",
+      "publishedAt": "2026-04-29T12:03:22.000Z",
       "category": "ZERO DAY",
-      "summary": "LiteLLM gets pwned via SQL injection within 36 hours of disclosure - proving hackers have better patch management than most enterprises. Nothing says 'critical infrastructure' like a database that falls over faster than a house of cards."
+      "summary": "Wiz researchers use AI to find a GitHub infrastructure bug granting full read/write access to private repos. Claude does months of work in hours while humans argue about whether AI will replace us."
     },
     {
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
       "source": "The Hacker News",
-      "publishedAt": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "publishedAt": "Wed, 29 Apr 2026 14:16:00 +0530",
       "category": "ZERO DAY",
-      "summary": "GitHub's latest gift to humanity: remote code execution with a single git push command. Because apparently version control wasn't dangerous enough without letting randos execute arbitrary code on your servers."
+      "summary": "Critical cPanel authentication bypass affects all supported versions. Because apparently the control panel that runs half the internet forgot how authentication works."
     },
     {
-      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 28 Apr 2026 17:28:00 +0530",
+      "title": "Bitcoin drops 3% to $76.3K, ending 4-week rally amid oil price surge",
+      "url": "https://cryptobriefing.com/bitcoin-drops-3-to-763k-ending-4-week-rally-amid-oil-price-surge/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-28T12:46:24Z",
+      "category": "ZERO DAY",
+      "summary": "LiteLLM SQL injection vulnerability gets exploited within 36 hours of disclosure. The new world record for 'responsible disclosure' turning into 'oh shit, everyone's compromised.'"
+    },
+    {
+      "title": "Claude Mythos Preview and the new rules of cybersecurity",
+      "url": "https://www.techtarget.com/searchenterpriseai/news/366642478/Claude-Mythos-Preview-and-the-new-rules-of-cybersecurity",
+      "source": "Techtarget.com",
+      "publishedAt": "2026-04-28T09:57:00Z",
+      "category": "ZERO DAY",
+      "summary": "PhantomRPC privilege escalation technique in Windows has no patch. Microsoft's response: 'Have you tried turning your entire security model off and on again?'"
+    },
+    {
+      "title": "Medtronic discloses security incident after ShinyHunters claimed theft of 9M+ records",
+      "url": "https://securityaffairs.com/191391/cyber-crime/medtronic-discloses-security-incident-after-shinyhunters-claimed-theft-of-9m-records.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-04-27T19:12:50Z",
       "category": "BREACH",
-      "summary": "VECT 2.0 ransomware is so broken it permanently destroys files over 131KB - it's not ransomware, it's digital arson with a payment portal. Even paying the ransom won't save you from these criminal masterminds who can't code."
+      "summary": "French police arrest 21-year-old 'HexDex' for 100+ data breaches since late 2025. Kid's been busier than a CISO's nightmare and twice as effective."
     },
     {
       "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
@@ -71,15 +79,7 @@
       "source": "HackRead",
       "publishedAt": "2026-04-27T16:44:26Z",
       "category": "BREACH",
-      "summary": "Medical device giant Medtronic admits breach after ShinyHunters claims 9+ million records stolen. Nothing says 'patient safety' like having your pacemaker data traded on underground forums."
-    },
-    {
-      "title": "Daily Hacker News for 2026-04-24",
-      "url": "https://www.daemonology.net/hn-daily/2026-04-24.html",
-      "source": "Daemonology.net",
-      "publishedAt": "2026-04-25T00:00:00Z",
-      "category": "BREACH",
-      "summary": "TeamPCP supply chain campaign returns from 26-day vacation with a vengeance, hitting Checkmarx, Bitwarden, and spawning npm worms. When hackers take breaks longer than your DevOps team, you know the ecosystem is fucked."
+      "summary": "Medtronic confirms breach after ShinyHunters claims theft of 9M+ records. Nothing says medical device security like having your patient data hawked by teenagers with anime avatars."
     }
   ]
 }
