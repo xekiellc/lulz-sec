@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T02:01:09.006Z",
+  "last_updated": "2026-04-29T08:00:43.146Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just hemorrhaged 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Meanwhile Chrome patched its fourth zero-day this year because apparently browsers are just suggestion boxes for attackers now."
+      "summary": "Microsoft drops a biblical 167 security fixes including a SharePoint zero-day called 'BlueHammer' - because apparently even Patch Tuesday needs steroids now. Chrome's fourth zero-day of the month is just the cherry on this vulnerability sundae."
     },
     {
       "title": "The Internet Still Works: SmugMug Powers Online Photography",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
       "category": "RIGHTS",
-      "summary": "Congress is frantically trying to slap a fresh coat of paint on the surveillance state with their 'Foreign Intelligence Accountability Act' before Section 702 expires. Spoiler alert: it's still mass warrantless spying with a prettier name."
+      "summary": "Congress rushes to rubber-stamp another surveillance reauthorization disguised as 'accountability' - because nothing says reform like keeping the warrantless spying machine humming. Speaker Johnson's fig leaf is so transparent it's practically glass."
     },
     {
       "title": "Feuding Ransomware Groups Leak Each Other's Data",
@@ -23,7 +23,7 @@
       "source": "Dark Reading",
       "publishedAt": "Tue, 28 Apr 2026 20:13:30 GMT",
       "category": "LEGENDS",
-      "summary": "The NSA's former deputy director finally breaks his silence on the Snowden affair 13 years later, admitting they screwed up royally. Better late than never, but some of us were paying attention when it mattered."
+      "summary": "NSA chief during the Snowden era finally admits they fucked up royally 13 years later. Chris Inglis gets refreshingly honest about how the agency completely mishandled having their digital pants pulled down by one brilliant contractor."
     },
     {
       "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
@@ -31,15 +31,23 @@
       "source": "The Intercept",
       "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
       "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to whether Trump gets his domestic spying wet dream renewed. Because nothing says 'resistance' like handing fascists the tools to spy on everyone without warrants."
+      "summary": "Four Democrats hold the keys to Trump's domestic surveillance kingdom, and privacy advocates are sweating bullets. It's democracy by committee, where the committee decides if the government gets to read your texts without asking."
     },
     {
-      "title": "Don't pay Vect a ransom - your data's likely already wiped out",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
+      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
       "source": "The Register",
-      "publishedAt": "2026-04-28T18:36:31.000Z",
-      "category": "ARCHIVE",
-      "summary": "Freshly declassified docs confirm the CIA ran MK-ULTRA mind control experiments on North Korean POWs in U.S. custody. Your tax dollars at work, turning human beings into lab rats since 1953."
+      "publishedAt": "2026-04-29T06:32:14.000Z",
+      "category": "LEGENDS",
+      "summary": "Declassified docs confirm the CIA ran MK-ULTRA mind control experiments on POWs because apparently regular war crimes weren't creative enough. The agency that brought you psychological torture now has the receipts in black and white."
+    },
+    {
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "LiteLLM gets pwned via SQL injection within 36 hours of disclosure - proving hackers have better patch management than most enterprises. Nothing says 'critical infrastructure' like a database that falls over faster than a house of cards."
     },
     {
       "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
@@ -47,15 +55,15 @@
       "source": "The Hacker News",
       "publishedAt": "Tue, 28 Apr 2026 23:09:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Researchers found CVE-2026-3854, a critical GitHub RCE flaw that lets authenticated users own servers with a single git push. Because apparently even Microsoft's code repositories are security theater."
+      "summary": "GitHub's latest gift to humanity: remote code execution with a single git push command. Because apparently version control wasn't dangerous enough without letting randos execute arbitrary code on your servers."
     },
     {
-      "title": "Anthropic Mythos: Firms with access to model say speed of response, not uncovering flaws, is key",
-      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-mythos-shrinks-vulnerability-exploit-window-indian-companies-at-risk/articleshow/130560442.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-28T00:30:00Z",
-      "category": "ZERO DAY",
-      "summary": "Hugging Face's LeRobot platform is sporting an unpatched critical RCE flaw that screams 'pwn me harder daddy.' 24,000 GitHub stars can't hide the fact that someone forgot to sanitize their inputs."
+      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 28 Apr 2026 17:28:00 +0530",
+      "category": "BREACH",
+      "summary": "VECT 2.0 ransomware is so broken it permanently destroys files over 131KB - it's not ransomware, it's digital arson with a payment portal. Even paying the ransom won't save you from these criminal masterminds who can't code."
     },
     {
       "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
@@ -63,15 +71,7 @@
       "source": "HackRead",
       "publishedAt": "2026-04-27T16:44:26Z",
       "category": "BREACH",
-      "summary": "Medical device giant Medtronic got pwned by ShinyHunters who allegedly made off with 9+ million records. Nothing says 'trust us with your pacemaker' like having your entire customer database yoinked by script kiddies."
-    },
-    {
-      "title": "TeamPCP Supply Chain Campaign: Update 008 - 26-Day Pause Ends with Three Concurrent Compromises (Checkmarx KICS, Bitwarden CLI Cascade, xinference PyPI), CanisterSprawl npm Worm Identified, and Tier 1 Coverage Returns, (Mon, Apr 27th)",
-      "url": "https://isc.sans.edu/diary/32926",
-      "source": "Sans.edu",
-      "publishedAt": "2026-04-27T14:01:17Z",
-      "category": "BREACH",
-      "summary": "ShinyHunters is having a field day leaking Salesforce-connected data from Udemy, Zara, and 7-Eleven. When your CRM becomes everyone's personal shopping list, you know cloud security is working as intended."
+      "summary": "Medical device giant Medtronic admits breach after ShinyHunters claims 9+ million records stolen. Nothing says 'patient safety' like having your pacemaker data traded on underground forums."
     },
     {
       "title": "Daily Hacker News for 2026-04-24",
@@ -79,7 +79,7 @@
       "source": "Daemonology.net",
       "publishedAt": "2026-04-25T00:00:00Z",
       "category": "BREACH",
-      "summary": "The TeamPCP supply chain campaign resurges after a 26-day nap, hitting Checkmarx, Bitwarden CLI, and spawning the delightfully named 'CanisterSprawl' npm worm. Because apparently our entire development ecosystem is held together with compromised duct tape."
+      "summary": "TeamPCP supply chain campaign returns from 26-day vacation with a vengeance, hitting Checkmarx, Bitwarden, and spawning npm worms. When hackers take breaks longer than your DevOps team, you know the ecosystem is fucked."
     }
   ]
 }
