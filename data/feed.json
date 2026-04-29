@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T13:23:17.975Z",
+  "last_updated": "2026-04-29T19:09:27.283Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and a deliciously named 'BlueHammer' Windows Defender flaw. Because apparently security through obscurity includes naming conventions."
+      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. When even Patch Tuesday needs a spreadsheet, you know we're living in the golden age of broken software."
+    },
+    {
+      "title": "The Internet Still Works: SmugMug Powers Online Photography",
+      "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
+      "source": "EFF",
+      "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
+      "category": "RIGHTS",
+      "summary": "Congress scrambles to slap another coat of paint on Section 702's warrantless surveillance nightmare with the laughably named 'Foreign Intelligence Accountability Act.' Because nothing says accountability like renaming your civil rights violations."
     },
     {
       "title": "Feuding Ransomware Groups Leak Each Other's Data",
@@ -15,39 +23,31 @@
       "source": "Dark Reading",
       "publishedAt": "Tue, 28 Apr 2026 20:13:30 GMT",
       "category": "LEGENDS",
-      "summary": "NSA's former deputy director gets confessional about the Snowden clusterfuck 13 years later. Nothing says institutional learning like waiting over a decade to admit you screwed up."
+      "summary": "Former NSA chief Chris Inglis gets candid about the agency's spectacular faceplant during the Snowden revelations. Thirteen years later, he's finally admitting they screwed up—better late than never, we suppose."
     },
     {
-      "title": "CIA Ran MK-ULTRA Experiments on Prisoners of War in U.S. Custody, Declassified Docs Confirm",
-      "url": "https://theintercept.com/2026/04/26/mk-ultra-korean-war-prisoner-experiments/",
-      "source": "The Intercept",
-      "publishedAt": "Sun, 26 Apr 2026 10:10:00 +0000",
+      "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
+      "source": "The Register",
+      "publishedAt": "2026-04-29T18:35:11.000Z",
       "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to Trump's domestic surveillance dreams under Section 702. Democracy hanging by the thread of four politicians' consciences—what could go wrong?"
+      "summary": "Four Democrats hold the keys to whether Trump gets his domestic spying wet dream. Nothing quite like having your constitutional rights decided by a handful of politicians with the spine strength of overcooked pasta."
     },
     {
       "title": "GitHub: Woah, a genuinely helpful AI-assisted bug report that isn't total slop. Here, Wiz, take this wad of cash",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
       "source": "The Register",
       "publishedAt": "2026-04-29T13:02:16.000Z",
-      "category": "FOIA",
-      "summary": "Declassified docs confirm the CIA ran MK-ULTRA mind control experiments on POWs. Shocking absolutely no one who's been paying attention to America's greatest hits of psychological warfare."
+      "category": "ZERO DAY",
+      "summary": "CISA warns that GrassMarlin, the NSA's own networking tool, leaks sensitive data if you can phish your way in. The irony of the surveillance state's own tools being compromised is *chef's kiss* perfection."
     },
     {
       "title": "EU waves through open source age-check tool to keep kids safe online",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/",
       "source": "The Register",
       "publishedAt": "2026-04-29T12:03:22.000Z",
-      "category": "ZERO DAY",
-      "summary": "Wiz researchers use AI to find a GitHub infrastructure bug granting full read/write access to private repos. Claude does months of work in hours while humans argue about whether AI will replace us."
-    },
-    {
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "url": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 29 Apr 2026 14:16:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "Critical cPanel authentication bypass affects all supported versions. Because apparently the control panel that runs half the internet forgot how authentication works."
+      "category": "WHITE HAT",
+      "summary": "Wiz researchers used Claude AI to find a high-severity GitHub flaw granting full read/write access to private repos, scoring a fat bounty check. Finally, AI doing something useful instead of generating corporate buzzword salad."
     },
     {
       "title": "Bitcoin drops 3% to $76.3K, ending 4-week rally amid oil price surge",
@@ -55,7 +55,7 @@
       "source": "Crypto Briefing",
       "publishedAt": "2026-04-28T12:46:24Z",
       "category": "ZERO DAY",
-      "summary": "LiteLLM SQL injection vulnerability gets exploited within 36 hours of disclosure. The new world record for 'responsible disclosure' turning into 'oh shit, everyone's compromised.'"
+      "summary": "Critical authentication bypass discovered in cPanel affecting all supported versions. If you're still running websites like it's 2005, this one's going to hurt—patch immediately or prepare for digital carnage."
     },
     {
       "title": "Claude Mythos Preview and the new rules of cybersecurity",
@@ -63,7 +63,7 @@
       "source": "Techtarget.com",
       "publishedAt": "2026-04-28T09:57:00Z",
       "category": "ZERO DAY",
-      "summary": "PhantomRPC privilege escalation technique in Windows has no patch. Microsoft's response: 'Have you tried turning your entire security model off and on again?'"
+      "summary": "PhantomRPC technique lets attackers escalate to System privileges on Windows with no patch in sight. Microsoft's response time continues to be glacial while the attack surface grows like a digital tumor."
     },
     {
       "title": "Medtronic discloses security incident after ShinyHunters claimed theft of 9M+ records",
@@ -71,15 +71,15 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-04-27T19:12:50Z",
       "category": "BREACH",
-      "summary": "French police arrest 21-year-old 'HexDex' for 100+ data breaches since late 2025. Kid's been busier than a CISO's nightmare and twice as effective."
+      "summary": "French cops arrest 21-year-old 'HexDex' for allegedly breaching 100+ systems including France's Ministry of Education. Kid was apparently speedrunning the entire French digital infrastructure like it was a video game."
     },
     {
-      "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
-      "url": "https://hackread.com/shinyhunters-leak-udemy-zara-7-eleven-data-breach/",
-      "source": "HackRead",
-      "publishedAt": "2026-04-27T16:44:26Z",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "source": "Internet",
+      "publishedAt": "2026-04-28T18:19:00Z",
       "category": "BREACH",
-      "summary": "Medtronic confirms breach after ShinyHunters claims theft of 9M+ records. Nothing says medical device security like having your patient data hawked by teenagers with anime avatars."
+      "summary": "TeamPCP supply chain nightmare continues with concurrent compromises of Checkmarx, Bitwarden CLI, and xinference PyPI, plus a new npm worm called CanisterSprawl. When the supply chain becomes a conga line of carnage, we're all dancing to their tune."
     }
   ]
 }
