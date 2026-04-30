@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T02:00:23.750Z",
+  "last_updated": "2026-04-30T08:03:59.497Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a whopping 167 patches including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' — because apparently even the security software needs securing these days."
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and a Windows Defender flaw dubbed 'BlueHammer' — because nothing says security like naming your exploits after power tools."
     },
     {
       "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
@@ -15,15 +15,23 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 30 Apr 2026 00:00:00 GMT",
       "category": "RIGHTS",
-      "summary": "Congress scrambles to pass another surveillance fig leaf while Section 702 expires, because why fix warrantless spying when you can just rebrand it with a patriotic name?"
+      "summary": "Congress tries to slap a new coat of paint on the surveillance state with the 'Foreign Intelligence Accountability Act' — because nothing screams accountability like rushing a FISA 702 reauthorization through with days to spare."
     },
     {
       "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
       "url": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
       "source": "Dark Reading",
       "publishedAt": "Wed, 29 Apr 2026 19:32:42 GMT",
-      "category": "WHITE HAT",
-      "summary": "Wiz uses AI reverse engineering to find a GitHub vulnerability that would've been too expensive to hunt manually — the robots are now doing our vulnerability research and honestly, they're pretty good at it."
+      "category": "ZERO DAY",
+      "summary": "Wiz uses AI reverse-engineering to find a GitHub vulnerability that would've been 'too costly' to find manually. The robots are now doing our bug hunting — terrifying and efficient."
+    },
+    {
+      "title": "ICE Watchers Worry Democrats Are Trying to Co-Opt Their Movements For Votes",
+      "url": "https://theintercept.com/2026/04/29/minnesota-congress-ice-democrats-matt-little/",
+      "source": "The Intercept",
+      "publishedAt": "Wed, 29 Apr 2026 21:41:43 +0000",
+      "category": "RIGHTS",
+      "summary": "Mike Johnson bribes the Freedom Caucus with crypto provisions to pass domestic spy laws. Nothing says 'freedom' quite like trading digital currency for digital surveillance rights."
     },
     {
       "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
@@ -31,23 +39,23 @@
       "source": "The Register",
       "publishedAt": "2026-04-29T20:11:05.000Z",
       "category": "ZERO DAY",
-      "summary": "Linux cryptographic code flaw offers a fast lane to root access — because who doesn't love a good local privilege escalation bug in the foundation of half the internet's infrastructure?"
+      "summary": "Linux cryptographic code flaw offers a 'fast route to root' via local privilege escalation. Even the penguin isn't safe from sloppy authentication logic."
     },
     {
-      "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
-      "source": "The Register",
-      "publishedAt": "2026-04-29T18:35:11.000Z",
+      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 29 Apr 2026 21:56:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft's patch for a Russian-exploited zero-day was so bad they had to patch the patch — second time's the charm when nation-state actors are breathing down your neck."
+      "summary": "Google patches a CVSS 10 severity flaw in Gemini CLI that allowed arbitrary command execution. Maximum severity, maximum chaos — the AI overlords had a backdoor."
     },
     {
-      "title": "Claude Mythos Preview and the new rules of cybersecurity",
-      "url": "https://www.techtarget.com/searchenterpriseai/news/366642478/Claude-Mythos-Preview-and-the-new-rules-of-cybersecurity",
-      "source": "Techtarget.com",
-      "publishedAt": "2026-04-28T09:57:00Z",
+      "title": "New Report from the MPA’s Content Security Initiative Links Control Failures to Content Security Incidents Across the Entertainment Industry",
+      "url": "https://financialpost.com/globe-newswire/new-report-from-the-mpas-content-security-initiative-links-control-failures-to-content-security-incidents-across-the-entertainment-industry",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-28T23:03:06Z",
       "category": "ZERO DAY",
-      "summary": "PhantomRPC privilege escalation technique in Windows has no patch and probably won't get one soon — Microsoft's basically shrugging at this fake RPC server attack vector."
+      "summary": "LiteLLM SQL injection flaw gets exploited within 36 hours of disclosure. The vulnerability-to-exploitation speed run continues — hackers don't even wait for the weekend anymore."
     },
     {
       "title": "Medtronic discloses security incident after ShinyHunters claimed theft of 9M+ records",
@@ -55,7 +63,7 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-04-27T19:12:50Z",
       "category": "BREACH",
-      "summary": "French cops arrest 21-year-old 'HexDex' over 100 alleged breaches including hitting the Ministry of Education for 250K employee records — kid was busy making the digital world his oyster."
+      "summary": "French police arrest 21-year-old 'HexDex' for allegedly conducting 100 data breaches including France's Ministry of Education. Kid's got dedication — most people can't even finish 100 Netflix episodes."
     },
     {
       "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
@@ -63,15 +71,7 @@
       "source": "HackRead",
       "publishedAt": "2026-04-27T16:44:26Z",
       "category": "BREACH",
-      "summary": "Medtronic confirms breach after ShinyHunters claimed theft of 9+ million medical records — because nothing says 'responsible disclosure' like hackers announcing your breach before you do."
-    },
-    {
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-      "source": "Internet",
-      "publishedAt": "2026-04-28T18:19:00Z",
-      "category": "BREACH",
-      "summary": "TeamPCP supply chain campaign ends 26-day pause with triple compromise hitting Checkmarx, Bitwarden CLI, and xinference PyPI — the gift that keeps on giving to anyone who enjoys chaos in the software supply chain."
+      "summary": "Medtronic confirms breach after ShinyHunters claims theft of 9+ million records. Medical device giant learns the hard way that pacemakers aren't the only things that can flatline."
     },
     {
       "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
@@ -79,7 +79,7 @@
       "source": "Internet",
       "publishedAt": "2026-04-27T13:30:00Z",
       "category": "ZERO DAY",
-      "summary": "Critical GitHub RCE flaw (CVE-2026-3854) lets attackers own the platform with a single git push command — because apparently version control systems can be weaponized with elegant simplicity."
+      "summary": "Critical GitHub RCE flaw allows remote code execution with a single 'git push' command. One push to rule them all — the most dangerous commit in version control history."
     }
   ]
 }
