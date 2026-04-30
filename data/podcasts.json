@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T10:05:38.362Z",
+  "last_updated": "2026-04-30T10:06:33.704Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's crusade against the CFAA shows how the system criminalizes curiosity while protecting corporate incompetence."
+      "editorial_note": "Weev's epic legal battle against the CFAA shows what happens when trolling meets the federal hammer - essential viewing for understanding prosecutorial overreach."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "Before Swartz became a martyr, weev was already exposing how broken cybercrime laws destroy lives for the lulz of justice."
+      "editorial_note": "The origin story of weev's war against unjust computer laws - from AT&T iPad breach to becoming a symbol of digital resistance."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor demonstrates why nation-state actors always stay three steps ahead of corporate security theater."
+      "editorial_note": "APT-10's LODEINFO backdoor demonstrates how nation-state actors weaponize sophisticated malware against critical infrastructure."
     },
     {
       "type": "youtube",
