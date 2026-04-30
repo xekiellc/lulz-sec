@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T13:20:42.381Z",
+  "last_updated": "2026-04-30T19:06:09.734Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,47 +7,55 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Because apparently even Microsoft's own security tools need security patches now."
+      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and 'BlueHammer' in Windows Defender—because apparently April showers bring CVE flowers."
     },
     {
-      "title": "Britain's £6B armoured sickener Ajax cleared for duty despite injuring troops",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/ajax_armored_vehicle_cleared/",
+      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
       "source": "The Register",
-      "publishedAt": "2026-04-30T08:45:12.000Z",
+      "publishedAt": "2026-04-30T16:39:22.000Z",
       "category": "ZERO DAY",
-      "summary": "Critical cPanel vulnerability grants root access to millions of domains, likely exploited as a zero-day before patches arrived. When your web hosting control panel becomes the ultimate skeleton key."
+      "summary": "Google's Gemini CLI gets a perfect 10.0 CVSS score for RCE—their AI might be smart, but their security code definitely isn't."
     },
     {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
       "source": "The Hacker News",
-      "publishedAt": "Thu, 30 Apr 2026 12:37:00 +0530",
+      "publishedAt": "Thu, 30 Apr 2026 22:01:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Linux 'Copy Fail' vulnerability lets unprivileged users become root across major distros with a CVSS 7.8 score. Even the penguin isn't safe from privilege escalation shenanigans."
+      "summary": "cPanel gets rooted via authentication bypass affecting millions of domains—because why secure the thing that secures everything else, right?"
     },
     {
-      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 29 Apr 2026 21:56:00 +0530",
+      "title": "Editorial. Challenge of Mythos",
+      "url": "https://www.thehindubusinessline.com/opinion/editorial/editorial-challenge-of-mythos/article70920902.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-29T16:02:06Z",
       "category": "ZERO DAY",
-      "summary": "Google patches perfect 10.0 CVSS flaw in Gemini CLI that enabled remote code execution. When your AI assistant becomes everyone's backdoor, that's a problem worth fixing immediately."
+      "summary": "Linux 'Copy Fail' vulnerability lets unprivileged users become root across major distros—turns out copying files can copy you some privileges too."
     },
     {
-      "title": "Leila Chatti on the Many Ways to Be (and Not to Be) a Mother",
-      "url": "https://lithub.com/leila-chatti-on-the-many-ways-to-be-and-not-to-be-a-mother/",
-      "source": "Lithub.com",
-      "publishedAt": "2026-04-29T08:58:40Z",
-      "category": "ZERO DAY",
-      "summary": "CISA orders federal agencies to patch Windows vulnerability actively exploited as zero-day. Uncle Sam finally admitting that maybe, just maybe, patching is important."
+      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
+      "source": "The Register",
+      "publishedAt": "2026-04-30T11:35:10.000Z",
+      "category": "BREACH",
+      "summary": "15-year-old allegedly pwns France's secure document agency for 18M records—proving that French cybersecurity is about as robust as their Maginot Line."
     },
     {
-      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
-      "publishedAt": "Mon, 23 Mar 2026 15:43:04 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany unmasks 'UNKN,' the elusive Russian mastermind behind REvil and GandCrab ransomware operations. 31-year-old Daniil Shchukin gets his closeup after 130 acts of digital mayhem."
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "BREACH",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft—another script kiddie learns that playing with fire gets you burned by the feds."
+    },
+    {
+      "title": "EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians",
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians",
+      "source": "EFF",
+      "publishedAt": "Wed, 29 Apr 2026 21:22:55 +0000",
+      "category": "FOIA",
+      "summary": "EFF uses public records to expose ALPR surveillance abuse, now states want to hide the data—because transparency is only good when it's not embarrassing."
     },
     {
       "title": "The GUARD Act Isn’t Targeting Dangerous AI—It’s Blocking Everyday Internet Use",
@@ -55,31 +63,23 @@
       "source": "EFF",
       "publishedAt": "Mon, 27 Apr 2026 23:22:57 +0000",
       "category": "RIGHTS",
-      "summary": "EFF argues the Open Social Web needs Section 230 protection to challenge Big Tech dominance. Ironically, the law everyone loves to hate might be the key to digital freedom."
+      "summary": "The open social web needs Section 230 to survive and overthrow Big Tech—because sometimes the law you hate is the law that saves you."
     },
     {
-      "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
-      "url": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
+      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
+      "url": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
       "source": "Dark Reading",
-      "publishedAt": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "publishedAt": "Thu, 30 Apr 2026 13:45:58 GMT",
       "category": "RIGHTS",
-      "summary": "EFF demands Congress reject insufficient Section 702 reauthorization bill as surveillance state expansion continues. Speaker Johnson's 'Foreign Intelligence Accountability Act' sounds like accountability theater."
+      "summary": "The GUARD Act masquerades as AI safety while actually blocking everyday internet use for minors—classic moral panic meets legislative overreach."
     },
     {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-04-29T10:29:31Z",
-      "category": "BREACH",
-      "summary": "Supply chain attack compromises SAP-related npm packages with credential-stealing malware. When enterprise software dependencies become the weakest link in the security chain."
-    },
-    {
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-04-29T12:41:17Z",
-      "category": "BREACH",
-      "summary": "French police arrest 21-year-old 'HexDex' for allegedly conducting 100 data breaches including France's Ministry of Education. Kid went from homework to homework on government servers."
+      "title": "ICE Watchers Worry Democrats Are Trying to Co-Opt Their Movements For Votes",
+      "url": "https://theintercept.com/2026/04/29/minnesota-congress-ice-democrats-matt-little/",
+      "source": "The Intercept",
+      "publishedAt": "Wed, 29 Apr 2026 21:41:43 +0000",
+      "category": "RIGHTS",
+      "summary": "Mike Johnson uses crypto promises to get Freedom Caucus support for domestic spy law expansion—because nothing says 'freedom' like surveilling your own citizens."
     }
   ]
 }
