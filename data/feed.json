@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T19:09:27.283Z",
+  "last_updated": "2026-04-30T02:00:23.750Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,55 +7,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. When even Patch Tuesday needs a spreadsheet, you know we're living in the golden age of broken software."
+      "summary": "Microsoft drops a whopping 167 patches including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' — because apparently even the security software needs securing these days."
     },
     {
-      "title": "The Internet Still Works: SmugMug Powers Online Photography",
-      "url": "https://www.eff.org/deeplinks/2026/04/internet-still-works-smugmug-powers-online-photography",
-      "source": "EFF",
-      "publishedAt": "Mon, 27 Apr 2026 17:44:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Congress scrambles to slap another coat of paint on Section 702's warrantless surveillance nightmare with the laughably named 'Foreign Intelligence Accountability Act.' Because nothing says accountability like renaming your civil rights violations."
-    },
-    {
-      "title": "Feuding Ransomware Groups Leak Each Other's Data",
-      "url": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+      "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
+      "url": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
       "source": "Dark Reading",
-      "publishedAt": "Tue, 28 Apr 2026 20:13:30 GMT",
-      "category": "LEGENDS",
-      "summary": "Former NSA chief Chris Inglis gets candid about the agency's spectacular faceplant during the Snowden revelations. Thirteen years later, he's finally admitting they screwed up—better late than never, we suppose."
+      "publishedAt": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "category": "RIGHTS",
+      "summary": "Congress scrambles to pass another surveillance fig leaf while Section 702 expires, because why fix warrantless spying when you can just rebrand it with a patriotic name?"
+    },
+    {
+      "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 29 Apr 2026 19:32:42 GMT",
+      "category": "WHITE HAT",
+      "summary": "Wiz uses AI reverse engineering to find a GitHub vulnerability that would've been too expensive to hunt manually — the robots are now doing our vulnerability research and honestly, they're pretty good at it."
+    },
+    {
+      "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/boffins_new_gps_interference_alarm/",
+      "source": "The Register",
+      "publishedAt": "2026-04-29T20:11:05.000Z",
+      "category": "ZERO DAY",
+      "summary": "Linux cryptographic code flaw offers a fast lane to root access — because who doesn't love a good local privilege escalation bug in the foundation of half the internet's infrastructure?"
     },
     {
       "title": "Legacy TLS tour continues with Exchange Online blocking old versions from July 2026",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/exchange_online_blocks_old_versions/",
       "source": "The Register",
       "publishedAt": "2026-04-29T18:35:11.000Z",
-      "category": "RIGHTS",
-      "summary": "Four Democrats hold the keys to whether Trump gets his domestic spying wet dream. Nothing quite like having your constitutional rights decided by a handful of politicians with the spine strength of overcooked pasta."
-    },
-    {
-      "title": "GitHub: Woah, a genuinely helpful AI-assisted bug report that isn't total slop. Here, Wiz, take this wad of cash",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/github_woah_a_genuinely_helpful/",
-      "source": "The Register",
-      "publishedAt": "2026-04-29T13:02:16.000Z",
       "category": "ZERO DAY",
-      "summary": "CISA warns that GrassMarlin, the NSA's own networking tool, leaks sensitive data if you can phish your way in. The irony of the surveillance state's own tools being compromised is *chef's kiss* perfection."
-    },
-    {
-      "title": "EU waves through open source age-check tool to keep kids safe online",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/eu_adopts_open_source_ageverification/",
-      "source": "The Register",
-      "publishedAt": "2026-04-29T12:03:22.000Z",
-      "category": "WHITE HAT",
-      "summary": "Wiz researchers used Claude AI to find a high-severity GitHub flaw granting full read/write access to private repos, scoring a fat bounty check. Finally, AI doing something useful instead of generating corporate buzzword salad."
-    },
-    {
-      "title": "Bitcoin drops 3% to $76.3K, ending 4-week rally amid oil price surge",
-      "url": "https://cryptobriefing.com/bitcoin-drops-3-to-763k-ending-4-week-rally-amid-oil-price-surge/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-28T12:46:24Z",
-      "category": "ZERO DAY",
-      "summary": "Critical authentication bypass discovered in cPanel affecting all supported versions. If you're still running websites like it's 2005, this one's going to hurt—patch immediately or prepare for digital carnage."
+      "summary": "Microsoft's patch for a Russian-exploited zero-day was so bad they had to patch the patch — second time's the charm when nation-state actors are breathing down your neck."
     },
     {
       "title": "Claude Mythos Preview and the new rules of cybersecurity",
@@ -63,7 +47,7 @@
       "source": "Techtarget.com",
       "publishedAt": "2026-04-28T09:57:00Z",
       "category": "ZERO DAY",
-      "summary": "PhantomRPC technique lets attackers escalate to System privileges on Windows with no patch in sight. Microsoft's response time continues to be glacial while the attack surface grows like a digital tumor."
+      "summary": "PhantomRPC privilege escalation technique in Windows has no patch and probably won't get one soon — Microsoft's basically shrugging at this fake RPC server attack vector."
     },
     {
       "title": "Medtronic discloses security incident after ShinyHunters claimed theft of 9M+ records",
@@ -71,7 +55,15 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-04-27T19:12:50Z",
       "category": "BREACH",
-      "summary": "French cops arrest 21-year-old 'HexDex' for allegedly breaching 100+ systems including France's Ministry of Education. Kid was apparently speedrunning the entire French digital infrastructure like it was a video game."
+      "summary": "French cops arrest 21-year-old 'HexDex' over 100 alleged breaches including hitting the Ministry of Education for 250K employee records — kid was busy making the digital world his oyster."
+    },
+    {
+      "title": "ShinyHunters Leaks Data of Udemy, Zara, 7-Eleven in Salesforce Linked Breach",
+      "url": "https://hackread.com/shinyhunters-leak-udemy-zara-7-eleven-data-breach/",
+      "source": "HackRead",
+      "publishedAt": "2026-04-27T16:44:26Z",
+      "category": "BREACH",
+      "summary": "Medtronic confirms breach after ShinyHunters claimed theft of 9+ million medical records — because nothing says 'responsible disclosure' like hackers announcing your breach before you do."
     },
     {
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
@@ -79,7 +71,15 @@
       "source": "Internet",
       "publishedAt": "2026-04-28T18:19:00Z",
       "category": "BREACH",
-      "summary": "TeamPCP supply chain nightmare continues with concurrent compromises of Checkmarx, Bitwarden CLI, and xinference PyPI, plus a new npm worm called CanisterSprawl. When the supply chain becomes a conga line of carnage, we're all dancing to their tune."
+      "summary": "TeamPCP supply chain campaign ends 26-day pause with triple compromise hitting Checkmarx, Bitwarden CLI, and xinference PyPI — the gift that keeps on giving to anyone who enjoys chaos in the software supply chain."
+    },
+    {
+      "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+      "url": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+      "source": "Internet",
+      "publishedAt": "2026-04-27T13:30:00Z",
+      "category": "ZERO DAY",
+      "summary": "Critical GitHub RCE flaw (CVE-2026-3854) lets attackers own the platform with a single git push command — because apparently version control systems can be weaponized with elegant simplicity."
     }
   ]
 }
