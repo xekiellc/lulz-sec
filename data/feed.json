@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T08:01:55.084Z",
+  "last_updated": "2026-05-01T12:55:56.239Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Because nothing says 'secure by design' like triple-digit patch counts."
+      "summary": "Microsoft patches a whopping 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Chrome also fixed its fourth zero-day this year because apparently browsers are just vulnerability slot machines now."
+    },
+    {
+      "title": "Bug of the year (so far)? Nasty cPanel vulnerability probably exploited as a 0-day",
+      "url": "https://www.theregister.com/2026/04/30/cpanel_whn_cves/",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-30T10:14:07Z",
+      "category": "ZERO DAY",
+      "summary": "Critical cPanel authentication bypass vulnerability exploited in the wild since February, giving attackers root access to millions of domains. Emergency patches are out, but the horse has already left the barn and burned down the internet."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -15,15 +23,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian GRU hackers are mass-harvesting Microsoft Office tokens by exploiting old router vulnerabilities. Your home router is basically a free ATM for state-sponsored spies at this point."
+      "summary": "Russian military intelligence hackers exploited old router flaws to mass-harvest Microsoft Office authentication tokens. Classic move: why break into the front door when you can own the entire neighborhood through forgotten IoT garbage?"
     },
     {
-      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
-      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
-      "category": "RIGHTS",
-      "summary": "Utah's new anti-VPN law goes live, because apparently the First Amendment doesn't apply to digital privacy. Watch VPN usage skyrocket faster than a Mormon missionary fleeing coffee shops."
+      "title": "Cyber proxy wars escalate as hackers shift to infrastructure targets",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-894559",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2026-04-29T13:20:34Z",
+      "category": "BREACH",
+      "summary": "Sri Lanka loses over $3 million in two separate cyber incidents while recovering from economic crisis. Nothing says 'we're getting back on our feet' like having hackers empty your digital piggy bank twice in a row."
     },
     {
       "title": "Digital Hopes, Real Power: From Connection to Collective Action",
@@ -31,7 +39,15 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
       "category": "FOIA",
-      "summary": "States are scrambling to block public records about ALPR surveillance after FOIA requests exposed their sprawling spy networks. Democracy dies in darkness, but surveillance thrives there too."
+      "summary": "Public records laws exposed ALPR surveillance abuse, so naturally states want to block transparency by changing the laws. Can't have citizens knowing how badly their license plates are being stalked, that would be inconvenient."
+    },
+    {
+      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
+      "category": "RIGHTS",
+      "summary": "Utah's new VPN-targeting law goes into effect, predictably driving surge in VPN usage as residents scramble for privacy. It's almost like authoritarian overreach creates the very behavior it tries to prevent."
     },
     {
       "title": "Democratic Leaders Wanted to Control the Maine Senate Race. Their Pick Just Dropped Out.",
@@ -39,47 +55,31 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 30 Apr 2026 19:40:20 +0000",
       "category": "RIGHTS",
-      "summary": "Senator Ron Wyden is making NSA bootlickers cry, and Tom Cotton is threatening 'consequences' for asking uncomfortable questions. Because nothing screams 'freedom' like intimidating elected officials."
+      "summary": "Ron Wyden pisses off NSA bootlickers by questioning secret surveillance, Tom Cotton threatens 'consequences.' Wyden continues his legendary streak of being the only senator who actually read the Constitution."
     },
     {
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 30 Apr 2026 22:01:00 +0530",
-      "category": "BREACH",
-      "summary": "A 15-year-old allegedly pwned France's secure document agency for 18 million records. When teenagers are your biggest national security threat, maybe reconsider your cybersecurity strategy."
-    },
-    {
-      "title": "Linux cryptographic code flaw offers fast route to root",
-      "url": "https://www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
-      "source": "Theregister.com",
-      "publishedAt": "2026-04-30T00:01:50Z",
-      "category": "ZERO DAY",
-      "summary": "New 'Copy Fail' Linux vulnerability (CVE-2026-31431) gives unprivileged users root access across major distros. Even the penguin isn't safe from catastrophically dumb coding mistakes."
-    },
-    {
-      "title": "Editorial. Challenge of Mythos",
-      "url": "https://www.thehindubusinessline.com/opinion/editorial/editorial-challenge-of-mythos/article70920902.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-29T16:02:06Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft's patch for a Russian-exploited zero-day was so bad they had to patch the patch. CISA warns attackers are still having a field day with Windows systems."
-    },
-    {
-      "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry | TechCrunch",
-      "url": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T13:25:43Z",
-      "category": "BREACH",
-      "summary": "DPRK hackers are using AI to inject malware into npm packages, because North Korea apparently has better DevOps than most Fortune 500 companies. Claude Opus unwittingly became an accomplice."
-    },
-    {
-      "title": "Wiz finds AI has moved from tool to infrastructure, broadening the attack surface",
-      "url": "https://siliconangle.com/2026/04/29/wiz-finds-ai-moved-tool-infrastructure-broadening-attack-surface/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-04-29T21:00:59Z",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "US-Estonian suspect Peter Stokes arrested in Finland for alleged Scattered Spider ties. The international manhunt continues as authorities slowly piece together the cybercrime syndicate's web."
+      "summary": "Scattered Spider senior member 'Tylerb' pleads guilty to wire fraud and identity theft from 2022 SMS phishing campaigns. Another one bites the dust in the eternal game of cat and mouse."
+    },
+    {
+      "title": "Utah’s New Law Targeting VPNs Goes Into Effect Next Week",
+      "url": "https://www.eff.org/deeplinks/2026/04/utahs-new-law-regulating-vpns-goes-effect-next-week",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 23:33:38 +0000",
+      "category": "LEGENDS",
+      "summary": "Germany doxes 'UNKN,' the elusive Russian mastermind behind REvil and GandCrab ransomware gangs responsible for 130+ cyber sabotage acts. Daniil Shchukin's anonymity finally cracked—turns out even ghost kings cast shadows."
+    },
+    {
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 01 May 2026 15:13:00 +0530",
+      "category": "LEGENDS",
+      "summary": "Two cybersecurity professionals get 4-year sentences for facilitating BlackCat ransomware attacks in 2023. The ultimate insider threat: when the people paid to protect you decide crime pays better."
     }
   ]
 }
