@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T02:02:54.446Z",
+  "last_updated": "2026-05-01T08:01:55.084Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped patches for 167 vulnerabilities including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' — because apparently Redmond's April Fool's joke is pretending they care about security."
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Because nothing says 'secure by design' like triple-digit patch counts."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -15,7 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military intelligence turned old router vulns into a Microsoft Office token harvesting operation. When your IoT security is so bad it becomes a nation-state highway to corporate email — chef's kiss."
+      "summary": "Russian GRU hackers are mass-harvesting Microsoft Office tokens by exploiting old router vulnerabilities. Your home router is basically a free ATM for state-sponsored spies at this point."
+    },
+    {
+      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
+      "category": "RIGHTS",
+      "summary": "Utah's new anti-VPN law goes live, because apparently the First Amendment doesn't apply to digital privacy. Watch VPN usage skyrocket faster than a Mormon missionary fleeing coffee shops."
     },
     {
       "title": "Digital Hopes, Real Power: From Connection to Collective Action",
@@ -23,7 +31,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
       "category": "FOIA",
-      "summary": "FOIA requests exposed how ALPR surveillance actually works, so naturally states are now trying to classify the public records that reveal their digital dragnet. Can't have transparency ruining a perfectly good police state."
+      "summary": "States are scrambling to block public records about ALPR surveillance after FOIA requests exposed their sprawling spy networks. Democracy dies in darkness, but surveillance thrives there too."
     },
     {
       "title": "Democratic Leaders Wanted to Control the Maine Senate Race. Their Pick Just Dropped Out.",
@@ -31,15 +39,7 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 30 Apr 2026 19:40:20 +0000",
       "category": "RIGHTS",
-      "summary": "Ron Wyden is making the NSA's lapdog Tom Cotton big mad by demanding transparency about secret court opinions. Cotton's threatening 'consequences' for constitutional oversight — how very democratic."
-    },
-    {
-      "title": "The never-ending supply chain attacks worm into SAP npm packages, other dev tools",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/supply_chain_attacks_sap_npm_packages/",
-      "source": "The Register",
-      "publishedAt": "2026-04-30T23:21:53.000Z",
-      "category": "RIGHTS",
-      "summary": "Mike Johnson bribed the Freedom Caucus with crypto provisions to pass domestic spy law reauthorization. Nothing says 'small government' like surveilling Americans while pumping digital tulips."
+      "summary": "Senator Ron Wyden is making NSA bootlickers cry, and Tom Cotton is threatening 'consequences' for asking uncomfortable questions. Because nothing screams 'freedom' like intimidating elected officials."
     },
     {
       "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
@@ -47,7 +47,7 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 30 Apr 2026 22:01:00 +0530",
       "category": "BREACH",
-      "summary": "A 15-year-old allegedly breached France's secure document agency and leaked 18 million records. Teen shows government cybersecurity is about as robust as their wine regulations."
+      "summary": "A 15-year-old allegedly pwned France's secure document agency for 18 million records. When teenagers are your biggest national security threat, maybe reconsider your cybersecurity strategy."
     },
     {
       "title": "Linux cryptographic code flaw offers fast route to root",
@@ -55,7 +55,7 @@
       "source": "Theregister.com",
       "publishedAt": "2026-04-30T00:01:50Z",
       "category": "ZERO DAY",
-      "summary": "New 'Copy Fail' Linux vulnerability lets unprivileged users become root across major distributions. Ten lines of exploit code and boom — you're God on the machine."
+      "summary": "New 'Copy Fail' Linux vulnerability (CVE-2026-31431) gives unprivileged users root access across major distros. Even the penguin isn't safe from catastrophically dumb coding mistakes."
     },
     {
       "title": "Editorial. Challenge of Mythos",
@@ -63,15 +63,15 @@
       "source": "BusinessLine",
       "publishedAt": "2026-04-29T16:02:06Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft's patch for that Russian-exploited zero-day was apparently written by interns because there's another Windows flaw under active attack. Patch Tuesday, meet Patch Every Damn Day."
+      "summary": "Microsoft's patch for a Russian-exploited zero-day was so bad they had to patch the patch. CISA warns attackers are still having a field day with Windows systems."
     },
     {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after their 2022 SMS phishing spree. Another young talent gets processed by the justice system instead of hired by it."
+      "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T13:25:43Z",
+      "category": "BREACH",
+      "summary": "DPRK hackers are using AI to inject malware into npm packages, because North Korea apparently has better DevOps than most Fortune 500 companies. Claude Opus unwittingly became an accomplice."
     },
     {
       "title": "Wiz finds AI has moved from tool to infrastructure, broadening the attack surface",
@@ -79,7 +79,7 @@
       "source": "SiliconANGLE News",
       "publishedAt": "2026-04-29T21:00:59Z",
       "category": "LEGENDS",
-      "summary": "US-Estonian suspect Peter Stokes arrested in Finland over alleged Scattered Spider ties. International cybercrime manhunt or just another Tuesday in the proxy war economy."
+      "summary": "US-Estonian suspect Peter Stokes arrested in Finland for alleged Scattered Spider ties. The international manhunt continues as authorities slowly piece together the cybercrime syndicate's web."
     }
   ]
 }
