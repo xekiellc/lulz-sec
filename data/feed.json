@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T19:06:09.734Z",
+  "last_updated": "2026-05-01T02:02:54.446Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,23 +7,55 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and 'BlueHammer' in Windows Defender—because apparently April showers bring CVE flowers."
+      "summary": "Microsoft just dropped patches for 167 vulnerabilities including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' — because apparently Redmond's April Fool's joke is pretending they care about security."
     },
     {
-      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "category": "BREACH",
+      "summary": "Russian military intelligence turned old router vulns into a Microsoft Office token harvesting operation. When your IoT security is so bad it becomes a nation-state highway to corporate email — chef's kiss."
+    },
+    {
+      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
+      "category": "FOIA",
+      "summary": "FOIA requests exposed how ALPR surveillance actually works, so naturally states are now trying to classify the public records that reveal their digital dragnet. Can't have transparency ruining a perfectly good police state."
+    },
+    {
+      "title": "Democratic Leaders Wanted to Control the Maine Senate Race. Their Pick Just Dropped Out.",
+      "url": "https://theintercept.com/2026/04/30/maine-janet-mills-graham-platner-senate/",
+      "source": "The Intercept",
+      "publishedAt": "Thu, 30 Apr 2026 19:40:20 +0000",
+      "category": "RIGHTS",
+      "summary": "Ron Wyden is making the NSA's lapdog Tom Cotton big mad by demanding transparency about secret court opinions. Cotton's threatening 'consequences' for constitutional oversight — how very democratic."
+    },
+    {
+      "title": "The never-ending supply chain attacks worm into SAP npm packages, other dev tools",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/supply_chain_attacks_sap_npm_packages/",
       "source": "The Register",
-      "publishedAt": "2026-04-30T16:39:22.000Z",
-      "category": "ZERO DAY",
-      "summary": "Google's Gemini CLI gets a perfect 10.0 CVSS score for RCE—their AI might be smart, but their security code definitely isn't."
+      "publishedAt": "2026-04-30T23:21:53.000Z",
+      "category": "RIGHTS",
+      "summary": "Mike Johnson bribed the Freedom Caucus with crypto provisions to pass domestic spy law reauthorization. Nothing says 'small government' like surveilling Americans while pumping digital tulips."
     },
     {
-      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
       "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
       "source": "The Hacker News",
       "publishedAt": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "category": "BREACH",
+      "summary": "A 15-year-old allegedly breached France's secure document agency and leaked 18 million records. Teen shows government cybersecurity is about as robust as their wine regulations."
+    },
+    {
+      "title": "Linux cryptographic code flaw offers fast route to root",
+      "url": "https://www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
+      "source": "Theregister.com",
+      "publishedAt": "2026-04-30T00:01:50Z",
       "category": "ZERO DAY",
-      "summary": "cPanel gets rooted via authentication bypass affecting millions of domains—because why secure the thing that secures everything else, right?"
+      "summary": "New 'Copy Fail' Linux vulnerability lets unprivileged users become root across major distributions. Ten lines of exploit code and boom — you're God on the machine."
     },
     {
       "title": "Editorial. Challenge of Mythos",
@@ -31,55 +63,23 @@
       "source": "BusinessLine",
       "publishedAt": "2026-04-29T16:02:06Z",
       "category": "ZERO DAY",
-      "summary": "Linux 'Copy Fail' vulnerability lets unprivileged users become root across major distros—turns out copying files can copy you some privileges too."
-    },
-    {
-      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
-      "source": "The Register",
-      "publishedAt": "2026-04-30T11:35:10.000Z",
-      "category": "BREACH",
-      "summary": "15-year-old allegedly pwns France's secure document agency for 18M records—proving that French cybersecurity is about as robust as their Maginot Line."
+      "summary": "Microsoft's patch for that Russian-exploited zero-day was apparently written by interns because there's another Windows flaw under active attack. Patch Tuesday, meet Patch Every Damn Day."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "BREACH",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft—another script kiddie learns that playing with fire gets you burned by the feds."
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after their 2022 SMS phishing spree. Another young talent gets processed by the justice system instead of hired by it."
     },
     {
-      "title": "EFF Submission to UN Report on the Role of Media in the Context of Israel’s Policies Toward Palestinians",
-      "url": "https://www.eff.org/deeplinks/2026/04/eff-submission-un-report-role-media-context-israels-policies-toward-palestinians",
-      "source": "EFF",
-      "publishedAt": "Wed, 29 Apr 2026 21:22:55 +0000",
-      "category": "FOIA",
-      "summary": "EFF uses public records to expose ALPR surveillance abuse, now states want to hide the data—because transparency is only good when it's not embarrassing."
-    },
-    {
-      "title": "The GUARD Act Isn’t Targeting Dangerous AI—It’s Blocking Everyday Internet Use",
-      "url": "https://www.eff.org/deeplinks/2026/04/guard-act-isnt-targeting-dangerous-ai-its-blocking-everyday-internet-use",
-      "source": "EFF",
-      "publishedAt": "Mon, 27 Apr 2026 23:22:57 +0000",
-      "category": "RIGHTS",
-      "summary": "The open social web needs Section 230 to survive and overthrow Big Tech—because sometimes the law you hate is the law that saves you."
-    },
-    {
-      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
-      "url": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 30 Apr 2026 13:45:58 GMT",
-      "category": "RIGHTS",
-      "summary": "The GUARD Act masquerades as AI safety while actually blocking everyday internet use for minors—classic moral panic meets legislative overreach."
-    },
-    {
-      "title": "ICE Watchers Worry Democrats Are Trying to Co-Opt Their Movements For Votes",
-      "url": "https://theintercept.com/2026/04/29/minnesota-congress-ice-democrats-matt-little/",
-      "source": "The Intercept",
-      "publishedAt": "Wed, 29 Apr 2026 21:41:43 +0000",
-      "category": "RIGHTS",
-      "summary": "Mike Johnson uses crypto promises to get Freedom Caucus support for domestic spy law expansion—because nothing says 'freedom' like surveilling your own citizens."
+      "title": "Wiz finds AI has moved from tool to infrastructure, broadening the attack surface",
+      "url": "https://siliconangle.com/2026/04/29/wiz-finds-ai-moved-tool-infrastructure-broadening-attack-surface/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-04-29T21:00:59Z",
+      "category": "LEGENDS",
+      "summary": "US-Estonian suspect Peter Stokes arrested in Finland over alleged Scattered Spider ties. International cybercrime manhunt or just another Tuesday in the proxy war economy."
     }
   ]
 }
