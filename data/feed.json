@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T18:57:28.332Z",
+  "last_updated": "2026-05-02T01:51:19.233Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,39 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's latest Patch Tuesday fixes a whopping 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When your security software has security flaws, you know we're living in the best timeline."
-    },
-    {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence exploited router vulnerabilities to mass-harvest Microsoft Office tokens, proving once again that your network is only as strong as your weakest IoT toaster. Classic APT move: why break down the front door when the back router is wide open?"
-    },
-    {
-      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
-      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
-      "category": "RIGHTS",
-      "summary": "Utah's anti-VPN law goes live next week, because nothing says 'freedom' like legislating away privacy tools. Predictably, VPN usage surges wherever these ham-fisted age verification laws land—thanks for the marketing boost, lawmakers!"
-    },
-    {
-      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
-      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
-      "category": "FOIA",
-      "summary": "FOIA requests exposed ALPR surveillance abuse, so naturally states want to block public oversight of license plate tracking dragnet. Can't have transparency ruining a perfectly good police state, can we?"
-    },
-    {
-      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
-      "source": "The Register",
-      "publishedAt": "2026-05-01T13:10:15.000Z",
-      "category": "RIGHTS",
-      "summary": "Senator Ron Wyden is catching heat from NSA bootlickers like Tom Cotton for demanding transparency about secret surveillance court opinions. When asking questions about government spying gets you threats, you know you're over the target."
+      "summary": "Microsoft drops a casual 167 vulns including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Just another Tuesday in Redmond's perpetual game of security whack-a-mole."
     },
     {
       "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
@@ -47,23 +15,23 @@
       "source": "The Register",
       "publishedAt": "2026-05-01T11:42:01.000Z",
       "category": "ZERO DAY",
-      "summary": "Critical cPanel vulnerability already being exploited in the wild, with ransomware gangs moving faster than patch deployment. CISA's known-exploited list grows while millions of hosting sites play vulnerability roulette."
+      "summary": "Critical cPanel vuln is getting exploited in the wild with ransomware demands already rolling in. Millions of sites potentially pwned because hosting infrastructure is apparently made of hopes and dreams."
     },
     {
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 01 May 2026 15:13:00 +0530",
-      "category": "BREACH",
-      "summary": "Two cybersecurity professionals get 4 years for facilitating BlackCat ransomware attacks—when the defenders become the attackers, trust issues multiply exponentially. Nothing quite like insider knowledge weaponized for maximum chaos."
-    },
-    {
-      "title": "Great responsibility, without great power",
-      "url": "https://blog.talosintelligence.com/great-responsibility-without-great-power/",
-      "source": "Talosintelligence.com",
-      "publishedAt": "2026-04-30T18:00:07Z",
+      "title": "cPanel drops patches for exploited authentication bypass zero-day",
+      "url": "https://www.itnews.com.au/news/cpanel-drops-patches-for-exploited-authentication-bypass-zero-day-625508",
+      "source": "iTnews",
+      "publishedAt": "2026-04-30T20:46:00Z",
       "category": "ZERO DAY",
-      "summary": "SonicWall firewall vulnerabilities allow security bypass and service crashes—your network's guardian becomes its weakest link. Emergency patches required before script kiddies turn your perimeter defense into Swiss cheese."
+      "summary": "Watchtowr drops their legendary snark on the cPanel authentication bypass CVE-2026-41940. When they say 'the internet is falling down,' they're not being dramatic—they're being accurate."
+    },
+    {
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "category": "BREACH",
+      "summary": "Russian military intelligence hackers are mass-harvesting Microsoft Office tokens through compromised routers. Because why hack individual users when you can automate the apocalypse?"
     },
     {
       "title": "Polymarket Rejects Data Breach Claims as Hacker Alleges 300K Records Stolen",
@@ -71,15 +39,47 @@
       "source": "HackRead",
       "publishedAt": "2026-04-29T16:22:03Z",
       "category": "BREACH",
-      "summary": "French authorities probe 15-year-old who allegedly hacked the national ID agency and tried selling millions of citizen records on dark web. Kid's got skills but terrible OpSec—probably shouldn't have bragged about it online."
+      "summary": "A 15-year-old allegedly pwned France's entire ID agency and tried selling millions of citizens' data on the dark web. Gen Z strikes again with their casual approach to nation-state-level breaches."
     },
     {
-      "title": "Copy Fail (CVE-2026-31431): Frequently asked questions about Linux kernel privilege escalation vulnerability",
-      "url": "https://www.tenable.com/blog/copy-fail-cve-2026-31431-frequently-asked-questions-about-linux-kernel-privilege-escalation",
-      "source": "Tenable.com",
-      "publishedAt": "2026-04-30T15:50:50Z",
+      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T19:39:00Z",
       "category": "BREACH",
-      "summary": "Sri Lanka loses over $3M in separate cyber incidents while recovering from debt crisis—hackers kicking a country when it's already down. Financial cybercrime hits different when your treasury is already running on fumes."
+      "summary": "Sri Lanka loses over $3 million in two separate cyber incidents while recovering from debt crisis. When you're already broke and hackers decide to kick you while you're down."
+    },
+    {
+      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
+      "category": "FOIA",
+      "summary": "FOIA requests are exposing ALPR surveillance abuse, so naturally states want to block public access to the data. Transparency is only good when it doesn't reveal how dystopian we've become."
+    },
+    {
+      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
+      "category": "RIGHTS",
+      "summary": "Utah's new anti-VPN law goes live next week, because nothing says 'freedom' like criminalizing basic privacy tools. Watch VPN usage surge faster than a DDoS attack."
+    },
+    {
+      "title": "Trump Bulldozed a 1,000-Year-Old Archeological Site to Make Room for a Second Border Wall",
+      "url": "https://theintercept.com/2026/04/30/arizona-archeological-site-bulldozed-border-wall/",
+      "source": "The Intercept",
+      "publishedAt": "Thu, 30 Apr 2026 23:01:25 +0000",
+      "category": "RIGHTS",
+      "summary": "FBI reassigned 9,000 agents—a quarter of their workforce—to hunt immigrants under Trump's deportation push. National security takes a backseat to political theater once again."
+    },
+    {
+      "title": "Best of Both Sides | iMessage from Claude Mythos: It’s too late for regulation, AI needs slowing down",
+      "url": "https://indianexpress.com/article/opinion/columns/best-both-sides-imessage-claude-mythos-late-regulation-ai-slowing-down-10664748/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-01T00:34:10Z",
+      "category": "LEGENDS",
+      "summary": "Two cybersecurity professionals get 4-year sentences for BlackCat ransomware attacks. When the defenders become the attackers, you know the industry's moral compass is completely fucked."
     }
   ]
 }
