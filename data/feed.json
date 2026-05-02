@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:19:37.833Z",
+  "last_updated": "2026-05-02T12:45:54.971Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,31 +7,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped fixes for 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Because apparently April showers bring security flowers, or something equally catastrophic."
+      "summary": "Microsoft just dropped 167 security fixes in one go, including a SharePoint zero-day and a Windows Defender flaw hilariously dubbed 'BlueHammer.' Nothing says 'we've got this under control' like patching 167 holes at once."
+    },
+    {
+      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
+      "source": "The Register",
+      "publishedAt": "2026-05-01T13:10:15.000Z",
+      "category": "ZERO DAY",
+      "summary": "Britain's cyber agency warns that AI is about to unleash a 'patch tsunami' by digging up decades of buried code flaws. Turns out all those technical shortcuts are finally coming home to roost, and AI is playing debt collector."
+    },
+    {
+      "title": "Linux exploit instantly grants administrator access on most distributions since 2017 — cryptography optimization snafu grants root privileges to local users",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/linux-exploit-instantly-grants-administrator-access-on-most-distributions-since-2017-cryptography-optimization-snafu-grants-root-privileges-to-local-users",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-05-01T10:20:00Z",
+      "category": "ZERO DAY",
+      "summary": "An AI-equipped security researcher just found a nine-year-old zero-day in the Linux kernel that's been hiding in plain sight since 2017. Sometimes the best bugs are the ones that age like fine wine."
     },
     {
       "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
       "source": "The Register",
       "publishedAt": "2026-05-01T11:42:01.000Z",
-      "category": "ZERO DAY",
-      "summary": "Critical cPanel vulnerability is getting hammered in the wild with ransomware crews already capitalizing on millions of potentially exposed sites. The backbone of the internet is once again made of graham crackers."
-    },
-    {
-      "title": "cPanel drops patches for exploited authentication bypass zero-day",
-      "url": "https://www.itnews.com.au/news/cpanel-drops-patches-for-exploited-authentication-bypass-zero-day-625508",
-      "source": "iTnews",
-      "publishedAt": "2026-04-30T20:46:00Z",
-      "category": "ZERO DAY",
-      "summary": "Watchtowr drops their trademark snark on the cPanel authentication bypass CVE-2026-41940 that's currently making hosting providers everywhere question their life choices. 'The Internet Is Falling Down' indeed."
-    },
-    {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military hackers are exploiting router vulns to mass-harvest Microsoft Office tokens because apparently your ancient Linksys is now a state-sponsored espionage tool. Who could have seen this coming?"
+      "summary": "Critical cPanel vulnerability is being actively exploited with 'millions' of sites potentially exposed, and at least one victim is already facing ransomware demands. When the backbone of web hosting breaks, everyone feels it."
+    },
+    {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
+      "category": "BREACH",
+      "summary": "Cybersecurity firm Trellix got their source code stolen because irony is apparently the universe's favorite programming language. Nothing builds customer confidence like a security company that can't secure its own code."
     },
     {
       "title": "Polymarket Rejects Data Breach Claims as Hacker Alleges 300K Records Stolen",
@@ -39,15 +47,7 @@
       "source": "HackRead",
       "publishedAt": "2026-04-29T16:22:03Z",
       "category": "BREACH",
-      "summary": "A 15-year-old allegedly pwned France's entire ID agency and tried hawking millions of citizen records on the dark web. The kids are definitely not alright, but their OPSEC game is strong."
-    },
-    {
-      "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites | TechCrunch",
-      "url": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T19:39:00Z",
-      "category": "BREACH",
-      "summary": "Sri Lanka just disclosed they've lost over $3 million in separate cyber incidents while recovering from economic crisis. When it rains, it pours government treasury funds into hacker wallets."
+      "summary": "A 15-year-old hacker allegedly breached France's ID agency and tried selling millions of citizens' data on the dark web. Gen Z doesn't mess around when it comes to making pocket money."
     },
     {
       "title": "Digital Hopes, Real Power: From Connection to Collective Action",
@@ -55,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
       "category": "FOIA",
-      "summary": "FOIA requests exposed the dystopian reach of ALPR surveillance, so naturally states are now trying to block public records access. Transparency is apparently only good until citizens actually see what's happening."
+      "summary": "Public records laws have been exposing ALPR surveillance abuse nationwide, so naturally states want to block what the public can see. Transparency is great until it reveals how creepy the panopticon really is."
     },
     {
       "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
@@ -63,15 +63,15 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
       "category": "RIGHTS",
-      "summary": "Utah's anti-VPN law goes live next week because nothing says 'freedom' like forcing citizens to browse the web naked while the state watches. Time to dust off those Tor bridges, folks."
+      "summary": "Utah's new anti-VPN law goes into effect next week, because nothing says 'freedom' like forcing citizens to browse the internet naked. Predictably, VPN usage is already surging."
     },
     {
-      "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
-      "url": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 01 May 2026 14:39:55 GMT",
-      "category": "BREACH",
-      "summary": "North Korea now controls 76% of all stolen crypto in 2026, turning digital heists into a national industry with possible AI assistance. The DPRK's economy is basically one giant ransomware operation at this point."
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "source": "The Register",
+      "publishedAt": "2026-05-02T08:30:09.000Z",
+      "category": "RIGHTS",
+      "summary": "The FBI redirected 9,000 personnel—a quarter of their staff—to target immigrants under Trump's deportation push, potentially compromising national security. Priorities: sorted, apparently."
     },
     {
       "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
@@ -79,7 +79,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 01 May 2026 14:52:09 +0000",
       "category": "LEGENDS",
-      "summary": "Germany just doxxed 'UNKN,' the mastermind behind REvil and GandCrab ransomware operations, revealing 31-year-old Daniil Shchukin's face to the world. Another legend falls to operational security failures and persistent law enforcement."
+      "summary": "Germany just doxed 'UNKN,' the elusive mastermind behind REvil and GandCrab ransomware gangs—31-year-old Russian Daniil Shchukin finally has a face to match his legendary handle. Even digital ghosts eventually get unmasked."
     }
   ]
 }
