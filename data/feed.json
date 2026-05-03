@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-03T07:47:38.252Z",
+  "last_updated": "2026-05-03T12:45:34.460Z",
   "articles": [
     {
-      "title": "Vulnerability remediation: Match CVEs to asset owners in seconds with Tenable Hexa AI",
-      "url": "https://www.tenable.com/blog/vulnerability-remediation-match-cves-to-asset-owners-in-seconds-with-tenable",
-      "source": "Tenable.com",
-      "publishedAt": "2026-05-01T13:00:00Z",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "CopyFail drops and it's a doozy — CVE-2026-31431 lets any schmuck with local access become root on most Linux boxes. Microsoft's suddenly very helpful with the disclosure, which is either refreshingly responsible or hilariously ironic."
+      "summary": "Microsoft delivers a whopping 167 vulnerabilities in April's Patch Tuesday, including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When your monthly security update looks like a phone book, maybe it's time to question some life choices."
     },
     {
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
@@ -15,15 +15,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 02 May 2026 12:11:00 +0530",
       "category": "ZERO DAY",
-      "summary": "CISA fast-tracks that Linux root escalation bug to their Known Exploited Vulnerabilities list because apparently script kiddies don't waste time. When CISA moves this fast, you know the wild is already very, very wild."
-    },
-    {
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
-      "category": "ZERO DAY",
-      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Meanwhile Chrome notches its fourth zero-day of the year because apparently we're speed-running browser exploits now."
+      "summary": "CISA adds CVE-2026-31431 to its Known Exploited Vulnerabilities catalog as attackers are actively rooting Linux boxes in the wild. Another day, another privilege escalation turning users into gods of their own digital domains."
     },
     {
       "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
@@ -31,15 +23,7 @@
       "source": "The Register",
       "publishedAt": "2026-05-01T11:42:01.000Z",
       "category": "BREACH",
-      "summary": "Critical cPanel vulnerability gets weaponized before patches even land, with ransomware gangs already cashing in. When millions of sites share the same admin panel, one bug becomes everyone's very bad day."
-    },
-    {
-      "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
-      "source": "Microsoft.com",
-      "publishedAt": "2026-05-02T03:06:08Z",
-      "category": "BREACH",
-      "summary": "French 15-year-old allegedly hacks the national ID agency and tries to flip millions of citizen records on the dark web. Gen Z really said 'hold my energy drink' to traditional cybercrime career paths."
+      "summary": "Critical cPanel vulnerability already being exploited with ransomware demands hitting victims before patches even landed. Millions of sites potentially exposed because apparently we're still learning that 'patch first, ask questions later' isn't optional."
     },
     {
       "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
@@ -47,7 +31,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
       "category": "BREACH",
-      "summary": "Trellix admits to source code breach with the corporate equivalent of 'we recently identified' — translation: we got owned and hope nobody notices the crown jewels walking out the door. Cybersecurity company self-owns are always *chef's kiss*."
+      "summary": "Cybersecurity company Trellix gets breached with unauthorized source code access, proving that even the defenders aren't immune to getting pwned. The irony is so thick you could cut it with a compromised certificate."
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+      "source": "Microsoft.com",
+      "publishedAt": "2026-05-02T03:06:08Z",
+      "category": "BREACH",
+      "summary": "France opens probe into 15-year-old who allegedly hacked the national ID agency and tried selling millions of citizens' data on the dark web. Kid's got entrepreneurial spirit, just needs better career guidance."
     },
     {
       "title": "Digital Hopes, Real Power: From Connection to Collective Action",
@@ -55,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
       "category": "FOIA",
-      "summary": "Public records laws expose the surveillance state's license plate tracking empire, so naturally states want to classify what citizens can see. FOIA wins are making ALPR dystopia visible, and the panopticon doesn't like the spotlight."
+      "summary": "Public records laws expose ALPR surveillance abuses, so naturally states want to block transparency efforts. Because nothing says 'we're the good guys' like frantically covering up mass surveillance programs when citizens start asking questions."
     },
     {
       "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
@@ -63,23 +55,31 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
       "category": "RIGHTS",
-      "summary": "Utah's anti-VPN law goes live next week because nothing says 'freedom' like mandating digital strip searches. Cue the predictable VPN usage surge as residents remember what privacy feels like."
+      "summary": "Utah's new anti-VPN law goes into effect, because apparently privacy tools are now the enemy of freedom. Watch VPN usage spike as residents realize their state government thinks anonymity is a bug, not a feature."
+    },
+    {
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "source": "The Register",
+      "publishedAt": "2026-05-02T08:30:09.000Z",
+      "category": "RIGHTS",
+      "summary": "FBI redirects 9,000 personnel to immigration enforcement under Trump's deportation push, potentially compromising national security. Nothing says 'protecting America' like gutting your cybercrime units to chase paperwork violations."
     },
     {
       "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
       "source": "The Register",
       "publishedAt": "2026-05-01T13:10:15.000Z",
-      "category": "ZERO DAY",
-      "summary": "UK's cyber agency warns AI is about to unleash a 'patch tsunami' by finding decades of buried code debt all at once. Technical shortcuts are coming home to roost, and the bill's arriving with compound interest."
+      "category": "WHITE HAT",
+      "summary": "Britain's cyber agency warns that AI is about to unleash decades of buried code vulnerabilities all at once. The technical debt chickens are coming home to roost, and they're bringing their entire extended family."
     },
     {
-      "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
-      "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
-      "source": "EFF",
-      "publishedAt": "Fri, 01 May 2026 14:52:09 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany doxes 'UNKN,' the mastermind behind REvil and GandCrab ransomware operations that terrorized the internet. Daniil Shchukin's face reveal marks the end of an era when ransomware kingpins could hide behind handles."
+      "title": "ADT data breach exposes customer information",
+      "url": "https://www.foxnews.com/tech/adt-data-breach-exposes-customer-information",
+      "source": "Fox News",
+      "publishedAt": "2026-05-01T16:30:43Z",
+      "category": "ZERO DAY",
+      "summary": "CopyFail Linux vulnerability allows any user to escalate to root privileges across most distributions and kernels. Local privilege escalation strikes again, proving that sometimes the call is coming from inside the house."
     }
   ]
 }
