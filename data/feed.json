@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T18:43:17.804Z",
+  "last_updated": "2026-05-03T01:54:01.223Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and a Windows Defender flaw dubbed 'BlueHammer' — because apparently even the defenders need defending. Chrome also patched its fourth zero-day this year because 2026 is shaping up to be a banner year for bug hunting."
+      "summary": "Microsoft drops 167 vulns like confetti, including a SharePoint zero-day and something deliciously named 'BlueHammer' in Windows Defender. April showers bring security flowers, apparently."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -15,23 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military intelligence weaponized ancient router vulnerabilities to mass-harvest Microsoft Office tokens like digital pickpockets at a tech conference. The campaign proves that sometimes the oldest tricks work best when everyone's too busy chasing shiny new threats."
-    },
-    {
-      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
-      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
-      "category": "FOIA",
-      "summary": "FOIA warriors used open records laws to expose ALPR surveillance abuse, so naturally states want to slam the transparency door shut. Because nothing says 'we're totally not doing anything sketchy' like making it illegal to see what you're doing."
-    },
-    {
-      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
-      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
-      "category": "RIGHTS",
-      "summary": "Utah's anti-VPN law goes live next week because apparently digital privacy is now a crime in the Beehive State. Expect VPN usage to spike faster than a teenager's heart rate when their parents walk in."
+      "summary": "Russian GRU hackers turn grandma's router into Microsoft Office token harvesting machines. Because why break in when you can just wait for everyone to log in through your digital honeypot?"
     },
     {
       "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
@@ -39,31 +23,7 @@
       "source": "The Register",
       "publishedAt": "2026-05-01T11:42:01.000Z",
       "category": "ZERO DAY",
-      "summary": "Critical cPanel vulnerability already being exploited in the wild with ransomware following close behind. When the backbone of millions of websites gets pwned, everyone's day just got significantly worse."
-    },
-    {
-      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
-      "source": "The Register",
-      "publishedAt": "2026-05-01T13:10:15.000Z",
-      "category": "WHITE HAT",
-      "summary": "Britain's cyber agency warns that AI bug hunting is about to unleash a 'patch tsunami' as decades of buried code debt comes due all at once. The bill for years of 'we'll fix it later' shortcuts is finally arriving, and it's compound interest time."
-    },
-    {
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
-      "category": "BREACH",
-      "summary": "Cybersecurity company Trellix admits unauthorized access to its source code repository. Nothing quite screams confidence in your security products like getting your own crown jewels stolen."
-    },
-    {
-      "title": "Polymarket Rejects Data Breach Claims as Hacker Alleges 300K Records Stolen",
-      "url": "https://hackread.com/polymarket-rejects-data-breach-hacker-records-stolen/",
-      "source": "HackRead",
-      "publishedAt": "2026-04-29T16:22:03Z",
-      "category": "BREACH",
-      "summary": "A 15-year-old allegedly hacked France's ID agency and tried to sell millions of citizen records on the dark web. Gen Z continues to prove that age is just a number when it comes to digital chaos."
+      "summary": "Critical cPanel vuln gets weaponized faster than you can say 'shared hosting nightmare.' CISA confirms active exploitation while victims wake up to ransomware love letters."
     },
     {
       "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
@@ -71,7 +31,7 @@
       "source": "Infosecurity Magazine",
       "publishedAt": "2026-05-01T12:00:00Z",
       "category": "ZERO DAY",
-      "summary": "CopyFail Linux kernel vulnerability enables any user to escalate to root privileges across most distributions. Local privilege escalation vulnerabilities: because sometimes you don't need to break in when you can just walk upstairs."
+      "summary": "CopyFail Linux kernel vuln hands out root privileges like Halloween candy to any local user. Most kernels and distros affected because sharing is caring, even when it shouldn't be."
     },
     {
       "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
@@ -79,7 +39,47 @@
       "source": "EFF",
       "publishedAt": "Fri, 01 May 2026 14:52:09 +0000",
       "category": "LEGENDS",
-      "summary": "Germany doxes 'UNKN,' the elusive mastermind behind REvil and GandCrab ransomware empires — 31-year-old Daniil Shchukin now has a face to match his legendary chaos. Another reminder that even the most shadowy digital ghosts eventually cast real-world shadows."
+      "summary": "German authorities finally unmask 'UNKN,' the 31-year-old Russian mastermind behind REvil and GandCrab ransomware empires. Daniil Shchukin's resume: 130+ acts of digital sabotage and counting."
+    },
+    {
+      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
+      "category": "FOIA",
+      "summary": "ALPR surveillance networks exposed through public records requests, so naturally states want to pull the transparency curtains shut. Can't have citizens knowing about their own surveillance, apparently."
+    },
+    {
+      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
+      "url": "https://www.eff.org/deeplinks/2026/04/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-block-what",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
+      "category": "RIGHTS",
+      "summary": "Utah declares war on VPNs next week because nothing says 'freedom' like blocking the tools that preserve it. Predictable VPN usage surge incoming as residents scramble for digital anonymity."
+    },
+    {
+      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
+      "source": "The Register",
+      "publishedAt": "2026-05-01T13:10:15.000Z",
+      "category": "ZERO DAY",
+      "summary": "AI discovers decades of buried code sins faster than developers can patch them, creating a 'patch tsunami.' Britain's cyber agency warns the technical debt collectors are finally calling."
+    },
+    {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
+      "category": "BREACH",
+      "summary": "Trellix gets pwned with unauthorized source code repository access because even cybersecurity companies aren't immune to irony. Forensic experts called in to explain how the watchers got watched."
+    },
+    {
+      "title": "Polymarket Rejects Data Breach Claims as Hacker Alleges 300K Records Stolen",
+      "url": "https://hackread.com/polymarket-rejects-data-breach-hacker-records-stolen/",
+      "source": "HackRead",
+      "publishedAt": "2026-04-29T16:22:03Z",
+      "category": "BREACH",
+      "summary": "French 15-year-old allegedly hacks national ID agency and tries selling millions of citizen records on the dark web. Kids these days skip lemonade stands and go straight to data brokering."
     }
   ]
 }
