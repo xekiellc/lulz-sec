@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T12:45:34.460Z",
+  "last_updated": "2026-05-03T18:43:49.733Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft delivers a whopping 167 vulnerabilities in April's Patch Tuesday, including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When your monthly security update looks like a phone book, maybe it's time to question some life choices."
+      "summary": "Microsoft just dropped 167 security fixes including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' — because apparently even the security software needs securing. Chrome also patched its fourth zero-day this year, keeping the vulnerability Olympics competitive."
+    },
+    {
+      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
+      "source": "The Register",
+      "publishedAt": "2026-05-01T11:42:01.000Z",
+      "category": "ZERO DAY",
+      "summary": "Critical cPanel vulnerability is already being exploited in the wild with ransomware following close behind, because hosting millions of websites with unpatched flaws is apparently someone's idea of fun. CISA fast-tracked this to their 'oh shit' list for good reason."
     },
     {
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
@@ -15,23 +23,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 02 May 2026 12:11:00 +0530",
       "category": "ZERO DAY",
-      "summary": "CISA adds CVE-2026-31431 to its Known Exploited Vulnerabilities catalog as attackers are actively rooting Linux boxes in the wild. Another day, another privilege escalation turning users into gods of their own digital domains."
-    },
-    {
-      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
-      "source": "The Register",
-      "publishedAt": "2026-05-01T11:42:01.000Z",
-      "category": "BREACH",
-      "summary": "Critical cPanel vulnerability already being exploited with ransomware demands hitting victims before patches even landed. Millions of sites potentially exposed because apparently we're still learning that 'patch first, ask questions later' isn't optional."
-    },
-    {
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
-      "category": "BREACH",
-      "summary": "Cybersecurity company Trellix gets breached with unauthorized source code access, proving that even the defenders aren't immune to getting pwned. The irony is so thick you could cut it with a compromised certificate."
+      "summary": "CISA added CVE-2026-31431 to their Known Exploited Vulnerabilities catalog — a Linux root access bug that's being actively hammered in the wild. When the government's cyber watchdogs are screaming 'patch now,' you should probably listen."
     },
     {
       "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
@@ -39,7 +31,15 @@
       "source": "Microsoft.com",
       "publishedAt": "2026-05-02T03:06:08Z",
       "category": "BREACH",
-      "summary": "France opens probe into 15-year-old who allegedly hacked the national ID agency and tried selling millions of citizens' data on the dark web. Kid's got entrepreneurial spirit, just needs better career guidance."
+      "summary": "A 15-year-old script kiddie allegedly breached France's national ID agency and tried to sell millions of citizens' data on the dark web. The future of cybercrime is apparently old enough to need parental permission for a bank account but young enough to pwn a nation."
+    },
+    {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
+      "category": "BREACH",
+      "summary": "Trellix, a cybersecurity company whose entire job is preventing breaches, just admitted hackers accessed their source code repository. The irony is so thick you could cut it with a butter knife dipped in privilege escalation exploits."
     },
     {
       "title": "Digital Hopes, Real Power: From Connection to Collective Action",
@@ -47,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
       "category": "FOIA",
-      "summary": "Public records laws expose ALPR surveillance abuses, so naturally states want to block transparency efforts. Because nothing says 'we're the good guys' like frantically covering up mass surveillance programs when citizens start asking questions."
+      "summary": "Public records laws exposed how law enforcement's automated license plate readers create sprawling surveillance networks — so naturally, states are now trying to hide this data from the public. Democracy dies in darkness, but surveillance thrives there."
     },
     {
       "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
@@ -55,15 +55,23 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
       "category": "RIGHTS",
-      "summary": "Utah's new anti-VPN law goes into effect, because apparently privacy tools are now the enemy of freedom. Watch VPN usage spike as residents realize their state government thinks anonymity is a bug, not a feature."
+      "summary": "Utah's new anti-VPN law goes into effect next week, because nothing says 'land of the free' like legislating away digital privacy tools. Expect VPN usage to surge faster than lawmakers can spell 'First Amendment.'"
     },
     {
-      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
-      "source": "The Register",
-      "publishedAt": "2026-05-02T08:30:09.000Z",
-      "category": "RIGHTS",
-      "summary": "FBI redirects 9,000 personnel to immigration enforcement under Trump's deportation push, potentially compromising national security. Nothing says 'protecting America' like gutting your cybercrime units to chase paperwork violations."
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Tyler 'Tylerb' Buchanan, a senior Scattered Spider member, pleaded guilty to wire fraud and identity theft after their SMS phishing campaigns. Another one bites the dust in the eternal cat-and-mouse game of cybercrime justice."
+    },
+    {
+      "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
+      "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
+      "source": "EFF",
+      "publishedAt": "Fri, 01 May 2026 14:52:09 +0000",
+      "category": "LEGENDS",
+      "summary": "Germany just doxxed 'UNKN,' the mastermind behind REvil and GandCrab ransomware gangs — turns out 31-year-old Daniil Shchukin was running the show behind 130+ acts of digital mayhem. The hunter becomes the hunted, with proper attribution and everything."
     },
     {
       "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
@@ -71,15 +79,7 @@
       "source": "The Register",
       "publishedAt": "2026-05-01T13:10:15.000Z",
       "category": "WHITE HAT",
-      "summary": "Britain's cyber agency warns that AI is about to unleash decades of buried code vulnerabilities all at once. The technical debt chickens are coming home to roost, and they're bringing their entire extended family."
-    },
-    {
-      "title": "ADT data breach exposes customer information",
-      "url": "https://www.foxnews.com/tech/adt-data-breach-exposes-customer-information",
-      "source": "Fox News",
-      "publishedAt": "2026-05-01T16:30:43Z",
-      "category": "ZERO DAY",
-      "summary": "CopyFail Linux vulnerability allows any user to escalate to root privileges across most distributions and kernels. Local privilege escalation strikes again, proving that sometimes the call is coming from inside the house."
+      "summary": "Britain's cyber agency warns that AI-powered bug hunting is about to unleash decades of buried code flaws all at once — like archaeological excavation, but for vulnerabilities. The technical debt chickens are coming home to roost, and they're armed with CVE numbers."
     }
   ]
 }
