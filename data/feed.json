@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T08:17:11.039Z",
+  "last_updated": "2026-05-04T13:22:20.173Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,39 +7,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and a Windows Defender weakness dubbed 'BlueHammer' — because apparently April showers bring May CVEs. Chrome also patched its fourth critical this year, proving browser security is as reliable as a chocolate teapot."
-    },
-    {
-      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 02 May 2026 12:11:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "CISA adds CVE-2026-31431 to its KEV catalog as attackers exploit a Linux root access bug in the wild. When CISA says 'patch now,' they mean yesterday — unless you enjoy unauthorized root parties on your servers."
+      "summary": "Microsoft drops a whopping 167 patches including a SharePoint zero-day and 'BlueHammer' Windows Defender flaw that was already public. Chrome also patched its fourth zero-day of the year because apparently browsers are just fancy attack surfaces now."
     },
     {
       "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
       "source": "The Register",
       "publishedAt": "2026-05-01T11:42:01.000Z",
-      "category": "BREACH",
-      "summary": "Critical cPanel vuln gets weaponized with ransomware attacks hitting 'millions' of potentially exposed sites. One of the internet's most widely used hosting stacks just became a highway to hell for web admins."
+      "category": "ZERO DAY",
+      "summary": "CISA confirms active exploitation of a critical cPanel vulnerability affecting millions of websites. At least one victim already got hit with ransomware because nothing says 'welcome to the internet' like getting pwned through your hosting panel."
     },
     {
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 01 May 2026 23:39:00 +0530",
-      "category": "BREACH",
-      "summary": "Cybersecurity company Trellix admits to source code breach because apparently even the security vendors can't secure themselves. The irony is so thick you could cut it with a compromised private key."
+      "title": "Week in review: High-severity LPE vulnerability in the Linux kernel, cPanel 0-day exploited for months",
+      "url": "https://www.helpnetsecurity.com/2026/05/03/week-in-review-high-severity-lpe-vulnerability-in-the-linux-kernel-cpanel-0-day-exploited-for-months/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-03T08:00:48Z",
+      "category": "ZERO DAY",
+      "summary": "CISA adds CVE-2026-31431 to their Known Exploited Vulnerabilities list - a Linux root access bug that's being actively exploited. Because what's a Friday without another reminder that everything is broken?"
     },
     {
-      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
-      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
-      "source": "EFF",
-      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
-      "category": "FOIA",
-      "summary": "ALPR surveillance networks exposed through public records requests are now triggering state laws to hide what citizens can see. When transparency reveals mass surveillance, governments suddenly discover a passion for privacy — their own."
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "category": "BREACH",
+      "summary": "Russian military intelligence hacked old routers to mass-harvest Microsoft Office authentication tokens. Classic state-sponsored efficiency: why develop new exploits when you can just abuse the garbage firmware everyone forgot to patch?"
+    },
+    {
+      "title": "ADT data breach exposes customer information",
+      "url": "https://www.foxnews.com/tech/adt-data-breach-exposes-customer-information",
+      "source": "Fox News",
+      "publishedAt": "2026-05-01T16:30:43Z",
+      "category": "BREACH",
+      "summary": "Cybersecurity firm Trellix got breached and had source code stolen from their repository. Nothing quite says 'trust us with your security' like getting your own code yoinked by threat actors."
     },
     {
       "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
@@ -47,15 +47,23 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
       "category": "RIGHTS",
-      "summary": "Utah's new anti-VPN law goes live next week, because nothing says 'freedom' like criminalizing basic privacy tools. Watch VPN usage surge as residents scramble to maintain anonymity — it's almost like prohibition never works."
+      "summary": "Utah's anti-VPN law goes into effect, because nothing says 'freedom' like making privacy tools illegal. Predictably, VPN usage is surging as residents scramble to maintain basic digital rights."
     },
     {
-      "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/",
-      "source": "The Register",
-      "publishedAt": "2026-05-04T02:35:29.000Z",
-      "category": "RIGHTS",
-      "summary": "FBI redirects 9,000 personnel to immigration enforcement under Trump's deportation push, potentially compromising national security. Because apparently hunting immigrants is more important than actual threats — priorities, people."
+      "title": "Digital Hopes, Real Power: From Connection to Collective Action",
+      "url": "https://www.eff.org/deeplinks/2026/04/digital-hopes-real-power-connection-collective-action",
+      "source": "EFF",
+      "publishedAt": "Thu, 30 Apr 2026 07:56:37 +0000",
+      "category": "FOIA",
+      "summary": "Public records requests exposed massive ALPR surveillance networks, so naturally states want to block what the public can see. Because transparency is only good until it reveals how dystopian the surveillance state has become."
+    },
+    {
+      "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
+      "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
+      "source": "EFF",
+      "publishedAt": "Mon, 04 May 2026 15:33:51 +0000",
+      "category": "LEGENDS",
+      "summary": "Germany doxes 'UNKN,' the elusive leader of REvil and GandCrab ransomware gangs - turns out he's 31-year-old Russian Daniil Shchukin. Finally putting a face to the chaos behind 130+ acts of digital mayhem."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
@@ -63,23 +71,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after their 2022 SMS phishing spree. Another young hacker learns that cybercrime doesn't pay — at least not in the way they expected."
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft after those epic 2022 SMS phishing campaigns. Another one bites the dust in the endless game of cybercrime whack-a-mole."
     },
     {
-      "title": "A Bridge to Somewhere: How to Link Your Mastodon, Bluesky, or Other Federated Accounts",
-      "url": "https://www.eff.org/deeplinks/2026/04/bridge-somewhere-how-link-your-mastodon-bluesky-or-other-federated-accounts",
-      "source": "EFF",
-      "publishedAt": "Fri, 01 May 2026 14:52:09 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany doxes 'UNKN,' the elusive mastermind behind REvil and GandCrab ransomware gangs, revealing 31-year-old Russian Daniil Shchukin. Turns out even the most mysterious ransomware kingpins eventually get their close-up."
-    },
-    {
-      "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
-      "url": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 01 May 2026 14:39:55 GMT",
-      "category": "BREACH",
-      "summary": "North Korea now controls 76% of all stolen crypto in 2026, turning cybercrime into a state-sponsored revenue stream. Kim Jong Un's hackers are apparently better at crypto than most day traders — and infinitely more successful at HODLing."
+      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
+      "source": "The Register",
+      "publishedAt": "2026-05-01T13:10:15.000Z",
+      "category": "ZERO DAY",
+      "summary": "UK's cyber agency warns that AI-powered bug hunting is about to unleash decades of buried technical debt all at once. Get ready for the mother of all patch tsunamis as AI excavates every shortcut developers thought they'd buried forever."
     }
   ]
 }
