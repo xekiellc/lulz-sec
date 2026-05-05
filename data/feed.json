@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T13:12:48.329Z",
+  "last_updated": "2026-05-05T19:05:26.010Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,63 +7,63 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a whopping 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Meanwhile Chrome users get their fourth helping of patches this year — bon appétit, security theater lovers."
+      "summary": "Microsoft drops 167 security patches including a SharePoint zero-day and a Windows Defender flaw called 'BlueHammer' - because apparently Redmond's idea of spring cleaning is patching vulnerabilities by the gross."
     },
     {
-      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
-      "url": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 04 May 2026 14:39:26 GMT",
+      "title": "Clavicular and the Right-Wing Project to Radicalize Young Men",
+      "url": "https://theintercept.com/2026/05/05/clavicular-influencer-looksmaxxing-men/",
+      "source": "The Intercept",
+      "publishedAt": "Tue, 05 May 2026 16:16:18 +0000",
       "category": "ZERO DAY",
-      "summary": "Critical cPanel authentication bypass flaw gets the full exploit circus treatment after disclosure, with researchers claiming zero-day activity for at least a month. When your web hosting control panel becomes a public playground, you know someone's having a bad day."
+      "summary": "Critical cPanel vulnerability gets weaponized faster than you can say 'shared hosting nightmare' - researchers claim zero-day activity for at least a month before disclosure because responsible disclosure is apparently dead."
     },
     {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+      "title": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cushman_wakefield/",
+      "source": "The Register",
+      "publishedAt": "2026-05-05T13:34:25.000Z",
+      "category": "ZERO DAY",
+      "summary": "Fresh 'CopyFail' Linux kernel bug gets exploited within days of researchers dropping a working root exploit - proving once again that the time between 'oops' and 'owned' keeps shrinking."
+    },
+    {
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
       "source": "The Hacker News",
-      "publishedAt": "Tue, 05 May 2026 16:00:00 +0530",
+      "publishedAt": "Tue, 05 May 2026 21:37:00 +0530",
       "category": "ZERO DAY",
-      "summary": "MetInfo CMS gets absolutely wrecked by CVE-2026-29014, a critical code injection flaw with a perfect 9.8 CVSS score. Open-source content management just became open-season remote code execution."
+      "summary": "Apache HTTP/2 serves up a critical flaw (CVE-2026-23918) with potential RCE because the foundation that runs half the internet apparently had one job and briefly forgot how to do it."
     },
     {
-      "title": "Securing the Agentic Workforce: Cisco Announces Intent to Acquire Astrix Security",
-      "url": "https://blogs.cisco.com/news/cisco-announces-intent-to-acquire-astrix-security",
-      "source": "Cisco.com",
-      "publishedAt": "2026-05-04T13:00:04Z",
+      "title": "Chicago Cubs Top 34 Prospects",
+      "url": "https://blogs.fangraphs.com/chicago-cubs-top-34-prospects/",
+      "source": "Fangraphs.com",
+      "publishedAt": "2026-05-04T14:11:59Z",
       "category": "ZERO DAY",
-      "summary": "Weaver E-cology platform suffers critical RCE via debug API exploitation, proving once again that leaving debug endpoints in production is like handing attackers the keys to the kingdom. CVSS 9.8 says it all."
+      "summary": "Wiz researchers unearth 20-year-old PostgreSQL vulnerabilities in pgcrypto - because nothing says 'enterprise database security' like decades-old crypto bugs hiding in plain sight."
     },
     {
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-04T11:28:15Z",
-      "category": "ZERO DAY",
-      "summary": "Progress Software's MOVEit Automation gets hit with another critical auth bypass vulnerability. Because apparently the first time MOVEit got pwned wasn't educational enough for everyone involved."
-    },
-    {
-      "title": "Claude Security enters public beta with Opus 4.7 vulnerability scanning and patching",
-      "url": "https://www.helpnetsecurity.com/2026/05/04/anthropic-claude-security-public-beta/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-04T09:30:49Z",
-      "category": "ZERO DAY",
-      "summary": "CISA confirms 'Copy Fail' Linux vulnerability is being actively exploited just one day after researchers dropped a PoC. The time between disclosure and exploitation keeps shrinking faster than our collective faith in responsible disclosure."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and aggravated identity theft for text-message phishing attacks. Another young Brit learns that cybercrime doesn't pay — at least not when you get caught."
+      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "category": "BREACH",
+      "summary": "Russian military hackers mass-harvest Microsoft Office tokens through compromised routers because why break into one system when you can steal authentication for thousands at once."
     },
     {
-      "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
-      "source": "EFF",
-      "publishedAt": "Tue, 05 May 2026 10:41:15 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany doxes 'UNKN,' the elusive mastermind behind REvil and GandCrab ransomware operations, revealing 31-year-old Russian Daniil Maksimovich Shchukin. The man behind 130 acts of digital sabotage finally gets his close-up."
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 05 May 2026 19:49:00 +0530",
+      "category": "BREACH",
+      "summary": "DAEMON Tools suffers supply chain attack with compromised installers distributed from their own website - because apparently even legitimate digital certificates can't save you from getting pwned at the source."
+    },
+    {
+      "title": "Your work apps are quietly handing 19 data points to someone",
+      "url": "https://www.helpnetsecurity.com/2026/05/04/workplace-apps-data-collection-privacy/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-04T04:00:16Z",
+      "category": "BREACH",
+      "summary": "15-year-old French kid allegedly breaches government agency exposing 12-18 million records - proving that age is just a number when it comes to embarrassing state cybersecurity."
     },
     {
       "title": "EFF Submission to UK Consultation on Digital ID",
@@ -71,15 +71,15 @@
       "source": "EFF",
       "publishedAt": "Mon, 04 May 2026 18:35:53 +0000",
       "category": "RIGHTS",
-      "summary": "EFF channels NSA whistleblower William Binney's warning about 'turnkey totalitarian state' surveillance infrastructure. Politicians come and go, but the panopticon is forever — unless we tear it down first."
+      "summary": "EFF rallies against the 'turnkey totalitarian state' built by surveillance architecture - because William Binney warned us and apparently we're still not listening hard enough."
     },
     {
-      "title": "Romance scammers turn sweet talk into £102M payday",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/romance_scam_figures/",
-      "source": "The Register",
-      "publishedAt": "2026-05-05T11:43:51.000Z",
-      "category": "BREACH",
-      "summary": "ShinyHunters dumps 119K Vimeo email addresses after breaching third-party analytics vendor Anodot. Because apparently every video platform needs to share your data with companies you've never heard of."
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "WHITE HAT",
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft after SIM-swapping spree - another reminder that cybercrime groups have better operational security than most Fortune 500 companies."
     }
   ]
 }
