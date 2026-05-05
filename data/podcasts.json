@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T10:13:17.194Z",
+  "last_updated": "2026-05-05T10:02:59.405Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's battle against the CFAA proves that sometimes the most controversial voices fight for the most important freedoms."
+      "editorial_note": "Weev's battle against the CFAA shows how the system criminalizes curiosity while the EFF finally grows a spine."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "The tale of two hacktivists - one became a martyr, the other a pariah, but both stood against tyrannical cyber laws."
+      "editorial_note": "Before Swartz became a martyr, weev was already fighting the same broken laws that crush digital dissidents."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor shows how nation-states weaponize sophisticated malware against critical infrastructure."
+      "editorial_note": "APT-10's LODEINFO backdoor proves that nation-states are still playing the same old espionage games with better toys."
     },
     {
       "type": "youtube",
