@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T19:14:13.155Z",
+  "last_updated": "2026-05-05T01:55:29.651Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,15 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Chrome chimes in with its fourth vuln of the year because apparently security is just a suggestion."
+      "summary": "Microsoft's April patch bonanza includes 167 vulnerabilities with a SharePoint zero-day and BlueHammer in Windows Defender. Nothing says 'Patch Tuesday' like a security apocalypse served with your morning coffee."
     },
     {
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 04 May 2026 23:36:00 +0530",
+      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
+      "url": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 04 May 2026 14:39:26 GMT",
       "category": "ZERO DAY",
-      "summary": "CISA confirms attackers are exploiting a critical cPanel bug affecting millions of sites, with ransomware already hitting victims. When your hosting control panel becomes their control panel, you're gonna have a bad time."
+      "summary": "Critical cPanel authentication bypass flaw has multiple PoCs in the wild, with researchers claiming zero-day activity for at least a month. When your control panel becomes someone else's control panel, you're having a bad time."
     },
     {
       "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
@@ -23,15 +23,7 @@
       "source": "Cointelegraph",
       "publishedAt": "2026-05-02T23:07:05Z",
       "category": "ZERO DAY",
-      "summary": "CISA adds Linux root access bug CVE-2026-31431 to the KEV catalog after active exploitation detected. Because apparently someone figured out how to make sudo even more dangerous."
-    },
-    {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence hacked routers to mass-harvest Microsoft Office tokens from unsuspecting users. Your ancient Linksys just became Moscow's favorite data buffet."
+      "summary": "CISA adds actively exploited Linux root access bug CVE-2026-31431 to KEV catalog. Because sometimes the penguin bites back, and apparently it's been biting for a while now."
     },
     {
       "title": "ADT data breach exposes customer information",
@@ -39,15 +31,23 @@
       "source": "Fox News",
       "publishedAt": "2026-05-01T16:30:43Z",
       "category": "BREACH",
-      "summary": "Cybersecurity firm Trellix admits unauthorized access to portions of their source code repository. The irony is so thick you could cut it with a zero-day exploit."
+      "summary": "Cybersecurity firm Trellix suffers source code breach with unauthorized repository access. The irony is so thick you could cut it with a poorly secured API key."
     },
     {
-      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
-      "url": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
+      "title": "What is hacking? Types, techniques, and how to protect yourself",
+      "url": "https://www.intego.com/mac-security-blog/what-is-hacking/",
+      "source": "Intego.com",
+      "publishedAt": "2026-05-01T08:16:27Z",
+      "category": "BREACH",
+      "summary": "ADT data breach exposes customer information including names, phone numbers, and addresses, with ShinyHunters claiming millions of records stolen. Your home security company just became everyone else's open door."
+    },
+    {
+      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
       "source": "Dark Reading",
-      "publishedAt": "Mon, 04 May 2026 14:39:26 GMT",
+      "publishedAt": "Mon, 04 May 2026 20:56:34 GMT",
       "category": "FOIA",
-      "summary": "Public records laws exposed ALPR surveillance abuse, so naturally states want to block transparency efforts. Because nothing says 'we're the good guys' like hiding how you spy on citizens."
+      "summary": "Public records laws revealed ALPR surveillance abuse, so now states want to block what the public sees. Classic move: when transparency exposes your overreach, just kill the transparency."
     },
     {
       "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
@@ -55,7 +55,15 @@
       "source": "EFF",
       "publishedAt": "Thu, 30 Apr 2026 16:54:10 +0000",
       "category": "RIGHTS",
-      "summary": "Utah's anti-VPN law goes into effect, because apparently privacy is now illegal in the beehive state. Time to dust off those Tor bridges, folks."
+      "summary": "Utah's new anti-VPN law takes effect, because nothing says 'freedom' like banning the tools that protect it. Expect VPN usage to surge faster than a Mormon missionary on Red Bull."
+    },
+    {
+      "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
+      "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
+      "source": "EFF",
+      "publishedAt": "Mon, 04 May 2026 15:33:51 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF submits feedback on UK's digital ID scheme, because what could possibly go wrong with the government that brought you the Online Safety Act managing your digital identity?"
     },
     {
       "title": "Week in review: High-severity LPE vulnerability in the Linux kernel, cPanel 0-day exploited for months",
@@ -63,23 +71,15 @@
       "source": "Help Net Security",
       "publishedAt": "2026-05-03T08:00:48Z",
       "category": "RIGHTS",
-      "summary": "Citizen Lab exposes sophisticated telecom surveillance campaigns linking attack traffic to mobile operator infrastructure. Your phone company isn't just dropping calls anymore—they're dropping your privacy too."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "WHITE HAT",
-      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud after SMS phishing campaigns. Another script kiddie learns that 'for the lulz' isn't a valid legal defense."
+      "summary": "Citizen Lab exposes sophisticated telecom surveillance campaigns by commercial surveillance vendors exploiting mobile operator infrastructure. Your phone calls have been brought to you by the surveillance-industrial complex."
     },
     {
       "title": "EFF Submission to UK Consultation on Digital ID",
       "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
       "source": "EFF",
       "publishedAt": "Mon, 04 May 2026 18:35:53 +0000",
-      "category": "ARCHIVE",
-      "summary": "Germany unmasks 'UNKN', the elusive Russian behind REvil and GandCrab ransomware empires. Turns out 31-year-old Daniil Shchukin wasn't as unknown as he thought—whoops."
+      "category": "LEGENDS",
+      "summary": "Germany doxxes 'UNKN,' the Russian mastermind behind REvil and GandCrab ransomware gangs, revealing 31-year-old Daniil Shchukin's face. When your OPSEC fails harder than your ransomware victims' backups."
     }
   ]
 }
