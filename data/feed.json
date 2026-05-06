@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T13:29:59.198Z",
+  "last_updated": "2026-05-06T19:22:20.728Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and the hilariously named 'BlueHammer' Windows Defender flaw. Chrome also patched its fourth zero-day of the year because apparently nobody can write secure code anymore."
-    },
-    {
-      "title": "Radar Trends to Watch: May 2026",
-      "url": "https://www.oreilly.com/radar/radar-trends-to-watch-may-2026/#BlogPosting",
-      "source": "Oreilly.com",
-      "publishedAt": "2026-05-05T11:18:59Z",
-      "category": "ZERO DAY",
-      "summary": "Palo Alto's PAN-OS gets pwned by a critical buffer overflow (CVE-2026-0300) that's being actively exploited in the wild. Nothing says 'enterprise security' like a 9.3 CVSS score and unauthenticated RCE."
-    },
-    {
-      "title": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking",
-      "url": "https://www.theregister.com/security/2026/05/05/cushman-wakefield-confirms-vishing-cyberattack/5228718",
-      "source": "The Register",
-      "publishedAt": "Tue, 05 May 2026 15:34:25 +0200",
-      "category": "ZERO DAY",
-      "summary": "Fresh Linux 'CopyFail' vulnerability drops with a reliable root exploit, and surprise—attackers didn't waste time putting it to work. Researchers basically handed out root shells like candy."
+      "summary": "Microsoft casually drops fixes for 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Chrome also patched its fourth zero-day of the year because apparently browsers are made of Swiss cheese now."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -31,31 +15,31 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military intelligence turns old routers into token-stealing goldmines, mass harvesting Microsoft Office authentication tokens. Your ancient Linksys is now Moscow's favorite backdoor."
-    },
-    {
-      "title": "Your work apps are quietly handing 19 data points to someone",
-      "url": "https://www.helpnetsecurity.com/2026/05/04/workplace-apps-data-collection-privacy/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-04T04:00:16Z",
-      "category": "BREACH",
-      "summary": "A 15-year-old just casually breached France Titres and put 12-18 million government records up for sale on the dark web. French cybersecurity: apparently no match for a teenager with free time."
+      "summary": "Russian military intelligence turned ancient routers into Office token-harvesting machines, proving once again that your dusty Linksys from 2019 is basically an open invitation to Moscow. Time to update that firmware, comrades."
     },
     {
       "title": "EFF Submission to UK Consultation on Digital ID",
       "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
       "source": "EFF",
       "publishedAt": "Mon, 04 May 2026 18:35:53 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF calls for dismantling the 'turnkey totalitarian state' that NSA whistleblower William Binney warned about. Politicians change, but the surveillance empire remains—time to take back our digital rights."
+      "category": "LEGENDS",
+      "summary": "NSA whistleblower William Binney's 'turnkey totalitarian state' warning hits different when you realize we're already living in it. EFF's rallying cry to dismantle the surveillance empire before the next autocrat gets the keys."
     },
     {
-      "title": "India orders infosec red alert in case Mythos sparks crime spree",
-      "url": "https://www.theregister.com/security/2026/05/06/india-orders-infosec-red-alert-in-case-mythos-sparks-crime/5224961",
+      "title": "Iran cybersnoops still LARPing as ransomware crooks in espionage ops",
+      "url": "https://www.theregister.com/security/2026/05/06/iran-cyberspies-larping-as-ransomware-crims-in-espionage-ops/5230993",
       "source": "The Register",
-      "publishedAt": "Wed, 06 May 2026 04:32:56 +0200",
-      "category": "RIGHTS",
-      "summary": "UK's age-gating plans could break the entire internet, privacy groups warn. Instead of targeting Big Tech's surveillance capitalism, ministers want to ID-gate everything—classic misdirection."
+      "publishedAt": "Wed, 06 May 2026 18:03:12 +0200",
+      "category": "BREACH",
+      "summary": "One in eight employees would sell their work credentials like they're hawking concert tickets, with 13% admitting they've already cashed in. Cybersecurity's biggest threat remains the human willingness to monetize access for pizza money."
+    },
+    {
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 06 May 2026 17:33:00 +0530",
+      "category": "BREACH",
+      "summary": "Iranian state hackers MuddyWater pulled a perfect false flag op, using Microsoft Teams to steal creds while cosplaying as ransomware gangs. Because nothing says 'legitimate business meeting' like credential harvesting through corporate chat apps."
     },
     {
       "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
@@ -63,23 +47,39 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 06 May 2026 14:04:00 +0530",
       "category": "WHITE HAT",
-      "summary": "Google launches Binary Transparency for Android to fight supply chain attacks by creating a public ledger of legitimate apps. Finally, some actual innovation in mobile security that isn't just more surveillance."
+      "summary": "Google launches Binary Transparency for Android to prove their apps aren't backdoored supply chain nightmares. Finally, a public ledger that actually serves the public instead of just enriching crypto bros."
     },
     {
-      "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 06 May 2026 05:30:00 GMT",
-      "category": "ARCHIVE",
-      "summary": "Dark Reading celebrates 20 years by cataloging the biggest cyber events from Stuxnet to ChatGPT. Two decades of digital chaos, from industrial sabotage to AI hallucinations—what a ride."
+      "title": "Why airlines are always going bankrupt",
+      "url": "https://davidoks.blog/p/why-airlines-are-always-going-bankrupt",
+      "source": "Davidoks.blog",
+      "publishedAt": "2026-05-05T17:03:03Z",
+      "category": "BREACH",
+      "summary": "CloudZ RAT weaponized Windows Phone Link to steal OTPs and credentials, turning your convenient PC-phone bridge into a highway for hackers. Microsoft's 'seamless integration' strikes again."
     },
     {
       "title": "15-year-old detained over massive data breach at French government agency",
       "url": "https://www.helpnetsecurity.com/2026/05/04/france-titres-data-breach-teen-suspect/",
       "source": "Help Net Security",
       "publishedAt": "2026-05-04T08:31:20Z",
-      "category": "ARCHIVE",
-      "summary": "2026 becomes the year AI-powered attacks go mainstream, starting with a 17-year-old using automated tools to breach 7 million records from Japan's largest internet cafe chain. The script kiddies have AI now."
+      "category": "BREACH",
+      "summary": "2026 crowned the year of AI-assisted attacks after a 17-year-old in Osaka used malicious code to breach 7 million Kaikatsu Club records. Gen Z proving they don't need decades of experience to pull off massive data heists."
+    },
+    {
+      "title": "Your work apps are quietly handing 19 data points to someone",
+      "url": "https://www.helpnetsecurity.com/2026/05/04/workplace-apps-data-collection-privacy/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-04T04:00:16Z",
+      "category": "BREACH",
+      "summary": "A 15-year-old allegedly breached France Titres and put 12-18 million government records up for sale like they're flipping Pokemon cards. French bureaucracy meets teenage entrepreneurship in the most dystopian way possible."
+    },
+    {
+      "title": "Attackers are cashing in on fresh 'CopyFail' Linux flaw",
+      "url": "https://www.theregister.com/2026/05/05/cisa_sounds_the_alarm_on/",
+      "source": "Theregister.com",
+      "publishedAt": "2026-05-05T15:01:08Z",
+      "category": "BREACH",
+      "summary": "Your favorite work apps are quietly sharing 19 data points about you to unknown third parties, because apparently corporate surveillance is just a feature now. Gmail, Teams, and Zoom turning your productivity into their profit."
     }
   ]
 }
