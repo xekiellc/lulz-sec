@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:53:53.076Z",
+  "last_updated": "2026-05-06T08:08:32.868Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,15 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a biblical 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. At this rate, Patch Tuesday is becoming Patch Apocalypse."
+      "summary": "Microsoft patches 167 vulns including a SharePoint zero-day and 'BlueHammer' weakness in Windows Defender. April 2026's Patch Tuesday is serving more holes than a cheese convention."
     },
     {
-      "title": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cushman_wakefield/",
+      "title": "Attackers are cashing in on fresh 'CopyFail' Linux flaw",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cisa_sounds_the_alarm_on/",
       "source": "The Register",
-      "publishedAt": "2026-05-05T13:34:25.000Z",
+      "publishedAt": "2026-05-05T15:01:08.000Z",
       "category": "ZERO DAY",
-      "summary": "Fresh Linux 'CopyFail' vulnerability gets weaponized faster than you can say 'responsible disclosure.' CISA warns attackers are already cashing in on this reliable root exploit."
+      "summary": "Fresh 'CopyFail' Linux kernel flaw gets weaponized faster than you can say 'reliable root exploit.' CISA warns it's already being abused in the wild."
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 05 May 2026 21:49:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Palo Alto's PAN-OS gets pwned via critical buffer overflow (CVE-2026-0300, CVSS 9.3). Unauthenticated RCE because apparently firewalls need their own fires put out."
     },
     {
       "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
@@ -23,55 +31,15 @@
       "source": "The Hacker News",
       "publishedAt": "Tue, 05 May 2026 21:37:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Apache HTTP/2 vulnerability CVE-2026-23918 delivers DoS with a side of potential RCE. Because apparently even web servers need to be more exciting these days."
+      "summary": "Apache HTTP/2 serves up CVE-2026-23918 with a side of potential RCE (CVSS 8.8). The web server that powers half the internet just gave everyone a heart attack."
     },
     {
-      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-04T14:23:00Z",
-      "category": "ZERO DAY",
-      "summary": "Wiz researchers unearth 20-year-old PostgreSQL vulnerabilities that have been hiding in pgcrypto like digital fossils. Some bugs age like fine wine, others like radioactive waste."
-    },
-    {
-      "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
-      "source": "EFF",
-      "publishedAt": "Tue, 05 May 2026 10:41:15 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany doxes 'UNKN,' the elusive mastermind behind REvil and GandCrab ransomware empires. Daniil Shchukin's face-reveal tour includes 130+ acts of computer sabotage."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud after SMS phishing campaigns. Another cybercrime legend trades keyboard clicks for prison uniforms."
-    },
-    {
-      "title": "EFF Submission to UK Consultation on Digital ID",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
-      "source": "EFF",
-      "publishedAt": "Mon, 04 May 2026 18:35:53 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF calls for dismantling the 'turnkey totalitarian state' that NSA whistleblower William Binney warned about. Because surveillance empires don't discriminate based on who's holding the keys."
-    },
-    {
-      "title": "Getting Digital Fairness Right: EFF's Recommendations for the EU's Digital Fairness Act",
-      "url": "https://www.eff.org/deeplinks/2026/04/dos-and-donts-eus-digital-fairness-act-effs-recommendation-regulating-digital",
-      "source": "EFF",
-      "publishedAt": "Mon, 04 May 2026 15:33:51 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF challenges UK's digital ID scheme proposals, warning against creating another government backdoor dressed up as convenience. Virtual IDs, physical surveillance."
-    },
-    {
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 05 May 2026 19:49:00 +0530",
+      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
+      "url": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 05 May 2026 14:57:51 GMT",
       "category": "BREACH",
-      "summary": "DAEMON Tools supply chain attack serves malware through digitally signed installers from the official website. When even your mounting software gets compromised, nothing is sacred."
+      "summary": "Trellix source code gets breached, giving attackers the blueprint to their security products. It's like handing burglars the plans to your alarm system."
     },
     {
       "title": "Your work apps are quietly handing 19 data points to someone",
@@ -79,7 +47,39 @@
       "source": "Help Net Security",
       "publishedAt": "2026-05-04T04:00:16Z",
       "category": "BREACH",
-      "summary": "French authorities arrest 15-year-old over France Titres breach affecting 12-18 million government records. Gen Z hacker proves age is just a number in the data liberation game."
+      "summary": "French 15-year-old allegedly breaches France Titres, exposing 12-18 million government records. Teenagers: breaking governments faster than they break curfew."
+    },
+    {
+      "title": "EFF Submission to UK Consultation on Digital ID",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-submission-uk-consultation-digital-id",
+      "source": "EFF",
+      "publishedAt": "Mon, 04 May 2026 18:35:53 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF fights the 'turnkey totalitarian state' that NSA whistleblower William Binney warned about. Because surveillance empires outlast the politicians who build them."
+    },
+    {
+      "title": "Shut Down Turnkey Totalitarianism",
+      "url": "https://www.eff.org/deeplinks/2026/04/claw-back",
+      "source": "EFF",
+      "publishedAt": "Tue, 05 May 2026 07:11:54 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF and 18 orgs tell UK policymakers to fix root causes of online harm instead of breaking the open web. Revolutionary concept: solve problems instead of censoring them."
+    },
+    {
+      "title": "Kuwait Exports Zero Barrels of Oil for the First Time Since 1991 Gulf War, Monitor Says",
+      "url": "https://www.naturalnews.com/2026-05-05-kuwait-exports-zero-barrels-oil-first-time.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-05T06:00:00Z",
+      "category": "BREACH",
+      "summary": "OAuth tokens from AI tools and productivity apps are creating persistent backdoors that security teams can't see. Your employees' convenience is attackers' persistence."
+    },
+    {
+      "title": "U.S. government warns of severe CopyFail bug affecting major versions of Linux | TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-04T22:24:37Z",
+      "category": "BREACH",
+      "summary": "Common workplace apps including Gmail and Teams are quietly leaking 19 data points per user. Your office productivity suite is more like a corporate surveillance suite."
     }
   ]
 }
