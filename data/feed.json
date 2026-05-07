@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T01:58:38.045Z",
+  "last_updated": "2026-05-07T08:15:09.027Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Because apparently even Patch Tuesday needs steroids now."
+      "summary": "Microsoft patches a mind-melting 167 vulnerabilities including a SharePoint zero-day and the delightfully named 'BlueHammer' weakness in Windows Defender. When your security software needs security patches, you know we're living in the matrix."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -15,7 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military hackers turned ancient router vulnerabilities into Microsoft Office token harvesting machines. Your router from 2015 is basically a gift that keeps on giving—to the FSB."
+      "summary": "Russian military intelligence is mass-harvesting Microsoft Office tokens by exploiting ancient router vulnerabilities. Because why break into one system when you can pwn the entire authentication infrastructure?"
+    },
+    {
+      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+      "source": "EFF",
+      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
+      "category": "LEGENDS",
+      "summary": "Germany finally unmasked 'UNKN,' the mysterious Russian puppet master behind REvil and GandCrab ransomware empires. Daniil Shchukin's 15 minutes of fame comes with a side of computer sabotage charges."
     },
     {
       "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
@@ -23,15 +31,7 @@
       "source": "Dark Reading",
       "publishedAt": "Wed, 06 May 2026 21:19:11 GMT",
       "category": "LEGENDS",
-      "summary": "NSA whistleblower William Binney's warning about 'turnkey totalitarian state' surveillance infrastructure remains as chilling and relevant as ever. The architecture of oppression is ready and waiting."
-    },
-    {
-      "title": "Instructure Breach Exposes Schools' Vendor Dependence",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 06 May 2026 21:02:57 GMT",
-      "category": "ZERO DAY",
-      "summary": "VoidStealer Trojan authors found yet another way to bypass Google Chrome's App-Bound Encryption. Chrome's security is apparently more like suggestions than actual walls."
+      "summary": "NSA whistleblower William Binney reminds us about the 'turnkey totalitarian state' — because apparently we needed another reason to lose sleep over surveillance capitalism. The empire strikes back, indeed."
     },
     {
       "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
@@ -39,7 +39,7 @@
       "source": "Dark Reading",
       "publishedAt": "Wed, 06 May 2026 12:00:00 GMT",
       "category": "BREACH",
-      "summary": "ShinyHunters breached Instructure's Canvas LMS, exposing how educational institutions put blind trust in vendors. Schools got schooled on third-party risk management."
+      "summary": "ShinyHunters breached Instructure's Canvas LMS, exposing how educational institutions basically hand over the keys to the kingdom to their vendors. Trust but verify, schools — emphasis on verify."
     },
     {
       "title": "India orders infosec red alert in case Mythos sparks crime spree",
@@ -47,7 +47,15 @@
       "source": "The Register",
       "publishedAt": "Wed, 06 May 2026 04:32:56 +0200",
       "category": "RIGHTS",
-      "summary": "UK's age-gating plans threaten to break the internet while completely missing the point about Big Tech's surveillance capitalism. Another brilliant solution that solves nothing."
+      "summary": "UK's age-gating plans could literally break the internet, privacy groups warn. Because nothing says 'child safety' like destroying fundamental web architecture and creating a surveillance dystopia."
+    },
+    {
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 07 May 2026 01:51:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "A dozen critical vulnerabilities in vm2 Node.js library let attackers escape sandboxes and execute arbitrary code. When your security sandbox becomes a playground for hackers, it's time to rethink containment strategies."
     },
     {
       "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
@@ -55,7 +63,7 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 06 May 2026 17:33:00 +0530",
       "category": "BREACH",
-      "summary": "Iranian MuddyWater group uses Microsoft Teams for credential theft in false flag ransomware ops. When state-sponsored hackers start LARPing as ransomware gangs, you know the attribution game is broken."
+      "summary": "Iran's MuddyWater crew used Microsoft Teams for credential theft in a false flag ransomware op. Because apparently even state-sponsored hackers have embraced remote collaboration tools."
     },
     {
       "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
@@ -63,23 +71,15 @@
       "source": "Internet",
       "publishedAt": "2026-05-04T14:23:00Z",
       "category": "BREACH",
-      "summary": "Instructure hacker claims 280 million student and staff records stolen from 8,809 educational institutions. When your LMS becomes a data exfiltration platform, maybe it's time to rethink EdTech security."
+      "summary": "Instructure hacker claims to have stolen 280 million records from 8,800 educational institutions. That's not a data breach — that's a full-scale educational apocalypse with a side of identity theft."
     },
     {
-      "title": "15-year-old detained over massive data breach at French government agency",
-      "url": "https://www.helpnetsecurity.com/2026/05/04/france-titres-data-breach-teen-suspect/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-04T08:31:20Z",
-      "category": "ARCHIVE",
-      "summary": "2026 declared the year of AI-assisted attacks, with Japanese teen arrested for breaching 7 million Kaikatsu Club records. The kids are definitely not alright—they're getting scarier."
-    },
-    {
-      "title": "Attackers are cashing in on fresh 'CopyFail' Linux flaw",
-      "url": "https://www.theregister.com/2026/05/05/cisa_sounds_the_alarm_on/",
-      "source": "Theregister.com",
-      "publishedAt": "2026-05-05T15:01:08Z",
-      "category": "BREACH",
-      "summary": "15-year-old detained for breaching French government agency, compromising up to 18 million records from France Titres. Teenage hackers are making government cybersecurity look like amateur hour."
+      "title": "Should You Be Worried About Copy Fail Linux Exploitation?",
+      "url": "https://itsfoss.com/news/copy-fail-linux-exploit/",
+      "source": "Itsfoss.com",
+      "publishedAt": "2026-05-06T06:03:57Z",
+      "category": "WHITE HAT",
+      "summary": "2026 declared the year of AI-assisted attacks after a 17-year-old in Japan extracted 7 million user records from internet cafes. The kids are not alright — they're weaponizing artificial intelligence."
     }
   ]
 }
