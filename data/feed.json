@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T08:15:09.027Z",
+  "last_updated": "2026-05-07T13:28:14.534Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,63 +7,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a mind-melting 167 vulnerabilities including a SharePoint zero-day and the delightfully named 'BlueHammer' weakness in Windows Defender. When your security software needs security patches, you know we're living in the matrix."
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and the delightfully named 'BlueHammer' Windows Defender flaw. Because apparently April is the cruelest month for sysadmins too."
     },
     {
-      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence is mass-harvesting Microsoft Office tokens by exploiting ancient router vulnerabilities. Because why break into one system when you can pwn the entire authentication infrastructure?"
-    },
-    {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-      "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany finally unmasked 'UNKN,' the mysterious Russian puppet master behind REvil and GandCrab ransomware empires. Daniil Shchukin's 15 minutes of fame comes with a side of computer sabotage charges."
-    },
-    {
-      "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
-      "url": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 06 May 2026 21:19:11 GMT",
-      "category": "LEGENDS",
-      "summary": "NSA whistleblower William Binney reminds us about the 'turnkey totalitarian state' — because apparently we needed another reason to lose sleep over surveillance capitalism. The empire strikes back, indeed."
-    },
-    {
-      "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
-      "url": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 06 May 2026 12:00:00 GMT",
-      "category": "BREACH",
-      "summary": "ShinyHunters breached Instructure's Canvas LMS, exposing how educational institutions basically hand over the keys to the kingdom to their vendors. Trust but verify, schools — emphasis on verify."
-    },
-    {
-      "title": "India orders infosec red alert in case Mythos sparks crime spree",
-      "url": "https://www.theregister.com/security/2026/05/06/india-orders-infosec-red-alert-in-case-mythos-sparks-crime/5224961",
-      "source": "The Register",
-      "publishedAt": "Wed, 06 May 2026 04:32:56 +0200",
-      "category": "RIGHTS",
-      "summary": "UK's age-gating plans could literally break the internet, privacy groups warn. Because nothing says 'child safety' like destroying fundamental web architecture and creating a surveillance dystopia."
-    },
-    {
-      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 07 May 2026 01:51:00 +0530",
+      "title": "Open Source is the Tip of the Iceberg: Why Proprietary Software, Hardware and Protocols Face Greater AI-Driven Security Risk",
+      "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
+      "source": "Infosecurity Magazine",
+      "publishedAt": "2026-05-06T08:30:00Z",
       "category": "ZERO DAY",
-      "summary": "A dozen critical vulnerabilities in vm2 Node.js library let attackers escape sandboxes and execute arbitrary code. When your security sandbox becomes a playground for hackers, it's time to rethink containment strategies."
+      "summary": "Palo Alto Networks firewall RCE zero-day actively exploited in the wild. When your security appliance becomes the attack vector, that's what we call premium irony."
     },
     {
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 06 May 2026 17:33:00 +0530",
-      "category": "BREACH",
-      "summary": "Iran's MuddyWater crew used Microsoft Teams for credential theft in a false flag ransomware op. Because apparently even state-sponsored hackers have embraced remote collaboration tools."
+      "title": "Not every security vulnerability means you need to update right now — here's how to know which ones do",
+      "url": "https://www.makeuseof.com/not-every-security-vulnerability-means-you-need-to-update-right-now/",
+      "source": "MakeUseOf",
+      "publishedAt": "2026-05-05T15:00:18Z",
+      "category": "ZERO DAY",
+      "summary": "Linux 'CopyFail' kernel bug already being exploited days after researchers dropped a working root exploit. The speed from disclosure to weaponization continues to break land-speed records."
+    },
+    {
+      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+      "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 07 May 2026 13:00:00 GMT",
+      "category": "RIGHTS",
+      "summary": "William Binney's 'turnkey totalitarian state' warning echoes louder as surveillance infrastructure grows. The NSA whistleblower who built the panopticon now wants to help tear it down."
+    },
+    {
+      "title": "Cover-Up? U.S. Data Suggest 2022 China Plane Crash Caused by Manual Fuel Shutoff",
+      "url": "https://www.breitbart.com/asia/2026/05/05/cover-up-u-s-data-suggest-2022-china-plane-crash-caused-by-manual-fuel-shutoff/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-05T13:53:19Z",
+      "category": "FOIA",
+      "summary": "Michigan court rules you have no right to know which cops patrol your streets or their employment history. Transparency dies in darkness, especially when judges flip the light switch off."
     },
     {
       "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
@@ -71,15 +47,39 @@
       "source": "Internet",
       "publishedAt": "2026-05-04T14:23:00Z",
       "category": "BREACH",
-      "summary": "Instructure hacker claims to have stolen 280 million records from 8,800 educational institutions. That's not a data breach — that's a full-scale educational apocalypse with a side of identity theft."
+      "summary": "ShinyHunters claims 280 million student and staff records stolen from 8,800+ educational institutions via Instructure breach. Academic surveillance just got a masterclass in data exfiltration."
     },
     {
-      "title": "Should You Be Worried About Copy Fail Linux Exploitation?",
-      "url": "https://itsfoss.com/news/copy-fail-linux-exploit/",
-      "source": "Itsfoss.com",
-      "publishedAt": "2026-05-06T06:03:57Z",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "WHITE HAT",
-      "summary": "2026 declared the year of AI-assisted attacks after a 17-year-old in Japan extracted 7 million user records from internet cafes. The kids are not alright — they're weaponizing artificial intelligence."
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft from 2022 SMS phishing campaigns. Another apex predator of social engineering finally caged."
+    },
+    {
+      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+      "source": "EFF",
+      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
+      "category": "ARCHIVE",
+      "summary": "Germany doxes 'UNKN,' the 31-year-old Russian mastermind behind GandCrab and REvil ransomware empires. When the hunter becomes the hunted, karma delivers with German efficiency."
+    },
+    {
+      "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
+      "category": "BREACH",
+      "summary": "Russian military hackers compromised aging routers to mass-harvest Microsoft Office authentication tokens. Old hardware, new espionage—the FSB's recycling program is terrifyingly effective."
+    },
+    {
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 07 May 2026 01:51:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Twelve critical vulnerabilities in vm2 Node.js sandbox library enable complete escape and arbitrary code execution. When your security sandbox becomes quicksand, that's a feature not a bug."
     }
   ]
 }
