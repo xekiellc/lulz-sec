@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T19:26:10.792Z",
+  "last_updated": "2026-05-08T02:04:11.691Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April Patch Tuesday is serving 167 vulnerabilities including a SharePoint zero-day and 'BlueHammer' Windows Defender flaw. When your monthly security update looks like a CVE phone book, maybe it's time to question some life choices."
+      "summary": "Microsoft's April patch party fixes a whopping 167 vulnerabilities including a SharePoint zero-day and 'BlueHammer' in Windows Defender. When your monthly security update looks like a phone book, maybe it's time to rethink some architectural choices."
     },
     {
       "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
@@ -15,7 +15,7 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 07 May 2026 23:15:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Ivanti EPMM gets pwned again with CVE-2026-6973, granting admin-level RCE to attackers who probably didn't even need to try that hard. At this point, Ivanti vulnerabilities are like clockwork—terrifying, predictable clockwork."
+      "summary": "Ivanti's EPMM gets pwned again with CVE-2026-6973, granting admin-level RCE to attackers who barely had to try. At this point, Ivanti vulnerabilities are less 'zero-day' and more 'any-day-ending-in-y'."
     },
     {
       "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
@@ -23,55 +23,15 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 07 May 2026 17:03:00 +0530",
       "category": "ZERO DAY",
-      "summary": "PAN-OS buffer overflow (CVE-2026-0300) is being actively exploited for root access and espionage since April 9th. Your $50k firewall just became someone else's front door—hope you kept the receipt."
+      "summary": "PAN-OS buffer overflow (CVE-2026-0300) turns Palo Alto firewalls into espionage platforms with root access. Nothing says 'enterprise security' like your firewall becoming the front door for nation-state actors."
     },
     {
-      "title": "Maine Dems to Vote on Condemning DCCC Interference in House Primary",
-      "url": "https://theintercept.com/2026/05/07/maine-dccc-condemn-democrats-dunlap-baldacci-wood/",
-      "source": "The Intercept",
-      "publishedAt": "Thu, 07 May 2026 17:31:27 +0000",
-      "category": "BREACH",
-      "summary": "ShinyHunters breached Instructure's Canvas LMS, exposing the terrifying reality of how much trust schools blindly dump on their vendors. When your kid's homework portal becomes a data goldmine, someone's asking the wrong security questions."
-    },
-    {
-      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-04T14:23:00Z",
-      "category": "BREACH",
-      "summary": "Instructure breach just got scarier: hacker claims 280 million records stolen from 8,809 schools and universities. That's not a breach, that's educational infrastructure annihilation with a side of identity theft for an entire generation."
-    },
-    {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-      "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "LEGENDS",
-      "summary": "Germany finally puts a face to 'UNKN,' the ghost who ran REvil and GandCrab ransomware empires. 31-year-old Daniil Shchukin managed 130+ cyberattacks before his OPSEC failed him—respect the hustle, condemn the victims."
-    },
-    {
-      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 07 May 2026 16:55:12 GMT",
-      "category": "RIGHTS",
-      "summary": "NSA whistleblower William Binney's 'turnkey totalitarian state' warning hits different when you realize we're already living in it. Politicians change, surveillance empires don't—time to dismantle the machine before it gets worse."
-    },
-    {
-      "title": "EFF and 18 Organizations Urge UK Policymakers to Prioritize Addressing the Roots of Online Harm",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-and-18-organizations-urge-uk-policymakers-prioritize-addressing-roots-online",
-      "source": "EFF",
-      "publishedAt": "Tue, 05 May 2026 10:41:15 +0000",
-      "category": "RIGHTS",
-      "summary": "The SECURE Data Act is privacy theater masquerading as legislation—House Republicans dropped this toothless draft without bipartisan support. When your 'privacy protection' would actually weaken existing state laws, maybe call it what it is: corporate capture."
-    },
-    {
-      "title": "The network password was a key plot point in one of the most famous movies of all time",
-      "url": "https://www.theregister.com/security/2026/05/07/guessable-admin-password-exposes-sloppy-network-security/5231161",
-      "source": "The Register",
-      "publishedAt": "Thu, 07 May 2026 11:49:00 +0200",
-      "category": "WHITE HAT",
-      "summary": "60% of MD5 hashes crack in under an hour, making World Password Day feel like World Security Theater Day. If you're still using MD5 in 2026, you're not just behind the times—you're actively helping attackers."
+      "title": "Open Source is the Tip of the Iceberg: Why Proprietary Software, Hardware and Protocols Face Greater AI-Driven Security Risk",
+      "url": "https://www.infosecurity-magazine.com/blogs/why-software-faces-ai-driven/",
+      "source": "Infosecurity Magazine",
+      "publishedAt": "2026-05-06T08:30:00Z",
+      "category": "ZERO DAY",
+      "summary": "Palo Alto's User-ID Authentication Portal gets exploited in the wild through another critical RCE. Their firewalls are becoming less 'impenetrable wall' and more 'welcome mat with flashing neon arrows'."
     },
     {
       "title": "Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab",
@@ -79,7 +39,47 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 06 Apr 2026 02:07:17 +0000",
       "category": "BREACH",
-      "summary": "Russian military intelligence is mass-harvesting Microsoft Office tokens through compromised routers like it's 2003 all over again. Your ancient Linksys just became Moscow's favorite authentication buffet—firmware updates aren't suggestions, people."
+      "summary": "Russian military intelligence turns ancient router vulnerabilities into a Microsoft Office token harvesting operation. When your IoT becomes FSB's personal authentication candy store, maybe those firmware updates weren't so optional after all."
+    },
+    {
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 07 May 2026 19:20:00 +0530",
+      "category": "BREACH",
+      "summary": "PCPJack worm exploits 5 CVEs to spread across cloud systems like digital herpes, stealing credentials and evicting TeamPCP malware. Even malware is getting into turf wars now—it's a cybercriminal eat cybercriminal world out there."
+    },
+    {
+      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-04T14:23:00Z",
+      "category": "BREACH",
+      "summary": "Instructure breach exposes 280 million education records from 8,800 schools and universities. Because nothing says 'protecting our children's future' like letting hackers mine their personal data like digital coal."
+    },
+    {
+      "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
+      "url": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 07 May 2026 20:43:30 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF channels William Binney's warning about the 'turnkey totalitarian state' as surveillance infrastructure awaits its next political master. The panopticon is fully operational—we just keep handing the keys to whoever wins elections."
+    },
+    {
+      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+      "source": "EFF",
+      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
+      "category": "LEGENDS",
+      "summary": "Germany doxes 'UNKN,' the Russian mastermind behind REvil and GandCrab ransomware empires responsible for 130+ cyberattacks. Daniil Shchukin's face is now public—proof that even digital ghosts eventually get their close-up."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft in 2022 SMS phishing campaigns. Another young Brit learns that social engineering corporations is significantly less glamorous when federal prosecutors get involved."
     }
   ]
 }
