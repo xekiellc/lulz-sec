@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-05-09T12:54:17.594Z",
+  "last_updated": "2026-05-09T18:44:35.420Z",
   "articles": [
-    {
-      "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
-      "url": "https://www.theregister.com/security/2026/05/08/meta-u-turns-on-encryption-push-for-instagram-as-dms-go-plaintext/5235705",
-      "source": "The Register",
-      "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
-      "category": "ZERO DAY",
-      "summary": "Linux's 'Dirty Frag' vulnerability broke every rule of responsible disclosure — public root exploit with no CVE and no patches. Peak chaos engineering from whoever decided disclosure embargoes are just suggestions."
-    },
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April Patch Tuesday delivered 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Even Microsoft's security tools need security patches — the irony is *chef's kiss*."
+      "summary": "Microsoft patched a jaw-dropping 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. When your Patch Tuesday looks like a phone book, maybe it's time to rethink that security-by-obscurity strategy."
     },
     {
-      "title": "We Love Delta. We Hate Delta.",
-      "url": "http://nymag.com/intelligencer/article/delta-air-lines-loyalty-program-travel-industry.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-05-08T09:00:13Z",
+      "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
+      "url": "https://www.theregister.com/security/2026/05/08/meta-u-turns-on-encryption-push-for-instagram-as-dms-go-plaintext/5235705",
+      "source": "The Register",
+      "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "CISA gives federal agencies four whole days to patch Ivanti's actively exploited zero-day. Nothing says 'critical infrastructure security' like a long weekend to fix root access vulnerabilities."
+      "summary": "'Dirty Frag' delivers root access to all major Linux distros with zero patches available and a public exploit in the wild. Someone broke disclosure protocol and left admins holding the bag—this is why we can't have nice things."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,31 +23,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "ShinyHunters turned Canvas into their personal ransom billboard, paralyzing schools nationwide. Nothing quite says 'welcome back to class' like hackers defacing your login page with extortion demands."
+      "summary": "ShinyHunters ransacked Canvas during finals week, disrupting education for millions of students nationwide. Nothing says 'digital learning revolution' like having your homework held hostage by cybercriminals."
     },
     {
-      "title": "Is Canvas still hacked - what is a data breach? The shocking Canvas cyberattack timeline",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-canvas-still-hacked-what-is-a-data-breach-the-shocking-canvas-cyberattack-timeline/articleshow/130959315.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T12:52:36Z",
+      "title": "Canvas Got Hacked During Finals Week and Students Are Freaking Out",
+      "url": "https://gizmodo.com/canvas-got-hacked-during-finals-week-and-students-are-freaking-out-2000756271",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-08T16:14:22Z",
       "category": "BREACH",
-      "summary": "ShinyHunters hit Canvas *again*, exploiting fresh vulnerabilities to deface hundreds of university portals. Instructure's security strategy appears to be 'fool me twice, shame on... wait, how many times is this now?'"
-    },
-    {
-      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
-      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
-      "source": "EFF",
-      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence turned ancient router vulnerabilities into a Microsoft Office token harvesting operation. Classic bear behavior: why break in when you can just walk through doors left wide open since 2019?"
-    },
-    {
-      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
-      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
-      "category": "FOIA",
-      "summary": "Trump's DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches. The same administration that classified ketchup recipes suddenly cares deeply about transparency — when it suits them."
+      "summary": "NVIDIA's GeForce NOW got breached, exposing Armenian user data in what's becoming a depressingly familiar pattern. Even the graphics card gods aren't immune to basic security failures."
     },
     {
       "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
@@ -63,23 +39,47 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
       "category": "RIGHTS",
-      "summary": "Meta quietly abandoned Instagram's encryption push, reverting DMs to plaintext after years of privacy theater. Zuckerberg's commitment to user privacy lasted about as long as his metaverse obsession."
+      "summary": "Meta mysteriously reversed course on Instagram encryption, making DMs plaintext again after years of promising end-to-end protection. Zuckerberg apparently decided privacy was bad for the surveillance capitalism business model."
     },
     {
-      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-08T12:16:32Z",
-      "category": "WHITE HAT",
-      "summary": "Quasar Linux RAT specifically targets developers to poison the software supply chain through credential theft and keylogging. Because why hack end users when you can compromise the people who build everything else?"
+      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
+      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
+      "category": "FOIA",
+      "summary": "The DOJ now treats FOIA evasion as a criminal offense worthy of arrest and strip searches—the ultimate irony from an administration that perfected transparency avoidance. Rules for thee, not for me reaches peak absurdity."
     },
     {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+      "title": "AI Is Making Cyberattacks Cheaper, Faster and More Dangerous, IMF Warns",
+      "url": "https://oilprice.com/Energy/Energy-General/AI-Is-Making-Cyberattacks-Cheaper-Faster-and-More-Dangerous-IMF-Warns.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-08T18:00:00Z",
+      "category": "BREACH",
+      "summary": "Quasar Linux RAT is hunting developers to poison the software supply chain with credential theft and keylogging. Because why compromise one system when you can backdoor everything they'll ever build?"
+    },
+    {
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 08 May 2026 23:42:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "cPanel rushed fixes for three fresh vulnerabilities offering the holy trinity of privilege escalation, code execution, and DoS attacks. Web hosting just got a whole lot more exciting for all the wrong reasons."
+    },
+    {
+      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
+      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
       "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "ARCHIVE",
-      "summary": "EFF releases Guy Kawasaki's Signal guide in English and Spanish, teaching proper operational security to the masses. Finally, someone made privacy tools accessible without requiring a computer science degree and three years of paranoia training."
+      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
+      "category": "BREACH",
+      "summary": "Russian military hackers mass-harvested Microsoft Office tokens by exploiting ancient router vulnerabilities. When your network security is older than TikTok, you're basically serving credentials on a silver platter."
+    },
+    {
+      "title": "Modeling individual self-protective behavior during epidemics",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014252",
+      "source": "Plos.org",
+      "publishedAt": "2026-05-08T14:00:00Z",
+      "category": "WHITE HAT",
+      "summary": "Mozilla used Anthropic's AI to identify and patch 423 Firefox security bugs in one month, proving that sometimes the robots are actually helpful. Still not a silver bullet, but hey—progress is progress."
     }
   ]
 }
