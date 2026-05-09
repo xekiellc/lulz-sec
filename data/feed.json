@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-09T01:58:12.068Z",
+  "last_updated": "2026-05-09T07:43:21.433Z",
   "articles": [
-    {
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
-      "category": "ZERO DAY",
-      "summary": "Microsoft patches a staggering 167 vulns including a SharePoint zero-day and 'BlueHammer' in Windows Defender, while Chrome fixes its fourth zero-day this year. April showers bring May flowers, but Patch Tuesday brings existential dread."
-    },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
       "url": "https://www.theregister.com/security/2026/05/08/meta-u-turns-on-encryption-push-for-instagram-as-dms-go-plaintext/5235705",
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "The 'Dirty Frag' Linux flaw delivers root access with no CVE and public exploits after a broken disclosure embargo. When responsible disclosure goes wrong, admins get pwned."
+      "summary": "Linux admins got served a lovely zero-day root exploit called 'Dirty Frag' with no CVE, no patches, and a broken disclosure embargo. It's like Christmas morning for black hats and a living nightmare for everyone else."
+    },
+    {
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-05-07T22:36:54Z",
+      "category": "ZERO DAY",
+      "summary": "Ivanti's EPMM got pwned by CVE-2026-6973, a high-severity zero-day letting admin-level attackers execute arbitrary code. Because apparently Ivanti collecting zero-days is becoming a full-time hobby."
     },
     {
       "title": "Dirty Frag: a zero-day universal Linux LPE",
@@ -23,7 +23,7 @@
       "source": "Lwn.net",
       "publishedAt": "2026-05-07T20:25:43Z",
       "category": "ZERO DAY",
-      "summary": "Nation-state actors exploited Palo Alto PAN-OS zero-day CVE-2026-0300 for weeks, gaining root on firewalls and covering their tracks. Your security appliance just became their playground."
+      "summary": "Nation-state actors exploited Palo Alto's PAN-OS zero-day CVE-2026-0300 for weeks, gaining root access to firewalls and covering their tracks. When your security appliance becomes the attack vector, irony officially died."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,7 +31,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets ransomed by cybercriminals who defaced login pages nationwide, disrupting schools and colleges. ShinyHunters strikes again—because apparently education wasn't suffering enough already."
+      "summary": "ShinyHunters ransomed Canvas nationwide, disrupting schools and colleges by defacing login pages with extortion demands. Nothing says 'education is important' like holding students' coursework hostage during finals."
     },
     {
       "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
@@ -39,7 +39,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
       "category": "BREACH",
-      "summary": "Russian military intelligence mass-harvested Microsoft Office tokens by exploiting old router flaws in a sophisticated supply chain attack. Your ancient Linksys just became Moscow's best friend."
+      "summary": "Russian military intelligence hacked routers to mass-harvest Microsoft Office tokens from unsuspecting users. Old routers being the weak link in enterprise security? Shocking absolutely no one in InfoSec."
     },
     {
       "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
@@ -47,7 +47,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
       "category": "RIGHTS",
-      "summary": "Meta abandons end-to-end encryption for Instagram DMs, going full plaintext after years of privacy promises. Zuck's surveillance capitalism shows its true colors once again."
+      "summary": "Meta quietly abandoned end-to-end encryption for Instagram DMs, reverting to plaintext and giving Zuckcorp full visibility into user chats again. Privacy theater at its finest - the curtain just fell."
     },
     {
       "title": "Free Signal Guide",
@@ -55,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 08 May 2026 17:23:00 +0000",
       "category": "RIGHTS",
-      "summary": "Congress narrowed the GUARD Act after criticism, but it still threatens AI system access with dangerous age verification schemes. Because nothing says 'protecting kids' like destroying privacy for everyone."
+      "summary": "Congress narrowed the GUARD Act after criticism, but it still targets AI companions with age restrictions. Because nothing says 'protecting children' like poorly written tech legislation from people who can barely operate smartphones."
     },
     {
       "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
@@ -63,7 +63,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
       "category": "RIGHTS",
-      "summary": "EFF releases free Signal guide in English and Spanish to help preserve privacy and security. Because in 2026, using encrypted messaging shouldn't require a PhD in cryptography."
+      "summary": "EFF drops a free Signal guide by Guy Kawasaki on preserving privacy and security through encrypted messaging. Finally, a manual for the digital resistance that doesn't require a computer science degree."
     },
     {
       "title": "ShinyHunters Claims Second Attack Against Instructure",
@@ -71,15 +71,15 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 08 May 2026 20:08:06 GMT",
       "category": "RIGHTS",
-      "summary": "The federal SECURE Data Act is privacy theater from House Republicans—a retreat from existing protections disguised as consumer protection. Corporate surveillance gets a Congressional hall pass."
+      "summary": "The federal SECURE Data Act is privacy legislation so terrible it would actually weaken existing state protections. Republicans released this hot garbage without bipartisan support, which tells you everything."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns in 2022. Another young hacker learns that cybercrime doesn't pay—at least not when you get caught."
+      "category": "WHITE HAT",
+      "summary": "Scattered Spider member 'Tylerb' pleaded guilty to wire fraud and identity theft for SMS phishing attacks in 2022. Another cybercrime rockstar trades their black hat for orange jumpsuit couture."
     }
   ]
 }
