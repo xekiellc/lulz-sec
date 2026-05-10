@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T07:56:40.175Z",
+  "last_updated": "2026-05-10T12:55:22.681Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April Patch Tuesday served up a staggering 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Meanwhile, Chrome patched its fourth zero-day of the year because apparently nobody knows how to code anymore."
+      "summary": "Microsoft drops a biblical 167 security fixes including a SharePoint zero-day and a Windows Defender flaw dubbed 'BlueHammer' — because apparently April showers bring CVE flowers. Chrome also patched its fourth zero-day this year because Google's having a stellar security season."
     },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
@@ -15,15 +15,15 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "The 'Dirty Frag' Linux vulnerability gives instant root on all major distros with a public exploit and zero patches available. Some genius broke the disclosure embargo, leaving admins completely exposed to this root-level nightmare."
+      "summary": "'Dirty Frag' Linux flaw breaks the cardinal rule of responsible disclosure — public root exploit with no patches and no CVE because someone couldn't keep their embargo pants on. Admins everywhere are having a very bad day."
     },
     {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "source": "Github.com",
-      "publishedAt": "2026-05-08T00:03:38Z",
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 09 May 2026 12:46:00 +0530",
       "category": "ZERO DAY",
-      "summary": "CISA gave federal agencies exactly four days to patch an Ivanti EPMM zero-day being actively exploited in the wild. Because nothing says 'government efficiency' like discovering you're already pwned."
+      "summary": "Ollama's out-of-bounds read vulnerability (CVE-2026-[redacted]) lets unauthenticated attackers slurp entire process memory from 300,000+ servers. It's like leaving your diary open, but your diary contains everyone's secrets."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,7 +31,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got absolutely wrecked during finals week, disrupting education for millions of students nationwide. ShinyHunters defaced the login page with ransom demands because apparently even cybercriminals understand dramatic timing."
+      "summary": "ShinyHunters turned finals week into actual hell by breaching Canvas and holding student data hostage with a ransom demand plastered on login pages. Nothing says 'happy graduation' like your entire academic record being auctioned to the highest bidder."
     },
     {
       "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
@@ -39,7 +39,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
       "category": "BREACH",
-      "summary": "Russian military hackers mass-harvested Microsoft Office authentication tokens by exploiting ancient router vulnerabilities. Yet another reminder that your ancient Linksys is basically a welcome mat for state-sponsored spies."
+      "summary": "Russian military intelligence pulled a sneaky router hack to mass-harvest Microsoft Office tokens — because why break into one account when you can steal authentication cookies by the thousands? Classic GRU efficiency."
     },
     {
       "title": "Canvas Got Hacked During Finals Week and Students Are Freaking Out",
@@ -47,7 +47,7 @@
       "source": "Gizmodo.com",
       "publishedAt": "2026-05-08T16:14:22Z",
       "category": "BREACH",
-      "summary": "NVIDIA confirmed a GeForce NOW data breach affecting Armenian users after initially trying to stay quiet. Nothing says 'we take security seriously' like getting caught with your digital pants down."
+      "summary": "NVIDIA confirms GeForce NOW got pwned, exposing Armenian user data in what's probably the most geographically specific breach disclosure we've seen this month. Someone's targeting very specific gamers."
     },
     {
       "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
@@ -55,7 +55,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
       "category": "FOIA",
-      "summary": "The DOJ now treats dodging FOIA requests as a criminal offense punishable by arrest and strip searches. The irony of the most secretive administration in history criminalizing transparency evasion is absolutely chef's kiss."
+      "summary": "The DOJ now treats dodging FOIA requests as an arrestable offense — but only if you're not the government, naturally. Peak hypocrisy from an administration that perfected the art of transparency avoidance."
     },
     {
       "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
@@ -63,7 +63,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
       "category": "RIGHTS",
-      "summary": "Meta pulled a stunning U-turn on Instagram encryption, reverting DMs back to plaintext after years of privacy promises. Zuckerberg apparently decided he missed reading everyone's messages after all."
+      "summary": "Meta pulls a spectacular U-turn on Instagram encryption, going back to plaintext DMs after years of privacy promises. Zuckerberg apparently decided user privacy was just a phase he was going through."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
@@ -71,15 +71,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleaded guilty to wire fraud and identity theft for his role in the group's 2022 SMS phishing campaigns. Another legend falls to the feds, proving even the most elite social engineers eventually meet their match."
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns that would make the old-school social engineers weep with pride. Another legend bites the dust in federal court."
     },
     {
       "title": "U.S. Fuel Exports Hit Record High as Hormuz Crisis Reshapes Global Energy Flows",
       "url": "https://www.naturalnews.com/2026-05-09-us-fuel-exports-record-high-amid-hormuz-crisis.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-05-09T06:00:00Z",
-      "category": "WHITE HAT",
-      "summary": "Researchers discovered 'Quasar Linux RAT' targeting developers to compromise software supply chains through credential harvesting and keylogging. Because apparently the easiest way to hack everyone is to hack the people who build everything first."
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Mythos AI found thousands of zero-days across major OS and browsers, prompting the Fed chair to speed-dial bank CEOs in panic. When AI starts finding vulns faster than humans can patch them, we're officially in the cybersecurity singularity."
     }
   ]
 }
