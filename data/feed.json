@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T01:57:09.823Z",
+  "last_updated": "2026-05-10T07:56:40.175Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April Patch Tuesday dropped 167 vulns including a SharePoint zero-day and the deliciously named 'BlueHammer' Defender flaw. Because apparently even the defenders need defending."
+      "summary": "Microsoft's April Patch Tuesday served up a staggering 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Meanwhile, Chrome patched its fourth zero-day of the year because apparently nobody knows how to code anymore."
     },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
@@ -15,7 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Linux's 'Dirty Frag' vulnerability gives instant root on all major distros with no patches and a public exploit. When disclosure embargoes break, admins cry."
+      "summary": "The 'Dirty Frag' Linux vulnerability gives instant root on all major distros with a public exploit and zero patches available. Some genius broke the disclosure embargo, leaving admins completely exposed to this root-level nightmare."
     },
     {
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
@@ -23,7 +23,7 @@
       "source": "Github.com",
       "publishedAt": "2026-05-08T00:03:38Z",
       "category": "ZERO DAY",
-      "summary": "CISA demands federal agencies patch an Ivanti zero-day in four days flat. Nothing says 'we're taking this seriously' like an emergency patch deadline."
+      "summary": "CISA gave federal agencies exactly four days to patch an Ivanti EPMM zero-day being actively exploited in the wild. Because nothing says 'government efficiency' like discovering you're already pwned."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,7 +31,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got ransomed during finals week, disrupting education nationwide. ShinyHunters proving that even hackers understand the art of perfect timing."
+      "summary": "Canvas got absolutely wrecked during finals week, disrupting education for millions of students nationwide. ShinyHunters defaced the login page with ransom demands because apparently even cybercriminals understand dramatic timing."
     },
     {
       "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
@@ -39,7 +39,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
       "category": "BREACH",
-      "summary": "Russian military hackers mass-harvested Microsoft Office tokens by exploiting old router vulns. Because why break into one system when you can break into thousands?"
+      "summary": "Russian military hackers mass-harvested Microsoft Office authentication tokens by exploiting ancient router vulnerabilities. Yet another reminder that your ancient Linksys is basically a welcome mat for state-sponsored spies."
     },
     {
       "title": "Canvas Got Hacked During Finals Week and Students Are Freaking Out",
@@ -47,7 +47,7 @@
       "source": "Gizmodo.com",
       "publishedAt": "2026-05-08T16:14:22Z",
       "category": "BREACH",
-      "summary": "NVIDIA confirms GeForce NOW breach affecting Armenian users. Even the cloud gaming gods aren't immune to digital pillaging."
+      "summary": "NVIDIA confirmed a GeForce NOW data breach affecting Armenian users after initially trying to stay quiet. Nothing says 'we take security seriously' like getting caught with your digital pants down."
     },
     {
       "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
@@ -55,7 +55,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
       "category": "FOIA",
-      "summary": "DOJ now treats FOIA evasion as arrestable offense under Trump 2.0. The irony is so thick you could cut it with a classified document."
+      "summary": "The DOJ now treats dodging FOIA requests as a criminal offense punishable by arrest and strip searches. The irony of the most secretive administration in history criminalizing transparency evasion is absolutely chef's kiss."
     },
     {
       "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
@@ -63,23 +63,23 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
       "category": "RIGHTS",
-      "summary": "Meta abandons Instagram DM encryption, reverting to plaintext after years of privacy promises. Zuck giveth encryption hopes, Zuck taketh away."
-    },
-    {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-      "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF drops free Signal guide in multiple languages because encrypted comms shouldn't be rocket science. Democracy runs better when conversations stay private."
+      "summary": "Meta pulled a stunning U-turn on Instagram encryption, reverting DMs back to plaintext after years of privacy promises. Zuckerberg apparently decided he missed reading everyone's messages after all."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleaded guilty to wire fraud and identity theft for his role in the group's 2022 SMS phishing campaigns. Another legend falls to the feds, proving even the most elite social engineers eventually meet their match."
+    },
+    {
+      "title": "U.S. Fuel Exports Hit Record High as Hormuz Crisis Reshapes Global Energy Flows",
+      "url": "https://www.naturalnews.com/2026-05-09-us-fuel-exports-record-high-amid-hormuz-crisis.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-09T06:00:00Z",
       "category": "WHITE HAT",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft from 2022 SIM-swapping campaigns. Another social engineer learns that phishing has consequences."
+      "summary": "Researchers discovered 'Quasar Linux RAT' targeting developers to compromise software supply chains through credential harvesting and keylogging. Because apparently the easiest way to hack everyone is to hack the people who build everything first."
     }
   ]
 }
