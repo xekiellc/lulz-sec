@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T08:58:50.106Z",
+  "last_updated": "2026-05-11T14:27:40.095Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulns like confetti, including a SharePoint zero-day and Windows Defender's 'BlueHammer' weakness. Chrome adds its fourth patch because apparently counting stops being fun after three."
+      "summary": "Microsoft patched 167 vulns including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Chrome had its fourth zero-day of the year because apparently security is just a suggestion now."
     },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
@@ -15,55 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "'Dirty Frag' Linux flaw gives root access with a public exploit and zero patches after broken disclosure embargo. When responsible disclosure goes irresponsibly wrong, admins cry."
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "category": "BREACH",
-      "summary": "Canvas learning platform gets schooled by ransomware crew, disrupting education nationwide with defaced login pages. Finals week just got more stressful for millions of students."
-    },
-    {
-      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
-      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
-      "source": "EFF",
-      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
-      "category": "BREACH",
-      "summary": "Russian military hackers turn home routers into Microsoft Office token harvesters because why break in when you can just walk through the front door. Your Linksys is now Moscow's best friend."
-    },
-    {
-      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
-      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
-      "category": "FOIA",
-      "summary": "DOJ now treats FOIA dodging as arrestable offense under Trump 2.0, complete with strip searches. Peak hypocrisy from the administration that weaponized government secrecy."
-    },
-    {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-      "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF drops free Signal guide in English and Spanish because private communications shouldn't be a luxury. Guy Kawasaki shows everyone how to keep Big Brother out of their DMs."
-    },
-    {
-      "title": "ShinyHunters Claims Second Attack Against Instructure",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 08 May 2026 20:08:06 GMT",
-      "category": "RIGHTS",
-      "summary": "House GOP's SECURE Data Act is privacy theater that weakens existing state protections. When Republicans write privacy bills without bipartisan support, consumers lose."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after summer 2022 SMS phishing spree. Another social engineering master learns federal prison isn't as fun as pwning corporations."
+      "summary": "The 'Dirty Frag' Linux flaw gives root access with no patches available after disclosure embargo broke. When responsible disclosure goes irresponsibly wrong, admins cry."
     },
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -71,7 +23,39 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 09 May 2026 12:46:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Ollama's CVE-2026 out-of-bounds read flaw lets remote attackers leak entire process memory from 300k+ servers. When your AI inference engine becomes a memory dump service."
+      "summary": "CVE-2026 lets remote attackers leak Ollama's entire process memory without authentication. 300,000 servers globally just became very uncomfortable with their life choices."
+    },
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "category": "BREACH",
+      "summary": "Canvas got owned by data extortionists, disrupting schools nationwide with ransom demands on login pages. Finals week just became exponentially more stressful for millions of students."
+    },
+    {
+      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
+      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
+      "source": "EFF",
+      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
+      "category": "BREACH",
+      "summary": "Russian military hackers mass-harvested Microsoft Office tokens by exploiting old router vulns. Your ancient Linksys just became Moscow's favorite authentication buffet."
+    },
+    {
+      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
+      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
+      "category": "FOIA",
+      "summary": "DOJ now treats dodging FOIA requests as a crime worthy of arrest and strip searches. The irony is so thick you could cut it with a subpoena."
+    },
+    {
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 11 May 2026 18:06:00 +0530",
+      "category": "RIGHTS",
+      "summary": "Meta abandons Instagram DM encryption, giving itself full visibility into user chats again. Zuckerberg's privacy promises have the lifespan of a mayfly."
     },
     {
       "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
@@ -79,7 +63,23 @@
       "source": "The Next Web",
       "publishedAt": "2026-05-09T11:20:37Z",
       "category": "WHITE HAT",
-      "summary": "Security researcher declares 90-day disclosure dead as LLMs compress exploit development to near-zero timeframes. The responsible disclosure social contract just met machine learning reality."
+      "summary": "The 90-day disclosure window is dead because LLMs compress exploit development to near-zero timeframes. Responsible disclosure just got a machine learning reality check."
+    },
+    {
+      "title": "'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit",
+      "url": "https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230",
+      "source": "The Register",
+      "publishedAt": "Fri, 08 May 2026 15:36:08 +0200",
+      "category": "ARCHIVE",
+      "summary": "New worm eliminates competitor malware before taking control itself. Even cybercriminals are practicing hostile takeovers now—capitalism finds a way."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft for SMS phishing attacks. Another legend falls to the feds' patient paperwork."
     }
   ]
 }
