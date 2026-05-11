@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T18:45:45.200Z",
+  "last_updated": "2026-05-11T02:07:35.478Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulnerabilities like it's hot, including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Chrome patches its fourth zero-day this year because apparently browsers are made of Swiss cheese."
+      "summary": "Microsoft drops a nuclear payload of 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Chrome also patched its fourth zero-day this year because apparently browsers are the new Wild West."
     },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
@@ -15,7 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "'Dirty Frag' Linux flaw gives root access with a public exploit and zero patches—because nothing says responsible disclosure like dropping a root exploit with no CVE. Admins everywhere just felt their souls leave their bodies."
+      "summary": "'Dirty Frag' Linux flaw makes CopyFail look quaint—public root exploit with no patches and a broken disclosure embargo. When responsible disclosure becomes irresponsible chaos, admins get the privilege of panicking."
     },
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -23,47 +23,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 09 May 2026 12:46:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Ollama's out-of-bounds read vulnerability lets attackers slurp entire process memory from 300,000+ servers remotely. It's like leaving your diary open, but the diary contains everyone's secrets."
+      "summary": "Ollama's out-of-bounds read vulnerability lets remote attackers slurp entire process memory from 300,000+ servers globally. Because nothing says 'AI security' like leaking your brain directly to adversaries."
     },
     {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "category": "BREACH",
-      "summary": "ShinyHunters crashes Canvas during finals week, holding student data hostage while kids nationwide panic about their grades. Nothing says 'chaos' like attacking education during crunch time."
-    },
-    {
-      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
-      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
-      "source": "EFF",
-      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
-      "category": "BREACH",
-      "summary": "Russian military hackers pwned ancient routers to harvest Microsoft Office tokens en masse. When your security strategy relies on routers older than TikTok, you're gonna have a bad time."
-    },
-    {
-      "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
-      "url": "https://www.theregister.com/security/2026/05/08/hackers-ate-my-homework-educational-saas-canvas-down-after-cyberattack/5235561",
-      "source": "The Register",
-      "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
-      "category": "RIGHTS",
-      "summary": "Meta abandons Instagram DM encryption after years of promising privacy, giving Zuckerberg full visibility into your thirst traps again. Privacy theater reaches its final act with a standing ovation from surveillance capitalism."
-    },
-    {
-      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
-      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
-      "category": "FOIA",
-      "summary": "DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches. The same administration that perfected the art of records evasion suddenly discovers transparency religion."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft for SMS phishing campaigns. Another brilliant mind learns that cybercrime pays poorly when you get caught."
+      "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
+      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-09T11:20:37Z",
+      "category": "WHITE HAT",
+      "summary": "The 90-day disclosure window is officially dead—LLMs compressed both bug finding and exploit development to near-zero timelines. The responsible disclosure social contract just got steamrolled by artificial intelligence."
     },
     {
       "title": "U.S. Fuel Exports Hit Record High as Hormuz Crisis Reshapes Global Energy Flows",
@@ -71,15 +39,47 @@
       "source": "Naturalnews.com",
       "publishedAt": "2026-05-09T06:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Anthropic's Mythos AI discovers thousands of zero-days across major OS and browsers, prompting Fed chair to frantically call bank CEOs. When AI starts finding vulns faster than humans can patch them, we're officially in the endgame."
+      "summary": "Anthropic's Mythos AI discovered thousands of zero-days across major OS and browsers, prompting Fed chair emergency calls to bank CEOs. When your AI becomes too good at breaking everything, even the money people start sweating."
     },
     {
-      "title": "Anthropic’s Mythos found thousands of zero-day vulnerabilities. The Fed chair called the banks.",
-      "url": "https://thenextweb.com/news/anthropic-mythos-cybersecurity-banks-vulnerability/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-09T10:35:36Z",
-      "category": "WHITE HAT",
-      "summary": "Intruder builds AI that does $50K manual pentests in minutes, making expensive security consultants sweat harder than their overpriced reports. The robots aren't just coming for blue-collar jobs anymore."
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "category": "BREACH",
+      "summary": "Canvas learning platform got pwned during finals week by cybercriminals who defaced login pages with ransom demands. Nothing says 'educational disruption' like holding millions of students' coursework hostage."
+    },
+    {
+      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
+      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
+      "source": "EFF",
+      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
+      "category": "BREACH",
+      "summary": "Russian military hackers are mass-harvesting Microsoft Office tokens through compromised routers because apparently every IoT device is now a state-sponsored espionage gateway. Your office WiFi router: now with 100% more GRU."
+    },
+    {
+      "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
+      "url": "https://www.theregister.com/security/2026/05/08/hackers-ate-my-homework-educational-saas-canvas-down-after-cyberattack/5235561",
+      "source": "The Register",
+      "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
+      "category": "RIGHTS",
+      "summary": "Meta abandons Instagram end-to-end encryption push, reverting DMs to plaintext after years of privacy promises. Zuckcorp wants full visibility into your chats again because surveillance capitalism never sleeps."
+    },
+    {
+      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
+      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
+      "category": "FOIA",
+      "summary": "DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches—but only when convenient. Peak government hypocrisy: transparency for thee, opacity for me."
+    },
+    {
+      "title": "Canvas Got Hacked During Finals Week and Students Are Freaking Out",
+      "url": "https://gizmodo.com/canvas-got-hacked-during-finals-week-and-students-are-freaking-out-2000756271",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-08T16:14:22Z",
+      "category": "BREACH",
+      "summary": "NVIDIA confirms GeForce NOW data breach affecting Armenian users because even gaming platforms aren't safe from data harvesting operations. Your cloud gaming stats: now with complementary identity exposure."
     }
   ]
 }
