@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T02:07:35.478Z",
+  "last_updated": "2026-05-11T08:58:50.106Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a nuclear payload of 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Chrome also patched its fourth zero-day this year because apparently browsers are the new Wild West."
+      "summary": "Microsoft drops 167 vulns like confetti, including a SharePoint zero-day and Windows Defender's 'BlueHammer' weakness. Chrome adds its fourth patch because apparently counting stops being fun after three."
     },
     {
       "title": "Meta U-turns on encryption push for Instagram as DMs go plaintext",
@@ -15,31 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 08 May 2026 14:42:00 +0200",
       "category": "ZERO DAY",
-      "summary": "'Dirty Frag' Linux flaw makes CopyFail look quaint—public root exploit with no patches and a broken disclosure embargo. When responsible disclosure becomes irresponsible chaos, admins get the privilege of panicking."
-    },
-    {
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 09 May 2026 12:46:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "Ollama's out-of-bounds read vulnerability lets remote attackers slurp entire process memory from 300,000+ servers globally. Because nothing says 'AI security' like leaking your brain directly to adversaries."
-    },
-    {
-      "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
-      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-09T11:20:37Z",
-      "category": "WHITE HAT",
-      "summary": "The 90-day disclosure window is officially dead—LLMs compressed both bug finding and exploit development to near-zero timelines. The responsible disclosure social contract just got steamrolled by artificial intelligence."
-    },
-    {
-      "title": "U.S. Fuel Exports Hit Record High as Hormuz Crisis Reshapes Global Energy Flows",
-      "url": "https://www.naturalnews.com/2026-05-09-us-fuel-exports-record-high-amid-hormuz-crisis.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-09T06:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Anthropic's Mythos AI discovered thousands of zero-days across major OS and browsers, prompting Fed chair emergency calls to bank CEOs. When your AI becomes too good at breaking everything, even the money people start sweating."
+      "summary": "'Dirty Frag' Linux flaw gives root access with a public exploit and zero patches after broken disclosure embargo. When responsible disclosure goes irresponsibly wrong, admins cry."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -47,7 +23,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas learning platform got pwned during finals week by cybercriminals who defaced login pages with ransom demands. Nothing says 'educational disruption' like holding millions of students' coursework hostage."
+      "summary": "Canvas learning platform gets schooled by ransomware crew, disrupting education nationwide with defaced login pages. Finals week just got more stressful for millions of students."
     },
     {
       "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
@@ -55,15 +31,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
       "category": "BREACH",
-      "summary": "Russian military hackers are mass-harvesting Microsoft Office tokens through compromised routers because apparently every IoT device is now a state-sponsored espionage gateway. Your office WiFi router: now with 100% more GRU."
-    },
-    {
-      "title": "Hackers ate my homework: Educational SaaS Canvas down after cyberattack",
-      "url": "https://www.theregister.com/security/2026/05/08/hackers-ate-my-homework-educational-saas-canvas-down-after-cyberattack/5235561",
-      "source": "The Register",
-      "publishedAt": "Fri, 08 May 2026 12:59:10 +0200",
-      "category": "RIGHTS",
-      "summary": "Meta abandons Instagram end-to-end encryption push, reverting DMs to plaintext after years of privacy promises. Zuckcorp wants full visibility into your chats again because surveillance capitalism never sleeps."
+      "summary": "Russian military hackers turn home routers into Microsoft Office token harvesters because why break in when you can just walk through the front door. Your Linksys is now Moscow's best friend."
     },
     {
       "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
@@ -71,15 +39,47 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
       "category": "FOIA",
-      "summary": "DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches—but only when convenient. Peak government hypocrisy: transparency for thee, opacity for me."
+      "summary": "DOJ now treats FOIA dodging as arrestable offense under Trump 2.0, complete with strip searches. Peak hypocrisy from the administration that weaponized government secrecy."
     },
     {
-      "title": "Canvas Got Hacked During Finals Week and Students Are Freaking Out",
-      "url": "https://gizmodo.com/canvas-got-hacked-during-finals-week-and-students-are-freaking-out-2000756271",
-      "source": "Gizmodo.com",
-      "publishedAt": "2026-05-08T16:14:22Z",
-      "category": "BREACH",
-      "summary": "NVIDIA confirms GeForce NOW data breach affecting Armenian users because even gaming platforms aren't safe from data harvesting operations. Your cloud gaming stats: now with complementary identity exposure."
+      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
+      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
+      "source": "EFF",
+      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF drops free Signal guide in English and Spanish because private communications shouldn't be a luxury. Guy Kawasaki shows everyone how to keep Big Brother out of their DMs."
+    },
+    {
+      "title": "ShinyHunters Claims Second Attack Against Instructure",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 08 May 2026 20:08:06 GMT",
+      "category": "RIGHTS",
+      "summary": "House GOP's SECURE Data Act is privacy theater that weakens existing state protections. When Republicans write privacy bills without bipartisan support, consumers lose."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after summer 2022 SMS phishing spree. Another social engineering master learns federal prison isn't as fun as pwning corporations."
+    },
+    {
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 09 May 2026 12:46:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Ollama's CVE-2026 out-of-bounds read flaw lets remote attackers leak entire process memory from 300k+ servers. When your AI inference engine becomes a memory dump service."
+    },
+    {
+      "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
+      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-09T11:20:37Z",
+      "category": "WHITE HAT",
+      "summary": "Security researcher declares 90-day disclosure dead as LLMs compress exploit development to near-zero timeframes. The responsible disclosure social contract just met machine learning reality."
     }
   ]
 }
