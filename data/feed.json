@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T02:03:24.676Z",
+  "last_updated": "2026-05-12T08:25:51.829Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,31 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft dropped 167 patches including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw, while Chrome patched its fourth zero-day this year. April showers bring May flowers, and apparently they also bring security nightmares."
+      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Chrome also squeezed in its fourth zero-day of the year because why not make Patch Tuesday extra spicy."
     },
     {
-      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 11 May 2026 18:06:00 +0530",
+      "title": "Geospatial Intelligence Expert Y. Nithiyanandam on Why the Hormuz Strait is No Longer a Neutral Global Common",
+      "url": "https://thediplomat.com/2026/05/geospatial-intelligence-expert-y-nithiyanandam-on-why-the-hormuz-strait-is-no-longer-a-neutral-global-common/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-11T07:44:00Z",
       "category": "ZERO DAY",
-      "summary": "Google spotted the first AI-developed zero-day exploit in the wild—a 2FA bypass no less. The machines aren't just coming for our jobs, they're debugging their way into our accounts."
+      "summary": "CVE-2026-41940 is getting hammered in the wild as threat actor 'Mr_Rot13' deploys Filemanager backdoors on compromised cPanel instances. When your web hosting control panel becomes someone else's control panel, you're having a bad time."
     },
     {
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 11 May 2026 21:15:00 +0530",
+      "title": "Hackers Use AI for Exploit Development, Attack Automation",
+      "url": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 GMT",
       "category": "ZERO DAY",
-      "summary": "CVE-2026-41940 in cPanel is getting hammered by Mr_Rot13 (love the handle) to drop Filemanager backdoors. When your web hosting control panel becomes someone else's control panel."
-    },
-    {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "source": "EFF",
-      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence turned old routers into Microsoft Office token vending machines. Your grandmother's Linksys just became a foreign intelligence asset."
+      "summary": "'Dirty Frag' joins the Linux privilege escalation hall of fame alongside Copy Fail and Dirty Pipe. Enterprise distros are about to get fragged, and this one might already be seeing limited exploitation in the wild."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -39,15 +31,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got pwned during finals week because apparently cybercriminals have no chill. Millions of students nationwide couldn't access coursework while hackers held their education hostage."
+      "summary": "Canvas gets pwned by extortionists, disrupting education nationwide with a ransom demand plastered right on the login page. Nothing says 'back to school' like having your homework held hostage by cybercriminals."
     },
     {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-10T12:41:00Z",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 12 May 2026 12:25:00 +0530",
       "category": "BREACH",
-      "summary": "NVIDIA's GeForce NOW leaked Armenian user data because even GPU giants can't escape the breach industrial complex. Cloud gaming, cloud crying."
+      "summary": "Instructure 'reached an agreement' with ShinyHunters to prevent their 3.65TB Canvas data leak—corporate speak for 'we paid the ransom.' Thousands of schools just learned an expensive lesson about cybersecurity."
+    },
+    {
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "source": "EFF",
+      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
+      "category": "BREACH",
+      "summary": "Russian military intelligence turns old router vulns into a Microsoft Office token buffet, quietly harvesting auth credentials en masse. Your ancient Linksys just became Moscow's favorite espionage tool."
     },
     {
       "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
@@ -55,15 +55,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
       "category": "FOIA",
-      "summary": "The DOJ now treats dodging FOIA requests as criminal behavior worthy of arrest—rich coming from the same administration that perfected government transparency theater. Rules for thee, not for me."
-    },
-    {
-      "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community",
-      "source": "EFF",
-      "publishedAt": "Mon, 11 May 2026 17:37:05 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF argues border device searches need warrants because the Fourth Amendment didn't come with a 'customs exception' asterisk. Your phone's constitutional rights shouldn't end at the airport."
+      "summary": "The DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches—peak hypocrisy from an administration that perfected government transparency avoidance. Rules for thee, not for me reaches new heights."
     },
     {
       "title": "EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant",
@@ -71,15 +63,23 @@
       "source": "EFF",
       "publishedAt": "Mon, 11 May 2026 20:12:50 +0000",
       "category": "RIGHTS",
-      "summary": "Canada repackaged last year's surveillance nightmare as Bill C-22, proving that bad privacy legislation is like herpes—it always comes back. Democracy dies in rebranding."
+      "summary": "Canada repackages last year's surveillance nightmare as Bill C-22, hoping nobody notices it's still the same digital rights-crushing monster. When your worst sequel makes it to parliament, democracy needs better script writers."
     },
     {
-      "title": "Native Apps Should Be Avoided Whenever Possible",
-      "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
-      "source": "Nooneshappy.com",
-      "publishedAt": "2026-05-10T05:47:02Z",
-      "category": "WHITE HAT",
-      "summary": "LLMs killed the 90-day disclosure window by making exploit development instant—the security researcher's lament that responsible disclosure just got a lot less responsible. Welcome to the age of AI-accelerated pwning."
+      "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community",
+      "source": "EFF",
+      "publishedAt": "Mon, 11 May 2026 17:37:05 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF fights for warrant requirements on border device searches in the Fourth Circuit, because apparently 'papers please' now includes your entire digital life. Constitutional rights shouldn't end at customs."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after a 2022 SMS phishing spree. Another cybercrime legend trades their keyboard for an orange jumpsuit—the circle of lulz continues."
     }
   ]
 }
