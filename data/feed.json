@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T19:27:43.743Z",
+  "last_updated": "2026-05-12T02:03:24.676Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and a Windows Defender flaw dubbed 'BlueHammer' — because apparently someone thought Defender needed more ways to fail. Chrome patches its fourth of the year because Google's security model is 'move fast and break browsers.'"
-    },
-    {
-      "title": "Hackers Use AI for Exploit Development, Attack Automation",
-      "url": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 11 May 2026 13:00:00 GMT",
-      "category": "ZERO DAY",
-      "summary": "'Dirty Frag' joins the Linux privilege escalation hall of fame alongside Copy Fail and Dirty Pipe. Enterprise distros are about to get fragged, and there's whispers it's already happening in the wild."
-    },
-    {
-      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
-      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
-      "category": "FOIA",
-      "summary": "Trump's DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches — the irony of transparency-dodgers criminalizing transparency-dodging is chef's kiss perfection. Rules for thee, surveillance for me."
+      "summary": "Microsoft dropped 167 patches including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw, while Chrome patched its fourth zero-day this year. April showers bring May flowers, and apparently they also bring security nightmares."
     },
     {
       "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
@@ -31,15 +15,23 @@
       "source": "The Hacker News",
       "publishedAt": "Mon, 11 May 2026 18:06:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Google confirms the first AI-developed zero-day used in the wild — a 2FA bypass for mass exploitation. The machines aren't just coming for our jobs, they're coming for our security too."
+      "summary": "Google spotted the first AI-developed zero-day exploit in the wild—a 2FA bypass no less. The machines aren't just coming for our jobs, they're debugging their way into our accounts."
     },
     {
-      "title": "Native Apps Should Be Avoided Whenever Possible",
-      "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
-      "source": "Nooneshappy.com",
-      "publishedAt": "2026-05-10T05:47:02Z",
-      "category": "WHITE HAT",
-      "summary": "LLMs have murdered the 90-day disclosure window by compressing both bug discovery and exploit development to near-zero timelines. The responsible disclosure era just got machine-gunned by artificial intelligence."
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 11 May 2026 21:15:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "CVE-2026-41940 in cPanel is getting hammered by Mr_Rot13 (love the handle) to drop Filemanager backdoors. When your web hosting control panel becomes someone else's control panel."
+    },
+    {
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "source": "EFF",
+      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
+      "category": "BREACH",
+      "summary": "Russian military intelligence turned old routers into Microsoft Office token vending machines. Your grandmother's Linksys just became a foreign intelligence asset."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -47,39 +39,47 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "ShinyHunters ransoms Canvas, disrupting millions of students during finals week because apparently psychological warfare against sleep-deprived college kids is their new business model. Educational technology meets educational terrorism."
+      "summary": "Canvas got pwned during finals week because apparently cybercriminals have no chill. Millions of students nationwide couldn't access coursework while hackers held their education hostage."
     },
     {
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 11 May 2026 21:15:00 +0530",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-10T12:41:00Z",
       "category": "BREACH",
-      "summary": "CVE-2026-41940 in cPanel gets weaponized by 'Mr_Rot13' to deploy Filemanager backdoors — because nothing says 'elite hacker' like a Caesar cipher username and targeting shared hosting providers. Script kiddie energy meets critical infrastructure."
+      "summary": "NVIDIA's GeForce NOW leaked Armenian user data because even GPU giants can't escape the breach industrial complex. Cloud gaming, cloud crying."
+    },
+    {
+      "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
+      "url": "https://theintercept.com/2026/05/08/splc-donations-banks-censorship/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
+      "category": "FOIA",
+      "summary": "The DOJ now treats dodging FOIA requests as criminal behavior worthy of arrest—rich coming from the same administration that perfected government transparency theater. Rules for thee, not for me."
     },
     {
       "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
       "url": "https://www.eff.org/deeplinks/2026/05/eff-stands-solidarity-rightscon-and-global-digital-rights-community",
       "source": "EFF",
       "publishedAt": "Mon, 11 May 2026 17:37:05 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence units are mass-harvesting Microsoft Office tokens through compromised routers like it's 2003 and we learned nothing. State-sponsored credential theft via neglected network hardware — the classics never die."
+      "category": "RIGHTS",
+      "summary": "EFF argues border device searches need warrants because the Fourth Amendment didn't come with a 'customs exception' asterisk. Your phone's constitutional rights shouldn't end at the airport."
     },
     {
-      "title": "Congress Narrowed the GUARD Act, But Serious Problems Remain",
-      "url": "https://www.eff.org/deeplinks/2026/05/congress-narrowed-guard-act-serious-problems-remain",
+      "title": "EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
       "source": "EFF",
-      "publishedAt": "Fri, 08 May 2026 23:24:31 +0000",
+      "publishedAt": "Mon, 11 May 2026 20:12:50 +0000",
       "category": "RIGHTS",
-      "summary": "RightsCon 2026 gets cancelled as governments worldwide crush spaces for digital rights dialogue. When they're shutting down the conferences about digital freedom, maybe it's time to worry about digital freedom."
+      "summary": "Canada repackaged last year's surveillance nightmare as Bill C-22, proving that bad privacy legislation is like herpes—it always comes back. Democracy dies in rebranding."
     },
     {
-      "title": "Milestone 1.0.0 Release of APK Downloader `apkeep` Powers Research on Android Apps",
-      "url": "https://www.eff.org/deeplinks/2026/05/milestone-100-release-apk-downloader-apkeep-powers-research-android-apps",
-      "source": "EFF",
-      "publishedAt": "Wed, 06 May 2026 22:44:48 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF drops a free Signal guide in Spanish and English because encrypted messaging shouldn't require a computer science degree. Guy Kawasaki's 'Everybody Has Something to Hide' — finally, a privacy advocate who gets the marketing game."
+      "title": "Native Apps Should Be Avoided Whenever Possible",
+      "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+      "source": "Nooneshappy.com",
+      "publishedAt": "2026-05-10T05:47:02Z",
+      "category": "WHITE HAT",
+      "summary": "LLMs killed the 90-day disclosure window by making exploit development instant—the security researcher's lament that responsible disclosure just got a lot less responsible. Welcome to the age of AI-accelerated pwning."
     }
   ]
 }
