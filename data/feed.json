@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T08:25:51.829Z",
+  "last_updated": "2026-05-12T13:54:24.548Z",
   "articles": [
     {
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
@@ -7,23 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 07 Apr 2026 17:02:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Chrome also squeezed in its fourth zero-day of the year because why not make Patch Tuesday extra spicy."
+      "summary": "Microsoft drops a staggering 167 patches including a SharePoint zero-day and a Windows Defender flaw dubbed 'BlueHammer' — because apparently someone at Redmond decided April was the perfect time for a vulnerability fire sale."
     },
     {
-      "title": "Geospatial Intelligence Expert Y. Nithiyanandam on Why the Hormuz Strait is No Longer a Neutral Global Common",
-      "url": "https://thediplomat.com/2026/05/geospatial-intelligence-expert-y-nithiyanandam-on-why-the-hormuz-strait-is-no-longer-a-neutral-global-common/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-11T07:44:00Z",
+      "title": "Google says criminals used AI to build a working zero-day exploit for the first time",
+      "url": "https://siliconangle.com/2026/05/11/google-says-criminals-used-ai-build-working-zero-day-exploit-first-time/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-05-11T13:00:35Z",
       "category": "ZERO DAY",
-      "summary": "CVE-2026-41940 is getting hammered in the wild as threat actor 'Mr_Rot13' deploys Filemanager backdoors on compromised cPanel instances. When your web hosting control panel becomes someone else's control panel, you're having a bad time."
-    },
-    {
-      "title": "Hackers Use AI for Exploit Development, Attack Automation",
-      "url": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 11 May 2026 13:00:00 GMT",
-      "category": "ZERO DAY",
-      "summary": "'Dirty Frag' joins the Linux privilege escalation hall of fame alongside Copy Fail and Dirty Pipe. Enterprise distros are about to get fragged, and this one might already be seeing limited exploitation in the wild."
+      "summary": "Google confirms criminals used AI to craft their first working zero-day exploit, marking the official dawn of the 'Oh Shit, Skynet Learned to Hack' era. The future is here and it's debugging itself into our networks."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,23 +23,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets pwned by extortionists, disrupting education nationwide with a ransom demand plastered right on the login page. Nothing says 'back to school' like having your homework held hostage by cybercriminals."
+      "summary": "Canvas platform gets pwned by extortion crew, disrupting education nationwide with ransom demands plastered on login pages. Nothing says 'back to school' like having your homework held hostage by cybercriminals."
     },
     {
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 12 May 2026 12:25:00 +0530",
+      "title": "Apple, Google drag cross-platform texting into the encrypted age",
+      "url": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
+      "source": "The Register",
+      "publishedAt": "Tue, 12 May 2026 11:46:00 +0200",
       "category": "BREACH",
-      "summary": "Instructure 'reached an agreement' with ShinyHunters to prevent their 3.65TB Canvas data leak—corporate speak for 'we paid the ransom.' Thousands of schools just learned an expensive lesson about cybersecurity."
-    },
-    {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "source": "EFF",
-      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
-      "category": "BREACH",
-      "summary": "Russian military intelligence turns old router vulns into a Microsoft Office token buffet, quietly harvesting auth credentials en masse. Your ancient Linksys just became Moscow's favorite espionage tool."
+      "summary": "TanStack npm packages get poisoned in a six-minute supply chain blitz that pushed 84 malicious versions with credential theft and disk-wiping payloads. Speed-running software sabotage like it's a damn esports event."
     },
     {
       "title": "Big Finance Might Be Dooming the SPLC — Even Before Its Day in Court",
@@ -55,7 +39,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 08 May 2026 18:20:50 +0000",
       "category": "FOIA",
-      "summary": "The DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches—peak hypocrisy from an administration that perfected government transparency avoidance. Rules for thee, not for me reaches new heights."
+      "summary": "DOJ now treats dodging FOIA requests as a criminal offense worthy of arrest and strip searches — peak hypocrisy from an administration that treats transparency like kryptonite."
     },
     {
       "title": "EFF to Fourth Circuit: Electronic Device Searches at the Border Require a Warrant",
@@ -63,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 11 May 2026 20:12:50 +0000",
       "category": "RIGHTS",
-      "summary": "Canada repackages last year's surveillance nightmare as Bill C-22, hoping nobody notices it's still the same digital rights-crushing monster. When your worst sequel makes it to parliament, democracy needs better script writers."
+      "summary": "Canada repackages last year's surveillance nightmare as Bill C-22, proving that bad digital rights legislation never truly dies — it just gets a fresh coat of 'lawful access' paint."
     },
     {
       "title": "EFF Stands in Solidarity With RightsCon and the Global Digital Rights Community",
@@ -71,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 11 May 2026 17:37:05 +0000",
       "category": "RIGHTS",
-      "summary": "EFF fights for warrant requirements on border device searches in the Fourth Circuit, because apparently 'papers please' now includes your entire digital life. Constitutional rights shouldn't end at customs."
+      "summary": "EFF fights the Fourth Circuit for warrant requirements on border device searches, because apparently the Constitution gets confused at customs checkpoints."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
@@ -79,7 +63,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after a 2022 SMS phishing spree. Another cybercrime legend trades their keyboard for an orange jumpsuit—the circle of lulz continues."
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after orchestrating SMS phishing campaigns. Another reminder that even elite cybercrime groups eventually meet their match in good old-fashioned law enforcement."
+    },
+    {
+      "title": "Hackers Use AI for Exploit Development, Attack Automation",
+      "url": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 11 May 2026 13:00:00 GMT",
+      "category": "ZERO DAY",
+      "summary": "'Dirty Frag' privilege escalation vulnerability threatens enterprise Linux distros, joining the hall of fame alongside Copy Fail and Dirty Pipe. Linux keeps finding creative new ways to hand out root access like party favors."
+    },
+    {
+      "title": "How Open Source Dependency and Repo Attacks Compromise DevOps Pipelines and How to Stay Safe",
+      "url": "https://devops.com/how-open-source-dependency-and-repo-attacks-compromise-devops-pipelines-and-how-to-stay-safe/",
+      "source": "DevOps.com",
+      "publishedAt": "2026-05-11T11:05:10Z",
+      "category": "ZERO DAY",
+      "summary": "Nine-year-old 'Dirty Frag' vulnerability enables root access on Linux systems with public PoC code now available. Because nothing says 'enterprise security' like decade-old privilege escalation bugs finally getting their moment to shine."
     }
   ]
 }
