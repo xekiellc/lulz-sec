@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-13T02:09:08.409Z",
+  "last_updated": "2026-05-13T08:34:12.839Z",
   "articles": [
     {
-      "title": "Google Alarmed by Formidable AI-Powered Zero-Day Cyberattack",
-      "url": "http://futurism.com/artificial-intelligence/google-ai-cyberattack",
-      "source": "Futurism",
-      "publishedAt": "2026-05-11T20:40:37Z",
+      "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
+      "url": "https://www.eff.org/deeplinks/2026/05/broken-promises-rip-instagrams-end-end-encrypted-dms",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 22:11:00 +0000",
       "category": "ZERO DAY",
-      "summary": "Google caught hackers using AI to discover and exploit a zero-day vulnerability — because apparently skynet decided to start with cybercrime instead of nuclear war. This is the first confirmed case of AI-powered zero-day discovery in the wild, and it's absolutely terrifying."
+      "summary": "Microsoft patches a staggering 167 vulns including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. When your monthly patch count hits triple digits, maybe it's time to rethink some architectural choices."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -15,39 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got absolutely wrecked by ransomware, taking down education across the entire US while attackers defaced login pages with ransom demands. Millions of students and teachers locked out because EdTech security is apparently still stuck in 2003."
+      "summary": "Canvas gets pwned, disrupting education nationwide as ransomware crews deface login pages with extortion demands. Nothing says 'back to school' like having your entire learning platform held hostage by cybercriminals."
     },
     {
-      "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
-      "url": "https://www.eff.org/deeplinks/2026/05/broken-promises-rip-instagrams-end-end-encrypted-dms",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 22:11:00 +0000",
+      "title": "State of ransomware in 2026",
+      "url": "https://securelist.com/state-of-ransomware-in-2026/119761/",
+      "source": "Securelist.com",
+      "publishedAt": "2026-05-12T07:00:04Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April patch bonanza fixed 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Meanwhile Chrome patched its fourth zero-day of the year because browsers are basically digital swiss cheese."
-    },
-    {
-      "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-      "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-11T21:32:46Z",
-      "category": "BREACH",
-      "summary": "The Mini Shai-Hulud worm is back and hungrier than ever, compromising npm packages from TanStack, Mistral AI, and others in a fresh supply chain massacre. TeamPCP continues their reign of terror across the open source ecosystem."
-    },
-    {
-      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
-      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
-      "category": "RIGHTS",
-      "summary": "Instagram just killed its end-to-end encrypted DMs feature, breaking years of privacy promises to users. Meta decided that actually implementing real encryption was too hard, so they're just giving up entirely."
-    },
-    {
-      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Finally, some good news: Apple and Android now support end-to-end encrypted RCS messaging between platforms. After years of green bubble shame, iPhone and Android users can finally have private conversations without Big Tech reading over their shoulders."
+      "summary": "Google catches the first AI-generated zero-day exploit in the wild, targeting 2FA in Python. The robots are learning to hack faster than we expected—and they're surprisingly bad at faking CVSS scores."
     },
     {
       "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
@@ -55,15 +31,39 @@
       "source": "EFF",
       "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
       "category": "RIGHTS",
-      "summary": "EFF drops a comprehensive guide for circumventing internet shutdowns, because authoritarian governments keep pulling the plug on democracy. Essential reading for anyone who believes information wants to be free, especially when tyrants say it shouldn't be."
+      "summary": "EFF drops a hacker's guide to circumventing internet shutdowns because when authoritarians pull the plug, the show must go on. Essential reading for anyone who believes connectivity is a human right."
     },
     {
-      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
-      "url": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 12 May 2026 21:03:04 GMT",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns. Another reminder that even the most sophisticated social engineering crews eventually meet their match in federal prosecutors."
+    },
+    {
+      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
+      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Canada's Bill C-22 is last year's surveillance nightmare in a fresh coat of paint, doubling down on border security theater that tramples digital rights. Because apparently the first version wasn't dystopian enough for Ottawa's taste."
+      "summary": "Instagram kills its barely-used E2E encryption feature, breaking years-old promises to users. Meta proves once again that surveillance capitalism and privacy protection are fundamentally incompatible business models."
+    },
+    {
+      "title": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads",
+      "url": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269",
+      "source": "The Register",
+      "publishedAt": "Wed, 13 May 2026 05:44:46 +0200",
+      "category": "WHITE HAT",
+      "summary": "TeamPCP open-sources their Shai-Hulud worm on GitHub, because apparently even malware crews believe in transparency. Microsoft's code repository somehow missed this delightful contribution to the supply chain threat landscape."
+    },
+    {
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 12 May 2026 18:20:00 +0530",
+      "category": "BREACH",
+      "summary": "RubyGems suspends new signups after hundreds of malicious packages flood the repository in a coordinated attack. The gems weren't the only things getting cut—so was user trust in package manager security."
     },
     {
       "title": "Canvas breach spotlights cybercriminal appetite for student data",
@@ -71,15 +71,15 @@
       "source": "Route-fifty.com",
       "publishedAt": "2026-05-11T16:00:00Z",
       "category": "BREACH",
-      "summary": "Checkmarx's official Jenkins plugin got compromised with an infostealer, proving that even security companies can't secure their own supply chains. The irony is so thick you could cut it with a CVE."
+      "summary": "CheckMarx's official Jenkins plugin gets compromised with infostealer malware, proving that even security companies aren't immune to supply chain attacks. The irony is so thick you could patch it with a CVE."
     },
     {
-      "title": "Hegseth Asks for More Money as Iran War Costs Skyrocket",
-      "url": "https://theintercept.com/2026/05/12/hegseth-pentagn-budget-defense-iran-war-cost/",
-      "source": "The Intercept",
-      "publishedAt": "Tue, 12 May 2026 17:22:12 +0000",
+      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
+      "url": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 12 May 2026 21:03:04 GMT",
       "category": "RIGHTS",
-      "summary": "FBI quietly closed their investigation into Mahmoud Khalil while he rotted in ICE detention, finding no credible threat despite the Trump administration's fear-mongering. Classic case of government agencies manufacturing terrorism where none exists."
+      "summary": "Canada repackages last year's surveillance nightmare as Bill C-22, hoping nobody notices it's the same digital rights destruction with a fresh coat of legislative paint. Spoiler alert: the privacy community noticed."
     }
   ]
 }
