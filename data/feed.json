@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T08:34:12.839Z",
+  "last_updated": "2026-05-13T14:06:35.570Z",
   "articles": [
     {
       "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
@@ -7,7 +7,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 22:11:00 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a staggering 167 vulns including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. When your monthly patch count hits triple digits, maybe it's time to rethink some architectural choices."
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When your Patch Tuesday requires scientific notation to count the CVEs, you know it's been a rough month for Redmond."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -15,31 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets pwned, disrupting education nationwide as ransomware crews deface login pages with extortion demands. Nothing says 'back to school' like having your entire learning platform held hostage by cybercriminals."
+      "summary": "Canvas education platform gets pwned nationwide, disrupting schools with ransom demands plastered on login pages. Nothing says 'back to school' like cybercriminals holding your homework hostage."
     },
     {
-      "title": "State of ransomware in 2026",
-      "url": "https://securelist.com/state-of-ransomware-in-2026/119761/",
-      "source": "Securelist.com",
-      "publishedAt": "2026-05-12T07:00:04Z",
+      "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+      "url": "https://abcnews.com/Business/wireStory/google-disrupts-hackers-ai-exploit-unknown-weakness-companys-132845519",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-12T12:13:19Z",
       "category": "ZERO DAY",
-      "summary": "Google catches the first AI-generated zero-day exploit in the wild, targeting 2FA in Python. The robots are learning to hack faster than we expected—and they're surprisingly bad at faking CVSS scores."
-    },
-    {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "source": "EFF",
-      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF drops a hacker's guide to circumventing internet shutdowns because when authoritarians pull the plug, the show must go on. Essential reading for anyone who believes connectivity is a human right."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns. Another reminder that even the most sophisticated social engineering crews eventually meet their match in federal prosecutors."
+      "summary": "Google catches hackers using AI to discover and weaponize zero-days for the first time. The machines aren't just coming for our jobs—they're coming for our exploits too."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -47,23 +31,39 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used E2E encryption feature, breaking years-old promises to users. Meta proves once again that surveillance capitalism and privacy protection are fundamentally incompatible business models."
+      "summary": "Instagram kills its barely-used end-to-end encryption feature after years of promises. Meta's commitment to privacy apparently expires faster than a Snapchat message."
+    },
+    {
+      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "source": "EFF",
+      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF drops a hacker's guide to circumventing internet shutdowns. Because when governments cut the cables, the real engineers get creative with mesh networks and ham radios."
+    },
+    {
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 13 May 2026 13:00:00 GMT",
+      "category": "RIGHTS",
+      "summary": "Canada repackages its surveillance nightmare as Bill C-22 after last year's privacy community beatdown. Same authoritarian flavor, now with 22% more 'lawful access' marketing spin."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud after SMS phishing spree. Another script kiddie learns that social engineering your way into telecom giants has consequences."
     },
     {
       "title": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads",
       "url": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269",
       "source": "The Register",
       "publishedAt": "Wed, 13 May 2026 05:44:46 +0200",
-      "category": "WHITE HAT",
-      "summary": "TeamPCP open-sources their Shai-Hulud worm on GitHub, because apparently even malware crews believe in transparency. Microsoft's code repository somehow missed this delightful contribution to the supply chain threat landscape."
-    },
-    {
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 12 May 2026 18:20:00 +0530",
-      "category": "BREACH",
-      "summary": "RubyGems suspends new signups after hundreds of malicious packages flood the repository in a coordinated attack. The gems weren't the only things getting cut—so was user trust in package manager security."
+      "category": "ARCHIVE",
+      "summary": "TeamPCP open-sources their Shai-Hulud worm on GitHub like digital Robin Hoods. Microsoft's code repository somehow missed malware being distributed on their own platform—peak irony achieved."
     },
     {
       "title": "Canvas breach spotlights cybercriminal appetite for student data",
@@ -71,15 +71,15 @@
       "source": "Route-fifty.com",
       "publishedAt": "2026-05-11T16:00:00Z",
       "category": "BREACH",
-      "summary": "CheckMarx's official Jenkins plugin gets compromised with infostealer malware, proving that even security companies aren't immune to supply chain attacks. The irony is so thick you could patch it with a CVE."
+      "summary": "Official CheckMarx Jenkins plugin compromised with infostealer malware. When your security tool becomes the attack vector, someone's having a really bad day in DevSecOps."
     },
     {
-      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
-      "url": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 12 May 2026 21:03:04 GMT",
-      "category": "RIGHTS",
-      "summary": "Canada repackages last year's surveillance nightmare as Bill C-22, hoping nobody notices it's the same digital rights destruction with a fresh coat of legislative paint. Spoiler alert: the privacy community noticed."
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-05-11T22:03:06Z",
+      "category": "BREACH",
+      "summary": "NVIDIA confirms GeForce NOW breach with hackers selling customer data for $100K. Gaming in the cloud just got more expensive—and that's not counting the subscription fees."
     }
   ]
 }
