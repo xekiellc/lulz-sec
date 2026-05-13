@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-05-13T14:06:35.570Z",
+  "last_updated": "2026-05-13T19:40:14.007Z",
   "articles": [
     {
-      "title": "Broken Promises: RIP Instagram’s End-to-End Encrypted DMs",
-      "url": "https://www.eff.org/deeplinks/2026/05/broken-promises-rip-instagrams-end-end-encrypted-dms",
+      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
+      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 22:11:00 +0000",
+      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When your Patch Tuesday requires scientific notation to count the CVEs, you know it's been a rough month for Redmond."
+      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Meanwhile Chrome notches its fourth zero-day of the year because apparently they're collecting them like Pokemon cards."
+    },
+    {
+      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
+      "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
+      "source": "The Register",
+      "publishedAt": "Wed, 13 May 2026 08:23:32 +0200",
+      "category": "ZERO DAY",
+      "summary": "Mystery leaker 'YellowKey' keeps gifting the world fresh Microsoft zero-days like a deranged security Santa. Their latest makes stolen laptops infinitely more terrifying."
+    },
+    {
+      "title": "maru-deep-pro-search 0.9.3",
+      "url": "https://pypi.org/project/maru-deep-pro-search/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-12T18:24:33Z",
+      "category": "ZERO DAY",
+      "summary": "Google catches the first AI-generated zero-day in the wild, proving our robot overlords have learned to hack before they learned to love. Threat actors are now outsourcing exploit dev to ChatGPT's evil twin."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -15,15 +31,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas education platform gets pwned nationwide, disrupting schools with ransom demands plastered on login pages. Nothing says 'back to school' like cybercriminals holding your homework hostage."
+      "summary": "Canvas gets pwned harder than a freshman's first CS assignment, disrupting schools nationwide. Cybercriminals defaced login pages with ransom demands because apparently holding education hostage is the new black."
     },
     {
-      "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-      "url": "https://abcnews.com/Business/wireStory/google-disrupts-hackers-ai-exploit-unknown-weakness-companys-132845519",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-12T12:13:19Z",
-      "category": "ZERO DAY",
-      "summary": "Google catches hackers using AI to discover and weaponize zero-days for the first time. The machines aren't just coming for our jobs—they're coming for our exploits too."
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 13 May 2026 19:16:02 +0530",
+      "category": "BREACH",
+      "summary": "Foxconn confirms breach after ransomware crew claims to have stolen Apple and Nvidia's crown jewels. Nothing says 'supply chain security' like your manufacturer getting absolutely rekt."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -31,55 +47,39 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used end-to-end encryption feature after years of promises. Meta's commitment to privacy apparently expires faster than a Snapchat message."
+      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking years-old promises. Meta continues its proud tradition of saying one thing about privacy while doing absolutely nothing."
     },
     {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
       "source": "EFF",
-      "publishedAt": "Mon, 11 May 2026 20:18:14 +0000",
+      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "EFF drops a hacker's guide to circumventing internet shutdowns. Because when governments cut the cables, the real engineers get creative with mesh networks and ham radios."
+      "summary": "Victory! iPhone-Android RCS chats finally get end-to-end encryption by default. Only took Apple approximately forever to stop treating cross-platform privacy like a competitive disadvantage."
     },
     {
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
+      "url": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
       "source": "Dark Reading",
-      "publishedAt": "Wed, 13 May 2026 13:00:00 GMT",
+      "publishedAt": "Wed, 13 May 2026 18:52:50 GMT",
       "category": "RIGHTS",
-      "summary": "Canada repackages its surveillance nightmare as Bill C-22 after last year's privacy community beatdown. Same authoritarian flavor, now with 22% more 'lawful access' marketing spin."
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, imprisoned for the radical act of contributing to open knowledge. Turns out authoritarian regimes really hate people who make information free."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud after SMS phishing spree. Another script kiddie learns that social engineering your way into telecom giants has consequences."
+      "category": "WHITE HAT",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and aggravated identity theft after a 2022 SMS phishing spree. Another social engineering savant trades lulz for federal time."
     },
     {
-      "title": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads",
-      "url": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269",
-      "source": "The Register",
-      "publishedAt": "Wed, 13 May 2026 05:44:46 +0200",
-      "category": "ARCHIVE",
-      "summary": "TeamPCP open-sources their Shai-Hulud worm on GitHub like digital Robin Hoods. Microsoft's code repository somehow missed malware being distributed on their own platform—peak irony achieved."
-    },
-    {
-      "title": "Canvas breach spotlights cybercriminal appetite for student data",
-      "url": "https://www.route-fifty.com/artificial-intelligence/2026/05/canvas-breach-spotlights-cybercriminal-appetite-student-data/413450/",
-      "source": "Route-fifty.com",
-      "publishedAt": "2026-05-11T16:00:00Z",
-      "category": "BREACH",
-      "summary": "Official CheckMarx Jenkins plugin compromised with infostealer malware. When your security tool becomes the attack vector, someone's having a really bad day in DevSecOps."
-    },
-    {
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-11T22:03:06Z",
-      "category": "BREACH",
-      "summary": "NVIDIA confirms GeForce NOW breach with hackers selling customer data for $100K. Gaming in the cloud just got more expensive—and that's not counting the subscription fees."
+      "title": "California colleges went big on online learning tools. Then the worst happened",
+      "url": "https://www.kpbs.org/news/education/2026/05/12/california-colleges-went-big-on-online-learning-tools-then-the-worst-happened",
+      "source": "KPBS",
+      "publishedAt": "2026-05-12T18:21:22Z",
+      "category": "ZERO DAY",
+      "summary": "Fortinet drops critical RCE patches for FortiSandbox and FortiAuthenticator because irony is dead and security appliances are the new attack vector du jour."
     }
   ]
 }
