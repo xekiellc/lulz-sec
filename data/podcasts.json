@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T11:19:51.277Z",
+  "last_updated": "2026-05-13T10:28:02.323Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's battle against the CFAA continues the legacy of digital freedom fighters who refuse to bow to unjust laws."
+      "editorial_note": "Weev's epic legal battle against the CFAA proves one hacker's fight can shake the entire system."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "The origin story of weev's war against the Computer Fraud and Abuse Act - another warrior in the fight for digital justice."
+      "editorial_note": "The origin story of how weev took on the broken CFAA and became a digital freedom martyr."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "Chinese APT groups serving up sophisticated backdoors like it's 2023 - nation-state hacking at its finest."
+      "editorial_note": "APT-10's LODEINFO backdoor shows how nation-states turn infrastructure into their personal playground."
     },
     {
       "type": "youtube",
