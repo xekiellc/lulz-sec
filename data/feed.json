@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-05-14T08:27:46.492Z",
+  "last_updated": "2026-05-14T13:30:10.070Z",
   "articles": [
-    {
-      "title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
-      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath-owner-instructure-reaches-deal-with-hacker-group/",
-      "source": "CNET",
-      "publishedAt": "2026-05-12T20:30:32Z",
-      "category": "ZERO DAY",
-      "summary": "Google confirms AI just broke the entire internet by creating zero-day exploits that bypass 2FA like it's a suggestion, not a security measure. Welcome to the future where machines pwn humans with algorithmic precision."
-    },
-    {
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 13 May 2026 19:16:02 +0530",
-      "category": "ZERO DAY",
-      "summary": "An 18-year-old NGINX vulnerability finally crawled out of its coding cave to grant unauthenticated RCE to anyone who asks nicely. Sometimes the best exploits age like fine wine in forgotten codebases."
-    },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
       "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April patch bonanza: 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. When your security software needs security software, you know it's Tuesday."
+      "summary": "Microsoft patches a whopping 167 vulns including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. AI is apparently getting scary good at finding our coding mistakes — better hope it stays on our side."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,23 +15,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets schooled by cybercriminals who turned education platforms into their personal playground, disrupting classes nationwide. Nothing says 'permanent record' like having your student data held for ransom."
+      "summary": "Canvas education platform gets pwned hard, disrupting schools nationwide with ransom demands plastered on login pages. Nothing says 'back to school' like cybercriminals holding your coursework hostage."
     },
     {
-      "title": "California colleges went big on online learning tools. Then the worst happened",
-      "url": "https://www.kpbs.org/news/education/2026/05/12/california-colleges-went-big-on-online-learning-tools-then-the-worst-happened",
-      "source": "KPBS",
-      "publishedAt": "2026-05-12T18:21:22Z",
-      "category": "BREACH",
-      "summary": "Instructure cuts a deal with ShinyHunters after 9,000+ schools got pwned through Canvas. Classic corporate response: pay the pirates and hope they pinky-promise to delete everything."
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 14 May 2026 17:00:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "PraisonAI CVE-2026-44338 gets exploited within 4 hours of disclosure because threat actors apparently have better patch management than most enterprises. The irony of an AI orchestration framework getting orchestrated is *chef's kiss*."
     },
     {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud after his SMS phishing campaign proved humans are still the weakest link in any security chain. Social engineering: it just works."
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 14 May 2026 12:36:15 +0530",
+      "category": "ZERO DAY",
+      "summary": "Anonymous researcher drops two more Windows zero-days: BitLocker bypass and CTFMON privilege escalation dubbed 'YellowKey'. Microsoft's having quite the year for unplanned transparency."
+    },
+    {
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 14 May 2026 11:30:09 +0530",
+      "category": "ZERO DAY",
+      "summary": "Meet 'Fragnesia' — the third Linux kernel LPE in two weeks that grants instant root via page cache corruption. The kernel team might want to consider a career change at this rate."
+    },
+    {
+      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-05-13T12:30:38Z",
+      "category": "ZERO DAY",
+      "summary": "18-year-old NGINX heap buffer overflow finally discovered — apparently some bugs age like fine wine. CVE-2026-42 proves that sometimes the old vulnerabilities are the most dangerous."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -55,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking promises faster than teenagers break ToS agreements. Meta's privacy commitments have shorter lifespans than mayflies."
+      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking years-old promises to users. Meta continues its proud tradition of prioritizing ad revenue over actual privacy."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -63,23 +63,23 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Victory dance time: Apple finally enables E2E encryption for RCS, meaning iPhone-Android chats can now hide from prying eyes by default. Only took them until 2026 to catch up with basic privacy expectations."
+      "summary": "Finally! Apple and Android enable E2E encryption for RCS cross-platform messaging. Only took them forever to stop letting carriers read our texts like digital postcards."
     },
     {
-      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
-      "url": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
       "source": "Dark Reading",
-      "publishedAt": "Wed, 13 May 2026 21:17:07 GMT",
+      "publishedAt": "Thu, 14 May 2026 13:00:00 GMT",
       "category": "RIGHTS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, proving that contributing to human knowledge can still land you in authoritarian crosshairs. Free speech isn't free when dictators hold the invoice."
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who's been contributing since age 12. Authoritarian regimes really hate people who make information free and accessible."
     },
     {
-      "title": "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth",
-      "url": "https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth",
-      "source": "EFF",
-      "publishedAt": "Wed, 13 May 2026 16:48:05 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF's Privacy Badger tackles an issue bigger than creepy ads - the complete commodification of human attention and digital autonomy. Because blocking trackers is just the appetizer in the privacy protection feast."
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft in 2022 SMS phishing spree. Another young talent choosing the dark side when they could've been legendary white hats."
     }
   ]
 }
