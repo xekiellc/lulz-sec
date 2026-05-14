@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T10:28:02.323Z",
+  "last_updated": "2026-05-14T10:14:25.262Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's epic legal battle against the CFAA proves one hacker's fight can shake the entire system."
+      "editorial_note": "Weev's war against CFAA shows how the system crushes digital dissidents who dare to expose corporate negligence."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "The origin story of how weev took on the broken CFAA and became a digital freedom martyr."
+      "editorial_note": "The legendary weev and Aaron Swartz both martyred by America's draconian cybercrime laws - their sacrifice paved our path."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor shows how nation-states turn infrastructure into their personal playground."
+      "editorial_note": "APT-10's LODEINFO backdoor proves nation-states are the real cyber criminals while hacktivists get prosecuted."
     },
     {
       "type": "youtube",
