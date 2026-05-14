@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T13:30:10.070Z",
+  "last_updated": "2026-05-14T19:27:35.655Z",
   "articles": [
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -7,7 +7,23 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches a whopping 167 vulns including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. AI is apparently getting scary good at finding our coding mistakes — better hope it stays on our side."
+      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and the deliciously named 'BlueHammer' Defender flaw. AI is apparently better at finding vulns than humans now, which is either progress or the beginning of the end."
+    },
+    {
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 14 May 2026 22:52:43 +0530",
+      "category": "ZERO DAY",
+      "summary": "Cisco's SD-WAN Controller gets pwned with a perfect 10.0 CVSS auth bypass that's already being exploited in the wild. Someone's having a very bad day in San Jose."
+    },
+    {
+      "title": "Microsoft BitLocker-protected drives can now be opened with just some files on a USB stick — YellowKey zero-day exploit demonstrates an apparent backdoor",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-05-13T15:02:04Z",
+      "category": "ZERO DAY",
+      "summary": "BitLocker gets absolutely demolished by YellowKey and GreenPlasma zero-days with public PoCs. Your 'encrypted' drives are now as secure as leaving the keys in your car."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -15,39 +31,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas education platform gets pwned hard, disrupting schools nationwide with ransom demands plastered on login pages. Nothing says 'back to school' like cybercriminals holding your coursework hostage."
+      "summary": "Canvas gets ransomwared nationwide, turning homework submissions into ransom demands. Cybercriminals proving they really will attack anything, even your kid's algebra assignments."
     },
     {
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 14 May 2026 17:00:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "PraisonAI CVE-2026-44338 gets exploited within 4 hours of disclosure because threat actors apparently have better patch management than most enterprises. The irony of an AI orchestration framework getting orchestrated is *chef's kiss*."
+      "title": "Checkbox Assessments Aren't Fit to Measure Risk",
+      "url": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 13 May 2026 21:17:07 GMT",
+      "category": "BREACH",
+      "summary": "Foxconn gets hit by Nitrogen ransomware as part of 600 manufacturing attacks this year. Turns out making iPhones and tolerating downtime don't mix well with ransomware economics."
     },
     {
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 14 May 2026 12:36:15 +0530",
-      "category": "ZERO DAY",
-      "summary": "Anonymous researcher drops two more Windows zero-days: BitLocker bypass and CTFMON privilege escalation dubbed 'YellowKey'. Microsoft's having quite the year for unplanned transparency."
-    },
-    {
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 14 May 2026 11:30:09 +0530",
-      "category": "ZERO DAY",
-      "summary": "Meet 'Fragnesia' — the third Linux kernel LPE in two weeks that grants instant root via page cache corruption. The kernel team might want to consider a career change at this rate."
-    },
-    {
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-13T12:30:38Z",
-      "category": "ZERO DAY",
-      "summary": "18-year-old NGINX heap buffer overflow finally discovered — apparently some bugs age like fine wine. CVE-2026-42 proves that sometimes the old vulnerabilities are the most dangerous."
+      "title": "Your Data Was Leaked. Here's What Hackers Hope You Don't Do Next",
+      "url": "https://uk.pcmag.com/security/10521/your-data-was-leaked-heres-what-hackers-hope-you-dont-do-next",
+      "source": "PCMag.com",
+      "publishedAt": "2026-05-13T16:09:00Z",
+      "category": "BREACH",
+      "summary": "OpenLoop Health admits to leaking 716,000 people's data in January, because telehealth wasn't dystopian enough already. Your medical records, now with extra cybercrime seasoning."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -55,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking years-old promises to users. Meta continues its proud tradition of prioritizing ad revenue over actual privacy."
+      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking years-old promises about privacy. Meta proves once again that surveillance capitalism trumps user protection."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -63,15 +63,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Finally! Apple and Android enable E2E encryption for RCS cross-platform messaging. Only took them forever to stop letting carriers read our texts like digital postcards."
-    },
-    {
-      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 14 May 2026 13:00:00 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who's been contributing since age 12. Authoritarian regimes really hate people who make information free and accessible."
+      "summary": "Victory lap time: Apple finally enables end-to-end encryption for RCS between iPhone and Android. Only took them forever, but cross-platform encrypted messaging is finally real."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
@@ -79,7 +71,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft in 2022 SMS phishing spree. Another young talent choosing the dark side when they could've been legendary white hats."
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud after SMS phishing sprees. Another young talent learns that social engineering skills don't include avoiding federal prosecution."
+    },
+    {
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 14 May 2026 21:37:46 +0530",
+      "category": "WHITE HAT",
+      "summary": "Malicious node-ipc packages caught stealing developer secrets, because supply chain attacks are the new black. Open source trust model meets reality in the worst possible way."
     }
   ]
 }
