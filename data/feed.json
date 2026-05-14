@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-05-13T19:40:14.007Z",
+  "last_updated": "2026-05-14T02:11:16.326Z",
   "articles": [
+    {
+      "title": "What is Google’s AI-built zero-day story? #tech",
+      "url": "https://alltoc.com/tech/what-is-googles-ai-built-zero-day-story",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-05-13T00:02:28Z",
+      "category": "ZERO DAY",
+      "summary": "Google confirms hackers wielded AI to craft a zero-day that bypassed 2FA — because apparently our robot overlords decided to start with cybercrime instead of world domination. The age of AI-assisted exploitation has officially begun, and it's terrifyingly efficient."
+    },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
       "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. Meanwhile Chrome notches its fourth zero-day of the year because apparently they're collecting them like Pokemon cards."
-    },
-    {
-      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
-      "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
-      "source": "The Register",
-      "publishedAt": "Wed, 13 May 2026 08:23:32 +0200",
-      "category": "ZERO DAY",
-      "summary": "Mystery leaker 'YellowKey' keeps gifting the world fresh Microsoft zero-days like a deranged security Santa. Their latest makes stolen laptops infinitely more terrifying."
-    },
-    {
-      "title": "maru-deep-pro-search 0.9.3",
-      "url": "https://pypi.org/project/maru-deep-pro-search/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-12T18:24:33Z",
-      "category": "ZERO DAY",
-      "summary": "Google catches the first AI-generated zero-day in the wild, proving our robot overlords have learned to hack before they learned to love. Threat actors are now outsourcing exploit dev to ChatGPT's evil twin."
+      "summary": "Microsoft's April Patch Tuesday delivered a staggering 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Meanwhile, Chrome patched its fourth zero-day of the year because apparently browsers are made of Swiss cheese."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,15 +23,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets pwned harder than a freshman's first CS assignment, disrupting schools nationwide. Cybercriminals defaced login pages with ransom demands because apparently holding education hostage is the new black."
+      "summary": "Canvas got pwned hard by ransomware goons who defaced login pages nationwide, disrupting education for millions. Nothing says 'modern learning' like having your homework held hostage by cybercriminals with questionable grammar skills."
     },
     {
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 13 May 2026 19:16:02 +0530",
+      "title": "California colleges went big on online learning tools. Then the worst happened",
+      "url": "https://www.kpbs.org/news/education/2026/05/12/california-colleges-went-big-on-online-learning-tools-then-the-worst-happened",
+      "source": "KPBS",
+      "publishedAt": "2026-05-12T18:21:22Z",
       "category": "BREACH",
-      "summary": "Foxconn confirms breach after ransomware crew claims to have stolen Apple and Nvidia's crown jewels. Nothing says 'supply chain security' like your manufacturer getting absolutely rekt."
+      "summary": "Instructure rolled over and paid ShinyHunters after the Canvas breach hit 9,000+ schools. Because apparently negotiating with ransomware gangs is now considered 'responsible incident response' in corporate America."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -47,7 +39,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking years-old promises. Meta continues its proud tradition of saying one thing about privacy while doing absolutely nothing."
+      "summary": "Instagram officially murdered its end-to-end encryption feature, proving once again that Facebook's privacy promises have the shelf life of a mayonnaise sandwich in the desert. Meta's commitment to user privacy remains as mythical as a unicorn."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -55,31 +47,39 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Victory! iPhone-Android RCS chats finally get end-to-end encryption by default. Only took Apple approximately forever to stop treating cross-platform privacy like a competitive disadvantage."
+      "summary": "Victory lap time: Apple finally enabled E2E encryption for RCS, meaning iPhone-Android chats can now be properly private. Only took them roughly a decade to stop being petty about cross-platform security."
     },
     {
-      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
-      "url": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "url": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
       "source": "Dark Reading",
-      "publishedAt": "Wed, 13 May 2026 18:52:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, imprisoned for the radical act of contributing to open knowledge. Turns out authoritarian regimes really hate people who make information free."
+      "publishedAt": "Wed, 13 May 2026 21:17:07 GMT",
+      "category": "LEGENDS",
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who started editing Wikipedia at age 12 and became a freedom-of-information warrior. Because apparently contributing to human knowledge is now a crime in authoritarian hellscapes."
+    },
+    {
+      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
+      "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
+      "source": "The Register",
+      "publishedAt": "Wed, 13 May 2026 08:23:32 +0200",
+      "category": "ZERO DAY",
+      "summary": "Mystery leaker 'YellowKey' keeps dropping Microsoft zero-days like confetti, with their latest potentially turning stolen laptops into goldmines of corporate secrets. Someone's having way too much fun embarrassing Redmond's security team."
+    },
+    {
+      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+      "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+      "source": "The Register",
+      "publishedAt": "Wed, 13 May 2026 18:16:02 +0200",
+      "category": "ZERO DAY",
+      "summary": "Bug hunter discovers three massive MCP database flaws affecting Apache and Alibaba systems, but one vendor apparently thinks ignoring security researchers is a viable business strategy. Spoiler alert: it's not."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "WHITE HAT",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and aggravated identity theft after a 2022 SMS phishing spree. Another social engineering savant trades lulz for federal time."
-    },
-    {
-      "title": "California colleges went big on online learning tools. Then the worst happened",
-      "url": "https://www.kpbs.org/news/education/2026/05/12/california-colleges-went-big-on-online-learning-tools-then-the-worst-happened",
-      "source": "KPBS",
-      "publishedAt": "2026-05-12T18:21:22Z",
-      "category": "ZERO DAY",
-      "summary": "Fortinet drops critical RCE patches for FortiSandbox and FortiAuthenticator because irony is dead and security appliances are the new attack vector du jour."
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after their 2022 SMS phishing spree that made cybersecurity professionals weep into their coffee. Another script kiddie learns that 'it's just a prank bro' isn't a legal defense."
     }
   ]
 }
