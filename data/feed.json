@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-05-14T02:11:16.326Z",
+  "last_updated": "2026-05-14T08:27:46.492Z",
   "articles": [
     {
-      "title": "What is Google’s AI-built zero-day story? #tech",
-      "url": "https://alltoc.com/tech/what-is-googles-ai-built-zero-day-story",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-05-13T00:02:28Z",
+      "title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
+      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath-owner-instructure-reaches-deal-with-hacker-group/",
+      "source": "CNET",
+      "publishedAt": "2026-05-12T20:30:32Z",
       "category": "ZERO DAY",
-      "summary": "Google confirms hackers wielded AI to craft a zero-day that bypassed 2FA — because apparently our robot overlords decided to start with cybercrime instead of world domination. The age of AI-assisted exploitation has officially begun, and it's terrifyingly efficient."
+      "summary": "Google confirms AI just broke the entire internet by creating zero-day exploits that bypass 2FA like it's a suggestion, not a security measure. Welcome to the future where machines pwn humans with algorithmic precision."
+    },
+    {
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 13 May 2026 19:16:02 +0530",
+      "category": "ZERO DAY",
+      "summary": "An 18-year-old NGINX vulnerability finally crawled out of its coding cave to grant unauthenticated RCE to anyone who asks nicely. Sometimes the best exploits age like fine wine in forgotten codebases."
     },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -15,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April Patch Tuesday delivered a staggering 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. Meanwhile, Chrome patched its fourth zero-day of the year because apparently browsers are made of Swiss cheese."
+      "summary": "Microsoft's April patch bonanza: 167 vulnerabilities including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. When your security software needs security software, you know it's Tuesday."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -23,7 +31,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got pwned hard by ransomware goons who defaced login pages nationwide, disrupting education for millions. Nothing says 'modern learning' like having your homework held hostage by cybercriminals with questionable grammar skills."
+      "summary": "Canvas gets schooled by cybercriminals who turned education platforms into their personal playground, disrupting classes nationwide. Nothing says 'permanent record' like having your student data held for ransom."
     },
     {
       "title": "California colleges went big on online learning tools. Then the worst happened",
@@ -31,47 +39,7 @@
       "source": "KPBS",
       "publishedAt": "2026-05-12T18:21:22Z",
       "category": "BREACH",
-      "summary": "Instructure rolled over and paid ShinyHunters after the Canvas breach hit 9,000+ schools. Because apparently negotiating with ransomware gangs is now considered 'responsible incident response' in corporate America."
-    },
-    {
-      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
-      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
-      "category": "RIGHTS",
-      "summary": "Instagram officially murdered its end-to-end encryption feature, proving once again that Facebook's privacy promises have the shelf life of a mayonnaise sandwich in the desert. Meta's commitment to user privacy remains as mythical as a unicorn."
-    },
-    {
-      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Victory lap time: Apple finally enabled E2E encryption for RCS, meaning iPhone-Android chats can now be properly private. Only took them roughly a decade to stop being petty about cross-platform security."
-    },
-    {
-      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
-      "url": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 13 May 2026 21:17:07 GMT",
-      "category": "LEGENDS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who started editing Wikipedia at age 12 and became a freedom-of-information warrior. Because apparently contributing to human knowledge is now a crime in authoritarian hellscapes."
-    },
-    {
-      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
-      "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
-      "source": "The Register",
-      "publishedAt": "Wed, 13 May 2026 08:23:32 +0200",
-      "category": "ZERO DAY",
-      "summary": "Mystery leaker 'YellowKey' keeps dropping Microsoft zero-days like confetti, with their latest potentially turning stolen laptops into goldmines of corporate secrets. Someone's having way too much fun embarrassing Redmond's security team."
-    },
-    {
-      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-      "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-      "source": "The Register",
-      "publishedAt": "Wed, 13 May 2026 18:16:02 +0200",
-      "category": "ZERO DAY",
-      "summary": "Bug hunter discovers three massive MCP database flaws affecting Apache and Alibaba systems, but one vendor apparently thinks ignoring security researchers is a viable business strategy. Spoiler alert: it's not."
+      "summary": "Instructure cuts a deal with ShinyHunters after 9,000+ schools got pwned through Canvas. Classic corporate response: pay the pirates and hope they pinky-promise to delete everything."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
@@ -79,7 +47,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
       "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after their 2022 SMS phishing spree that made cybersecurity professionals weep into their coffee. Another script kiddie learns that 'it's just a prank bro' isn't a legal defense."
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud after his SMS phishing campaign proved humans are still the weakest link in any security chain. Social engineering: it just works."
+    },
+    {
+      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
+      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
+      "category": "RIGHTS",
+      "summary": "Instagram kills its barely-used end-to-end encryption feature, breaking promises faster than teenagers break ToS agreements. Meta's privacy commitments have shorter lifespans than mayflies."
+    },
+    {
+      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
+      "category": "RIGHTS",
+      "summary": "Victory dance time: Apple finally enables E2E encryption for RCS, meaning iPhone-Android chats can now hide from prying eyes by default. Only took them until 2026 to catch up with basic privacy expectations."
+    },
+    {
+      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "url": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 13 May 2026 21:17:07 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, proving that contributing to human knowledge can still land you in authoritarian crosshairs. Free speech isn't free when dictators hold the invoice."
+    },
+    {
+      "title": "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth",
+      "url": "https://www.eff.org/deeplinks/2026/05/science-not-settled-how-weak-evidence-fueling-national-push-ban-social-media-youth",
+      "source": "EFF",
+      "publishedAt": "Wed, 13 May 2026 16:48:05 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF's Privacy Badger tackles an issue bigger than creepy ads - the complete commodification of human attention and digital autonomy. Because blocking trackers is just the appetizer in the privacy protection feast."
     }
   ]
 }
