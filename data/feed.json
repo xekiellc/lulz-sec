@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T08:38:52.605Z",
+  "last_updated": "2026-05-15T13:29:52.734Z",
   "articles": [
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -7,15 +7,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and the delightfully named 'BlueHammer' — because apparently AI is better at finding bugs than humans are at writing secure code."
-    },
-    {
-      "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 14 May 2026 16:59:25 GMT",
-      "category": "ZERO DAY",
-      "summary": "Second CVSS 10.0 Cisco SD-WAN exploit this year proves that maximum severity ratings are like participation trophies — everyone's getting one."
+      "summary": "Microsoft drops 167 patches including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw, while Chrome notches its fourth zero-day fix. AI might be finding vulns faster than humans can patch them—delicious irony."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -23,15 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got pwned nationwide, turning homework anxiety into full-scale educational chaos. Nothing says 'back to school' like ransom demands on your login page."
+      "summary": "Canvas gets pwned by extortionists who defaced login pages with ransom demands, disrupting education nationwide. Because nothing says 'digital learning' like a good old-fashioned shakedown of America's schools."
     },
     {
-      "title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
-      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath-owner-instructure-reaches-deal-with-hacker-group/",
-      "source": "CNET",
-      "publishedAt": "2026-05-12T20:30:32Z",
-      "category": "BREACH",
-      "summary": "Foxconn's factories got rekt across multiple sites with Apple, Intel, Google files allegedly yoinked. The supply chain attacks are coming from inside the supply chain."
+      "title": "Fleet launches autonomous endpoint management platform to counter AI-accelerated exploits",
+      "url": "https://siliconangle.com/2026/05/14/fleet-launches-autonomous-endpoint-management-platform-counter-ai-accelerated-exploits/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-05-14T13:00:14Z",
+      "category": "ZERO DAY",
+      "summary": "Cisco's SD-WAN Controller gets hit with a perfect CVSS 10.0 auth bypass that's being actively exploited. When your network security appliance becomes the highway in, chef's kiss to the irony gods."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -39,7 +31,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram officially murdered its end-to-end encryption feature after years of empty promises. Meta's commitment to privacy has officially flatlined."
+      "summary": "Instagram kills its barely-used E2E encryption feature after years of empty promises. Meta once again proves that privacy theater is easier than actual privacy engineering."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -47,39 +39,47 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Victory lap time: Apple finally delivered encrypted RCS messaging, meaning iPhone-Android chats won't be digital postcards anymore."
+      "summary": "Victory lap time: Apple finally enables E2E encryption for RCS chats with Android. Only took them forever, but cross-platform privacy is no longer an oxymoron."
     },
     {
-      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
-      "url": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 15 May 2026 01:00:00 GMT",
-      "category": "LEGENDS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who's been fighting for digital freedom since he was twelve. Some heroes don't wear capes, they edit wikis."
-    },
-    {
-      "title": "To gain root access at this company, all an intruder had to do was ask nicely",
-      "url": "https://www.theregister.com/security/2026/05/14/to-gain-root-access-intruder-just-had-to-ask/5239853",
-      "source": "The Register",
-      "publishedAt": "Thu, 14 May 2026 09:00:00 +0200",
-      "category": "ZERO DAY",
-      "summary": "Fragnesia kernel flaw joins the Linux privilege escalation party with public exploit code, because why keep root access gatekept when you can democratize it."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "WHITE HAT",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud after some truly artful SMS phishing campaigns. When social engineering meets plea bargaining."
-    },
-    {
-      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
-      "url": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 14 May 2026 20:57:27 GMT",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 15 May 2026 11:49:04 +0530",
       "category": "BREACH",
-      "summary": "Taiwanese student accidentally shuts down three bullet trains with SDR experiments, triggering anti-terrorism response. Sometimes the best pentests are completely accidental."
+      "summary": "OpenAI gets tagged via TanStack supply chain attack that compromised two employee devices. The AI overlords aren't immune to good old-fashioned package poisoning—humans 1, machines 0."
+    },
+    {
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 15 May 2026 10:58:03 +0530",
+      "category": "ZERO DAY",
+      "summary": "On-prem Exchange Server gets actively exploited via crafted email in CVE-2026-42897. Microsoft's gift that keeps on giving—this time with XSS-flavored spoofing attacks."
+    },
+    {
+      "title": "How Trump’s New Counterterrorism Strategy Puts You at Risk",
+      "url": "https://theintercept.com/2026/05/15/trump-terrorism-left-groups-antifa-christian-gorka/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 15 May 2026 11:08:00 +0000",
+      "category": "RIGHTS",
+      "summary": "Trump's new counterterrorism strategy turns political enemies into state enemies with chilling 'we will find you and kill you' rhetoric. Domestic surveillance state says what now?"
+    },
+    {
+      "title": "Cyber Pioneers Ponder Past as Prologue",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 15 May 2026 12:00:00 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who started editing at age 12 and became a prolific open-source blogger. Digital freedom fighters come in all ages—this one's just getting started."
+    },
+    {
+      "title": "OpenLoop Health confirms January 2026 Data breach affecting 716,000",
+      "url": "https://securityaffairs.com/192066/uncategorized/openloop-health-confirms-january-2026-data-breach-affecting-716000.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-13T18:45:13Z",
+      "category": "BREACH",
+      "summary": "House Homeland Security Committee demands answers from Instructure after Canvas hack exposed 9,000+ schools. When script kiddies pwn the entire education system, Congress finally pays attention."
     }
   ]
 }
