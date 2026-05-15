@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-05-15T02:09:22.659Z",
+  "last_updated": "2026-05-15T08:38:52.605Z",
   "articles": [
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "category": "BREACH",
-      "summary": "Canvas got pwned by ransomware crew who defaced login pages nationwide, proving that EdTech security is about as robust as cafeteria pizza. When your homework platform becomes someone else's payday, you know we've lost the plot."
-    },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
       "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April patch bonanza fixes 167 vulnerabilities including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. AI is apparently better at finding bugs than humans are at writing secure code — shocking absolutely no one."
-    },
-    {
-      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
-      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
-      "category": "RIGHTS",
-      "summary": "Instagram quietly murdered its end-to-end encryption feature, breaking years-old promises faster than a Facebook privacy policy update. Meta chose convenience over security, because why protect users when you can just surveil them instead?"
+      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and the delightfully named 'BlueHammer' — because apparently AI is better at finding bugs than humans are at writing secure code."
     },
     {
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
@@ -31,47 +15,15 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 14 May 2026 16:59:25 GMT",
       "category": "ZERO DAY",
-      "summary": "Cisco's SD-WAN gets skull-fucked by another CVSS 10.0 vulnerability being exploited in the wild. That's two perfect 10s this year — Cisco's really going for the Olympic gold in catastrophic network failures."
+      "summary": "Second CVSS 10.0 Cisco SD-WAN exploit this year proves that maximum severity ratings are like participation trophies — everyone's getting one."
     },
     {
-      "title": "To gain root access at this company, all an intruder had to do was ask nicely",
-      "url": "https://www.theregister.com/security/2026/05/14/to-gain-root-access-intruder-just-had-to-ask/5239853",
-      "source": "The Register",
-      "publishedAt": "Thu, 14 May 2026 09:00:00 +0200",
-      "category": "ZERO DAY",
-      "summary": "Linux gets 'Fragnesia' — a kernel memory flaw with public exploit code that hands root access like Halloween candy. The ugly parade of privilege escalation bugs continues, because apparently secure memory handling is still rocket science."
-    },
-    {
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 14 May 2026 22:52:43 +0530",
-      "category": "ZERO DAY",
-      "summary": "Cisco Catalyst SD-WAN Controller's authentication bypass (CVE-2026-20182) scores perfect 10.0 and gets actively exploited for admin access. When your network's front door is made of tissue paper, don't act surprised when burglars walk through."
-    },
-    {
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 14 May 2026 21:37:46 +0530",
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Supply chain poisoning hits node-ipc package targeting developer secrets — because why hack one target when you can compromise an entire ecosystem? Three malicious versions slipped through, turning dependency management into Russian roulette."
-    },
-    {
-      "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
-      "url": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
-      "source": "Theregister.com",
-      "publishedAt": "2026-05-13T23:27:50Z",
-      "category": "ZERO DAY",
-      "summary": "BitLocker gets owned by USB stick exploit 'YellowKey' from a disgruntled researcher who went full disclosure. When your disk encryption can be bypassed with a flash drive, maybe it's time to rethink that 'unbreakable' marketing."
-    },
-    {
-      "title": "New BitLocker vulnerability exposes Windows 11 users to system breach",
-      "url": "https://www.makeuseof.com/bitlocker-newly-discovered-backdoor-way-to-protect-your-data-now/",
-      "source": "MakeUseOf",
-      "publishedAt": "2026-05-13T21:08:24Z",
-      "category": "WHITE HAT",
-      "summary": "Google confirms first known case of AI-assisted hacking in the wild, because apparently we needed robots to make cybercrime more efficient. The singularity isn't coming — it's already here and it's pwning your infrastructure."
+      "summary": "Canvas got pwned nationwide, turning homework anxiety into full-scale educational chaos. Nothing says 'back to school' like ransom demands on your login page."
     },
     {
       "title": "Canvas Hack Aftermath: Owner Instructure Reaches Deal With Hacker Group",
@@ -79,7 +31,55 @@
       "source": "CNET",
       "publishedAt": "2026-05-12T20:30:32Z",
       "category": "BREACH",
-      "summary": "Foxconn factories got ransacked in cyberattack with Apple, Intel, Google, and NVIDIA files allegedly stolen. When your supply chain partner becomes a data piñata, even the fruit company's secrets aren't safe."
+      "summary": "Foxconn's factories got rekt across multiple sites with Apple, Intel, Google files allegedly yoinked. The supply chain attacks are coming from inside the supply chain."
+    },
+    {
+      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
+      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
+      "category": "RIGHTS",
+      "summary": "Instagram officially murdered its end-to-end encryption feature after years of empty promises. Meta's commitment to privacy has officially flatlined."
+    },
+    {
+      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
+      "category": "RIGHTS",
+      "summary": "Victory lap time: Apple finally delivered encrypted RCS messaging, meaning iPhone-Android chats won't be digital postcards anymore."
+    },
+    {
+      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+      "url": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 15 May 2026 01:00:00 GMT",
+      "category": "LEGENDS",
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who's been fighting for digital freedom since he was twelve. Some heroes don't wear capes, they edit wikis."
+    },
+    {
+      "title": "To gain root access at this company, all an intruder had to do was ask nicely",
+      "url": "https://www.theregister.com/security/2026/05/14/to-gain-root-access-intruder-just-had-to-ask/5239853",
+      "source": "The Register",
+      "publishedAt": "Thu, 14 May 2026 09:00:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Fragnesia kernel flaw joins the Linux privilege escalation party with public exploit code, because why keep root access gatekept when you can democratize it."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "WHITE HAT",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud after some truly artful SMS phishing campaigns. When social engineering meets plea bargaining."
+    },
+    {
+      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
+      "url": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 14 May 2026 20:57:27 GMT",
+      "category": "BREACH",
+      "summary": "Taiwanese student accidentally shuts down three bullet trains with SDR experiments, triggering anti-terrorism response. Sometimes the best pentests are completely accidental."
     }
   ]
 }
