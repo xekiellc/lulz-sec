@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T02:01:16.908Z",
+  "last_updated": "2026-05-16T07:50:08.713Z",
   "articles": [
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -7,7 +7,23 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender flaw. When AI finds bugs faster than humans can patch them, you know we're living in interesting times."
+      "summary": "Microsoft drops 167 vulnerabilities in April including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender bug. Meanwhile Chrome quietly patches its fourth zero-day of the year because Google's security team apparently never sleeps."
+    },
+    {
+      "title": "Researchers uncover YellowKey and GreenPlasma Windows Zero-Days",
+      "url": "https://securityaffairs.com/192173/hacking/researchers-uncover-yellowkey-and-greenplasma-windows-zero-days.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-15T06:46:59Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft Exchange gets pwned via crafted email because apparently we're still living in 2003. CVE-2026-42897 is actively exploited in the wild, proving once again that email remains humanity's greatest security mistake."
+    },
+    {
+      "title": "Pwn2Own Berlin 2026, Day One: $523,000 paid out, AI products fall",
+      "url": "https://securityaffairs.com/192183/hacking/pwn2own-berlin-2026-day-one-523000-paid-out-ai-products-fall.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-15T05:20:06Z",
+      "category": "ZERO DAY",
+      "summary": "Researcher 'Nightmare-Eclipse' drops two fresh Windows zero-days targeting BitLocker and CTFMON framework. YellowKey and GreenPlasma sound like rejected Pokemon names but they'll ruin your encryption just fine."
     },
     {
       "title": "Internal Pentagon Report Reveals Hegseth Is Willfully Putting Civilians in Danger",
@@ -15,15 +31,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 15 May 2026 21:33:25 +0000",
       "category": "ZERO DAY",
-      "summary": "Second CVSS 10.0 Cisco SD-WAN zero-day this year gets actively exploited because apparently network administrators love maximum severity Tuesdays. Some vulnerabilities are so perfect they make you weep."
-    },
-    {
-      "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
-      "url": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616",
-      "source": "Tenable.com",
-      "publishedAt": "2026-05-15T01:05:46Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft Exchange Server gets pwned via crafted email because irony isn't dead yet. CVE-2026-42897 proves that sometimes the oldest attack vectors are still the best attack vectors."
+      "summary": "Another CVSS 10.0 Cisco SD-WAN vulnerability gets exploited in the wild because apparently the first maximum severity bug wasn't enough excitement for one year. Cisco's network gear remains the gift that keeps on giving."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,7 +39,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas platform gets ransomed, disrupting education nationwide because apparently criminals have decided that homework is the real enemy. Nothing says 'digital chaos' like defacing a login page with extortion demands."
+      "summary": "Canvas education platform gets ransomwared, disrupting schools nationwide when attackers deface login pages with extortion demands. Nothing says 'back to school' like having your coursework held hostage by cybercriminals."
     },
     {
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
@@ -39,15 +47,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 15 May 2026 11:49:04 +0530",
       "category": "BREACH",
-      "summary": "OpenAI gets bit by TanStack supply chain attack hitting two employee devices, proving even the AI overlords can't escape npm's cursed dependency hell. At least they caught it before Skynet got embarrassing."
+      "summary": "OpenAI employees get pwned via TanStack supply chain attack because even AI overlords can't escape basic npm package poisoning. Two corporate devices compromised but hey, at least GPT-5 is still safe."
     },
     {
-      "title": "U.S. CISA adds a flaw in Cisco Catalyst SD-WAN  to its Known Exploited Vulnerabilities catalog",
-      "url": "https://securityaffairs.com/192157/hacking/u-s-cisa-adds-a-flaw-in-cisco-catalyst-sd-wan-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-14T18:35:43Z",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-15T05:28:03Z",
       "category": "BREACH",
-      "summary": "Foxconn cyberattack allegedly steals files from Apple, Intel, Google, Dell, and NVIDIA because why hack one tech giant when you can collect them all? Supply chain attacks are the new Pokemon cards."
+      "summary": "Foxconn factories across the US get breached with files from Apple, Intel, Google, Dell and NVIDIA allegedly stolen. When your manufacturing partner becomes a one-stop shop for industrial espionage, it's time to reconsider those supply chain contracts."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -55,7 +63,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used end-to-end encryption feature because technical challenges are hard and user privacy is apparently optional. Another day, another broken promise from Big Tech."
+      "summary": "Instagram quietly kills its end-to-end encryption feature after years of promising privacy by default across Meta platforms. Another broken promise from Zuckerberg's surveillance empire masquerading as social media."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -63,23 +71,15 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Victory dance time: Apple finally enables end-to-end encryption for RCS between Android and iPhone. Only took them forever to stop making our messages NSA-readable by default."
+      "summary": "Victory as Apple finally enables end-to-end encryption for RCS messaging with Android in iOS 26.5. Only took a decade of public shaming but cross-platform encrypted messaging is finally here."
     },
     {
       "title": "The Boring Stuff is Dangerous Now",
       "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
       "source": "Dark Reading",
       "publishedAt": "Mon, 18 May 2026 13:00:00 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, a blogger and open-source advocate who started contributing to Wikipedia at age 12. Because defending digital freedom fighters never goes out of style."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "ARCHIVE",
-      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing attacks. Another cybercrime legend trades lulz for orange jumpsuits and federal time."
+      "category": "LEGENDS",
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, who started contributing to Wikipedia Arabic at age 12 and became a prolific blogger advocating for open source technology. Digital freedom fighters start young in the Kingdom."
     }
   ]
 }
