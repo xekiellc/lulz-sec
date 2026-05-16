@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-05-16T12:58:50.676Z",
+  "last_updated": "2026-05-16T18:49:48.303Z",
   "articles": [
-    {
-      "title": "A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight",
-      "url": "https://theintercept.com/2026/05/16/supreme-court-mifepristone-abortion-pill-mail/",
-      "source": "The Intercept",
-      "publishedAt": "Sat, 16 May 2026 10:14:00 +0000",
-      "category": "ZERO DAY",
-      "summary": "Cisco drops another CVSS 10.0 SD-WAN zero-day getting pwned in the wild — because apparently once wasn't enough for these networking wizards. CISA is practically screaming at federal agencies to patch this perfection of a vulnerability."
-    },
-    {
-      "title": "Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers",
-      "url": "https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/",
-      "source": "Infosecurity Magazine",
-      "publishedAt": "2026-05-15T12:35:00Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft's on-prem Exchange servers are getting roasted via crafted emails exploiting CVE-2026-42897, a delicious XSS-to-RCE chain. Because nothing says 'enterprise security' like your email server becoming someone else's playground."
-    },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
       "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft's April patch bonanza delivers 167 vulnerabilities including a SharePoint zero-day and the delightfully named 'BlueHammer' Windows Defender bug. Meanwhile Chrome squashes its fourth zero-day of the year because browsers are basically Swiss cheese at this point."
+      "summary": "Microsoft patches 167 vulnerabilities including a SharePoint zero-day and 'BlueHammer' – because apparently AI is better at finding holes in code than humans are at writing secure code in the first place."
     },
     {
-      "title": "MPs want social media treated more like unsafe toys than harmless apps",
-      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
-      "source": "The Register",
-      "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
-      "category": "BREACH",
-      "summary": "OpenAI employees got their devices compromised via poisoned npm packages in the TanStack supply chain attack — proving even AI overlords fall for classic software distribution tricks. The irony is so thick you could cut it with a backdoor."
+      "title": "Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact",
+      "url": "https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-05-15T14:00:54Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft confirms active exploitation of Exchange Server zero-day CVE-2026-42897 – because nothing says 'enterprise ready' like getting pwned in production."
+    },
+    {
+      "title": "A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight",
+      "url": "https://theintercept.com/2026/05/16/supreme-court-mifepristone-abortion-pill-mail/",
+      "source": "The Intercept",
+      "publishedAt": "Sat, 16 May 2026 10:14:00 +0000",
+      "category": "ZERO DAY",
+      "summary": "Second CVSS 10.0 Cisco SD-WAN bug exploited this year – when your network control system has more holes than Swiss cheese, maybe it's time to reconsider that 'software-defined' strategy."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -39,7 +31,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas learning platform gets ransomed harder than a suburban mom's minivan, disrupting education nationwide with login page graffiti. Millions of students suddenly discover there are worse things than pop quizzes."
+      "summary": "Canvas education platform breached, disrupting schools nationwide after hackers defaced login pages with ransom demands. Nothing like holding children's education hostage for Bitcoin."
+    },
+    {
+      "title": "Microsoft's MDASH AI found 16 critical Windows flaws before hackers could exploit them",
+      "url": "https://www.notebookcheck.net/Microsoft-s-MDASH-AI-found-16-critical-Windows-flaws-before-hackers-could-exploit-them.1297959.0.html",
+      "source": "Notebookcheck.net",
+      "publishedAt": "2026-05-15T16:58:00Z",
+      "category": "BREACH",
+      "summary": "OpenAI employees got pwned via TanStack supply chain attack – even the AI overlords can't secure their own house, but hey, no 'production systems' were touched (they promise)."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -47,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram officially murders its barely-used end-to-end encryption feature, breaking years-old promises to users. Meta continues its proud tradition of privacy theater followed by quiet capitulation to surveillance capitalism."
+      "summary": "Instagram killed its end-to-end encryption feature after years of promises – Meta chose corporate convenience over user privacy, shocking absolutely no one who's been paying attention."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -55,31 +55,31 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Victory lap time: Apple finally enables encrypted RCS messaging with Android, meaning your cross-platform gossip stays private by default. Only took them approximately forever, but hey, better late than surveilled."
+      "summary": "Apple finally delivers end-to-end encrypted RCS for iPhone-Android chats – only took them forever to stop making cross-platform messaging a privacy nightmare."
     },
     {
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 15 May 2026 22:40:25 +0530",
-      "category": "ZERO DAY",
-      "summary": "Linux kernel serves up 'Fragnesia' — a fresh root-level privilege escalation bug with public exploit code attached like a bow on a present. Memory handling bugs continue their victory tour through enterprise infrastructure."
+      "title": "How Trump’s New Counterterrorism Strategy Puts You at Risk",
+      "url": "https://theintercept.com/2026/05/15/trump-terrorism-left-groups-antifa-christian-gorka/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 15 May 2026 11:08:00 +0000",
+      "category": "RIGHTS",
+      "summary": "Trump administration's new counterterrorism strategy turns political enemies into enemies of the state. When domestic surveillance meets political vendetta, democracy dies in classified darkness."
     },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "ARCHIVE",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing his way through corporate America. Another script kiddie learns that cybercrime doesn't actually pay when the FBI comes knocking."
+      "category": "WHITE HAT",
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft for 2022 SMS phishing campaigns – another script kiddie learns that 'it's just a prank bro' doesn't work in federal court."
     },
     {
-      "title": "OpenLoop Health confirms January 2026 Data breach affecting 716,000",
-      "url": "https://securityaffairs.com/192066/uncategorized/openloop-health-confirms-january-2026-data-breach-affecting-716000.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-13T18:45:13Z",
-      "category": "BREACH",
-      "summary": "Congress wants answers after Canvas hack exposed 9,000+ schools to data thieves exploiting Instructure's shoddy security. The House Homeland Security Committee finally wakes up to discover that EdTech is a privacy nightmare."
+      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
+      "url": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 14 May 2026 20:57:27 GMT",
+      "category": "ARCHIVE",
+      "summary": "Taiwanese student with SDR gear accidentally shut down three bullet trains for an hour, triggering anti-terrorism response. Sometimes the best hacks are just curious kids with the right toys."
     }
   ]
 }
