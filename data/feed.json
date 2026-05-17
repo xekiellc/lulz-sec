@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T12:56:26.840Z",
+  "last_updated": "2026-05-17T18:54:01.900Z",
   "articles": [
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -7,15 +7,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When even Patch Tuesday needs a forklift, you know we're living in interesting times."
-    },
-    {
-      "title": "A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight",
-      "url": "https://theintercept.com/2026/05/16/supreme-court-mifepristone-abortion-pill-mail/",
-      "source": "The Intercept",
-      "publishedAt": "Sat, 16 May 2026 10:14:00 +0000",
-      "category": "ZERO DAY",
-      "summary": "Another CVSS 10.0 Cisco SD-WAN bug gets exploited in the wild—second one this year. Cisco's network gear is becoming more reliable than a casino slot machine, except the house always loses."
+      "summary": "Microsoft drops 167 vulns including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw, while Chrome patches its fourth zero-day this year. AI might be finding bugs faster than humans can patch them—terrifying and hilarious."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -23,23 +15,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas education platform gets pwned, disrupting schools nationwide with ransom demands on the login page. Nothing says 'back to school' like having your homework held hostage by cybercriminals."
+      "summary": "Cybercriminals defaced Canvas login pages with ransom demands, disrupting classes nationwide and proving that even homework isn't safe from extortion. Education gets schooled by hackers once again."
     },
     {
-      "title": "MPs want social media treated more like unsafe toys than harmless apps",
-      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
-      "source": "The Register",
-      "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
-      "category": "BREACH",
-      "summary": "OpenAI employees got malware from poisoned npm packages, leading to credential theft. Even the AI overlords can't resist clicking on suspicious links—there's hope for humanity yet."
-    },
-    {
-      "title": "Canvas Hack Aftermath: Congress Wants Instructure to Answer Questions",
-      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath/",
-      "source": "CNET",
-      "publishedAt": "2026-05-13T21:24:32Z",
-      "category": "BREACH",
-      "summary": "TeamPCP hackers are auctioning off Mistral AI's source code like it's a vintage Pokemon card collection. The commoditization of AI breaches continues apace."
+      "title": "A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight",
+      "url": "https://theintercept.com/2026/05/16/supreme-court-mifepristone-abortion-pill-mail/",
+      "source": "The Intercept",
+      "publishedAt": "Sat, 16 May 2026 10:14:00 +0000",
+      "category": "ZERO DAY",
+      "summary": "Another CVSS 10.0 Cisco SD-WAN vulnerability gets exploited in the wild—the second perfect score exploit this year. Cisco's having a very bad year, and threat actors are having a field day."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -47,7 +31,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its end-to-end encryption feature after years of promises, because apparently privacy is too hard for Meta. Another day, another betrayal from the Zuckerverse."
+      "summary": "Instagram kills its barely-used end-to-end encryption feature after years of empty promises. Meta continues its proud tradition of prioritizing surveillance capitalism over user privacy."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -55,23 +39,23 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Apple finally enables end-to-end encryption for RCS messaging with Android. Only took them until 2026 to stop treating cross-platform privacy like a competitive disadvantage."
+      "summary": "Apple finally delivers end-to-end encryption for RCS messaging between iPhone and Android users. Only took them long enough to stop making our conversations surveillance-friendly by default."
     },
     {
-      "title": "The Boring Stuff is Dangerous Now",
-      "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 18 May 2026 13:00:00 GMT",
-      "category": "LEGENDS",
-      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, imprisoned for the crime of believing information should be free. Twelve years old when he started editing Wikipedia—a digital freedom fighter from childhood."
+      "title": "MPs want social media treated more like unsafe toys than harmless apps",
+      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
+      "source": "The Register",
+      "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
+      "category": "BREACH",
+      "summary": "OpenAI employees got pwned via poisoned npm packages in a supply chain attack that compromised internal credentials. Even the AI overlords can't escape basic security hygiene failures."
     },
     {
-      "title": "For ‘Survivor’ Legends Who Keep Coming Back, Outplaying and Outlasting Is a ‘Religious Experience’",
-      "url": "https://www.indiewire.com/awards/consider-this/survivor-50-why-legends-keep-coming-back-1235194186/",
-      "source": "IndieWire",
-      "publishedAt": "2026-05-15T19:30:00Z",
-      "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin Day 2 nets researchers $385,750 for 15 zero-days, bringing the total to nearly $1M in bounties. The annual celebration of responsible disclosure and capitalism working in harmony."
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sun, 17 May 2026 12:43:33 +0530",
+      "category": "ZERO DAY",
+      "summary": "NGINX CVE-2026-42945 heap buffer overflow gets exploited in the wild days after disclosure, causing worker crashes and possible RCE. The web's favorite reverse proxy becomes a forward liability."
     },
     {
       "title": "aegis-atv 0.5.1",
@@ -79,7 +63,23 @@
       "source": "Pypi.org",
       "publishedAt": "2026-05-15T23:45:39Z",
       "category": "ZERO DAY",
-      "summary": "AI-powered security research creates first Apple M5 memory exploit, bypassing Memory Integrity Enforcement for root access. When the machines start hacking themselves, we've truly entered the endgame."
+      "summary": "AI-assisted researchers discover first Apple M5 memory exploit using Anthropic's Claude, bypassing Memory Integrity Enforcement for root access. The machines are now hacking themselves—peak 2026 energy."
+    },
+    {
+      "title": "ChatGPT Can Now Connect to Your Bank Account and See All Your Transactions",
+      "url": "https://gizmodo.com/chatgpt-can-now-connect-to-your-bank-account-and-see-all-your-transactions-2000759306",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-05-16T14:47:44Z",
+      "category": "WHITE HAT",
+      "summary": "Pwn2Own Berlin 2026 researchers earn nearly $900K for 39 zero-days over two days, with Microsoft Exchange taking a beating. White hats getting paid while vendors get educated—capitalism working as intended."
+    },
+    {
+      "title": "Canvas Hack Aftermath: Congress Wants Instructure to Answer Questions",
+      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath/",
+      "source": "CNET",
+      "publishedAt": "2026-05-13T21:24:32Z",
+      "category": "BREACH",
+      "summary": "TeamPCP hackers are auctioning off Mistral AI's source code repos after compromising the French AI startup. Even the Europeans' ChatGPT alternative isn't safe from digital smash-and-grab operations."
     }
   ]
 }
