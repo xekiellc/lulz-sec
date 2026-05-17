@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T08:09:57.646Z",
+  "last_updated": "2026-05-17T12:56:26.840Z",
   "articles": [
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -7,7 +7,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 fixes including a SharePoint zero-day and 'BlueHammer' Windows Defender bug, while Chrome patches its fourth zero-day this year. When AI gets better at finding vulns than humans, Patch Tuesday becomes an existential crisis."
+      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and Windows Defender's 'BlueHammer' flaw. When even Patch Tuesday needs a forklift, you know we're living in interesting times."
     },
     {
       "title": "A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight",
@@ -15,7 +15,7 @@
       "source": "The Intercept",
       "publishedAt": "Sat, 16 May 2026 10:14:00 +0000",
       "category": "ZERO DAY",
-      "summary": "Another CVSS 10.0 Cisco SD-WAN bug gets exploited in the wild—that's two perfect 10s this year. Either Cisco's having the worst year ever or someone's really angry at their licensing fees."
+      "summary": "Another CVSS 10.0 Cisco SD-WAN bug gets exploited in the wild—second one this year. Cisco's network gear is becoming more reliable than a casino slot machine, except the house always loses."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -23,7 +23,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas gets pwned, disrupting schools nationwide as hackers deface login pages with ransom demands. Nothing says 'modern education' like your LMS getting ransomed by script kiddies."
+      "summary": "Canvas education platform gets pwned, disrupting schools nationwide with ransom demands on the login page. Nothing says 'back to school' like having your homework held hostage by cybercriminals."
     },
     {
       "title": "MPs want social media treated more like unsafe toys than harmless apps",
@@ -31,7 +31,15 @@
       "source": "The Register",
       "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
       "category": "BREACH",
-      "summary": "OpenAI catches malware via poisoned npm packages that hit two employee machines, stealing internal creds. Even the AI overlords can't escape supply chain attacks—how beautifully ironic."
+      "summary": "OpenAI employees got malware from poisoned npm packages, leading to credential theft. Even the AI overlords can't resist clicking on suspicious links—there's hope for humanity yet."
+    },
+    {
+      "title": "Canvas Hack Aftermath: Congress Wants Instructure to Answer Questions",
+      "url": "https://www.cnet.com/tech/services-and-software/canvas-hack-aftermath/",
+      "source": "CNET",
+      "publishedAt": "2026-05-13T21:24:32Z",
+      "category": "BREACH",
+      "summary": "TeamPCP hackers are auctioning off Mistral AI's source code like it's a vintage Pokemon card collection. The commoditization of AI breaches continues apace."
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -39,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram kills its barely-used E2E encryption feature after years of promising default encryption across Meta platforms. Meta breaks another privacy promise—shocking absolutely no one who's been paying attention."
+      "summary": "Instagram kills its end-to-end encryption feature after years of promises, because apparently privacy is too hard for Meta. Another day, another betrayal from the Zuckerverse."
     },
     {
       "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
@@ -47,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
       "category": "RIGHTS",
-      "summary": "Apple finally delivers E2E encrypted RCS in iOS 26.5, securing Android-iPhone chats by default. Only took them forever, but better late than letting the feds read your emoji reactions."
+      "summary": "Apple finally enables end-to-end encryption for RCS messaging with Android. Only took them until 2026 to stop treating cross-platform privacy like a competitive disadvantage."
     },
     {
       "title": "The Boring Stuff is Dangerous Now",
@@ -55,7 +63,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 18 May 2026 13:00:00 GMT",
       "category": "LEGENDS",
-      "summary": "EFF launches offline campaign for Saudi Wikipedian Osama Khalid, who started editing at age 12 and became a prolific open-source blogger. Kid went from Wikipedia edits to political prisoner—the Saudi regime really hates free information."
+      "summary": "EFF launches campaign for Saudi Wikipedian Osama Khalid, imprisoned for the crime of believing information should be free. Twelve years old when he started editing Wikipedia—a digital freedom fighter from childhood."
     },
     {
       "title": "For ‘Survivor’ Legends Who Keep Coming Back, Outplaying and Outlasting Is a ‘Religious Experience’",
@@ -63,23 +71,15 @@
       "source": "IndieWire",
       "publishedAt": "2026-05-15T19:30:00Z",
       "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin day two nets researchers $385k for 15 zero-days, pushing the total past $900k and 39 vulns. When ethical hackers are making bank faster than crypto traders, you know the software ecosystem is properly fucked."
+      "summary": "Pwn2Own Berlin Day 2 nets researchers $385,750 for 15 zero-days, bringing the total to nearly $1M in bounties. The annual celebration of responsible disclosure and capitalism working in harmony."
     },
     {
-      "title": "OpenLoop Health confirms January 2026 Data breach affecting 716,000",
-      "url": "https://securityaffairs.com/192066/uncategorized/openloop-health-confirms-january-2026-data-breach-affecting-716000.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-13T18:45:13Z",
-      "category": "BREACH",
-      "summary": "Congress demands answers from Instructure after Canvas hack hit 9,000+ schools using a single exploit. House Homeland Security finally notices EdTech security is a dumpster fire—only took a nationwide school disruption."
-    },
-    {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sun, 17 May 2026 12:43:33 +0530",
+      "title": "aegis-atv 0.5.1",
+      "url": "https://pypi.org/project/aegis-atv/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-15T23:45:39Z",
       "category": "ZERO DAY",
-      "summary": "New Linux kernel flaw 'Fragnesia' grants root access with public exploit code, following the Dirty Frag lineage. Linux privilege escalation bugs are having a moment—memory management is apparently harder than rocket science."
+      "summary": "AI-powered security research creates first Apple M5 memory exploit, bypassing Memory Integrity Enforcement for root access. When the machines start hacking themselves, we've truly entered the endgame."
     }
   ]
 }
