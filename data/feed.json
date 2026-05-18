@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-05-18T14:54:02.809Z",
+  "last_updated": "2026-05-18T19:24:31.553Z",
   "articles": [
     {
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 18 May 2026 14:27:26 +0530",
+      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
+      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
+      "source": "EFF",
+      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
       "category": "ZERO DAY",
-      "summary": "A researcher just dropped a Windows privilege escalation zero-day called MiniPlasma that grants SYSTEM access on fully patched systems. Because apparently Microsoft's patch cycle is more like patch suggestions."
-    },
-    {
-      "title": "Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total",
-      "url": "https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-17T00:41:06Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft Exchange Server zero-day is being actively exploited via crafted emails with no permanent patch for on-prem deployments. Classic Microsoft: break first, maybe fix later."
-    },
-    {
-      "title": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
-      "url": "https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-16T17:30:29Z",
-      "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin 2026 ended with 47 zero-days discovered and $1.29M in payouts, proving once again that ethical hackers are doing the lord's work. DEVCORE absolutely demolished the competition."
+      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender bug. AI is apparently better at finding vulns than humans now—great, our robot overlords can hack us before they enslave us."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -31,7 +15,55 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got pwned by cybercriminals who defaced the login page with ransom demands, disrupting education nationwide. Nothing says 'back to school' like a good old-fashioned extortion attack."
+      "summary": "Canvas education platform gets ransomed by cybercriminals, disrupting schools nationwide with defaced login pages. Nothing says 'back to school' like having your homework held hostage by script kiddies."
+    },
+    {
+      "title": "Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total",
+      "url": "https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-17T00:41:06Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft Exchange Server zero-day being actively exploited via crafted emails with no permanent patch for on-prem deployments. Exchange strikes again—because apparently Microsoft's email server is as secure as a screen door on a submarine."
+    },
+    {
+      "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 18 May 2026 15:41:55 GMT",
+      "category": "RIGHTS",
+      "summary": "Instagram kills its end-to-end encryption feature after promising privacy protections for years. Meta breaks another promise to users—shocking absolutely no one who's been paying attention to Zuckerberg's track record."
+    },
+    {
+      "title": "Poland directs officials to ditch Signal in favor of 'secure' state-developed alternative",
+      "url": "https://www.theregister.com/security/2026/05/18/poland-builds-its-own-signal-amid-security-concerns/5241824",
+      "source": "The Register",
+      "publishedAt": "Mon, 18 May 2026 14:15:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "18-year-old NGINX Rift vulnerability already being exploited within days of disclosure. When your web server flaw is old enough to vote, you know someone's been sleeping at the security wheel."
+    },
+    {
+      "title": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-16T17:30:29Z",
+      "category": "WHITE HAT",
+      "summary": "Pwn2Own Berlin 2026 wraps with 47 zero-days discovered and $1.29M in payouts, DEVCORE taking the crown. Nothing like competitive hacking to remind vendors that their 'secure' products are Swiss cheese."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "BREACH",
+      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft in SMS phishing campaign. Another cybercrime group member learns that prison orange clashes with their hacker aesthetic."
+    },
+    {
+      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
+      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
+      "source": "EFF",
+      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF releases guide to combat systematic surveillance abuses across the Americas. Because apparently we need step-by-step instructions to remind governments that mass surveillance isn't actually legal or cool."
     },
     {
       "title": "NGINX Rift attackers waste no time targeting exposed servers",
@@ -39,47 +71,15 @@
       "source": "The Register",
       "publishedAt": "Mon, 18 May 2026 15:02:00 +0200",
       "category": "BREACH",
-      "summary": "The Shai-Hulud worm exploited GitHub Actions misconfiguration to poison TanStack's shared cache in a supply chain attack. Now they're considering invitation-only PRs because trust is dead."
+      "summary": "Shai-Hulud worm exploits GitHub Actions to poison TanStack's shared cache in supply chain attack. Even our code repositories aren't safe from sandworms—Paul Atreides would be proud of this digital spice heist."
     },
     {
-      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
-      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
-      "category": "RIGHTS",
-      "summary": "Instagram killed its end-to-end encryption feature after years of promising privacy by default across Meta platforms. Broken promises from Big Tech, shocking absolutely no one."
-    },
-    {
-      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Apple finally delivered end-to-end encryption for RCS in iOS 26.5, meaning Android-iPhone chats will actually be private. Only took them forever, but better late than never."
-    },
-    {
-      "title": "F-35 software delays leave UK buying time with US glide bombs",
-      "url": "https://www.theregister.com/security/2026/05/18/f-35-software-delays-leave-uk-buying-time-with-us-glide-bombs/5241737",
-      "source": "The Register",
-      "publishedAt": "Mon, 18 May 2026 12:48:00 +0200",
-      "category": "RIGHTS",
-      "summary": "Poland is ditching Signal for a state-developed 'secure' alternative amid social engineering attacks on government officials. Because nothing says security like homegrown government crypto."
-    },
-    {
-      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-      "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 18 May 2026 18:30:00 +0530",
-      "category": "RIGHTS",
-      "summary": "Mozilla is telling the UK that breaking VPNs won't magically solve age verification problems. Firefox makers patiently explaining that VPNs are basic security infrastructure, not teenage contraband."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider member 'Tylerb' pleaded guilty to wire fraud and identity theft for SMS phishing attacks in 2022. Another cybercrime legend faces the music for their text-message social engineering spree."
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-17T07:13:33Z",
+      "category": "BREACH",
+      "summary": "Grafana rejects ransom demand after hackers steal source code via GitHub token compromise. At least someone still has a spine when extortionists come knocking—take notes, other breached companies."
     }
   ]
 }
