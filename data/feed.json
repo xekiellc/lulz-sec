@@ -1,69 +1,21 @@
 {
-  "last_updated": "2026-05-18T09:40:00.086Z",
+  "last_updated": "2026-05-18T14:54:02.809Z",
   "articles": [
     {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 08 May 2026 02:58:46 +0000",
-      "category": "ZERO DAY",
-      "summary": "AI is now hunting vulns faster than humans can patch them, and May's Patch Tuesday is basically a greatest hits album of machine-discovered security disasters. When the robots start finding our bugs better than we do, maybe it's time to panic just a little."
-    },
-    {
-      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
-      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
-      "source": "EFF",
-      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
-      "category": "ZERO DAY",
-      "summary": "Microsoft dropped 167 security fixes including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Meanwhile Chrome patched its fourth zero-day this year because apparently browser security is just a suggestion now."
-    },
-    {
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
       "source": "The Hacker News",
-      "publishedAt": "Sun, 17 May 2026 17:27:53 +0530",
+      "publishedAt": "Mon, 18 May 2026 14:27:26 +0530",
       "category": "ZERO DAY",
-      "summary": "MiniPlasma zero-day grants SYSTEM privileges on fully patched Windows boxes because why should security updates actually secure anything? Courtesy of the legend Chaotic Eclipse, who keeps making Microsoft's patch cycle look like performance art."
+      "summary": "A researcher just dropped a Windows privilege escalation zero-day called MiniPlasma that grants SYSTEM access on fully patched systems. Because apparently Microsoft's patch cycle is more like patch suggestions."
     },
     {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sun, 17 May 2026 12:43:33 +0530",
+      "title": "Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total",
+      "url": "https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-17T00:41:06Z",
       "category": "ZERO DAY",
-      "summary": "CVE-2026-42945 in NGINX is being exploited in the wild just days after disclosure, causing worker crashes and potential RCE. Because apparently giving attackers a roadmap to your infrastructure is the new responsible disclosure."
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
-      "category": "BREACH",
-      "summary": "Canvas got pwned hard, disrupting schools nationwide while hackers defaced login pages with ransom demands threatening to leak student data. Nothing says 'modern education' like your homework being held hostage by cybercriminals."
-    },
-    {
-      "title": "MPs want social media treated more like unsafe toys than harmless apps",
-      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
-      "source": "The Register",
-      "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
-      "category": "BREACH",
-      "summary": "OpenAI got caught in a supply chain attack when malware-laced npm packages compromised employee devices and stole internal credentials. Even the AI overlords aren't immune to good old-fashioned social engineering through package managers."
-    },
-    {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 16 May 2026 20:50:48 +0530",
-      "category": "BREACH",
-      "summary": "Grafana's GitHub got compromised, letting attackers download their entire codebase and attempt extortion. At least they're claiming no customer data was touched, which is corporate speak for 'we have no idea what else they grabbed.'"
-    },
-    {
-      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
-      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
-      "category": "RIGHTS",
-      "summary": "Instagram killed its end-to-end encryption feature instead of making it default, breaking years of privacy promises. Meta chose surveillance capitalism over user security, shocking absolutely no one who's been paying attention."
+      "summary": "Microsoft Exchange Server zero-day is being actively exploited via crafted emails with no permanent patch for on-prem deployments. Classic Microsoft: break first, maybe fix later."
     },
     {
       "title": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
@@ -71,15 +23,63 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-05-16T17:30:29Z",
       "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin 2026 delivered 47 zero-days and $1.3M in payouts, with DEVCORE absolutely dominating every category. This is how you properly incentivize bug hunting instead of letting vulns fester in corporate denial."
+      "summary": "Pwn2Own Berlin 2026 ended with 47 zero-days discovered and $1.29M in payouts, proving once again that ethical hackers are doing the lord's work. DEVCORE absolutely demolished the competition."
     },
     {
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "category": "BREACH",
+      "summary": "Canvas got pwned by cybercriminals who defaced the login page with ransom demands, disrupting education nationwide. Nothing says 'back to school' like a good old-fashioned extortion attack."
+    },
+    {
+      "title": "NGINX Rift attackers waste no time targeting exposed servers",
+      "url": "https://www.theregister.com/security/2026/05/18/nginx-rift-attackers-waste-no-time-targeting-exposed-servers/5241851",
+      "source": "The Register",
+      "publishedAt": "Mon, 18 May 2026 15:02:00 +0200",
+      "category": "BREACH",
+      "summary": "The Shai-Hulud worm exploited GitHub Actions misconfiguration to poison TanStack's shared cache in a supply chain attack. Now they're considering invitation-only PRs because trust is dead."
+    },
+    {
+      "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
+      "url": "https://www.eff.org/deeplinks/2026/05/victory-end-end-encrypted-rcs-comes-apple-and-android-chats",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
+      "category": "RIGHTS",
+      "summary": "Instagram killed its end-to-end encryption feature after years of promising privacy by default across Meta platforms. Broken promises from Big Tech, shocking absolutely no one."
+    },
+    {
+      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
+      "source": "EFF",
+      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
+      "category": "RIGHTS",
+      "summary": "Apple finally delivered end-to-end encryption for RCS in iOS 26.5, meaning Android-iPhone chats will actually be private. Only took them forever, but better late than never."
+    },
+    {
+      "title": "F-35 software delays leave UK buying time with US glide bombs",
+      "url": "https://www.theregister.com/security/2026/05/18/f-35-software-delays-leave-uk-buying-time-with-us-glide-bombs/5241737",
+      "source": "The Register",
+      "publishedAt": "Mon, 18 May 2026 12:48:00 +0200",
+      "category": "RIGHTS",
+      "summary": "Poland is ditching Signal for a state-developed 'secure' alternative amid social engineering attacks on government officials. Because nothing says security like homegrown government crypto."
+    },
+    {
+      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+      "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
       "source": "The Hacker News",
-      "publishedAt": "Mon, 18 May 2026 10:29:21 +0530",
-      "category": "ARCHIVE",
-      "summary": "Analysis reveals Fast16 malware was sabotaging nuclear weapons simulations before Stuxnet even existed, corrupting uranium-compression calculations. Turns out cyberwar against nuclear programs has deeper roots than anyone suspected."
+      "publishedAt": "Mon, 18 May 2026 18:30:00 +0530",
+      "category": "RIGHTS",
+      "summary": "Mozilla is telling the UK that breaking VPNs won't magically solve age verification problems. Firefox makers patiently explaining that VPNs are basic security infrastructure, not teenage contraband."
+    },
+    {
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider member 'Tylerb' pleaded guilty to wire fraud and identity theft for SMS phishing attacks in 2022. Another cybercrime legend faces the music for their text-message social engineering spree."
     }
   ]
 }
