@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-05-18T02:16:06.723Z",
+  "last_updated": "2026-05-18T09:40:00.086Z",
   "articles": [
+    {
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "source": "Krebs on Security",
+      "publishedAt": "Fri, 08 May 2026 02:58:46 +0000",
+      "category": "ZERO DAY",
+      "summary": "AI is now hunting vulns faster than humans can patch them, and May's Patch Tuesday is basically a greatest hits album of machine-discovered security disasters. When the robots start finding our bugs better than we do, maybe it's time to panic just a little."
+    },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
       "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped 167 patches including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender vuln. When your Patch Tuesday count hits triple digits, you know someone's been busy breaking things."
+      "summary": "Microsoft dropped 167 security fixes including a SharePoint zero-day and the deliciously-named 'BlueHammer' Windows Defender flaw. Meanwhile Chrome patched its fourth zero-day this year because apparently browser security is just a suggestion now."
+    },
+    {
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sun, 17 May 2026 17:27:53 +0530",
+      "category": "ZERO DAY",
+      "summary": "MiniPlasma zero-day grants SYSTEM privileges on fully patched Windows boxes because why should security updates actually secure anything? Courtesy of the legend Chaotic Eclipse, who keeps making Microsoft's patch cycle look like performance art."
     },
     {
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -15,7 +31,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sun, 17 May 2026 12:43:33 +0530",
       "category": "ZERO DAY",
-      "summary": "CVE-2026-42945 turns NGINX into a heap buffer overflow playground with active exploitation in the wild. Because apparently even the internet's favorite reverse proxy can't escape the tender embrace of RCE vulnerabilities."
+      "summary": "CVE-2026-42945 in NGINX is being exploited in the wild just days after disclosure, causing worker crashes and potential RCE. Because apparently giving attackers a roadmap to your infrastructure is the new responsible disclosure."
     },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
@@ -23,7 +39,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
       "category": "BREACH",
-      "summary": "Canvas got pwned so hard it disrupted schools nationwide, with hackers defacing the login page like it's 2011 all over again. Nothing says 'digital education' quite like ransomware threatening to leak your homework assignments."
+      "summary": "Canvas got pwned hard, disrupting schools nationwide while hackers defaced login pages with ransom demands threatening to leak student data. Nothing says 'modern education' like your homework being held hostage by cybercriminals."
     },
     {
       "title": "MPs want social media treated more like unsafe toys than harmless apps",
@@ -31,7 +47,15 @@
       "source": "The Register",
       "publishedAt": "Fri, 15 May 2026 10:33:00 +0200",
       "category": "BREACH",
-      "summary": "OpenAI employees got their machines compromised via poisoned npm packages in a classic supply chain attack. Even the AI overlords fall for the oldest trick in the book - malicious dependencies."
+      "summary": "OpenAI got caught in a supply chain attack when malware-laced npm packages compromised employee devices and stole internal credentials. Even the AI overlords aren't immune to good old-fashioned social engineering through package managers."
+    },
+    {
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 16 May 2026 20:50:48 +0530",
+      "category": "BREACH",
+      "summary": "Grafana's GitHub got compromised, letting attackers download their entire codebase and attempt extortion. At least they're claiming no customer data was touched, which is corporate speak for 'we have no idea what else they grabbed.'"
     },
     {
       "title": "Victory! End-to-End Encrypted RCS Comes to Apple and Android Chats",
@@ -39,23 +63,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 12 May 2026 16:48:16 +0000",
       "category": "RIGHTS",
-      "summary": "Instagram just killed its end-to-end encryption feature, breaking years of privacy promises faster than you can say 'Zuckerberg lied again.' Another beautiful encryption dream dies in the Facebook graveyard."
-    },
-    {
-      "title": "EFF Launches New Offline Campaign for Saudi Wikipedian Osama Khalid",
-      "url": "https://www.eff.org/deeplinks/2026/05/eff-launches-new-offline-campaign-saudi-wikipedian-osama-khalid",
-      "source": "EFF",
-      "publishedAt": "Tue, 12 May 2026 16:41:01 +0000",
-      "category": "RIGHTS",
-      "summary": "Finally! iPhone and Android users get encrypted RCS messaging, ending the green bubble surveillance nightmare. Only took them a decade to figure out that maybe our texts shouldn't be readable by every three-letter agency."
-    },
-    {
-      "title": "The Boring Stuff is Dangerous Now",
-      "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 18 May 2026 13:00:00 GMT",
-      "category": "LEGENDS",
-      "summary": "Saudi Wikipedian Osama Khalid, contributing since age 12, now needs our help fighting digital oppression. Because apparently editing Wikipedia and blogging about open source makes you dangerous to authoritarian regimes."
+      "summary": "Instagram killed its end-to-end encryption feature instead of making it default, breaking years of privacy promises. Meta chose surveillance capitalism over user security, shocking absolutely no one who's been paying attention."
     },
     {
       "title": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
@@ -63,23 +71,15 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-05-16T17:30:29Z",
       "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin 2026 ends with DEVCORE dominating the competition, discovering 47 zero-days and earning over $1.2M. When ethical hacking pays better than most day jobs, you know the industry is properly broken."
+      "summary": "Pwn2Own Berlin 2026 delivered 47 zero-days and $1.3M in payouts, with DEVCORE absolutely dominating every category. This is how you properly incentivize bug hunting instead of letting vulns fester in corporate denial."
     },
     {
-      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
-      "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
-      "source": "The Register",
-      "publishedAt": "Fri, 15 May 2026 12:08:07 +0200",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 18 May 2026 10:29:21 +0530",
       "category": "ARCHIVE",
-      "summary": "Linus Torvalds declares the Linux security mailing list 'almost entirely unmanageable' thanks to AI bug hunters spamming duplicate findings. Even the kernel god can't escape the robot apocalypse cluttering his inbox."
-    },
-    {
-      "title": "aegis-atv 0.5.1",
-      "url": "https://pypi.org/project/aegis-atv/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-15T23:45:39Z",
-      "category": "ZERO DAY",
-      "summary": "AI-assisted researchers just broke Apple's M5 Memory Integrity Enforcement for root access on macOS using Anthropic's Claude. The machines are now teaching themselves to pwn other machines - we've officially reached peak irony."
+      "summary": "Analysis reveals Fast16 malware was sabotaging nuclear weapons simulations before Stuxnet even existed, corrupting uranium-compression calculations. Turns out cyberwar against nuclear programs has deeper roots than anyone suspected."
     }
   ]
 }
