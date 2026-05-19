@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T02:14:58.638Z",
+  "last_updated": "2026-05-19T08:58:40.013Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into a free AWS GovCloud buffet for anyone with eyeballs. Nothing says \"cybersecurity leadership\" like yeeting your crown jewels into a public repo."
+      "summary": "CISA contractor accidentally turned GitHub into a government keys buffet, exposing AWS GovCloud credentials like a digital yard sale. The cybersecurity agency protecting America's infrastructure couldn't protect its own damn keys."
     },
     {
       "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
@@ -15,31 +15,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 18 May 2026 21:24:59 GMT",
       "category": "ZERO DAY",
-      "summary": "Microsoft Exchange getting pwned by XSS in 2026 because apparently we're still living in 2003. Zero patches available, maximum chaos guaranteed."
-    },
-    {
-      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 18 May 2026 21:43:51 GMT",
-      "category": "RIGHTS",
-      "summary": "Instagram murders its E2E encryption feature after years of empty promises. Meta discovers that protecting user privacy is harder than harvesting their souls for ad revenue."
-    },
-    {
-      "title": "Shai-Hulud copycat worm infects yet another npm package",
-      "url": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
-      "source": "The Register",
-      "publishedAt": "Tue, 19 May 2026 00:07:59 +0200",
-      "category": "BREACH",
-      "summary": "macOS users getting absolutely demolished by Reaper stealer that cosplays as Apple, Microsoft, and Google simultaneously. Even the fruit company can't save you from social engineering."
-    },
-    {
-      "title": "Linux kernel flaw opens root-only files to unprivileged users",
-      "url": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
-      "source": "The Register",
-      "publishedAt": "Mon, 18 May 2026 18:20:00 +0200",
-      "category": "BREACH",
-      "summary": "Shai-Hulud worm spawn continues infecting npm packages because apparently we learned nothing from the first biblical plague. One scumbag, infinite supply chain nightmares."
+      "summary": "Microsoft Exchange gets pwned by XSS vulnerability with no patch in sight. Outlook Web Access users are sitting ducks while Redmond scrambles to fix what should have been caught in 2005."
     },
     {
       "title": "TanStack weighs invitation-only pull requests after supply chain attack",
@@ -47,31 +23,23 @@
       "source": "The Register",
       "publishedAt": "Mon, 18 May 2026 16:15:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Linux kernel bug lets unprivileged peasants read root-only files because even Linus isn't immune to oopsies. ModuleJail proposal emerges as nuclear containment option."
+      "summary": "Linux kernel flaw lets unprivileged users peek at root-only files because apparently separation of privileges is just a suggestion. ModuleJail proposal emerges as the nuclear option for containing future kernel stupidity."
     },
     {
-      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
       "source": "The Hacker News",
-      "publishedAt": "Mon, 18 May 2026 22:51:18 +0530",
+      "publishedAt": "Tue, 19 May 2026 13:19:23 +0530",
       "category": "ZERO DAY",
-      "summary": "NGINX Rift vulnerability gets the speed-run treatment with attackers pouncing within days of disclosure. 18-year-old flaw proves that some wines don't age well."
+      "summary": "NGINX gets rekt by 18-year-old vulnerability that attackers are already exploiting faster than you can say 'reverse proxy.' Ancient bugs are the gift that keeps on giving."
     },
     {
-      "title": "APPLE-SA-05-11-2026-11 visionOS 26.5",
-      "url": "https://seclists.org/fulldisclosure/2026/May/15",
-      "source": "Seclists.org",
-      "publishedAt": "2026-05-17T21:16:31Z",
+      "title": "Python Bytes: #480 Proud Parents",
+      "url": "https://pythonbytes.fm/episodes/show/480/proud-parents",
+      "source": "Pythonbytes.fm",
+      "publishedAt": "2026-05-18T08:00:00Z",
       "category": "ZERO DAY",
-      "summary": "MiniPlasma zero-day hands out SYSTEM privileges like candy on Halloween, complete with PoC for maximum pandemonium. Windows privilege escalation enters the chat."
-    },
-    {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-17T07:13:33Z",
-      "category": "BREACH",
-      "summary": "Grafana tells ransomware goons to pound sand after source code theft via compromised GitHub token. No customer data affected, just corporate pride and clean underwear."
+      "summary": "MiniPlasma zero-day grants SYSTEM privileges on fully patched Windows 11, suggesting Microsoft's 2020 'fix' was about as effective as a chocolate teapot. Chaotic Eclipse drops another Windows reality check."
     },
     {
       "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
@@ -79,7 +47,39 @@
       "source": "EFF",
       "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
       "category": "RIGHTS",
-      "summary": "EFF drops surveillance abuse playbook for the Americas where accountability goes to die. Systematic human rights violations get the treatment they deserve: a strongly worded guide."
+      "summary": "EFF drops surveillance abuse guide because apparently we need step-by-step instructions to fight back against digital authoritarianism. Democracy doesn't defend itself, folks."
+    },
+    {
+      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 18 May 2026 21:43:51 GMT",
+      "category": "RIGHTS",
+      "summary": "Instagram kills end-to-end encryption because privacy is hard and Zuckerberg's attention span is shorter. Another broken promise from the social media surveillance empire."
+    },
+    {
+      "title": "Shai-Hulud copycat worm infects yet another npm package",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
+      "source": "The Register",
+      "publishedAt": "Tue, 19 May 2026 00:07:59 +0200",
+      "category": "BREACH",
+      "summary": "Reaper stealer goes full Apple cosplay, spoofing trusted domains while ransacking macOS users' passwords and crypto wallets. Even the walled garden has snakes."
+    },
+    {
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 19 May 2026 10:24:17 +0530",
+      "category": "BREACH",
+      "summary": "GitHub Actions workflow gets hijacked to harvest CI/CD credentials because supply chain attacks are the new black. Every tag redirected to malicious commits in a masterclass of repository poisoning."
+    },
+    {
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-17T07:13:33Z",
+      "category": "BREACH",
+      "summary": "Grafana tells extortionists to pound sand after source code theft via compromised GitHub token. Finally, a company with a spine that doesn't negotiate with digital terrorists."
     }
   ]
 }
