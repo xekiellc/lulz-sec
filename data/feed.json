@@ -1,77 +1,69 @@
 {
-  "last_updated": "2026-05-18T19:24:31.553Z",
+  "last_updated": "2026-05-19T02:14:58.638Z",
   "articles": [
     {
-      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
-      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
-      "source": "EFF",
-      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
-      "category": "ZERO DAY",
-      "summary": "Microsoft drops 167 security fixes including a SharePoint zero-day and the deliciously named 'BlueHammer' Windows Defender bug. AI is apparently better at finding vulns than humans now—great, our robot overlords can hack us before they enslave us."
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "Canvas education platform gets ransomed by cybercriminals, disrupting schools nationwide with defaced login pages. Nothing says 'back to school' like having your homework held hostage by script kiddies."
+      "summary": "CISA contractor accidentally turned GitHub into a free AWS GovCloud buffet for anyone with eyeballs. Nothing says \"cybersecurity leadership\" like yeeting your crown jewels into a public repo."
     },
     {
-      "title": "Pwn2Own Berlin 2026, Day Three: DEVCORE Crowned Master of Pwn, $1.298 Million Total",
-      "url": "https://securityaffairs.com/192250/hacking/pwn2own-berlin-2026-day-three-devcore-crowned-master-of-pwn-1-298-million-total.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-17T00:41:06Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft Exchange Server zero-day being actively exploited via crafted emails with no permanent patch for on-prem deployments. Exchange strikes again—because apparently Microsoft's email server is as secure as a screen door on a submarine."
-    },
-    {
-      "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+      "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
+      "url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
       "source": "Dark Reading",
-      "publishedAt": "Mon, 18 May 2026 15:41:55 GMT",
-      "category": "RIGHTS",
-      "summary": "Instagram kills its end-to-end encryption feature after promising privacy protections for years. Meta breaks another promise to users—shocking absolutely no one who's been paying attention to Zuckerberg's track record."
-    },
-    {
-      "title": "Poland directs officials to ditch Signal in favor of 'secure' state-developed alternative",
-      "url": "https://www.theregister.com/security/2026/05/18/poland-builds-its-own-signal-amid-security-concerns/5241824",
-      "source": "The Register",
-      "publishedAt": "Mon, 18 May 2026 14:15:00 +0200",
+      "publishedAt": "Mon, 18 May 2026 21:24:59 GMT",
       "category": "ZERO DAY",
-      "summary": "18-year-old NGINX Rift vulnerability already being exploited within days of disclosure. When your web server flaw is old enough to vote, you know someone's been sleeping at the security wheel."
+      "summary": "Microsoft Exchange getting pwned by XSS in 2026 because apparently we're still living in 2003. Zero patches available, maximum chaos guaranteed."
     },
     {
-      "title": "U.S. CISA adds a flaw in Microsoft Exchange Server to its Known Exploited Vulnerabilities catalog",
-      "url": "https://securityaffairs.com/192240/hacking/u-s-cisa-adds-a-flaw-in-microsoft-exchange-server-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-16T17:30:29Z",
-      "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin 2026 wraps with 47 zero-days discovered and $1.29M in payouts, DEVCORE taking the crown. Nothing like competitive hacking to remind vendors that their 'secure' products are Swiss cheese."
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "category": "BREACH",
-      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft in SMS phishing campaign. Another cybercrime group member learns that prison orange clashes with their hacker aesthetic."
-    },
-    {
-      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
-      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
-      "source": "EFF",
-      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
+      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 18 May 2026 21:43:51 GMT",
       "category": "RIGHTS",
-      "summary": "EFF releases guide to combat systematic surveillance abuses across the Americas. Because apparently we need step-by-step instructions to remind governments that mass surveillance isn't actually legal or cool."
+      "summary": "Instagram murders its E2E encryption feature after years of empty promises. Meta discovers that protecting user privacy is harder than harvesting their souls for ad revenue."
     },
     {
-      "title": "NGINX Rift attackers waste no time targeting exposed servers",
-      "url": "https://www.theregister.com/security/2026/05/18/nginx-rift-attackers-waste-no-time-targeting-exposed-servers/5241851",
+      "title": "Shai-Hulud copycat worm infects yet another npm package",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
       "source": "The Register",
-      "publishedAt": "Mon, 18 May 2026 15:02:00 +0200",
+      "publishedAt": "Tue, 19 May 2026 00:07:59 +0200",
       "category": "BREACH",
-      "summary": "Shai-Hulud worm exploits GitHub Actions to poison TanStack's shared cache in supply chain attack. Even our code repositories aren't safe from sandworms—Paul Atreides would be proud of this digital spice heist."
+      "summary": "macOS users getting absolutely demolished by Reaper stealer that cosplays as Apple, Microsoft, and Google simultaneously. Even the fruit company can't save you from social engineering."
+    },
+    {
+      "title": "Linux kernel flaw opens root-only files to unprivileged users",
+      "url": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
+      "source": "The Register",
+      "publishedAt": "Mon, 18 May 2026 18:20:00 +0200",
+      "category": "BREACH",
+      "summary": "Shai-Hulud worm spawn continues infecting npm packages because apparently we learned nothing from the first biblical plague. One scumbag, infinite supply chain nightmares."
+    },
+    {
+      "title": "TanStack weighs invitation-only pull requests after supply chain attack",
+      "url": "https://www.theregister.com/security/2026/05/18/tanstack-weighs-invitation-only-pull-requests-after-supply-chain-attack/5241899",
+      "source": "The Register",
+      "publishedAt": "Mon, 18 May 2026 16:15:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Linux kernel bug lets unprivileged peasants read root-only files because even Linus isn't immune to oopsies. ModuleJail proposal emerges as nuclear containment option."
+    },
+    {
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 18 May 2026 22:51:18 +0530",
+      "category": "ZERO DAY",
+      "summary": "NGINX Rift vulnerability gets the speed-run treatment with attackers pouncing within days of disclosure. 18-year-old flaw proves that some wines don't age well."
+    },
+    {
+      "title": "APPLE-SA-05-11-2026-11 visionOS 26.5",
+      "url": "https://seclists.org/fulldisclosure/2026/May/15",
+      "source": "Seclists.org",
+      "publishedAt": "2026-05-17T21:16:31Z",
+      "category": "ZERO DAY",
+      "summary": "MiniPlasma zero-day hands out SYSTEM privileges like candy on Halloween, complete with PoC for maximum pandemonium. Windows privilege escalation enters the chat."
     },
     {
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -79,7 +71,15 @@
       "source": "Internet",
       "publishedAt": "2026-05-17T07:13:33Z",
       "category": "BREACH",
-      "summary": "Grafana rejects ransom demand after hackers steal source code via GitHub token compromise. At least someone still has a spine when extortionists come knocking—take notes, other breached companies."
+      "summary": "Grafana tells ransomware goons to pound sand after source code theft via compromised GitHub token. No customer data affected, just corporate pride and clean underwear."
+    },
+    {
+      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
+      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
+      "source": "EFF",
+      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF drops surveillance abuse playbook for the Americas where accountability goes to die. Systematic human rights violations get the treatment they deserve: a strongly worded guide."
     }
   ]
 }
