@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T08:53:34.999Z",
+  "last_updated": "2026-05-20T14:36:09.133Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,79 +7,79 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA, the agency that's supposed to protect us from cyber threats, left AWS GovCloud credentials sitting on GitHub like a drunk teenager posting their diary online. The irony is so thick you could cut it with a compromised private key."
+      "summary": "CISA, the agency supposed to protect America's cyber infrastructure, leaked their own AWS GovCloud keys on GitHub like amateur hour. The irony is so thick you could encrypt it with their exposed credentials."
     },
     {
-      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 19 May 2026 19:49:53 GMT",
-      "category": "ZERO DAY",
-      "summary": "YellowKey, GreenPlasma, and MiniPlasma continue the Windows zero-day parade that's making Patch Tuesday look more like Patch Decade. Microsoft's playing whack-a-mole with vulnerabilities and losing badly."
+      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
+      "source": "The Register",
+      "publishedAt": "Tue, 19 May 2026 23:56:18 +0200",
+      "category": "FOIA",
+      "summary": "London's finest made over 700,000 data requests to Big Tech last year, because apparently knocking on doors is so 20th century. FOIA strikes again, exposing the surveillance state's impressive appetite for your digital breadcrumbs."
     },
     {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "RIGHTS",
-      "summary": "Microsoft actually took a step toward human rights accountability in their tech deals with authoritarian governments. Hell has officially frozen over, and we're here for this rare moment of corporate conscience."
-    },
-    {
-      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
-      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
-      "source": "EFF",
-      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
-      "category": "RIGHTS",
-      "summary": "Meta's internal docs reveal they planned to launch facial recognition during political chaos when civil rights groups would be 'distracted.' Classic surveillance capitalism: exploit democracy's busy schedule to spy on everyone."
-    },
-    {
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 19 May 2026 17:00:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "DirtyDecrypt PoC drops for Linux kernel CVE-2026-31635, because apparently we needed another privilege escalation exploit with a catchy name. The kernel vulnerability industrial complex keeps churning out the hits."
-    },
-    {
-      "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-05-17, (Mon, May 18th)",
-      "url": "https://isc.sans.edu/diary/32994",
-      "source": "Sans.edu",
-      "publishedAt": "2026-05-18T20:08:00Z",
-      "category": "ZERO DAY",
-      "summary": "MiniPlasma zero-day gives SYSTEM access on fully patched Windows 11 systems, proving once again that 'fully patched' is Microsoft's idea of a cruel joke. PoC included for your educational panic attacks."
-    },
-    {
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "url": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 19 May 2026 22:08:12 +0530",
+      "title": "Clear your calendar, Drupal user: You have a critically urgent patch to install",
+      "url": "https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728",
+      "source": "The Register",
+      "publishedAt": "Tue, 19 May 2026 17:56:25 +0200",
       "category": "BREACH",
-      "summary": "TeamPCP claims to have breached GitHub's internal repositories and is selling the source code like it's a yard sale. The platform where we store all our secrets got its own secrets stolen—poetry in motion."
+      "summary": "CISA strikes again with a GitHub repo containing files literally named 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'. It's like they wanted to get pwned with that level of OPSEC fail."
+    },
+    {
+      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+      "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 20 May 2026 16:00:00 +0530",
+      "category": "BREACH",
+      "summary": "GitHub got breached via compromised employee device, with TeamPCP exfiltrating 3,800+ internal repos. When the house of code gets its own code stolen, that's some next-level supply chain irony right there."
+    },
+    {
+      "title": "Zscaler Partners with Global System Integrators to Launch Project AI-Guardian to Help Accelerate Enterprise AI Adoption",
+      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297665/0/en/Zscaler-Partners-with-Global-System-Integrators-to-Launch-Project-AI-Guardian-to-Help-Accelerate-Enterprise-AI-Adoption.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-19T13:40:00Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft scrambles to patch YellowKey, a BitLocker bypass that makes disk encryption about as useful as a chocolate teapot. CVE-2026-45585 proves that even crypto can't save you from Microsoft's creative interpretation of security."
+    },
+    {
+      "title": "Crook leaks 468k+ records, claims they pwned Portugal’s postal carrier",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/19/468k-records-allegedly-stolen-from-portugals-postal-carrier/5242457",
+      "source": "Theregister.com",
+      "publishedAt": "2026-05-19T11:20:00Z",
+      "category": "WHITE HAT",
+      "summary": "Project Glasswing expands responsible disclosure beyond their walled garden, finally letting security researchers share findings with the world. About time the defender pool got deeper than a kiddie pool."
+    },
+    {
+      "title": "Grafana Labs refuses ransom after hackers steal already-open-source code",
+      "url": "https://thenextweb.com/news/grafana-labs-codebase-breach-ransom-refused/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-18T16:49:08Z",
+      "category": "BREACH",
+      "summary": "TeamPCP's supply chain rampage hits peak chaos with a compromised Checkmarx Jenkins plugin and self-spreading Mini Shai-Hulud worm. When your malware references Dune, you know the attackers have culture."
     },
     {
       "title": "Grafana says hackers hit its GitHub environment, demand ransom to prevent codebase release — but it's refusing to pay",
       "url": "https://www.techradar.com/pro/security/grafana-says-hackers-hit-its-github-environment-demand-ransom-to-prevent-codebase-release-but-its-refusing-to-pay",
       "source": "TechRadar",
       "publishedAt": "2026-05-18T13:05:00Z",
-      "category": "BREACH",
-      "summary": "Hackers stole Grafana's open-source code and demanded ransom to not release it publicly, which is like stealing a library book and threatening to read it out loud. Grafana rightfully told them to pound sand."
+      "category": "WHITE HAT",
+      "summary": "Grafana Labs gets extorted over already-open-source code and tells hackers to pound sand. Sometimes the best defense against ransomware is just laughing at the absurdity of it all."
     },
     {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider member 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns that actually worked. Another young hacker trades their keyboard for an orange jumpsuit—tale as old as time."
+      "title": "Key findings from the Verizon DBIR 2026: Slower vulnerability remediation meets faster exploitation",
+      "url": "https://www.tenable.com/blog/key-findings-from-the-verizon-dbir-2026",
+      "source": "Tenable.com",
+      "publishedAt": "2026-05-19T13:17:00Z",
+      "category": "BREACH",
+      "summary": "Multiple US healthcare breaches hit millions because apparently patient privacy is just a suggestion. The HHS tracker keeps growing like a digital morgue of medical data disasters."
     },
     {
-      "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
-      "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-      "source": "Konstantintkachuk.com",
-      "publishedAt": "2026-05-18T21:59:34Z",
-      "category": "BREACH",
-      "summary": "7-Eleven confirms data breach after ShinyHunters threatens to leak 600,000 Salesforce records including personal and corporate data. Your Slurpee loyalty points were never worth this level of digital drama."
+      "title": "ABB CoreSense HM and CoreSense M10",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01",
+      "source": "Cisa.gov",
+      "publishedAt": "2026-05-19T12:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Verizon's 2026 DBIR reveals vuln exploitation is now the #1 attack vector while patching gets slower. It's like watching a slow-motion car crash where the brakes are made of bureaucracy."
     }
   ]
 }
