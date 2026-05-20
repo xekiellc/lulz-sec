@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T19:43:19.617Z",
+  "last_updated": "2026-05-20T02:14:00.236Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,39 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA—the agency supposed to keep us cyber-secure—casually left AWS credentials on public GitHub like it's 2010. At least they're consistent with government security standards: nonexistent."
+      "summary": "CISA — the agency literally tasked with protecting America's cyber infrastructure — left AWS GovCloud credentials sitting in a public GitHub repo like a rookie. The irony is so thick you could patch vulnerabilities with it."
     },
     {
-      "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
-      "url": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
       "source": "Dark Reading",
-      "publishedAt": "Mon, 18 May 2026 21:24:59 GMT",
+      "publishedAt": "Tue, 19 May 2026 19:49:53 GMT",
       "category": "ZERO DAY",
-      "summary": "Microsoft Exchange is getting owned via XSS and there's no patch yet. Classic Microsoft move—ship broken, patch never."
+      "summary": "Yet another Windows zero-day trilogy drops post-Patch Tuesday because apparently Microsoft's security is like a leaky dam — plug one hole, three more spring up. YellowKey, GreenPlasma, and MiniPlasma join the hall of shame."
     },
     {
-      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
-      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
-      "source": "EFF",
-      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
-      "category": "RIGHTS",
-      "summary": "Meta's internal docs reveal they planned to launch facial recognition for smart glasses during political chaos to avoid criticism. Because nothing says 'ethical tech' like surveillance timing."
-    },
-    {
-      "title": "Help EFF Solve an Issue That's Bigger than Creepy Ads",
-      "url": "https://www.eff.org/deeplinks/2026/05/online-tracking-isnt-just-unethical-its-dangerous",
-      "source": "EFF",
-      "publishedAt": "Wed, 13 May 2026 17:10:44 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF drops a guide on fighting digital surveillance abuses across the Americas. Because apparently we need instructions on why mass spying is bad."
-    },
-    {
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "url": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 19 May 2026 22:08:12 +0530",
-      "category": "ZERO DAY",
-      "summary": "Linux kernel flaw lets unprivileged users peek at root-only files, because even Torvalds' baby isn't immune to privilege escalation shenanigans. ModuleJail might fix this mess."
+      "title": "Clear your calendar, Drupal user: You have a critically urgent patch to install",
+      "url": "https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728",
+      "source": "The Register",
+      "publishedAt": "Tue, 19 May 2026 17:56:25 +0200",
+      "category": "BREACH",
+      "summary": "CISA's 'Private' GitHub repo was about as private as a Times Square billboard, complete with files helpfully named 'AWS-Workspace-Firefox-Passwords.csv' because subtlety is dead. America's top cyber defenders, everyone."
     },
     {
       "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
@@ -47,39 +31,55 @@
       "source": "The Hacker News",
       "publishedAt": "Tue, 19 May 2026 17:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "DirtyDecrypt PoC dropped for Linux kernel CVE-2026-31635 local privilege escalation. Because if you're going to own a box, might as well do it with style."
+      "summary": "DirtyDecrypt PoC is now in the wild for Linux kernel CVE-2026-31635, because nothing says 'Monday motivation' like fresh local privilege escalation exploits. Time to patch, penguins."
     },
     {
-      "title": "Anthropic Will Update Regulators on Mythos’ Cyber Vulnerability Findings",
-      "url": "https://www.pymnts.com/cybersecurity/2026/anthropic-will-update-regulators-mythos-cyber-vulnerability-findings/",
-      "source": "pymnts.com",
-      "publishedAt": "2026-05-18T14:18:08Z",
-      "category": "BREACH",
-      "summary": "Hackers demanded ransom from Grafana Labs to not release their already-open-source code. Galaxy brain criminal logic right there—extorting someone for public data."
-    },
-    {
-      "title": "Your 401(k) is the new identity theft target",
-      "url": "https://www.foxnews.com/tech/401k-new-identity-theft-target",
-      "source": "Fox News",
-      "publishedAt": "2026-05-17T11:05:42Z",
-      "category": "BREACH",
-      "summary": "ShinyHunters hit 7-Eleven for 600k+ Salesforce records and demanded ransom. Nothing says 'Big Gulp' like a data breach with your Slurpee."
-    },
-    {
-      "title": "Grafana Labs refuses ransom after hackers steal already-open-source code",
-      "url": "https://thenextweb.com/news/grafana-labs-codebase-breach-ransom-refused/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-18T16:49:08Z",
+      "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+      "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+      "source": "Konstantintkachuk.com",
+      "publishedAt": "2026-05-18T21:59:34Z",
       "category": "ZERO DAY",
-      "summary": "SEPPMail Secure E-Mail Gateway has critical RCE vulns that let attackers read arbitrary emails. Secure email gateway that's not secure—peak enterprise software right there."
+      "summary": "MiniPlasma zero-day hands out SYSTEM privileges on Windows 11 like candy at Halloween, with PoC included for maximum chaos. Chaotic Eclipse lives up to their name — respect the craft, fear the implications."
     },
     {
-      "title": "Linux kernel flaw opens root-only files to unprivileged users",
-      "url": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
-      "source": "The Register",
-      "publishedAt": "Mon, 18 May 2026 18:20:00 +0200",
+      "title": "TrendAI™ Zero Day Initiative Leads Industry Remediation at Pwn2Own Berlin",
+      "url": "https://www.prnewswire.com/news-releases/trendai-zero-day-initiative-leads-industry-remediation-at-pwn2own-berlin-302775266.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-18T21:21:00Z",
       "category": "BREACH",
-      "summary": "Shai-Hulud copycat worm infects npm packages because JavaScript developers never learn. The spice must flow, but maybe not through your package manager."
+      "summary": "One person with Claude AI just casually exfiltrated 150GB from the Mexican government, proving that AI democratizes pwning entire nations. The future is here and it bills monthly."
+    },
+    {
+      "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-05-17, (Mon, May 18th)",
+      "url": "https://isc.sans.edu/diary/32994",
+      "source": "Sans.edu",
+      "publishedAt": "2026-05-18T20:08:00Z",
+      "category": "BREACH",
+      "summary": "Hackers stole Grafana's already-open-source code then demanded ransom to not release it publicly — the technical equivalent of threatening to tell everyone your secrets that are already on Wikipedia. Grafana rightfully told them to pound sand."
+    },
+    {
+      "title": "Your Privacy Shouldn't Be A Corporate Decision",
+      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
+      "category": "RIGHTS",
+      "summary": "Microsoft actually took a step toward human rights accountability in tech infrastructure deals, setting a precedent that Google and Amazon are probably ignoring while counting their government contract money."
+    },
+    {
+      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
+      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
+      "source": "EFF",
+      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
+      "category": "RIGHTS",
+      "summary": "Meta planned to launch face recognition for smart glasses during 'dynamic political times' when civil society would be 'distracted' — because nothing says ethical tech like timing privacy violations with democratic chaos."
+    },
+    {
+      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-18T13:50:17Z",
+      "category": "BREACH",
+      "summary": "ShinyHunters hit 7-Eleven for 600,000+ Salesforce records because apparently Big Gulps aren't the only thing getting supersized at convenience stores. Thank you, come again (to check if your data was stolen)."
     }
   ]
 }
