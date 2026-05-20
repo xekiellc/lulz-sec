@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T14:36:09.133Z",
+  "last_updated": "2026-05-20T20:02:08.851Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,31 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA, the agency supposed to protect America's cyber infrastructure, leaked their own AWS GovCloud keys on GitHub like amateur hour. The irony is so thick you could encrypt it with their exposed credentials."
+      "summary": "CISA, the agency that's supposed to secure everyone else's infrastructure, leaked their own AWS GovCloud keys on GitHub like amateur hour scriptkiddies. The irony is so thick you could mine Bitcoin with it."
     },
     {
-      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
-      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
-      "source": "The Register",
-      "publishedAt": "Tue, 19 May 2026 23:56:18 +0200",
-      "category": "FOIA",
-      "summary": "London's finest made over 700,000 data requests to Big Tech last year, because apparently knocking on doors is so 20th century. FOIA strikes again, exposing the surveillance state's impressive appetite for your digital breadcrumbs."
-    },
-    {
-      "title": "Clear your calendar, Drupal user: You have a critically urgent patch to install",
-      "url": "https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728",
-      "source": "The Register",
-      "publishedAt": "Tue, 19 May 2026 17:56:25 +0200",
+      "title": "Show HN: Bypassing the AWS Lambda 4KB limit to run polyglot AI agents",
+      "url": "https://brewhubphl.com/engineering/parity-contracts-for-polyglot-llm-commerce-a-case-study",
+      "source": "Brewhubphl.com",
+      "publishedAt": "2026-05-19T17:50:01Z",
       "category": "BREACH",
-      "summary": "CISA strikes again with a GitHub repo containing files literally named 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'. It's like they wanted to get pwned with that level of OPSEC fail."
+      "summary": "GitHub got pwned by TeamPCP who exfiltrated 3,800+ internal repos after compromising an employee device. Even the house of open source isn't safe from good old-fashioned social engineering."
     },
     {
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 20 May 2026 16:00:00 +0530",
-      "category": "BREACH",
-      "summary": "GitHub got breached via compromised employee device, with TeamPCP exfiltrating 3,800+ internal repos. When the house of code gets its own code stolen, that's some next-level supply chain irony right there."
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-19T14:56:26Z",
+      "category": "ZERO DAY",
+      "summary": "Pwn2Own Berlin 2026 delivered 47 unique zero-days for $1.3 million in payouts, proving enterprise software is still made of digital swiss cheese. The white hats are eating well this season."
     },
     {
       "title": "Zscaler Partners with Global System Integrators to Launch Project AI-Guardian to Help Accelerate Enterprise AI Adoption",
@@ -39,47 +31,55 @@
       "source": "GlobeNewswire",
       "publishedAt": "2026-05-19T13:40:00Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft scrambles to patch YellowKey, a BitLocker bypass that makes disk encryption about as useful as a chocolate teapot. CVE-2026-45585 proves that even crypto can't save you from Microsoft's creative interpretation of security."
+      "summary": "DirtyDecrypt PoC drops for Linux kernel CVE-2026-31635, giving local privilege escalation to anyone who missed the memo about patching. Another day, another dirty kernel exploit with a catchy name."
     },
     {
-      "title": "Crook leaks 468k+ records, claims they pwned Portugal’s postal carrier",
-      "url": "https://www.theregister.com/cyber-crime/2026/05/19/468k-records-allegedly-stolen-from-portugals-postal-carrier/5242457",
-      "source": "Theregister.com",
-      "publishedAt": "2026-05-19T11:20:00Z",
-      "category": "WHITE HAT",
-      "summary": "Project Glasswing expands responsible disclosure beyond their walled garden, finally letting security researchers share findings with the world. About time the defender pool got deeper than a kiddie pool."
+      "title": "Infosecurity Europe",
+      "url": "https://www.darkreading.com/events/infosecurity-europe",
+      "source": "Dark Reading",
+      "publishedAt": "2026-06-02T13:30:00.000Z",
+      "category": "ZERO DAY",
+      "summary": "Critical command injection flaw in OT Robot OS lets unauthenticated attackers hijack industrial robots remotely. Because apparently we needed Skynet vulnerabilities in our manufacturing floors."
     },
     {
-      "title": "Grafana Labs refuses ransom after hackers steal already-open-source code",
-      "url": "https://thenextweb.com/news/grafana-labs-codebase-breach-ransom-refused/",
-      "source": "The Next Web",
-      "publishedAt": "2026-05-18T16:49:08Z",
-      "category": "BREACH",
-      "summary": "TeamPCP's supply chain rampage hits peak chaos with a compromised Checkmarx Jenkins plugin and self-spreading Mini Shai-Hulud worm. When your malware references Dune, you know the attackers have culture."
+      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
+      "source": "The Register",
+      "publishedAt": "Tue, 19 May 2026 23:56:18 +0200",
+      "category": "FOIA",
+      "summary": "London's finest made 700,000+ requests for Big Tech comms data last year, revealed through FOIA. The surveillance state is alive, well, and filing paperwork like bureaucratic vampires."
     },
     {
-      "title": "Grafana says hackers hit its GitHub environment, demand ransom to prevent codebase release — but it's refusing to pay",
-      "url": "https://www.techradar.com/pro/security/grafana-says-hackers-hit-its-github-environment-demand-ransom-to-prevent-codebase-release-but-its-refusing-to-pay",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-18T13:05:00Z",
-      "category": "WHITE HAT",
-      "summary": "Grafana Labs gets extorted over already-open-source code and tells hackers to pound sand. Sometimes the best defense against ransomware is just laughing at the absurdity of it all."
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a win for encrypted messaging in their latest digital rights newsletter. End-to-end encryption remains the last bastion against corporate and government voyeurs."
+    },
+    {
+      "title": "Your Privacy Shouldn't Be A Corporate Decision",
+      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
+      "category": "RIGHTS",
+      "summary": "Microsoft took baby steps toward human rights accountability in cloud services, setting a bar so low that Google and Amazon are practically underground. Progress measured in millimeters, not miles."
+    },
+    {
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns in 2022. Another social engineering artist gets collared by the party van."
     },
     {
       "title": "Key findings from the Verizon DBIR 2026: Slower vulnerability remediation meets faster exploitation",
       "url": "https://www.tenable.com/blog/key-findings-from-the-verizon-dbir-2026",
       "source": "Tenable.com",
       "publishedAt": "2026-05-19T13:17:00Z",
-      "category": "BREACH",
-      "summary": "Multiple US healthcare breaches hit millions because apparently patient privacy is just a suggestion. The HHS tracker keeps growing like a digital morgue of medical data disasters."
-    },
-    {
-      "title": "ABB CoreSense HM and CoreSense M10",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01",
-      "source": "Cisa.gov",
-      "publishedAt": "2026-05-19T12:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Verizon's 2026 DBIR reveals vuln exploitation is now the #1 attack vector while patching gets slower. It's like watching a slow-motion car crash where the brakes are made of bureaucracy."
+      "category": "WHITE HAT",
+      "summary": "Grafana Labs told ransomware goons to pound sand after they stole already-open-source code and demanded payment not to release it. Peak criminal genius: extorting someone with their own public GitHub repo."
     }
   ]
 }
