@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:56:23.290Z",
+  "last_updated": "2026-05-21T14:41:21.092Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,15 +7,31 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor literally left the keys to the digital kingdom sitting on GitHub like a drunk intern's personal diary. When the agency responsible for cybersecurity can't secure their own AWS creds, you know we're living in peak irony."
+      "summary": "CISA contractor casually left AWS GovCloud keys on public GitHub because apparently 'cybersecurity' doesn't apply to the cybersecurity agency itself. The irony is so thick you could patch vulnerabilities with it."
     },
     {
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
       "url": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
       "source": "Dark Reading",
       "publishedAt": "Wed, 20 May 2026 20:35:35 GMT",
       "category": "BREACH",
-      "summary": "GitHub got pwned by TeamPCP who made off with 4,000 internal repos like digital pirates raiding the mothership. The platform that hosts everyone's secrets couldn't keep their own locked down."
+      "summary": "GitHub got pwned by TeamPCP who stole 4K internal repos via a poisoned VS Code extension. When the house of code gets its own code stolen, you know we're living in peak timeline."
+    },
+    {
+      "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
+      "url": "https://www.theregister.com/security/2026/05/21/microsoft-open-sources-agentic-ai-safety-tools/5243822",
+      "source": "The Register",
+      "publishedAt": "Thu, 21 May 2026 12:30:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Cisco serves up another perfect 10 CVSS vulnerability in Secure Workload because 'secure' is apparently just marketing speak. Attackers can hop tenant boundaries like they're playing cybersecurity hopscotch."
+    },
+    {
+      "title": "When Identity is the Attack Path",
+      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 21 May 2026 16:00:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Microsoft Defender has two actively exploited vulns including a privilege escalation to SYSTEM. The irony of the defender needing defending writes itself."
     },
     {
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
@@ -23,23 +39,7 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 21 May 2026 09:57:01 +0530",
       "category": "ZERO DAY",
-      "summary": "A 9-year-old Linux kernel vuln finally crawled out of the digital basement to enable root command execution. Sometimes the best backdoors are the ones hiding in plain sight for nearly a decade."
-    },
-    {
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 20 May 2026 22:36:54 +0530",
-      "category": "ZERO DAY",
-      "summary": "Drupal's 'highly critical' PostgreSQL flaw opens the RCE floodgates with a CVSS 6.5 score. Because apparently content management systems and databases together create beautiful security disasters."
-    },
-    {
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-20T08:28:26Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft's BitLocker got bypassed by the 'YellowKey' flaw, proving once again that when Redmond says 'encrypted,' they mean 'temporarily inconvenienced.' Full-disk encryption becomes full-disk suggestion."
+      "summary": "A 9-year-old Linux kernel flaw finally surfaces, proving that some bugs age like fine wine—getting more dangerous with time. CVE-2026-46333 lets unprivileged users party with sensitive data."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -47,39 +47,39 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates an encrypted messaging victory in their newsletter, because apparently we still have to fight for the radical concept of private conversations. End-to-end encryption: not just for paranoids anymore."
+      "summary": "EFF celebrates a win for encrypted messaging while governments worldwide continue their eternal tantrum about not being able to read our DMs. End-to-end encryption: making authoritarians cry since forever."
     },
     {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "RIGHTS",
-      "summary": "Microsoft actually took a baby step toward human rights accountability while Google and Amazon continue their surveillance capitalism world tour. When Microsoft looks ethical by comparison, you know the bar is underground."
-    },
-    {
-      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
+      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
+      "url": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
       "source": "Dark Reading",
-      "publishedAt": "Wed, 20 May 2026 20:52:25 GMT",
+      "publishedAt": "Thu, 21 May 2026 14:00:00 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting digital surveillance abuses because apparently we need instruction manuals to remember that mass surveillance is bad. When basic human rights require how-to guides, democracy is debugging itself."
+      "summary": "EFF drops a guide on fighting digital surveillance because apparently we need step-by-step instructions to not normalize living in a panopticon. The Americas' surveillance state needs some serious pushback."
     },
     {
-      "title": "Ahmadinejad Is Still Bad for Iranians — and Still Great for Israel",
-      "url": "https://theintercept.com/2026/05/20/ahmadinejad-iran-israel-leader/",
-      "source": "The Intercept",
-      "publishedAt": "Wed, 20 May 2026 20:53:54 +0000",
+      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+      "url": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
+      "source": "The Register",
+      "publishedAt": "Wed, 20 May 2026 22:34:15 +0200",
+      "category": "BREACH",
+      "summary": "Zombie user accounts let hackers control city water systems because basic IT hygiene is apparently optional for critical infrastructure. Someone forgot to disable ex-employee access—rookie mistake with catastrophic potential."
+    },
+    {
+      "title": "Implement agentic AI in cybersecurity with Tenable Hexa AI: Reduce cyber risk at machine speed",
+      "url": "https://www.tenable.com/blog/implement-agentic-ai-in-cybersecurity-to-reduce-risk-tenable-hexa-ai",
+      "source": "Tenable.com",
+      "publishedAt": "2026-05-20T13:00:00Z",
+      "category": "BREACH",
+      "summary": "P2PInfect botnet turns misconfigured Kubernetes clusters into its personal zombie army via exposed Redis instances. Cloud-native malware for the containerized apocalypse—how delightfully modern."
+    },
+    {
+      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 21 May 2026 17:22:14 +0530",
       "category": "ZERO DAY",
-      "summary": "Critical OT robot vulnerability lets attackers play puppet master with industrial systems through command injection. Because nothing says 'secure critical infrastructure' like unauthenticated remote robot hijacking."
-    },
-    {
-      "title": "Open Records Laws Reveal ALPRs’ Sprawling Surveillance. Now States Want to Block What the Public Sees.",
-      "url": "https://www.activistpost.com/open-records-laws-reveal-alprs-sprawling-surveillance-now-states-want-to-block-what-the-public-sees/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-05-19T02:33:00Z",
-      "category": "FOIA",
-      "summary": "Casepoint launches AI-powered FOIA tools, which is either the future of government transparency or another way to automate the runaround. At least the robots will redact documents more efficiently than humans."
+      "summary": "Claude AI's sandbox had a real dangerous hole that got silently patched with zero public disclosure. Even the AI admits its own security was trash—at least it's honest about being vulnerable."
     }
   ]
 }
