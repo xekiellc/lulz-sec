@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T14:41:21.092Z",
+  "last_updated": "2026-05-21T19:43:04.400Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,15 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually left AWS GovCloud keys on public GitHub because apparently 'cybersecurity' doesn't apply to the cybersecurity agency itself. The irony is so thick you could patch vulnerabilities with it."
+      "summary": "CISA contractor accidentally turned GitHub into a government key dispensary, exposing AWS GovCloud credentials to anyone with a browser. The agency that's supposed to secure our infrastructure couldn't secure a public repository — peak irony achieved."
     },
     {
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
-      "url": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 20 May 2026 20:35:35 GMT",
+      "title": "DNC Autopsy of 2024 Loss Doesn’t Mention Gaza or Israel at all",
+      "url": "https://theintercept.com/2026/05/21/dnc-autopsy-democratsgaza-israel/",
+      "source": "The Intercept",
+      "publishedAt": "Thu, 21 May 2026 16:52:51 +0000",
       "category": "BREACH",
-      "summary": "GitHub got pwned by TeamPCP who stole 4K internal repos via a poisoned VS Code extension. When the house of code gets its own code stolen, you know we're living in peak timeline."
+      "summary": "GitHub got pwned and 4,000 internal repos walked out the door courtesy of TeamPCP. When the platform that hosts everyone's secrets gets its own secrets stolen, the circular firing squad of irony is complete."
+    },
+    {
+      "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
+      "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
+      "source": "The Register",
+      "publishedAt": "Thu, 21 May 2026 14:20:00 +0200",
+      "category": "WHITE HAT",
+      "summary": "HackerOne slashed bug bounty payouts by 75%, proving they've mastered the art of demotivating the very researchers keeping the internet from burning down. Nothing says 'we value security' like paying researchers in exposure bucks."
     },
     {
       "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
@@ -23,7 +31,7 @@
       "source": "The Register",
       "publishedAt": "Thu, 21 May 2026 12:30:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Cisco serves up another perfect 10 CVSS vulnerability in Secure Workload because 'secure' is apparently just marketing speak. Attackers can hop tenant boundaries like they're playing cybersecurity hopscotch."
+      "summary": "Cisco serves up another perfect 10 CVSS score with Secure Workload admin flaw that lets attackers hop tenant boundaries like they're playing corporate hopscotch. Switchzilla strikes again with APIs more permeable than a coffee filter."
     },
     {
       "title": "When Identity is the Attack Path",
@@ -31,55 +39,47 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 21 May 2026 16:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft Defender has two actively exploited vulns including a privilege escalation to SYSTEM. The irony of the defender needing defending writes itself."
+      "summary": "Microsoft Defender has two actively exploited vulns — a privilege escalation and DoS flaw that turn your security software into an attack vector. The irony of your antivirus becoming the virus is *chef's kiss* beautiful."
     },
     {
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 21 May 2026 09:57:01 +0530",
+      "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
+      "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
+      "source": "ZDNet",
+      "publishedAt": "2026-05-20T19:19:05Z",
       "category": "ZERO DAY",
-      "summary": "A 9-year-old Linux kernel flaw finally surfaces, proving that some bugs age like fine wine—getting more dangerous with time. CVE-2026-46333 lets unprivileged users party with sensitive data."
+      "summary": "Nine-year-old Linux kernel flaw finally crawls out of the shadows, enabling root command execution across major distros. Sometimes the best hiding spots are in plain sight, buried in code everyone trusts."
     },
     {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "title": "Your Privacy Shouldn't Be A Corporate Decision",
+      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
       "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a win for encrypted messaging while governments worldwide continue their eternal tantrum about not being able to read our DMs. End-to-end encryption: making authoritarians cry since forever."
+      "summary": "Microsoft took baby steps toward human rights accountability while Google and Amazon continue enabling authoritarian regimes with cloud infrastructure. EFF calls out the tech giants who profit from oppression while hiding behind terms of service."
     },
     {
-      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
-      "url": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
       "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 14:00:00 GMT",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops a guide on fighting digital surveillance because apparently we need step-by-step instructions to not normalize living in a panopticon. The Americas' surveillance state needs some serious pushback."
+      "summary": "EFF drops a new guide fighting digital surveillance abuses across the Americas, where accountability is optional and human rights violations are the feature, not the bug. Systematic oppression needs systematic resistance."
     },
     {
-      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
-      "url": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
-      "source": "The Register",
-      "publishedAt": "Wed, 20 May 2026 22:34:15 +0200",
-      "category": "BREACH",
-      "summary": "Zombie user accounts let hackers control city water systems because basic IT hygiene is apparently optional for critical infrastructure. Someone forgot to disable ex-employee access—rookie mistake with catastrophic potential."
-    },
-    {
-      "title": "Implement agentic AI in cybersecurity with Tenable Hexa AI: Reduce cyber risk at machine speed",
-      "url": "https://www.tenable.com/blog/implement-agentic-ai-in-cybersecurity-to-reduce-risk-tenable-hexa-ai",
-      "source": "Tenable.com",
-      "publishedAt": "2026-05-20T13:00:00Z",
-      "category": "BREACH",
-      "summary": "P2PInfect botnet turns misconfigured Kubernetes clusters into its personal zombie army via exposed Redis instances. Cloud-native malware for the containerized apocalypse—how delightfully modern."
-    },
-    {
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 21 May 2026 17:22:14 +0530",
+      "title": "Cyber resilience defines SME competitiveness",
+      "url": "https://www.techradar.com/pro/cyber-resilience-defines-sme-competitiveness",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-20T13:59:25Z",
       "category": "ZERO DAY",
-      "summary": "Claude AI's sandbox had a real dangerous hole that got silently patched with zero public disclosure. Even the AI admits its own security was trash—at least it's honest about being vulnerable."
+      "summary": "Microsoft patches YellowKey BitLocker bypass by neutering the FsTx Auto Recovery Utility — turns out your disk encryption was one utility away from being useless. Sometimes the best fix is just turning off the broken thing."
+    },
+    {
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "LEGENDS",
+      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns that made corporate security look like amateur hour. Another legend falls, but the techniques live on in the wild."
     }
   ]
 }
