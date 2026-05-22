@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T02:27:39.716Z",
+  "last_updated": "2026-05-22T08:49:12.051Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor left AWS GovCloud keys sprawled across GitHub like classified docs at Mar-a-Lago. When the cybersecurity agency can't secure its own shit, you know we're living in the best timeline."
-    },
-    {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
-      "category": "ZERO DAY",
-      "summary": "Google claims API key deletion is \"immediate\" but researcher finds 23-minute window of lulz. That's enough time to grab data, rack up bills, or order pizza on someone else's dime."
-    },
-    {
-      "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
-      "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
-      "source": "The Register",
-      "publishedAt": "Thu, 21 May 2026 14:20:00 +0200",
-      "category": "WHITE HAT",
-      "summary": "HackerOne slashes bug bounty payouts by 75% because apparently finding critical flaws should be a charity hobby. Way to incentivize the good guys, you absolute geniuses."
+      "summary": "CISA contractor left AWS GovCloud keys on GitHub like breadcrumbs for nation-state actors. The agency that's supposed to protect infrastructure just handed out the keys to the kingdom—again."
     },
     {
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
@@ -31,23 +15,23 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 21 May 2026 19:47:09 +0530",
       "category": "ZERO DAY",
-      "summary": "Cisco serves up another perfect 10 CVSS score with admin bypass flaw in Secure Workload. Nothing says \"enterprise security\" like letting attackers hop between tenant boundaries."
+      "summary": "Cisco patches a perfect 10.0 CVSS flaw in Secure Workload that lets unauthenticated attackers waltz right into sensitive data. When your 'secure' workload isn't."
     },
     {
-      "title": "When Identity is the Attack Path",
-      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 21 May 2026 16:00:00 +0530",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-05-21T07:49:48Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft's Defender is actively being exploited for privilege escalation and DoS attacks. The irony of security software becoming the attack vector never gets old."
+      "summary": "Microsoft's Defender actively exploited in the wild for privilege escalation and DoS. The irony of security software being weaponized against itself never gets old."
     },
     {
-      "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
-      "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
-      "source": "ZDNet",
-      "publishedAt": "2026-05-20T19:19:05Z",
-      "category": "ZERO DAY",
-      "summary": "Nine-year-old Linux kernel flaw finally surfaces, proving that sometimes the best bugs age like fine wine. Root execution on major distros, because why not?"
+      "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
+      "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
+      "source": "The Register",
+      "publishedAt": "Thu, 21 May 2026 14:20:00 +0200",
+      "category": "WHITE HAT",
+      "summary": "HackerOne slashes bug bounty payouts by 75% for critical flaws. Nothing says 'we value security researchers' like paying them in exposure and disappointment."
     },
     {
       "title": "Trump Mobile Hit With Fresh Humiliation",
@@ -55,31 +39,47 @@
       "source": "Daily Beast",
       "publishedAt": "2026-05-20T16:34:01Z",
       "category": "BREACH",
-      "summary": "GitHub loses 3,800 internal repos to poisoned VS Code extension because even developers fall for social engineering. TeamPCP probably having a good laugh right about now."
+      "summary": "GitHub confirms 3,800 internal repos stolen via poisoned VS Code extension. TeamPCP pwned the platform where everyone stores their code—meta irony at its finest."
     },
     {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "RIGHTS",
-      "summary": "Microsoft finally shows some human rights accountability while Google and Amazon continue enabling authoritarian surveillance. One tech giant grows a conscience, film at 11."
-    },
-    {
-      "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
-      "url": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
       "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 21:11:40 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops new guide on fighting back against normalized digital surveillance in the Americas. Because apparently we need instructions on why mass spying is bad."
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "category": "ZERO DAY",
+      "summary": "Google API keys remain exploitable for 23 minutes after 'deletion' despite claims of immediate revocation. Because apparently 'immediate' means something different in Mountain View."
     },
     {
-      "title": "Cyber resilience defines SME competitiveness",
-      "url": "https://www.techradar.com/pro/cyber-resilience-defines-sme-competitiveness",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-20T13:59:25Z",
+      "title": "Microsoft issues YellowKey mitigation, no patch yet",
+      "url": "https://securityaffairs.com/192449/hacking/microsoft-issues-yellowkey-mitigation-no-patch-yet.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-20T15:07:51Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft rolls out mitigations for YellowKey BitLocker bypass after researchers publicly dropped the exploit. Nothing motivates Redmond like public embarrassment."
+      "summary": "Nine-year-old Linux kernel privilege escalation flaw finally discovered. Sometimes the best hiding spot is right under everyone's nose for nearly a decade."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a win for end-to-end encryption against the eternal crusade of governments wanting to read everyone's love letters. Privacy advocates: 1, Surveillance state: Still trying."
+    },
+    {
+      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
+      "url": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 07:01:00 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF's new guide fights back against normalized digital surveillance abuses in the Americas. Because someone has to remind people that mass surveillance isn't supposed to be normal."
+    },
+    {
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 22 May 2026 11:06:18 +0530",
+      "category": "ZERO DAY",
+      "summary": "CISA adds exploited Langflow and Trend Micro flaws to KEV catalog. Another day, another batch of vulnerabilities being actively weaponized in the wild."
     }
   ]
 }
