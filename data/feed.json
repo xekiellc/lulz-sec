@@ -1,69 +1,21 @@
 {
-  "last_updated": "2026-05-22T14:15:35.141Z",
+  "last_updated": "2026-05-22T19:23:02.880Z",
   "articles": [
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally turned GitHub into their personal data dump, exposing AWS GovCloud keys and agency secrets. When the cybersecurity agency becomes the security incident, you know we're living in the best timeline."
+    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into their personal AWS credential buffet, exposing highly privileged GovCloud keys to anyone with functioning eyeballs. Because nothing says 'cybersecurity leadership' like leaving the keys to the kingdom in a public repo."
-    },
-    {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
-      "category": "ZERO DAY",
-      "summary": "Google's API keys stay active for 23 minutes after 'deletion' despite claims of immediate termination. That's enough time to order a pizza AND steal all your cloud data—multitasking at its finest."
-    },
-    {
-      "title": "Cisco used AI to write security incident reports, with mixed results",
-      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
-      "source": "The Register",
-      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
-      "category": "BREACH",
-      "summary": "Trump Mobile allegedly leaked user data to anyone capable of sending an HTTP request. The bar for accessing sensitive information has never been lower—not even a CAPTCHA required."
-    },
-    {
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 22 May 2026 17:25:24 +0530",
-      "category": "WHITE HAT",
-      "summary": "HackerOne slashes bug bounty payouts by 75%, proving that corporate gratitude for security research has the half-life of a mayfly. Critical vulns now worth pocket change—because who needs motivated researchers anyway?"
-    },
-    {
-      "title": "Local heterogeneity in Lassa fever serology in rural Nigeria: Implications for vaccine trial site selection",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014379",
-      "source": "Plos.org",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Cisco patches a perfect 10.0 CVSS flaw in Secure Workload that handed out data access like party favors. When your security product has maximum-severity bugs, irony officially flatlines."
-    },
-    {
-      "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
-      "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
-      "source": "Wired",
-      "publishedAt": "2026-05-21T09:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft patches two Defender zero-days already being exploited in the wild. The defender has become the defended—and it's losing badly."
-    },
-    {
-      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
-      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-20T16:54:07Z",
-      "category": "BREACH",
-      "summary": "TeamPCP executes unprecedented software supply chain poisoning campaign, because apparently regular hacking wasn't chaotic enough. They're not just breaking things—they're breaking the things that build other things."
-    },
-    {
-      "title": "Trump Mobile Hit With Fresh Humiliation",
-      "url": "https://www.thedailybeast.com/trump-mobile-hit-with-fresh-humiliation-over-data-breach-claims/",
-      "source": "Daily Beast",
-      "publishedAt": "2026-05-20T16:34:01Z",
-      "category": "BREACH",
-      "summary": "GitHub confirms 3,800 internal repositories stolen via malicious VS Code extension targeting their own employee. The irony of the world's largest code repository getting pwned through a poisoned coding tool is *chef's kiss* perfect."
+      "summary": "CISA's contractor left AWS GovCloud credentials on public GitHub like leaving your house keys under a doormat labeled 'SECRET KEYS HERE.' The irony is so thick you could cut it with a compromised certificate."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -71,15 +23,63 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a rare win for end-to-end encryption, because in 2026 keeping your conversations private apparently counts as a victory. Digital rights advocacy: where the bar is underground and we're still limbo dancing."
+      "summary": "EFF celebrates another win for end-to-end encryption, because apparently we still need to explain why secret messages should actually be secret. Revolutionary concept, truly."
     },
     {
-      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
-      "url": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
       "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 07:01:00 GMT",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
       "category": "RIGHTS",
-      "summary": "EFF releases guide to fight digital surveillance normalization across the Americas, where human rights violations have become as routine as morning coffee. Time to make Big Brother uncomfortable again."
+      "summary": "EFF drops a new guide on fighting digital surveillance abuses because 'just accept the panopticon' isn't a viable human rights strategy. Imagine that."
+    },
+    {
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "category": "ZERO DAY",
+      "summary": "Google's API keys stay active for 23 minutes after 'deletion' like that friend who says they're leaving the party but keeps talking at the door. Plenty of time for mayhem."
+    },
+    {
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "source": "The Register",
+      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
+      "category": "BREACH",
+      "summary": "Trump Mobile website leaked customer data to anyone with basic HTTP skills. The only thing more predictable than this breach is the complete lack of surprise from anyone who's been paying attention."
+    },
+    {
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 22 May 2026 17:08:12 +0530",
+      "category": "BREACH",
+      "summary": "Megalodon attack hit 5,561 GitHub repos with malicious CI/CD workflows in six hours. When your automated security becomes automated insecurity, that's what we call 'efficiency.'"
+    },
+    {
+      "title": "APT and financial attacks on industrial organizations in Q1 2026",
+      "url": "https://ics-cert.kaspersky.com/publications/reports/2026/05/21/apt-and-financial-attacks-on-industrial-organizations-in-q1-2026/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
+      "source": "Kaspersky.com",
+      "publishedAt": "2026-05-21T11:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Cisco Secure Workload drops a max-severity flaw that hands out Site Admin privileges like candy. Nothing says 'secure workload' like unauthorized privilege escalation."
+    },
+    {
+      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
+      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-20T16:54:07Z",
+      "category": "BREACH",
+      "summary": "TeamPCP is poisoning open source code at unprecedented scale, because apparently corrupting the digital commons is their full-time job. Supply chain attacks are the new black."
+    },
+    {
+      "title": "Re: Linux kernel: Dirty Frag variants — fix merged into netdev",
+      "url": "https://seclists.org/oss-sec/2026/q2/649",
+      "source": "Seclists.org",
+      "publishedAt": "2026-05-21T18:28:10Z",
+      "category": "BREACH",
+      "summary": "GitHub lost 3,800 internal repos to poisoned VS Code extension, proving even the code repository giant isn't immune to social engineering. Trust, but verify your dev tools, folks."
     }
   ]
 }
