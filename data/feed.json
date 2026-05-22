@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T08:49:12.051Z",
+  "last_updated": "2026-05-22T14:15:35.141Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,39 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor left AWS GovCloud keys on GitHub like breadcrumbs for nation-state actors. The agency that's supposed to protect infrastructure just handed out the keys to the kingdom—again."
-    },
-    {
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 21 May 2026 19:47:09 +0530",
-      "category": "ZERO DAY",
-      "summary": "Cisco patches a perfect 10.0 CVSS flaw in Secure Workload that lets unauthenticated attackers waltz right into sensitive data. When your 'secure' workload isn't."
-    },
-    {
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-05-21T07:49:48Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft's Defender actively exploited in the wild for privilege escalation and DoS. The irony of security software being weaponized against itself never gets old."
-    },
-    {
-      "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
-      "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
-      "source": "The Register",
-      "publishedAt": "Thu, 21 May 2026 14:20:00 +0200",
-      "category": "WHITE HAT",
-      "summary": "HackerOne slashes bug bounty payouts by 75% for critical flaws. Nothing says 'we value security researchers' like paying them in exposure and disappointment."
-    },
-    {
-      "title": "Trump Mobile Hit With Fresh Humiliation",
-      "url": "https://www.thedailybeast.com/trump-mobile-hit-with-fresh-humiliation-over-data-breach-claims/",
-      "source": "Daily Beast",
-      "publishedAt": "2026-05-20T16:34:01Z",
-      "category": "BREACH",
-      "summary": "GitHub confirms 3,800 internal repos stolen via poisoned VS Code extension. TeamPCP pwned the platform where everyone stores their code—meta irony at its finest."
+      "summary": "CISA contractor accidentally turned GitHub into their personal AWS credential buffet, exposing highly privileged GovCloud keys to anyone with functioning eyeballs. Because nothing says 'cybersecurity leadership' like leaving the keys to the kingdom in a public repo."
     },
     {
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
@@ -47,15 +15,55 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "Google API keys remain exploitable for 23 minutes after 'deletion' despite claims of immediate revocation. Because apparently 'immediate' means something different in Mountain View."
+      "summary": "Google's API keys stay active for 23 minutes after 'deletion' despite claims of immediate termination. That's enough time to order a pizza AND steal all your cloud data—multitasking at its finest."
     },
     {
-      "title": "Microsoft issues YellowKey mitigation, no patch yet",
-      "url": "https://securityaffairs.com/192449/hacking/microsoft-issues-yellowkey-mitigation-no-patch-yet.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-20T15:07:51Z",
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "source": "The Register",
+      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
+      "category": "BREACH",
+      "summary": "Trump Mobile allegedly leaked user data to anyone capable of sending an HTTP request. The bar for accessing sensitive information has never been lower—not even a CAPTCHA required."
+    },
+    {
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 22 May 2026 17:25:24 +0530",
+      "category": "WHITE HAT",
+      "summary": "HackerOne slashes bug bounty payouts by 75%, proving that corporate gratitude for security research has the half-life of a mayfly. Critical vulns now worth pocket change—because who needs motivated researchers anyway?"
+    },
+    {
+      "title": "Local heterogeneity in Lassa fever serology in rural Nigeria: Implications for vaccine trial site selection",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014379",
+      "source": "Plos.org",
+      "publishedAt": "2026-05-21T14:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Nine-year-old Linux kernel privilege escalation flaw finally discovered. Sometimes the best hiding spot is right under everyone's nose for nearly a decade."
+      "summary": "Cisco patches a perfect 10.0 CVSS flaw in Secure Workload that handed out data access like party favors. When your security product has maximum-severity bugs, irony officially flatlines."
+    },
+    {
+      "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
+      "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
+      "source": "Wired",
+      "publishedAt": "2026-05-21T09:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft patches two Defender zero-days already being exploited in the wild. The defender has become the defended—and it's losing badly."
+    },
+    {
+      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
+      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-20T16:54:07Z",
+      "category": "BREACH",
+      "summary": "TeamPCP executes unprecedented software supply chain poisoning campaign, because apparently regular hacking wasn't chaotic enough. They're not just breaking things—they're breaking the things that build other things."
+    },
+    {
+      "title": "Trump Mobile Hit With Fresh Humiliation",
+      "url": "https://www.thedailybeast.com/trump-mobile-hit-with-fresh-humiliation-over-data-breach-claims/",
+      "source": "Daily Beast",
+      "publishedAt": "2026-05-20T16:34:01Z",
+      "category": "BREACH",
+      "summary": "GitHub confirms 3,800 internal repositories stolen via malicious VS Code extension targeting their own employee. The irony of the world's largest code repository getting pwned through a poisoned coding tool is *chef's kiss* perfect."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -63,23 +71,15 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a win for end-to-end encryption against the eternal crusade of governments wanting to read everyone's love letters. Privacy advocates: 1, Surveillance state: Still trying."
+      "summary": "EFF celebrates a rare win for end-to-end encryption, because in 2026 keeping your conversations private apparently counts as a victory. Digital rights advocacy: where the bar is underground and we're still limbo dancing."
     },
     {
-      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
+      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
       "url": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
       "source": "Dark Reading",
       "publishedAt": "Fri, 22 May 2026 07:01:00 GMT",
       "category": "RIGHTS",
-      "summary": "EFF's new guide fights back against normalized digital surveillance abuses in the Americas. Because someone has to remind people that mass surveillance isn't supposed to be normal."
-    },
-    {
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 22 May 2026 11:06:18 +0530",
-      "category": "ZERO DAY",
-      "summary": "CISA adds exploited Langflow and Trend Micro flaws to KEV catalog. Another day, another batch of vulnerabilities being actively weaponized in the wild."
+      "summary": "EFF releases guide to fight digital surveillance normalization across the Americas, where human rights violations have become as routine as morning coffee. Time to make Big Brother uncomfortable again."
     }
   ]
 }
