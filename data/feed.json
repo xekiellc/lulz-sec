@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T19:43:04.400Z",
+  "last_updated": "2026-05-22T02:27:39.716Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,15 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into a government key dispensary, exposing AWS GovCloud credentials to anyone with a browser. The agency that's supposed to secure our infrastructure couldn't secure a public repository — peak irony achieved."
+      "summary": "CISA contractor left AWS GovCloud keys sprawled across GitHub like classified docs at Mar-a-Lago. When the cybersecurity agency can't secure its own shit, you know we're living in the best timeline."
     },
     {
-      "title": "DNC Autopsy of 2024 Loss Doesn’t Mention Gaza or Israel at all",
-      "url": "https://theintercept.com/2026/05/21/dnc-autopsy-democratsgaza-israel/",
-      "source": "The Intercept",
-      "publishedAt": "Thu, 21 May 2026 16:52:51 +0000",
-      "category": "BREACH",
-      "summary": "GitHub got pwned and 4,000 internal repos walked out the door courtesy of TeamPCP. When the platform that hosts everyone's secrets gets its own secrets stolen, the circular firing squad of irony is complete."
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "category": "ZERO DAY",
+      "summary": "Google claims API key deletion is \"immediate\" but researcher finds 23-minute window of lulz. That's enough time to grab data, rack up bills, or order pizza on someone else's dime."
     },
     {
       "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
@@ -23,15 +23,15 @@
       "source": "The Register",
       "publishedAt": "Thu, 21 May 2026 14:20:00 +0200",
       "category": "WHITE HAT",
-      "summary": "HackerOne slashed bug bounty payouts by 75%, proving they've mastered the art of demotivating the very researchers keeping the internet from burning down. Nothing says 'we value security' like paying researchers in exposure bucks."
+      "summary": "HackerOne slashes bug bounty payouts by 75% because apparently finding critical flaws should be a charity hobby. Way to incentivize the good guys, you absolute geniuses."
     },
     {
-      "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
-      "url": "https://www.theregister.com/security/2026/05/21/microsoft-open-sources-agentic-ai-safety-tools/5243822",
-      "source": "The Register",
-      "publishedAt": "Thu, 21 May 2026 12:30:00 +0200",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 21 May 2026 19:47:09 +0530",
       "category": "ZERO DAY",
-      "summary": "Cisco serves up another perfect 10 CVSS score with Secure Workload admin flaw that lets attackers hop tenant boundaries like they're playing corporate hopscotch. Switchzilla strikes again with APIs more permeable than a coffee filter."
+      "summary": "Cisco serves up another perfect 10 CVSS score with admin bypass flaw in Secure Workload. Nothing says \"enterprise security\" like letting attackers hop between tenant boundaries."
     },
     {
       "title": "When Identity is the Attack Path",
@@ -39,7 +39,7 @@
       "source": "The Hacker News",
       "publishedAt": "Thu, 21 May 2026 16:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft Defender has two actively exploited vulns — a privilege escalation and DoS flaw that turn your security software into an attack vector. The irony of your antivirus becoming the virus is *chef's kiss* beautiful."
+      "summary": "Microsoft's Defender is actively being exploited for privilege escalation and DoS attacks. The irony of security software becoming the attack vector never gets old."
     },
     {
       "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
@@ -47,7 +47,15 @@
       "source": "ZDNet",
       "publishedAt": "2026-05-20T19:19:05Z",
       "category": "ZERO DAY",
-      "summary": "Nine-year-old Linux kernel flaw finally crawls out of the shadows, enabling root command execution across major distros. Sometimes the best hiding spots are in plain sight, buried in code everyone trusts."
+      "summary": "Nine-year-old Linux kernel flaw finally surfaces, proving that sometimes the best bugs age like fine wine. Root execution on major distros, because why not?"
+    },
+    {
+      "title": "Trump Mobile Hit With Fresh Humiliation",
+      "url": "https://www.thedailybeast.com/trump-mobile-hit-with-fresh-humiliation-over-data-breach-claims/",
+      "source": "Daily Beast",
+      "publishedAt": "2026-05-20T16:34:01Z",
+      "category": "BREACH",
+      "summary": "GitHub loses 3,800 internal repos to poisoned VS Code extension because even developers fall for social engineering. TeamPCP probably having a good laugh right about now."
     },
     {
       "title": "Your Privacy Shouldn't Be A Corporate Decision",
@@ -55,15 +63,15 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
       "category": "RIGHTS",
-      "summary": "Microsoft took baby steps toward human rights accountability while Google and Amazon continue enabling authoritarian regimes with cloud infrastructure. EFF calls out the tech giants who profit from oppression while hiding behind terms of service."
+      "summary": "Microsoft finally shows some human rights accountability while Google and Amazon continue enabling authoritarian surveillance. One tech giant grows a conscience, film at 11."
     },
     {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
+      "url": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
       "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "publishedAt": "Thu, 21 May 2026 21:11:40 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops a new guide fighting digital surveillance abuses across the Americas, where accountability is optional and human rights violations are the feature, not the bug. Systematic oppression needs systematic resistance."
+      "summary": "EFF drops new guide on fighting back against normalized digital surveillance in the Americas. Because apparently we need instructions on why mass spying is bad."
     },
     {
       "title": "Cyber resilience defines SME competitiveness",
@@ -71,15 +79,7 @@
       "source": "TechRadar",
       "publishedAt": "2026-05-20T13:59:25Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches YellowKey BitLocker bypass by neutering the FsTx Auto Recovery Utility — turns out your disk encryption was one utility away from being useless. Sometimes the best fix is just turning off the broken thing."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "LEGENDS",
-      "summary": "Scattered Spider's 'Tylerb' pleads guilty to wire fraud and identity theft after SMS phishing campaigns that made corporate security look like amateur hour. Another legend falls, but the techniques live on in the wild."
+      "summary": "Microsoft rolls out mitigations for YellowKey BitLocker bypass after researchers publicly dropped the exploit. Nothing motivates Redmond like public embarrassment."
     }
   ]
 }
