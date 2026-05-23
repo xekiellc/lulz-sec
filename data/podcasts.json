@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T10:50:47.748Z",
+  "last_updated": "2026-05-23T09:52:33.712Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev fought the CFAA just like our fallen hero Aaron Swartz - respect to all who battle unjust laws."
+      "editorial_note": "Weev's battle against the CFAA continues - because sometimes the system needs a good trolling to show its flaws."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "The legendary weev vs the Computer Fraud and Abuse Act - essential listening for anyone who gives a damn about digital freedom."
+      "editorial_note": "The origin story of weev vs the machine - mandatory listening for anyone who thinks the CFAA isn't completely broken."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor shows how nation-states really party - sophisticated malware analysis for the technically curious."
+      "editorial_note": "APT-10's LODEINFO backdoor shows how nation-states are leveling up their malware game against critical infrastructure."
     },
     {
       "type": "youtube",
