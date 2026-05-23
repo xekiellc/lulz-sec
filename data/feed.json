@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T19:23:02.880Z",
+  "last_updated": "2026-05-23T02:03:24.837Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into their personal data dump, exposing AWS GovCloud keys and agency secrets. When the cybersecurity agency becomes the security incident, you know we're living in the best timeline."
+      "summary": "CISA, the agency that's supposed to protect everyone else's secrets, just face-planted by letting a contractor dump AWS GovCloud keys on GitHub like it's a goddamn yard sale. Congress is rightfully losing their minds over this beautiful irony."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,7 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA's contractor left AWS GovCloud credentials on public GitHub like leaving your house keys under a doormat labeled 'SECRET KEYS HERE.' The irony is so thick you could cut it with a compromised certificate."
+      "summary": "The cybersecurity watchdog left the henhouse door wide open - a CISA contractor published highly privileged AWS credentials on public GitHub for any script kiddie to stumble across. Peak operational security right there."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates another win for end-to-end encryption, because apparently we still need to explain why secret messages should actually be secret. Revolutionary concept, truly."
+      "summary": "EFF celebrates a rare win for end-to-end encryption, that magical thing that turns your messages into unreadable gibberish for everyone except the person you're actually talking to. Revolutionary concept, apparently."
     },
     {
       "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
@@ -31,7 +31,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting digital surveillance abuses because 'just accept the panopticon' isn't a viable human rights strategy. Imagine that."
+      "summary": "EFF drops a new guide on fighting back against the surveillance state because apparently we need step-by-step instructions to remember that mass spying is bad. The systematic human rights violations won't fix themselves."
     },
     {
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
@@ -39,7 +39,7 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "Google's API keys stay active for 23 minutes after 'deletion' like that friend who says they're leaving the party but keeps talking at the door. Plenty of time for mayhem."
+      "summary": "Google's API keys have a fun 23-minute zombie window after 'deletion' where they're still perfectly functional - because immediate deletion is apparently more of a suggestion than a feature. Classic cloud provider move."
     },
     {
       "title": "Cisco used AI to write security incident reports, with mixed results",
@@ -47,7 +47,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
       "category": "BREACH",
-      "summary": "Trump Mobile website leaked customer data to anyone with basic HTTP skills. The only thing more predictable than this breach is the complete lack of surprise from anyone who's been paying attention."
+      "summary": "Trump Mobile's website was hemorrhaging customer data to anyone who could craft an HTTP request, which is basically the digital equivalent of leaving your diary on a park bench. MAGA-level security right there."
     },
     {
       "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
@@ -55,15 +55,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 22 May 2026 17:08:12 +0530",
       "category": "BREACH",
-      "summary": "Megalodon attack hit 5,561 GitHub repos with malicious CI/CD workflows in six hours. When your automated security becomes automated insecurity, that's what we call 'efficiency.'"
+      "summary": "The Megalodon campaign auto-poisoned over 5,500 GitHub repos in six hours using throwaway accounts and CI/CD workflows. It's like supply chain attacks met industrial automation and had a very productive baby."
     },
     {
-      "title": "APT and financial attacks on industrial organizations in Q1 2026",
-      "url": "https://ics-cert.kaspersky.com/publications/reports/2026/05/21/apt-and-financial-attacks-on-industrial-organizations-in-q1-2026/?utm_source=ics-cert.kaspersky.com&utm_mediumrss&utm_campaignmain",
-      "source": "Kaspersky.com",
-      "publishedAt": "2026-05-21T11:00:00Z",
+      "title": "SailPoint Announces New Integration with the Claude Compliance API to Provide Enterprise-Grade Identity Security for AI Platforms",
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299619/0/en/SailPoint-Announces-New-Integration-with-the-Claude-Compliance-API-to-Provide-Enterprise-Grade-Identity-Security-for-AI-Platforms.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-21T17:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Cisco Secure Workload drops a max-severity flaw that hands out Site Admin privileges like candy. Nothing says 'secure workload' like unauthorized privilege escalation."
+      "summary": "Microsoft's BitLocker can apparently be bypassed with a USB key in what a security researcher calls an intentional backdoor. Because why build proper encryption when you can leave a secret key under the digital doormat?"
     },
     {
       "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
@@ -71,7 +71,7 @@
       "source": "Decrypt",
       "publishedAt": "2026-05-20T16:54:07Z",
       "category": "BREACH",
-      "summary": "TeamPCP is poisoning open source code at unprecedented scale, because apparently corrupting the digital commons is their full-time job. Supply chain attacks are the new black."
+      "summary": "TeamPCP is poisoning open source code at unprecedented scale, turning GitHub into their personal malware distribution network. Supply chain attacks are having their main character moment."
     },
     {
       "title": "Re: Linux kernel: Dirty Frag variants — fix merged into netdev",
@@ -79,7 +79,7 @@
       "source": "Seclists.org",
       "publishedAt": "2026-05-21T18:28:10Z",
       "category": "BREACH",
-      "summary": "GitHub lost 3,800 internal repos to poisoned VS Code extension, proving even the code repository giant isn't immune to social engineering. Trust, but verify your dev tools, folks."
+      "summary": "GitHub got absolutely owned through a poisoned VS Code extension, losing 3,800 internal repos to TeamPCP hackers. The irony of the world's largest code repository getting pwned through malicious code is *chef's kiss* perfect."
     }
   ]
 }
