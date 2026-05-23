@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T02:03:24.837Z",
+  "last_updated": "2026-05-23T08:06:20.662Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA, the agency that's supposed to protect everyone else's secrets, just face-planted by letting a contractor dump AWS GovCloud keys on GitHub like it's a goddamn yard sale. Congress is rightfully losing their minds over this beautiful irony."
+      "summary": "CISA contractor literally published AWS GovCloud keys on GitHub like it's a goddamn recipe blog. Lawmakers are rightfully losing their minds over the cybersecurity agency's own cybersecurity face-plant."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,31 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "The cybersecurity watchdog left the henhouse door wide open - a CISA contractor published highly privileged AWS credentials on public GitHub for any script kiddie to stumble across. Peak operational security right there."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates a rare win for end-to-end encryption, that magical thing that turns your messages into unreadable gibberish for everyone except the person you're actually talking to. Revolutionary concept, apparently."
-    },
-    {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting back against the surveillance state because apparently we need step-by-step instructions to remember that mass spying is bad. The systematic human rights violations won't fix themselves."
-    },
-    {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
-      "category": "ZERO DAY",
-      "summary": "Google's API keys have a fun 23-minute zombie window after 'deletion' where they're still perfectly functional - because immediate deletion is apparently more of a suggestion than a feature. Classic cloud provider move."
+      "summary": "The same CISA contractor exposed highly privileged AWS GovCloud credentials and internal systems on public GitHub. When the cybersecurity watchdog becomes the security disaster, you know we're living in peak irony."
     },
     {
       "title": "Cisco used AI to write security incident reports, with mixed results",
@@ -47,15 +23,31 @@
       "source": "The Register",
       "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
       "category": "BREACH",
-      "summary": "Trump Mobile's website was hemorrhaging customer data to anyone who could craft an HTTP request, which is basically the digital equivalent of leaving your diary on a park bench. MAGA-level security right there."
+      "summary": "Trump Mobile website allegedly leaked thousands of customers' data to anyone capable of sending an HTTP request. The \"law and order\" candidate's tech team apparently skipped the \"secure your endpoints\" lecture."
     },
     {
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
       "source": "The Hacker News",
-      "publishedAt": "Fri, 22 May 2026 17:08:12 +0530",
+      "publishedAt": "Sat, 23 May 2026 12:53:48 +0530",
+      "category": "ZERO DAY",
+      "summary": "CVE-2026-48172 in LiteSpeed cPanel Plugin scores a perfect 10.0 CVSS and lets attackers run arbitrary scripts as root. When your vulnerability gets a perfect score, it's not something to celebrate."
+    },
+    {
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 22 May 2026 23:05:02 +0530",
+      "category": "ZERO DAY",
+      "summary": "Drupal Core SQL injection bug CVE-2026-9082 gets the CISA KEV treatment after active exploitation. Another day, another CMS proving that user input is basically digital poison."
+    },
+    {
+      "title": "TechD Cybersecurity Launches TECHD ONE: AI-Native Unified Cybersecurity Platform",
+      "url": "https://www.aninews.in/news/business/techd-cybersecurity-launches-techd-one-ai-native-unified-cybersecurity-platform20260522105327",
+      "source": "ANI News",
+      "publishedAt": "2026-05-22T06:16:29Z",
       "category": "BREACH",
-      "summary": "The Megalodon campaign auto-poisoned over 5,500 GitHub repos in six hours using throwaway accounts and CI/CD workflows. It's like supply chain attacks met industrial automation and had a very productive baby."
+      "summary": "Megalodon campaign hit 5,561 GitHub repos with malicious CI/CD workflows in six hours using bot accounts. It's like watching someone speedrun the destruction of open source trust."
     },
     {
       "title": "SailPoint Announces New Integration with the Claude Compliance API to Provide Enterprise-Grade Identity Security for AI Platforms",
@@ -63,7 +55,7 @@
       "source": "GlobeNewswire",
       "publishedAt": "2026-05-21T17:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Microsoft's BitLocker can apparently be bypassed with a USB key in what a security researcher calls an intentional backdoor. Because why build proper encryption when you can leave a secret key under the digital doormat?"
+      "summary": "Critical Windows 11 BitLocker flaw exploitable with a USB key has researchers claiming Microsoft intentionally built a backdoor. Either incompetence or malice - neither option is comforting from Redmond."
     },
     {
       "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
@@ -71,15 +63,23 @@
       "source": "Decrypt",
       "publishedAt": "2026-05-20T16:54:07Z",
       "category": "BREACH",
-      "summary": "TeamPCP is poisoning open source code at unprecedented scale, turning GitHub into their personal malware distribution network. Supply chain attacks are having their main character moment."
+      "summary": "TeamPCP gang is poisoning open source code at unprecedented scale, hitting hundreds of organizations. The supply chain is more toxic than a Twitter reply thread right now."
     },
     {
-      "title": "Re: Linux kernel: Dirty Frag variants — fix merged into netdev",
-      "url": "https://seclists.org/oss-sec/2026/q2/649",
-      "source": "Seclists.org",
-      "publishedAt": "2026-05-21T18:28:10Z",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-22T05:47:33Z",
       "category": "BREACH",
-      "summary": "GitHub got absolutely owned through a poisoned VS Code extension, losing 3,800 internal repos to TeamPCP hackers. The irony of the world's largest code repository getting pwned through malicious code is *chef's kiss* perfect."
+      "summary": "GitHub confirms 3,800 internal repos stolen after employee installed malicious VS Code extension from TeamPCP. When even GitHub's own devs get pwned by supply chain attacks, nobody is safe."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a win for encrypted messaging as end-to-end encryption continues protecting our digital conversations from surveillance. Sometimes the good guys actually win one."
     }
   ]
 }
