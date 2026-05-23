@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T13:00:00.818Z",
+  "last_updated": "2026-05-23T18:55:54.453Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys on GitHub like it's their personal diary. Even the cybersecurity agency can't secure their own keys—chef's kiss irony."
+      "summary": "CISA contractor accidentally turned GitHub into a government secrets buffet, exposing AWS GovCloud keys and internal systems. When the cybersecurity agency can't secure its own contractors, you know we're living in the best timeline."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,7 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA's contractor turned GitHub into a government credential buffet, serving up AWS keys to anyone with internet access. Peak incompetence from the agency that's supposed to protect us all."
+      "summary": "CISA contractor publicly hosted AWS GovCloud credentials on GitHub like it's a recipe blog. The agency responsible for national cybersecurity just served up privileged access keys with a side of institutional incompetence."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a rare victory for encrypted messaging while the surveillance state weeps into their backdoor proposals. Your texts can stay secret—for now."
+      "summary": "EFF celebrates another win for end-to-end encryption, the digital equivalent of whispering secrets that actually stay secret. In a world where privacy is treated like a luxury good, every encrypted message is an act of rebellion."
     },
     {
       "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
@@ -31,47 +31,15 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops a survival guide for the digital panopticon, because apparently we need instructions on how not to normalize being watched 24/7. Dystopia with a user manual."
+      "summary": "EFF drops a new guide on fighting surveillance abuses because apparently we need instruction manuals for basic human rights now. When digital surveillance becomes normalized, resistance becomes a civic duty."
     },
     {
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "AI discovers 10,000 critical vulnerabilities in widely-used software, proving robots are better at breaking our code than we are at writing it. The future is automated chaos."
-    },
-    {
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 23 May 2026 12:53:48 +0530",
-      "category": "ZERO DAY",
-      "summary": "LiteSpeed cPanel plugin scores a perfect 10.0 CVSS with root privilege escalation—like handing attackers the master key to your digital kingdom. Maximum severity, maximum oof."
-    },
-    {
-      "title": "TechD Cybersecurity Launches TECHD ONE: AI-Native Unified Cybersecurity Platform",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/techd-cybersecurity-launches-techd-one-ai-native-unified-cybersecurity-platform/article71010032.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-22T11:14:21Z",
-      "category": "BREACH",
-      "summary": "Operation Saffron dismantles a criminal VPN used by 25 ransomware gangs, because apparently even cybercriminals need their privacy tools. Irony levels: stratospheric."
-    },
-    {
-      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
-      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-20T16:54:07Z",
-      "category": "BREACH",
-      "summary": "TeamPCP poisoning open source code at industrial scale, turning GitHub into their personal malware distribution network. Supply chain attacks are the new black."
-    },
-    {
-      "title": "Update Chrome now: Critical bugs could let attackers run code",
-      "url": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
-      "source": "Malwarebytes.com",
-      "publishedAt": "2026-05-22T12:10:36Z",
-      "category": "BREACH",
-      "summary": "GitHub loses 3,800 internal repos to malicious VS Code extension, proving even the code repository giants can't keep their own code safe. Meta-breach achievement unlocked."
+      "summary": "Google's 'instant' API key deletion is about as instant as a Windows update—researchers found keys stay active for 23 minutes after 'deletion.' Cloud providers lying about security features is basically a Tuesday at this point."
     },
     {
       "title": "Cisco used AI to write security incident reports, with mixed results",
@@ -79,7 +47,39 @@
       "source": "The Register",
       "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
       "category": "BREACH",
-      "summary": "Trump Mobile website leaked customer data via basic HTTP requests—fitting end for a platform that probably thought security was just another liberal conspiracy. MAGA meets OWASP Top 10."
+      "summary": "Trump Mobile website was hemorrhaging customer data to anyone who could craft an HTTP request. The same crowd that screams about election security can't secure a basic web form—poetry in motion."
+    },
+    {
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Claude AI discovered 10,000+ critical vulnerabilities in widely-used software within a month. When AI becomes better at finding bugs than human security teams, it's either revolution or unemployment—possibly both."
+    },
+    {
+      "title": "Microsoft confirms two major Defender security issues — so update now or face possible attack",
+      "url": "https://www.techradar.com/pro/security/microsoft-confirms-two-major-defender-security-issues-so-update-now-or-face-possible-attack",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-22T17:05:00Z",
+      "category": "ZERO DAY",
+      "summary": "LiteSpeed cPanel plugin vulnerability scores a perfect 10.0 CVSS and gets exploited in the wild for root access. Maximum severity, maximum chaos, maximum 'told you so' energy from every security researcher who saw this coming."
+    },
+    {
+      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
+      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-20T16:54:07Z",
+      "category": "BREACH",
+      "summary": "TeamPCP hacker group is poisoning open source code at industrial scale, turning trusted repositories into malware distribution networks. Supply chain attacks are the new normal, and trust is officially a deprecated concept."
+    },
+    {
+      "title": "Update Chrome now: Critical bugs could let attackers run code",
+      "url": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
+      "source": "Malwarebytes.com",
+      "publishedAt": "2026-05-22T12:10:36Z",
+      "category": "BREACH",
+      "summary": "GitHub confirms 3,800 internal repos stolen via poisoned VS Code extension, proving even the house of code isn't safe from social engineering. TeamPCP just turned Microsoft's own development tools against them—chef's kiss level of irony."
     }
   ]
 }
