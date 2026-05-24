@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T02:12:28.024Z",
+  "last_updated": "2026-05-24T08:16:42.481Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA — the agency that's supposed to protect America's cyber infrastructure — just leaked their own AWS keys on GitHub like a first-year CS student. The irony is so thick you could cut it with a rusty server rack."
+      "summary": "CISA contractor casually drops AWS GovCloud keys on GitHub like they're sharing vacation photos. The agency tasked with cybersecurity just got schooled on basic OpSec by a fucking intern with repository access."
     },
     {
       "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
@@ -15,7 +15,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
       "category": "ZERO DAY",
-      "summary": "Anthropic's Claude AI just casually found 10,000+ critical vulnerabilities in widely-used software in its first month of operation. Meanwhile, human security researchers are updating their résumés and questioning their life choices."
+      "summary": "Anthropic's Claude AI goes full vulnerability hunting mode and discovers 10,000 critical flaws in a month. Turns out robots are better at finding bugs than humans – who could have seen that coming?"
     },
     {
       "title": "Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI",
@@ -23,47 +23,7 @@
       "source": "Crypto Briefing",
       "publishedAt": "2026-05-23T01:12:09Z",
       "category": "ZERO DAY",
-      "summary": "LiteSpeed cPanel plugin gets a perfect 10.0 CVSS score for letting attackers run scripts as root — because apparently someone thought privilege escalation should be a feature, not a bug."
-    },
-    {
-      "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
-      "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
-      "source": "Decrypt",
-      "publishedAt": "2026-05-20T16:54:07Z",
-      "category": "BREACH",
-      "summary": "TeamPCP is poisoning open source code at industrial scale, turning the commons into their personal malware distribution network. Supply chain attacks are the new black, and apparently everyone's wearing it."
-    },
-    {
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "source": "Anthropic.com",
-      "publishedAt": "2026-05-22T19:31:45Z",
-      "category": "BREACH",
-      "summary": "GitHub confirms 3,800 internal repos got yoinked via poisoned VS Code extension — because even the code repository overlords fall for basic social engineering. The house always wins, until it doesn't."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates a rare win for end-to-end encryption, because in 2026 we apparently still need to explain why private conversations should stay private. Democracy dies in plaintext, folks."
-    },
-    {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "RIGHTS",
-      "summary": "Microsoft actually took a step toward human rights accountability in their cloud services — shocking absolutely no one more than Microsoft themselves. Google and Amazon are reportedly checking their calendars for when hell freezes over."
-    },
-    {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting digital surveillance abuses because apparently we need instruction manuals for basic human dignity. The panopticon won't dismantle itself, unfortunately."
+      "summary": "LiteSpeed cPanel plugin drops a perfect 10.0 CVSS score vulnerability that hands root access to anyone who asks nicely. Maximum severity meets maximum stupidity in this privilege escalation masterpiece."
     },
     {
       "title": "Cisco used AI to write security incident reports, with mixed results",
@@ -71,7 +31,31 @@
       "source": "The Register",
       "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
       "category": "BREACH",
-      "summary": "Trump Mobile website allegedly leaked thousands of customers' personal data to anyone who could craft an HTTP request. MAGA meets GDPR violations — truly the crossover episode nobody asked for."
+      "summary": "Trump Mobile website leaks customer data to anyone with basic HTTP skills. Even MAGA grifters can't secure a simple web form – the irony is almost too perfect."
+    },
+    {
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-23T07:23:48Z",
+      "category": "BREACH",
+      "summary": "TeamPCP pulls off supply chain poisoning at unprecedented scale, turning GitHub into their personal malware distribution network. Open source trust model meets reality in spectacular fashion."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates another victory for end-to-end encryption, because apparently we still need to explain why private conversations should stay private. Basic digital rights remain surprisingly controversial."
+    },
+    {
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF drops new guide on fighting surveillance abuses across the Americas. Turns out systematic human rights violations require systematic resistance – who would have thought?"
     },
     {
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
@@ -79,7 +63,23 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "Google's API keys stay active for 23 minutes after 'deletion' despite claiming immediate removal — because in Google time, 'immediate' apparently means 'whenever we get around to it.'"
+      "summary": "Google's \"instant\" API key deletion takes up to 23 minutes to actually work. Cloud provider claims immediate deletion while keys remain active long enough to order pizza and compromise infrastructure."
+    },
+    {
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 23 May 2026 13:05:13 +0530",
+      "category": "BREACH",
+      "summary": "Laravel-Lang PHP packages get compromised with cross-platform credential stealer. Supply chain attacks continue proving that trust is just another attack vector in modern software development."
+    },
+    {
+      "title": "Ahmadinejad Is Still Bad for Iranians — and Still Great for Israel",
+      "url": "https://theintercept.com/2026/05/20/ahmadinejad-iran-israel-leader/",
+      "source": "The Intercept",
+      "publishedAt": "Wed, 20 May 2026 20:53:54 +0000",
+      "category": "RIGHTS",
+      "summary": "ICE recruitment tweets so racist that even cops worry they'll incite neo-Nazi violence. When law enforcement thinks your social media strategy crosses the line, you've achieved peak governmental incompetence."
     }
   ]
 }
