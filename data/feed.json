@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:16:42.481Z",
+  "last_updated": "2026-05-24T13:00:10.807Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually drops AWS GovCloud keys on GitHub like they're sharing vacation photos. The agency tasked with cybersecurity just got schooled on basic OpSec by a fucking intern with repository access."
+      "summary": "CISA contractor accidentally published AWS GovCloud keys on GitHub because apparently even the cybersecurity agency can't secure its own secrets. Congressional lawmakers are now demanding answers, which is adorable—like asking why the fire department's truck is on fire."
+    },
+    {
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
+      "category": "BREACH",
+      "summary": "A CISA contractor left AWS GovCloud credentials sitting on public GitHub like a digital confession booth. The agency tasked with protecting America's infrastructure just leaked its own keys to the kingdom."
     },
     {
       "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
@@ -15,31 +23,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
       "category": "ZERO DAY",
-      "summary": "Anthropic's Claude AI goes full vulnerability hunting mode and discovers 10,000 critical flaws in a month. Turns out robots are better at finding bugs than humans – who could have seen that coming?"
+      "summary": "Anthropic's Project Glasswing AI found 10,000 critical vulnerabilities in one month of operation. Finally, artificial intelligence doing something useful instead of generating another listicle about productivity hacks."
     },
     {
-      "title": "Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI",
-      "url": "https://cryptobriefing.com/project-glasswing-10000-critical-vulnerabilities/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-23T01:12:09Z",
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+      "source": "Xcancel.com",
+      "publishedAt": "2026-05-23T08:24:57Z",
       "category": "ZERO DAY",
-      "summary": "LiteSpeed cPanel plugin drops a perfect 10.0 CVSS score vulnerability that hands root access to anyone who asks nicely. Maximum severity meets maximum stupidity in this privilege escalation masterpiece."
-    },
-    {
-      "title": "Cisco used AI to write security incident reports, with mixed results",
-      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
-      "source": "The Register",
-      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
-      "category": "BREACH",
-      "summary": "Trump Mobile website leaks customer data to anyone with basic HTTP skills. Even MAGA grifters can't secure a simple web form – the irony is almost too perfect."
-    },
-    {
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-23T07:23:48Z",
-      "category": "BREACH",
-      "summary": "TeamPCP pulls off supply chain poisoning at unprecedented scale, turning GitHub into their personal malware distribution network. Open source trust model meets reality in spectacular fashion."
+      "summary": "CVE-2026-48172 in LiteSpeed cPanel Plugin scores a perfect 10.0 CVSS and lets attackers run scripts as root. It's being actively exploited because why wouldn't someone abuse a maximum-severity privilege escalation flaw?"
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -47,23 +39,23 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates another victory for end-to-end encryption, because apparently we still need to explain why private conversations should stay private. Basic digital rights remain surprisingly controversial."
+      "summary": "EFF celebrates a win for end-to-end encryption, that beautiful cryptographic middle finger to surveillance states. When implemented correctly, it turns your messages into unbreakable secrets that make three-letter agencies weep."
     },
     {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops new guide on fighting surveillance abuses across the Americas. Turns out systematic human rights violations require systematic resistance – who would have thought?"
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "source": "The Register",
+      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
+      "category": "BREACH",
+      "summary": "Trump Mobile website was allegedly leaking customer data to anyone who could craft an HTTP request. The irony of a platform named after someone obsessed with loyalty being completely disloyal to user privacy is *chef's kiss*."
     },
     {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
-      "category": "ZERO DAY",
-      "summary": "Google's \"instant\" API key deletion takes up to 23 minutes to actually work. Cloud provider claims immediate deletion while keys remain active long enough to order pizza and compromise infrastructure."
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-23T07:23:48Z",
+      "category": "BREACH",
+      "summary": "TeamPCP hacker group is poisoning open source code at unprecedented scale, hitting GitHub and hundreds of organizations. Supply chain attacks: because why break down the front door when you can just poison the foundation?"
     },
     {
       "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
@@ -71,15 +63,23 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 23 May 2026 13:05:13 +0530",
       "category": "BREACH",
-      "summary": "Laravel-Lang PHP packages get compromised with cross-platform credential stealer. Supply chain attacks continue proving that trust is just another attack vector in modern software development."
+      "summary": "Laravel-Lang PHP packages were compromised to deliver cross-platform credential stealers. Nothing says 'modern software development' like your language localization library secretly harvesting passwords."
     },
     {
-      "title": "Ahmadinejad Is Still Bad for Iranians — and Still Great for Israel",
-      "url": "https://theintercept.com/2026/05/20/ahmadinejad-iran-israel-leader/",
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "category": "ZERO DAY",
+      "summary": "Google API keys remain active for up to 23 minutes after 'deletion' despite Google claiming immediate removal. Classic cloud provider move—promise instant security, deliver a 23-minute window of vulnerability."
+    },
+    {
+      "title": "AIPAC, AI, Crypto and Gambling Are Hiding Their Big Election Spends",
+      "url": "https://theintercept.com/2026/05/22/aipac-ai-crypto-and-gambling-are-hiding-their-big-election-spends/",
       "source": "The Intercept",
-      "publishedAt": "Wed, 20 May 2026 20:53:54 +0000",
-      "category": "RIGHTS",
-      "summary": "ICE recruitment tweets so racist that even cops worry they'll incite neo-Nazi violence. When law enforcement thinks your social media strategy crosses the line, you've achieved peak governmental incompetence."
+      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+      "category": "FOIA",
+      "summary": "Judge sanctions CoreCivic for destroying video evidence in ICE detainee death case. Private prison giant gets rare legal smackdown for the oldest trick in the corporate playbook: making inconvenient evidence disappear."
     }
   ]
 }
