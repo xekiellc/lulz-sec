@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T18:55:54.453Z",
+  "last_updated": "2026-05-24T02:12:28.024Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,47 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into a government secrets buffet, exposing AWS GovCloud keys and internal systems. When the cybersecurity agency can't secure its own contractors, you know we're living in the best timeline."
-    },
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor publicly hosted AWS GovCloud credentials on GitHub like it's a recipe blog. The agency responsible for national cybersecurity just served up privileged access keys with a side of institutional incompetence."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates another win for end-to-end encryption, the digital equivalent of whispering secrets that actually stay secret. In a world where privacy is treated like a luxury good, every encrypted message is an act of rebellion."
-    },
-    {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting surveillance abuses because apparently we need instruction manuals for basic human rights now. When digital surveillance becomes normalized, resistance becomes a civic duty."
-    },
-    {
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
-      "category": "ZERO DAY",
-      "summary": "Google's 'instant' API key deletion is about as instant as a Windows update—researchers found keys stay active for 23 minutes after 'deletion.' Cloud providers lying about security features is basically a Tuesday at this point."
-    },
-    {
-      "title": "Cisco used AI to write security incident reports, with mixed results",
-      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
-      "source": "The Register",
-      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
-      "category": "BREACH",
-      "summary": "Trump Mobile website was hemorrhaging customer data to anyone who could craft an HTTP request. The same crowd that screams about election security can't secure a basic web form—poetry in motion."
+      "summary": "CISA — the agency that's supposed to protect America's cyber infrastructure — just leaked their own AWS keys on GitHub like a first-year CS student. The irony is so thick you could cut it with a rusty server rack."
     },
     {
       "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
@@ -55,15 +15,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
       "category": "ZERO DAY",
-      "summary": "Anthropic's Claude AI discovered 10,000+ critical vulnerabilities in widely-used software within a month. When AI becomes better at finding bugs than human security teams, it's either revolution or unemployment—possibly both."
+      "summary": "Anthropic's Claude AI just casually found 10,000+ critical vulnerabilities in widely-used software in its first month of operation. Meanwhile, human security researchers are updating their résumés and questioning their life choices."
     },
     {
-      "title": "Microsoft confirms two major Defender security issues — so update now or face possible attack",
-      "url": "https://www.techradar.com/pro/security/microsoft-confirms-two-major-defender-security-issues-so-update-now-or-face-possible-attack",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-22T17:05:00Z",
+      "title": "Project Glasswing identifies over 10,000 critical vulnerabilities in first month using AI",
+      "url": "https://cryptobriefing.com/project-glasswing-10000-critical-vulnerabilities/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-23T01:12:09Z",
       "category": "ZERO DAY",
-      "summary": "LiteSpeed cPanel plugin vulnerability scores a perfect 10.0 CVSS and gets exploited in the wild for root access. Maximum severity, maximum chaos, maximum 'told you so' energy from every security researcher who saw this coming."
+      "summary": "LiteSpeed cPanel plugin gets a perfect 10.0 CVSS score for letting attackers run scripts as root — because apparently someone thought privilege escalation should be a feature, not a bug."
     },
     {
       "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
@@ -71,15 +31,55 @@
       "source": "Decrypt",
       "publishedAt": "2026-05-20T16:54:07Z",
       "category": "BREACH",
-      "summary": "TeamPCP hacker group is poisoning open source code at industrial scale, turning trusted repositories into malware distribution networks. Supply chain attacks are the new normal, and trust is officially a deprecated concept."
+      "summary": "TeamPCP is poisoning open source code at industrial scale, turning the commons into their personal malware distribution network. Supply chain attacks are the new black, and apparently everyone's wearing it."
     },
     {
-      "title": "Update Chrome now: Critical bugs could let attackers run code",
-      "url": "https://www.malwarebytes.com/blog/bugs/2026/05/update-chrome-now-critical-bugs-could-let-attackers-run-code",
-      "source": "Malwarebytes.com",
-      "publishedAt": "2026-05-22T12:10:36Z",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "source": "Anthropic.com",
+      "publishedAt": "2026-05-22T19:31:45Z",
       "category": "BREACH",
-      "summary": "GitHub confirms 3,800 internal repos stolen via poisoned VS Code extension, proving even the house of code isn't safe from social engineering. TeamPCP just turned Microsoft's own development tools against them—chef's kiss level of irony."
+      "summary": "GitHub confirms 3,800 internal repos got yoinked via poisoned VS Code extension — because even the code repository overlords fall for basic social engineering. The house always wins, until it doesn't."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a rare win for end-to-end encryption, because in 2026 we apparently still need to explain why private conversations should stay private. Democracy dies in plaintext, folks."
+    },
+    {
+      "title": "Your Privacy Shouldn't Be A Corporate Decision",
+      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
+      "category": "RIGHTS",
+      "summary": "Microsoft actually took a step toward human rights accountability in their cloud services — shocking absolutely no one more than Microsoft themselves. Google and Amazon are reportedly checking their calendars for when hell freezes over."
+    },
+    {
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF drops a new guide on fighting digital surveillance abuses because apparently we need instruction manuals for basic human dignity. The panopticon won't dismantle itself, unfortunately."
+    },
+    {
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "source": "The Register",
+      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
+      "category": "BREACH",
+      "summary": "Trump Mobile website allegedly leaked thousands of customers' personal data to anyone who could craft an HTTP request. MAGA meets GDPR violations — truly the crossover episode nobody asked for."
+    },
+    {
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "url": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
+      "category": "ZERO DAY",
+      "summary": "Google's API keys stay active for 23 minutes after 'deletion' despite claiming immediate removal — because in Google time, 'immediate' apparently means 'whenever we get around to it.'"
     }
   ]
 }
