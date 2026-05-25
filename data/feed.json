@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-05-24T19:01:31.320Z",
+  "last_updated": "2026-05-25T02:31:06.780Z",
   "articles": [
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
-      "category": "NEWS",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
-    },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "NEWS",
-      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs"
+      "category": "BREACH",
+      "summary": "CISA contractors accidentally turned GitHub into a government secret-sharing platform, because apparently the agency tasked with protecting our infrastructure needed a lesson in basic OpSec. Congressional lawmakers are rightfully losing their minds over this AWS GovCloud key leak."
     },
     {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 18 May 2026 20:48:21 +0000",
-      "category": "NEWS",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive "
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Claude Mythos AI just found 10,000 critical vulnerabilities in major software, proving that artificial intelligence is better at finding bugs than humans are at writing secure code. The robots aren't taking over yet, but they're definitely pointing out how terrible we are at cybersecurity."
     },
     {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
-      "category": "NEWS",
-      "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- in"
+      "title": "mempalace-dashboard added to PyPI",
+      "url": "https://pypi.org/project/mempalace-dashboard/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-24T02:06:14Z",
+      "category": "ZERO DAY",
+      "summary": "CVE-2026-48172 in LiteSpeed cPanel Plugin scores a perfect 10.0 CVSS because it lets attackers run arbitrary scripts as root. It's being actively exploited, which means someone's having a very bad day in hosting land."
     },
     {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 08 May 2026 02:58:46 +0000",
-      "category": "NEWS",
-      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak"
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "NEWS",
-      "summary": "When it comes to keeping our texts, chats, and other digital messages safe from prying eyes, we have a powerful tool: end-to-end encryption. Used correctly, end-to-end encryption turns our conversations online into secret messages that can only be decoded by their intended recipients. In our latest "
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "source": "The Register",
+      "publishedAt": "Fri, 22 May 2026 07:38:19 +0200",
+      "category": "BREACH",
+      "summary": "Trump Mobile's website was allegedly leaking customer data to anyone who could craft an HTTP request, because why bother with authentication when you can just hand out personal info like campaign flyers. The irony of a 'law and order' candidate running a lawless data operation is *chef's kiss*."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
       "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "NEWS",
-      "summary": "For years, civil society organizations, workers, journalists, and human rights experts have warned that major technology companies risk enabling grave human rights abuses when they provide cloud computing, AI, and surveillance infrastructure to governments implicated in violations of international a"
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a rare victory for end-to-end encryption, reminding us that keeping our digital conversations away from government voyeurs is still possible. In a world of surveillance capitalism, encrypted messaging remains our digital equivalent of whispering in a crowded room."
     },
     {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "NEWS",
-      "summary": "“We will launch during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.”-Meta Internal Document on face recognition software for smart glasses, 2025\n\nIt’s unsurprising that a company would plan to "
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF's new guide tackles the normalization of digital surveillance abuse across the Americas, because apparently we need step-by-step instructions to remember that mass surveillance is bad. Sometimes the obvious needs to be stated loudly for the people in the back."
     },
     {
-      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
-      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
-      "source": "EFF",
-      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
-      "category": "NEWS",
-      "summary": "We recently updated our privacy policy for the first time since 2022. Most of the changes are clarifications, reorganizations, and improvements in transparency, particularly around how third-party tools that run parts of our site operate. But one change is substantive enough that we want to address "
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 23 May 2026 17:25:35 +0530",
+      "category": "BREACH",
+      "summary": "Eight Packagist packages got poisoned with Linux malware hosted on GitHub, proving that supply chain attacks are the gift that keeps on giving. The attackers cleverly avoided composer.json, because why use the obvious attack vector when you can be sneaky about it."
     },
     {
-      "title": "We Must Not Normalize Digital Surveillance Abuses. EFF’s New Guide Underlines Concrete Steps to Fight Back.",
-      "url": "https://www.eff.org/deeplinks/2026/05/we-must-not-normalize-digital-surveillance-abuses-effs-new-guide-underlines",
-      "source": "EFF",
-      "publishedAt": "Mon, 18 May 2026 17:15:00 +0000",
-      "category": "NEWS",
-      "summary": "Poor accountability, feeble control mechanisms, and insufficient legal frameworks have led to systematic human rights violations in the Americas, with no consistent remedy or reparation to victims. What's needed is to materialize essential guarantees and measures to combat repeated surveillance abus"
+      "title": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs",
+      "url": "https://me.pcmag.com/en/ai/37335/companies-using-anthropics-mythos-ai-uncover-10k-serious-software-bugs",
+      "source": "PCMag.com",
+      "publishedAt": "2026-05-23T16:13:22Z",
+      "category": "BREACH",
+      "summary": "TeamPCP is conducting an unprecedented poisoning spree of open source code, with GitHub as their latest victim in a supply chain attack campaign that's impacting hundreds of organizations. When the foundation of modern software development becomes the attack vector, we're all screwed."
+    },
+    {
+      "title": "Google API Keys Remain Active After Deletion",
+      "url": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+      "source": "Dark Reading",
+      "publishedAt": "Thu, 21 May 2026 20:07:47 GMT",
+      "category": "BREACH",
+      "summary": "China's Webworm APT group is using Discord and Microsoft Graph APIs to hack EU governments, because why develop custom C2 infrastructure when Microsoft will host it for you. The irony of using American platforms to spy on European governments is deliciously twisted."
+    },
+    {
+      "title": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
+      "url": "https://theintercept.com/2026/05/22/aipac-ai-crypto-and-gambling-are-hiding-their-big-election-spends/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+      "category": "FOIA",
+      "summary": "A federal judge sanctioned private prison giant CoreCivic for destroying video evidence in an ICE detainee death case, marking the first known sanction of its kind. Nothing says 'we're totally innocent' like systematically destroying evidence of your deadly negligence."
     }
   ]
 }
