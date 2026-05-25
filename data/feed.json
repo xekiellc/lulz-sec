@@ -1,37 +1,53 @@
 {
-  "last_updated": "2026-05-25T09:48:30.207Z",
+  "last_updated": "2026-05-25T14:33:42.637Z",
   "articles": [
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into a government secrets buffet, exposing AWS GovCloud keys like breadcrumbs for any script kiddie with an internet connection. The agency tasked with protecting our infrastructure just served it up on a silver platter."
-    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "Plot twist: the same CISA breach story but with more delicious technical details about how a cybersecurity agency managed to be less secure than a teenager's TikTok account. AWS GovCloud credentials scattered across GitHub like digital confetti."
+      "summary": "CISA contractor casually drops AWS GovCloud keys and agency secrets on public GitHub like some kind of digital exhibitionist. When the cybersecurity watchdog becomes the cybersecurity whoopsie-daisy."
     },
     {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates a rare victory for end-to-end encryption, proving that sometimes the good guys actually win one against the surveillance state. Your dick pics remain safe from government eyes, for now."
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 25 May 2026 17:00:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Ghost CMS gets haunted by CVE-2026-26980, a critical SQL injection flaw that let attackers possess 700+ sites for ClickFix campaigns. Even the dead can't escape bad input validation."
     },
     {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF drops a new guide on fighting digital surveillance because apparently we need instruction manuals to resist becoming a panopticon dystopia. Spoiler alert: the surveillance state won't police itself."
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 25 May 2026 17:32:46 +0530",
+      "category": "BREACH",
+      "summary": "Trump Mobile website leaked thousands of customer records to anyone with basic HTTP skills. MAGA meets OWASP Top 10 in the most predictable crossover episode ever."
+    },
+    {
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 23 May 2026 22:05:10 +0530",
+      "category": "BREACH",
+      "summary": "TrapDoor campaign poisoned 34+ packages across npm, PyPI, and Crates.io to steal credentials in a coordinated supply chain nightmare. When your dependency hell becomes actual hell."
+    },
+    {
+      "title": "Security Affairs newsletter Round 578 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "url": "https://securityaffairs.com/192586/hacking/security-affairs-newsletter-round-578-by-pierluigi-paganini-international-edition.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-24T11:51:37Z",
+      "category": "BREACH",
+      "summary": "TeamPCP gang poisoned open source at unprecedented scale, hitting GitHub and hundreds of orgs via supply chain attacks. The trust-based ecosystem meets trust-no-one reality."
+    },
+    {
+      "title": "The Dark Side of AI",
+      "url": "https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai",
+      "source": "Psychology Today",
+      "publishedAt": "2026-05-23T14:41:10Z",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's Project Glasswing AI discovered 10,000+ vulnerabilities faster than humans can patch them. We're officially in the 'AI finds bugs faster than we fix them' dystopia timeline."
     },
     {
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
@@ -39,47 +55,31 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "Google's API keys have the digital equivalent of zombie persistence, staying active for 23 minutes after 'deletion' like undead authentication tokens. Even Google can't properly kill their own access credentials."
+      "summary": "Google API keys stay active for 23 minutes after 'deletion' despite claiming immediate removal. Schrödinger's API key: simultaneously deleted and not deleted until observed by security researchers."
     },
     {
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 25 May 2026 11:29:13 +0530",
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF drops new guide to fight back against normalized digital surveillance abuses plaguing the Americas. Because apparently we need instructions on why constant government spying is bad."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a rare win for end-to-end encryption, that magical technology that keeps our digital conversations from becoming government reading material. Privacy wins are like unicorns these days."
+    },
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "Trump Mobile leaked customer data faster than you can say 'covfefe,' proving that MAGA merchandise extends to hilariously insecure tech products. Thousands of supporters got their personal info served up via basic HTTP requests."
-    },
-    {
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 23 May 2026 15:21:13 +0530",
-      "category": "ZERO DAY",
-      "summary": "Anthropic's Claude AI went full terminator on software security, discovering 10,000 high-severity vulnerabilities in systemically important code. The machines are now better at finding ways to break other machines than humans ever were."
-    },
-    {
-      "title": "The Trump Phone Appears to Have Already Leaked Its Customers’ Personal Information Through a Glaring Exploit",
-      "url": "http://futurism.com/future-society/trump-phone-leaked-personal-information",
-      "source": "Futurism",
-      "publishedAt": "2026-05-21T18:58:00Z",
-      "category": "BREACH",
-      "summary": "TeamPCP pulled off an epic supply chain heist, stealing 4,000 GitHub repos through a poisoned VS Code extension and exposing the house-of-cards nature of modern software security. When your IDE becomes an IED, trust nothing."
-    },
-    {
-      "title": "Trump Mobile data leak exposes only 30,000 orders, far below earlier claims of 600,000",
-      "url": "https://www.tweaktown.com/news/111747/trump-mobile-data-leak-exposes-only-30000-orders-far-below-earlier-claims-of-600000/index.html",
-      "source": "TweakTown",
-      "publishedAt": "2026-05-21T17:58:07Z",
-      "category": "ARCHIVE",
-      "summary": "Talos Intelligence explores the beautiful art of professional ungovernability, teaching security researchers how to be productive rebels who challenge authority without getting fired. Required reading for anyone tired of corporate security theater."
-    },
-    {
-      "title": "Companies Using Anthropic's Mythos AI Uncover 10K+ Serious Software Bugs",
-      "url": "https://me.pcmag.com/en/ai/37335/companies-using-anthropics-mythos-ai-uncover-10k-serious-software-bugs",
-      "source": "PCMag.com",
-      "publishedAt": "2026-05-23T16:13:22Z",
-      "category": "ZERO DAY",
-      "summary": "CISA adds another Drupal Core vulnerability to their Known Exploited Vulnerabilities catalog, because apparently content management systems are as secure as wet paper bags. Time to patch your WordPress sites while you're at it."
+      "summary": "Congress demands answers after CISA contractor leaked AWS GovCloud keys and agency secrets on public GitHub. The people protecting our cyber-infrastructure can't protect their own repositories."
     }
   ]
 }
