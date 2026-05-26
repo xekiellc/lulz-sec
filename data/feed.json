@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T14:42:46.848Z",
+  "last_updated": "2026-05-26T19:55:53.359Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally published AWS GovCloud keys and internal secrets on GitHub because apparently the agency protecting our infrastructure can't protect their own credentials. Peak government cybersecurity right here, folks."
+      "summary": "CISA contractor casually drops AWS GovCloud keys on GitHub like breadcrumbs for the digital raccoons. The agency that's supposed to protect everyone's cybersecurity just leaked their own crown jewels to the public internet."
     },
     {
       "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
@@ -15,7 +15,15 @@
       "source": "The Hacker News",
       "publishedAt": "Tue, 26 May 2026 16:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches SharePoint RCE vulnerability CVE-2026-45659 with CVSS 8.8 rating. Another day, another Microsoft product that can be remotely owned by anyone with basic exploitation skills."
+      "summary": "Microsoft patches SharePoint RCE with an 8.8 CVSS score that requires zero special conditions to exploit. Because apparently SharePoint wasn't already cursed enough."
+    },
+    {
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-25T14:13:27Z",
+      "category": "ZERO DAY",
+      "summary": "Trend Micro's Apex One gets pwned by a zero-day in the wild, proving even security software needs security software. CISA already threw it on the KEV pile of shame."
     },
     {
       "title": "Google blocked the first known AI-powered attack on 2FA accounts; here is how hackers tried to break in, know how to stay safe",
@@ -23,7 +31,7 @@
       "source": "The Times of India",
       "publishedAt": "2026-05-25T09:45:41Z",
       "category": "ZERO DAY",
-      "summary": "Zero-click WhatsApp takeover hits iOS 16 users without any linked devices or warnings. Your iPhone just became someone else's messaging platform and you wouldn't even know it happened."
+      "summary": "Zero-click WhatsApp takeover hits iOS 16 users with no warnings, no linked devices, just pure digital possession. Your phone starts texting people without you—it's like being haunted but with worse privacy implications."
     },
     {
       "title": "(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",
@@ -31,31 +39,7 @@
       "source": "Ryukoku.ac.jp",
       "publishedAt": "2026-05-24T15:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Claude AI helps researcher discover 10-year-old RCE in Linux PDF viewers (XReader/Evince/Atril). When an AI finds bugs that humans missed for a decade, you know we're living in interesting times."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates end-to-end encryption victories while governments continue their eternal quest to break everything that keeps our conversations private. The crypto wars never ended, they just got more bureaucratic."
-    },
-    {
-      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 26 May 2026 12:00:00 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF releases guide to fight digital surveillance abuses across the Americas where accountability is a myth and legal frameworks are weaker than my coffee. Time to actually do something about systematic human rights violations."
-    },
-    {
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 26 May 2026 17:28:00 +0530",
-      "category": "BREACH",
-      "summary": "Megalodon campaign poisons 5,500+ GitHub repositories in massive supply chain attack. The ocean's apex predator has nothing on modern malware distribution networks."
+      "summary": "Claude AI helps security researcher find a decade-old RCE in Linux PDF viewers because apparently even AI is better at finding bugs than the humans who wrote the code. CVE-2026-46529: when your document reader becomes a shell spawner."
     },
     {
       "title": "Who is TeamPCP, the rising hacker group targeting open-source software and AI tools?",
@@ -63,23 +47,39 @@
       "source": "The Indian Express",
       "publishedAt": "2026-05-25T12:12:03Z",
       "category": "BREACH",
-      "summary": "TeamPCP supply chain campaign hits three package ecosystems and even breached GitHub's internal codebase while trojanizing Microsoft's own Python SDK. These folks are either very good or everyone else is very bad."
+      "summary": "TeamPCP supply chain campaign goes full chaos mode, hitting three package ecosystems simultaneously and even trojanizing Microsoft's own Python SDK. These aren't script kiddies—they're running a professional ransomware franchise."
     },
     {
-      "title": "The sandworm malware strikes: How a hacker group stole 4,000 GitHub repositories and exposed the rot at the core of modern software security",
-      "url": "https://www.naturalnews.com/2026-05-23-hacker-group-stole-4000-github-repositories.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-23T06:00:00Z",
-      "category": "BREACH",
-      "summary": "Hacker sells 340 million OnlyFans user records compiled from old breaches and public profiles. Someone turned data archaeology into a profitable side hustle targeting adult content consumers."
-    },
-    {
-      "title": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
-      "url": "https://theintercept.com/2026/05/22/aipac-ai-crypto-and-gambling-are-hiding-their-big-election-spends/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
+      "title": "We Updated Our Privacy Policy. Here's What Changed and Why.",
+      "url": "https://www.eff.org/deeplinks/2026/05/we-updated-our-privacy-policy-heres-what-changed-and-why",
+      "source": "EFF",
+      "publishedAt": "Mon, 18 May 2026 18:03:04 +0000",
       "category": "RIGHTS",
-      "summary": "Judge sanctions private prison giant CoreCivic for destroying video evidence in ICE detainee death case. Finally, some accountability for corporations that profit from human misery and evidence destruction."
+      "summary": "Meta plans to launch facial recognition in smart glasses while civil rights groups are 'distracted by other concerns'—because surveillance capitalism never sleeps. Your privacy is just another quarterly earnings optimization."
+    },
+    {
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "url": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 26 May 2026 19:18:01 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF drops a field guide for fighting digital surveillance abuses across the Americas because apparently we need instruction manuals for basic human rights now. Systematic violations require systematic resistance."
+    },
+    {
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 26 May 2026 21:18:41 +0530",
+      "category": "WHITE HAT",
+      "summary": "Russian-speaking hacker jailbreaks Google's Gemini AI and uses it to pump-and-dump crypto from MAGA victims' wallets. When artificial intelligence meets artificial patriotism, everyone gets artificially broke."
+    },
+    {
+      "title": "Zero-Click WhatsApp Account Takeover Hits iPhone Users Running iOS 16. No Linked Devices, No Warning",
+      "url": "https://securityaffairs.com/192627/security/zero-click-whatsapp-account-takeover-hits-iphone-users-running-ios-16-no-linked-devices-no-warning.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-25T10:29:54Z",
+      "category": "WHITE HAT",
+      "summary": "AI transforms bug hunting into an arms race where both attackers and defenders are wielding silicon-powered vulnerability scanners. The era of humans manually reading assembly dumps is officially dead—long live our robot security overlords."
     }
   ]
 }
