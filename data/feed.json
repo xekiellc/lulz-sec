@@ -1,69 +1,21 @@
 {
-  "last_updated": "2026-05-25T19:15:31.575Z",
+  "last_updated": "2026-05-26T02:11:24.169Z",
   "articles": [
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub for the world to see. When the cybersecurity agency can't secure its own secrets, maybe it's time to question who's watching the watchers."
+    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor literally uploaded AWS GovCloud keys to public GitHub because apparently irony is dead and we're all living in a cybersec dark comedy. Nothing says \"we protect America's infrastructure\" like handing the keys to anyone with an internet connection."
-    },
-    {
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 25 May 2026 17:00:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "Ghost CMS gets haunted by CVE-2026-26980, a 9.4 CVSS SQL injection that's hijacking 700+ sites for ClickFix scams. When your blogging platform becomes a malware delivery service, maybe it's time to exorcise those demons."
-    },
-    {
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "source": "Corrode.dev",
-      "publishedAt": "2026-05-24T18:31:42Z",
-      "category": "BREACH",
-      "summary": "TrapDoor supply chain attack poisoned 34 packages across npm, PyPI, and CratesIO with credential-stealing malware. Because why hack one ecosystem when you can ruin everyone's dependency hell simultaneously?"
-    },
-    {
-      "title": "The Trump Phone Appears to Have Already Leaked Its Customers’ Personal Information Through a Glaring Exploit",
-      "url": "http://futurism.com/future-society/trump-phone-leaked-personal-information",
-      "source": "Futurism",
-      "publishedAt": "2026-05-21T18:58:00Z",
-      "category": "BREACH",
-      "summary": "TeamPCP breached GitHub and stole 4,000 private repos using a poisoned VS Code extension, proving that modern software security is basically held together with trust and duct tape. The call is coming from inside the IDE."
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 25 May 2026 19:43:27 +0530",
-      "category": "BREACH",
-      "summary": "Trump Mobile leaked customer data via basic HTTP request exploit because apparently MAGA includes making APIs grossly accessible. The most predictable data breach since someone thought putting classified docs in a bathroom was secure."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF celebrates a win for end-to-end encryption, reminding us that keeping our digital conversations private shouldn't be revolutionary. In a world of government backdoor demands, actual privacy is becoming punk rock."
-    },
-    {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
-      "category": "RIGHTS",
-      "summary": "EFF's new guide fights digital surveillance normalization because apparently we need instructions on why omnipresent government spying is bad. Systematic human rights violations shouldn't require a how-to manual for resistance."
-    },
-    {
-      "title": "The sandworm malware strikes: How a hacker group stole 4,000 GitHub repositories and exposed the rot at the core of modern software security",
-      "url": "https://www.naturalnews.com/2026-05-23-hacker-group-stole-4000-github-repositories.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-23T06:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Anthropic's Project Glasswing AI discovered 10,000+ software vulnerabilities faster than humans can patch them, creating a digital arms race where the robots find bugs quicker than we can fix our mess. Welcome to asymmetric cybersecurity."
+      "summary": "CISA contractor leaked AWS GovCloud credentials on a public GitHub repo, exposing highly privileged government systems. The irony of America's cybersecurity agency getting pwned by basic OPSEC failure is *chef's kiss* perfect."
     },
     {
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
@@ -71,15 +23,63 @@
       "source": "Dark Reading",
       "publishedAt": "Thu, 21 May 2026 15:43:37 GMT",
       "category": "ZERO DAY",
-      "summary": "Google API keys stay active for 23 minutes after \"deletion\" despite claims of immediate removal, because apparently Google's definition of \"delete\" is more like \"delete eventually, maybe.\" Classic cloud provider gaslighting."
+      "summary": "Google claims API key deletion is immediate, but researcher finds they stay active for 23 minutes post-deletion. Another 'trust us, we're tech giants' moment that aged like milk in the sun."
     },
     {
-      "title": "mempalace-dashboard added to PyPI",
-      "url": "https://pypi.org/project/mempalace-dashboard/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-05-24T02:06:14Z",
-      "category": "WHITE HAT",
-      "summary": "Hookwarden tool promises to find webhook HMAC verification bugs across multiple languages in under five minutes. Finally, a tool that admits most webhook security implementations are fundamentally broken and need immediate intervention."
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 25 May 2026 19:43:27 +0530",
+      "category": "BREACH",
+      "summary": "Trump Mobile website leaked thousands of customer records to anyone who could send a basic HTTP request. Even MAGA grifts can't escape the universal truth that security theatre doesn't stop actual breaches."
+    },
+    {
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 25 May 2026 17:00:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "Critical Ghost CMS SQL injection vulnerability (CVE-2026-26980) exploited to hijack 700+ sites for ClickFix attacks. When your blogging platform becomes a botnet, you know we're living in the dumbest timeline."
+    },
+    {
+      "title": "The AI security gap nobody wants to admit is already here",
+      "url": "https://thenextweb.com/news/ai-security-gap-claude-code-leak/",
+      "source": "The Next Web",
+      "publishedAt": "2026-05-24T19:20:19Z",
+      "category": "BREACH",
+      "summary": "TrapDoor campaign poisoned 34+ packages across npm, PyPI, and Crates.io to steal credentials. Supply chain attacks are the new normal, and your dependency manager is basically a slot machine at this point."
+    },
+    {
+      "title": "Hacker Selling 340 Million OnlyFans User Records Built From Old Breaches",
+      "url": "https://hackread.com/hacker-selling-onlyfans-user-records-old-breaches/",
+      "source": "HackRead",
+      "publishedAt": "2026-05-25T01:20:02Z",
+      "category": "ZERO DAY",
+      "summary": "Anthropic's AI discovered over 10,000 software vulnerabilities, proving machines are already better at finding our coding sins than we are. The robots aren't coming for our jobs—they're exposing how terrible we are at them."
+    },
+    {
+      "title": "The sandworm malware strikes: How a hacker group stole 4,000 GitHub repositories and exposed the rot at the core of modern software security",
+      "url": "https://www.naturalnews.com/2026-05-23-hacker-group-stole-4000-github-repositories.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-23T06:00:00Z",
+      "category": "BREACH",
+      "summary": "Hacker selling 340 million OnlyFans user records compiled from old breaches and public profiles. When your adult content consumption becomes a data broker's side hustle, privacy is truly dead."
+    },
+    {
+      "title": "The Trump Phone Appears to Have Already Leaked Its Customers’ Personal Information Through a Glaring Exploit",
+      "url": "http://futurism.com/future-society/trump-phone-leaked-personal-information",
+      "source": "Futurism",
+      "publishedAt": "2026-05-21T18:58:00Z",
+      "category": "BREACH",
+      "summary": "TeamPCP breached 4,000 GitHub repositories using a poisoned VS Code extension, exposing the fundamental rot in our software supply chain. Trust nothing, verify everything, especially your favorite IDE plugins."
+    },
+    {
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF releases new guide to fight digital surveillance abuses across the Americas where accountability is a fairy tale. Because apparently we need step-by-step instructions to remember that mass surveillance is bad, actually."
     }
   ]
 }
