@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T09:35:48.018Z",
+  "last_updated": "2026-05-26T14:42:46.848Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,39 +7,31 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually drops AWS GovCloud keys on GitHub like breadcrumbs for nation-states. The agency that's supposed to protect our infrastructure couldn't protect their own secrets from a public repo—peak cybersecurity theater."
+      "summary": "CISA contractor accidentally published AWS GovCloud keys and internal secrets on GitHub because apparently the agency protecting our infrastructure can't protect their own credentials. Peak government cybersecurity right here, folks."
     },
     {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
       "source": "The Hacker News",
-      "publishedAt": "Mon, 25 May 2026 19:43:27 +0530",
+      "publishedAt": "Tue, 26 May 2026 16:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Japanese LMS gets pwned via SQL injection zero-day, serving up Godzilla web shells and Cobalt Strike like a malware buffet. Sometimes the monster movies write themselves."
+      "summary": "Microsoft patches SharePoint RCE vulnerability CVE-2026-45659 with CVSS 8.8 rating. Another day, another Microsoft product that can be remotely owned by anyone with basic exploitation skills."
     },
     {
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 25 May 2026 17:00:00 +0530",
+      "title": "Google blocked the first known AI-powered attack on 2FA accounts; here is how hackers tried to break in, know how to stay safe",
+      "url": "https://economictimes.indiatimes.com/wealth/save/google-blocked-the-first-known-ai-powered-attack-on-2fa-accounts-here-is-how-hackers-tried-to-break-in-know-how-to-stay-safe/articleshow/131306144.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-25T09:45:41Z",
       "category": "ZERO DAY",
-      "summary": "Ghost CMS critical SQLi flaw (CVE-2026-26980) gets exploited to hijack 700+ sites for ClickFix attacks. When your blogging platform becomes a botnet, you know we've hit peak internet."
+      "summary": "Zero-click WhatsApp takeover hits iOS 16 users without any linked devices or warnings. Your iPhone just became someone else's messaging platform and you wouldn't even know it happened."
     },
     {
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 26 May 2026 12:43:05 +0530",
-      "category": "BREACH",
-      "summary": "Trump Mobile website leaking customer data to anyone with basic HTTP skills—turns out MAGA includes 'Make APIs Glaringly Accessible.' The grift extends to cybersecurity now."
-    },
-    {
-      "title": "The sandworm malware strikes: How a hacker group stole 4,000 GitHub repositories and exposed the rot at the core of modern software security",
-      "url": "https://www.naturalnews.com/2026-05-23-hacker-group-stole-4000-github-repositories.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-23T06:00:00Z",
-      "category": "BREACH",
-      "summary": "Hacker selling 340M OnlyFans user records compiled from old breaches and public profiles. Nothing says 'privacy violation' like weaponizing porn site data for profit."
+      "title": "(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260525__c22",
+      "source": "Ryukoku.ac.jp",
+      "publishedAt": "2026-05-24T15:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Claude AI helps researcher discover 10-year-old RCE in Linux PDF viewers (XReader/Evince/Atril). When an AI finds bugs that humans missed for a decade, you know we're living in interesting times."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -47,39 +39,47 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a win for encrypted messaging while governments worldwide sharpen their crypto-breaking tools. End-to-end encryption: the last firewall between your secrets and surveillance capitalism."
+      "summary": "EFF celebrates end-to-end encryption victories while governments continue their eternal quest to break everything that keeps our conversations private. The crypto wars never ended, they just got more bureaucratic."
     },
     {
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
       "source": "Dark Reading",
-      "publishedAt": "Fri, 22 May 2026 15:43:50 GMT",
+      "publishedAt": "Tue, 26 May 2026 12:00:00 GMT",
       "category": "RIGHTS",
-      "summary": "EFF's new guide fights back against normalized digital surveillance abuses across the Americas. Because apparently we need instruction manuals to remember that mass spying is bad."
+      "summary": "EFF releases guide to fight digital surveillance abuses across the Americas where accountability is a myth and legal frameworks are weaker than my coffee. Time to actually do something about systematic human rights violations."
     },
     {
-      "title": "Techie claims Trump Mobile website was leaking thousands of people's data",
-      "url": "https://www.theregister.com/security/2026/05/22/trump-mobile-site-leaks-customer-data-as-phone-finally-ships/5244828",
-      "source": "The Register",
-      "publishedAt": "Fri, 22 May 2026 12:59:09 +0200",
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 26 May 2026 17:28:00 +0530",
       "category": "BREACH",
-      "summary": "Megalodon campaign poisons 5,500+ GitHub repos in massive supply chain attack. The open source ecosystem gets chummed harder than a Shark Week feeding frenzy."
+      "summary": "Megalodon campaign poisons 5,500+ GitHub repositories in massive supply chain attack. The ocean's apex predator has nothing on modern malware distribution networks."
     },
     {
-      "title": "Hacker Selling 340 Million OnlyFans User Records Built From Old Breaches",
-      "url": "https://hackread.com/hacker-selling-onlyfans-user-records-old-breaches/",
-      "source": "HackRead",
-      "publishedAt": "2026-05-25T01:20:02Z",
-      "category": "WHITE HAT",
-      "summary": "Hookwarden tool finds webhook HMAC bugs across multiple languages in under five minutes. Finally, someone built a tool to catch the authentication failures that keep pwning APIs."
+      "title": "Who is TeamPCP, the rising hacker group targeting open-source software and AI tools?",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/who-is-teampcp-hacker-group-open-source-software-ai-10707205/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-25T12:12:03Z",
+      "category": "BREACH",
+      "summary": "TeamPCP supply chain campaign hits three package ecosystems and even breached GitHub's internal codebase while trojanizing Microsoft's own Python SDK. These folks are either very good or everyone else is very bad."
     },
     {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "title": "The sandworm malware strikes: How a hacker group stole 4,000 GitHub repositories and exposed the rot at the core of modern software security",
+      "url": "https://www.naturalnews.com/2026-05-23-hacker-group-stole-4000-github-repositories.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-23T06:00:00Z",
+      "category": "BREACH",
+      "summary": "Hacker sells 340 million OnlyFans user records compiled from old breaches and public profiles. Someone turned data archaeology into a profitable side hustle targeting adult content consumers."
+    },
+    {
+      "title": "AIPAC, AI, Crypto, and Gambling Are Hiding Their Big Election Spends",
+      "url": "https://theintercept.com/2026/05/22/aipac-ai-crypto-and-gambling-are-hiding-their-big-election-spends/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 22 May 2026 10:00:00 +0000",
       "category": "RIGHTS",
-      "summary": "Congress demands answers as CISA scrambles to contain their contractor's GitHub data leak. When the cybersecurity agency needs cybersecurity help, democracy weeps softly into its keyboard."
+      "summary": "Judge sanctions private prison giant CoreCivic for destroying video evidence in ICE detainee death case. Finally, some accountability for corporations that profit from human misery and evidence destruction."
     }
   ]
 }
