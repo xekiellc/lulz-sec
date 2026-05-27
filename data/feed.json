@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T09:28:49.029Z",
+  "last_updated": "2026-05-27T14:54:49.500Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,47 +7,55 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor dumped AWS GovCloud keys and agency secrets on public GitHub because apparently irony is dead. The cybersecurity agency's own contractor just handed hackers the crown jewels on a silver platter."
+      "summary": "CISA contractor casually drops AWS GovCloud keys on public GitHub like government secrets are Pokemon cards. The agency that's supposed to protect our infrastructure couldn't protect their own lunch money."
     },
     {
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 26 May 2026 16:00:00 +0530",
-      "category": "ZERO DAY",
-      "summary": "Microsoft patches SharePoint RCE flaw CVE-2026-45659 with CVSS 8.8 across server versions. When SharePoint gets pwned, it's not just documents leaking—it's your entire kingdom's keys."
-    },
-    {
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
-      "url": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 26 May 2026 19:18:01 GMT",
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "'Megalodon' malware devoured 5,500+ GitHub repos in just six hours, stealing dev credentials and secrets. The supply chain attack we've all been dreading finally grew teeth."
+      "summary": "Congress goes full Karen-mode on CISA after their contractor leaked enough secrets to embarrass a three-letter agency. Lawmakers demand answers while we demand better OpSec."
     },
     {
-      "title": "Trend Micro users beware - dangerous Apex One zero-day exploited in the wild",
-      "url": "https://www.techradar.com/pro/security/trend-micro-users-beware-dangerous-apex-one-zero-day-exploited-in-the-wild",
-      "source": "TechRadar",
-      "publishedAt": "2026-05-25T19:40:00Z",
-      "category": "ZERO DAY",
-      "summary": "Japanese LMS KnowledgeDeliver exploited as zero-day to deploy Godzilla web shell and Cobalt Strike. When your learning management system teaches hackers how to own your network."
+      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 26 May 2026 19:29:56 GMT",
+      "category": "BREACH",
+      "summary": "TeamPCP unleashes 'Megalodon' malware that devoured 5,500 GitHub repos in six hours like a digital Pac-Man on steroids. Developer credentials got harvested faster than vegetables at a vegan convention."
     },
     {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-25T14:13:27Z",
-      "category": "ZERO DAY",
-      "summary": "Trend Micro Apex One zero-day actively exploited in the wild, already on CISA's KEV list. Nothing says 'enterprise security' like your security product becoming the attack vector."
+      "title": "3 SOC Steps that Shut Down Incident Risks Early",
+      "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 27 May 2026 17:15:00 +0530",
+      "category": "BREACH",
+      "summary": "CrowdStrike teams up with Google to takedown GlassWorm's supply chain attack infrastructure. Sometimes the good guys actually win one against the malware peddlers."
     },
     {
-      "title": "(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",
-      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260525__c22",
-      "source": "Ryukoku.ac.jp",
-      "publishedAt": "2026-05-24T15:00:00Z",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 27 May 2026 13:15:52 +0530",
       "category": "ZERO DAY",
-      "summary": "Claude AI helped researcher find 10-year-old RCE in Linux PDF viewers (CVE-2026-46529). When AI starts finding decade-old bugs faster than humans, maybe we should be worried about more than just the singularity."
+      "summary": "Gitea vulnerability lets anyone yank private container images without authentication. It's like having a secret vault with a door that opens for literally anyone who knocks."
+    },
+    {
+      "title": "Conifers rolls out AI-powered SOC for unified security operations and automated response",
+      "url": "https://www.helpnetsecurity.com/2026/05/26/conifers-ai-agentic-soc/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-26T13:45:36Z",
+      "category": "ZERO DAY",
+      "summary": "Trend Micro Apex One gets pwned by path traversal bug that's already being exploited in the wild. CISA throws up the warning flags faster than you can say 'zero-day'."
+    },
+    {
+      "title": "EXPOSURE 2026 prepares cybersecurity professionals for the AI era",
+      "url": "https://www.tenable.com/blog/exposure-2026-prepares-cybersecurity-professionals-for-the-ai-era",
+      "source": "Tenable.com",
+      "publishedAt": "2026-05-26T14:07:00Z",
+      "category": "WHITE HAT",
+      "summary": "Anthropic's Claude AI discovers 10,000+ critical vulnerabilities in software systems. When the machines start finding our bugs better than we do, it's time to step up our game."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -55,31 +63,23 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "EFF exposes police using license plate readers for school residency checks and noise complaints—because surveillance creep never sleeps. Your commute is now evidence in crimes you didn't know existed."
+      "summary": "EFF exposes how license plate readers have gone full surveillance state - now tracking school residency and noise complaints. Mission creep at its finest, folks."
     },
     {
-      "title": "CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril) - medeiros.zip",
-      "url": "https://medeiros.zip/posts/CVE-2026-46529-evince",
-      "source": "Medeiros.zip",
-      "publishedAt": "2026-05-25T05:47:01Z",
-      "category": "BREACH",
-      "summary": "TeamPCP supply chain campaign hits GitHub's own codebase and trojanizes Microsoft's Python SDK. When the guardians need guardians, we're officially through the looking glass."
-    },
-    {
-      "title": "CISA faces cuts and diminished role amid rising AI cyber threats",
-      "url": "https://cryptobriefing.com/cisa-cuts-ai-cyber-threats/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-26T08:56:39Z",
-      "category": "RIGHTS",
-      "summary": "India's CERT-In mandates 12-hour patching for internet-facing flaws as AI-assisted attacks accelerate. Twelve hours to save your infrastructure—no pressure, just the entire digital economy at stake."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "title": "Your Privacy Shouldn't Be A Corporate Decision",
+      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
       "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a win for encrypted messaging against government backdoor demands. End-to-end encryption remains unbroken, democracy slightly less broken."
+      "summary": "Microsoft takes baby steps toward human rights accountability while Google and Amazon pretend they're just neutral cloud providers. At least someone's trying to grow a conscience."
+    },
+    {
+      "title": "ABB Terra AC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "source": "Cisa.gov",
+      "publishedAt": "2026-05-26T12:00:00Z",
+      "category": "BREACH",
+      "summary": "TeamPCP's supply chain campaign spreads across three package ecosystems and even infiltrated GitHub's own codebase. These absolute madlads trojaned Microsoft's Python SDK and open-sourced their attack framework."
     }
   ]
 }
