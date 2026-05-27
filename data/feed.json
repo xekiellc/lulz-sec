@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T02:30:55.026Z",
+  "last_updated": "2026-05-27T09:28:49.029Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys and internal secrets on GitHub because apparently cybersecurity agencies need cybersecurity too. The irony is so thick you could patch vulnerabilities with it."
+      "summary": "CISA contractor dumped AWS GovCloud keys and agency secrets on public GitHub because apparently irony is dead. The cybersecurity agency's own contractor just handed hackers the crown jewels on a silver platter."
     },
     {
       "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
@@ -15,47 +15,7 @@
       "source": "The Hacker News",
       "publishedAt": "Tue, 26 May 2026 16:00:00 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft patches SharePoint RCE flaw CVE-2026-45659 with CVSS 8.8 — because nothing says 'enterprise security' like remote code execution in your document collaboration platform."
-    },
-    {
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-25T14:13:27Z",
-      "category": "ZERO DAY",
-      "summary": "Trend Micro's Apex One security product has a zero-day being exploited in the wild. When your security software needs security software, we've officially entered the recursive nightmare dimension."
-    },
-    {
-      "title": "Google blocked the first known AI-powered attack on 2FA accounts; here is how hackers tried to break in, know how to stay safe",
-      "url": "https://economictimes.indiatimes.com/wealth/save/google-blocked-the-first-known-ai-powered-attack-on-2fa-accounts-here-is-how-hackers-tried-to-break-in-know-how-to-stay-safe/articleshow/131306144.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-25T09:45:41Z",
-      "category": "ZERO DAY",
-      "summary": "Zero-click WhatsApp takeover hits iOS 16 users with no warnings or linked devices required. Because apparently clicking is now optional for getting completely pwned."
-    },
-    {
-      "title": "(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",
-      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260525__c22",
-      "source": "Ryukoku.ac.jp",
-      "publishedAt": "2026-05-24T15:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Claude AI discovers 10-year-old RCE in Linux PDF viewers because apparently our robot overlords are better at finding ancient bugs than we are. The future is here and it's debugging our past."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF exposes license plate readers being used for school residency verification and noise complaints because surveillance mission creep never met a problem it couldn't inappropriately solve."
-    },
-    {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
-      "category": "RIGHTS",
-      "summary": "Microsoft takes baby steps toward human rights accountability while Google and Amazon continue providing authoritarian regimes with cloud infrastructure. Progress is apparently measured in millimeters."
+      "summary": "Microsoft patches SharePoint RCE flaw CVE-2026-45659 with CVSS 8.8 across server versions. When SharePoint gets pwned, it's not just documents leaking—it's your entire kingdom's keys."
     },
     {
       "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
@@ -63,23 +23,63 @@
       "source": "Dark Reading",
       "publishedAt": "Tue, 26 May 2026 19:18:01 GMT",
       "category": "BREACH",
-      "summary": "Megalodon malware infects 5,500 GitHub repos in six hours, stealing credentials and developer secrets. The supply chain is officially more compromised than a politician's ethics."
+      "summary": "'Megalodon' malware devoured 5,500+ GitHub repos in just six hours, stealing dev credentials and secrets. The supply chain attack we've all been dreading finally grew teeth."
     },
     {
-      "title": "Who is TeamPCP, the rising hacker group targeting open-source software and AI tools?",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/who-is-teampcp-hacker-group-open-source-software-ai-10707205/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-05-25T12:12:03Z",
-      "category": "BREACH",
-      "summary": "TeamPCP supply chain campaign reaches GitHub's internal codebase and trojanizes Microsoft's own Python SDK. When the house always wins, the house is apparently run by hackers."
+      "title": "Trend Micro users beware - dangerous Apex One zero-day exploited in the wild",
+      "url": "https://www.techradar.com/pro/security/trend-micro-users-beware-dangerous-apex-one-zero-day-exploited-in-the-wild",
+      "source": "TechRadar",
+      "publishedAt": "2026-05-25T19:40:00Z",
+      "category": "ZERO DAY",
+      "summary": "Japanese LMS KnowledgeDeliver exploited as zero-day to deploy Godzilla web shell and Cobalt Strike. When your learning management system teaches hackers how to own your network."
     },
     {
-      "title": "TeamPCP Supply Chain Campaign: Activity Through 2026-05-24, (Mon, May 25th)",
-      "url": "https://isc.sans.edu/diary/33016",
-      "source": "Sans.edu",
-      "publishedAt": "2026-05-25T13:26:06Z",
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-25T14:13:27Z",
+      "category": "ZERO DAY",
+      "summary": "Trend Micro Apex One zero-day actively exploited in the wild, already on CISA's KEV list. Nothing says 'enterprise security' like your security product becoming the attack vector."
+    },
+    {
+      "title": "(喝抗紊ф┨ / note, 4/26) Canada Bill C- ...",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260525__c22",
+      "source": "Ryukoku.ac.jp",
+      "publishedAt": "2026-05-24T15:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "Claude AI helped researcher find 10-year-old RCE in Linux PDF viewers (CVE-2026-46529). When AI starts finding decade-old bugs faster than humans, maybe we should be worried about more than just the singularity."
+    },
+    {
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF exposes police using license plate readers for school residency checks and noise complaints—because surveillance creep never sleeps. Your commute is now evidence in crimes you didn't know existed."
+    },
+    {
+      "title": "CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril) - medeiros.zip",
+      "url": "https://medeiros.zip/posts/CVE-2026-46529-evince",
+      "source": "Medeiros.zip",
+      "publishedAt": "2026-05-25T05:47:01Z",
       "category": "BREACH",
-      "summary": "340 million OnlyFans profiles allegedly reconstructed from old breaches and public data correlation. Privacy is dead and data brokers are dancing on its grave with algorithmic precision."
+      "summary": "TeamPCP supply chain campaign hits GitHub's own codebase and trojanizes Microsoft's Python SDK. When the guardians need guardians, we're officially through the looking glass."
+    },
+    {
+      "title": "CISA faces cuts and diminished role amid rising AI cyber threats",
+      "url": "https://cryptobriefing.com/cisa-cuts-ai-cyber-threats/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-26T08:56:39Z",
+      "category": "RIGHTS",
+      "summary": "India's CERT-In mandates 12-hour patching for internet-facing flaws as AI-assisted attacks accelerate. Twelve hours to save your infrastructure—no pressure, just the entire digital economy at stake."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a win for encrypted messaging against government backdoor demands. End-to-end encryption remains unbroken, democracy slightly less broken."
     }
   ]
 }
