@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T14:54:49.500Z",
+  "last_updated": "2026-05-27T19:59:25.047Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually drops AWS GovCloud keys on public GitHub like government secrets are Pokemon cards. The agency that's supposed to protect our infrastructure couldn't protect their own lunch money."
+      "summary": "CISA contractor basically gift-wrapped AWS GovCloud keys and internal secrets on GitHub for the world to see. The cybersecurity agency securing cybersecurity couldn't secure their own shit — poetry in motion."
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -15,47 +15,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "Congress goes full Karen-mode on CISA after their contractor leaked enough secrets to embarrass a three-letter agency. Lawmakers demand answers while we demand better OpSec."
+      "summary": "Congress finally noticed CISA's epic GitHub fuckup and wants answers. When lawmakers are demanding explanations about your data leak, you know someone's getting fired."
     },
     {
-      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
-      "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
       "source": "Dark Reading",
-      "publishedAt": "Tue, 26 May 2026 19:29:56 GMT",
-      "category": "BREACH",
-      "summary": "TeamPCP unleashes 'Megalodon' malware that devoured 5,500 GitHub repos in six hours like a digital Pac-Man on steroids. Developer credentials got harvested faster than vegetables at a vegan convention."
-    },
-    {
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 27 May 2026 17:15:00 +0530",
-      "category": "BREACH",
-      "summary": "CrowdStrike teams up with Google to takedown GlassWorm's supply chain attack infrastructure. Sometimes the good guys actually win one against the malware peddlers."
-    },
-    {
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 27 May 2026 13:15:52 +0530",
+      "publishedAt": "Wed, 27 May 2026 12:11:30 GMT",
       "category": "ZERO DAY",
-      "summary": "Gitea vulnerability lets anyone yank private container images without authentication. It's like having a secret vault with a door that opens for literally anyone who knocks."
+      "summary": "AI is now cranking out exploits faster than your vulnerability scanner can say 'oh fuck.' The robots aren't coming for our jobs — they're coming for our unpatched systems first."
     },
     {
-      "title": "Conifers rolls out AI-powered SOC for unified security operations and automated response",
-      "url": "https://www.helpnetsecurity.com/2026/05/26/conifers-ai-agentic-soc/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-26T13:45:36Z",
+      "title": "Privacy commissioner to monitor security upgrades after Manage My Health hack",
+      "url": "https://www.rnz.co.nz/news/health/596425/privacy-commissioner-to-monitor-security-upgrades-after-manage-my-health-hack",
+      "source": "RNZ",
+      "publishedAt": "2026-05-26T17:55:54Z",
       "category": "ZERO DAY",
-      "summary": "Trend Micro Apex One gets pwned by path traversal bug that's already being exploited in the wild. CISA throws up the warning flags faster than you can say 'zero-day'."
-    },
-    {
-      "title": "EXPOSURE 2026 prepares cybersecurity professionals for the AI era",
-      "url": "https://www.tenable.com/blog/exposure-2026-prepares-cybersecurity-professionals-for-the-ai-era",
-      "source": "Tenable.com",
-      "publishedAt": "2026-05-26T14:07:00Z",
-      "category": "WHITE HAT",
-      "summary": "Anthropic's Claude AI discovers 10,000+ critical vulnerabilities in software systems. When the machines start finding our bugs better than we do, it's time to step up our game."
+      "summary": "Trend Micro Apex One got pwned via zero-day path traversal, now CISA's waving red flags. Because nothing says 'cybersecurity vendor' like getting actively exploited in the wild."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -63,23 +39,47 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "EFF exposes how license plate readers have gone full surveillance state - now tracking school residency and noise complaints. Mission creep at its finest, folks."
+      "summary": "License plate readers are now the Swiss Army knife of surveillance — tracking school kids, background checks, noise complaints. Mission creep? More like mission sprint toward dystopia."
     },
     {
-      "title": "Your Privacy Shouldn't Be A Corporate Decision",
-      "url": "https://www.eff.org/deeplinks/2026/05/your-privacy-shouldnt-be-corporate-decision",
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
       "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 15:06:13 +0000",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "Microsoft takes baby steps toward human rights accountability while Google and Amazon pretend they're just neutral cloud providers. At least someone's trying to grow a conscience."
+      "summary": "EFF scored a win for encrypted messaging, proving that sometimes the good guys actually win one. Your Signal chats remain safe from prying eyes, for now."
     },
     {
-      "title": "ABB Terra AC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
-      "source": "Cisa.gov",
-      "publishedAt": "2026-05-26T12:00:00Z",
+      "title": "3 SOC Steps that Shut Down Incident Risks Early",
+      "url": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 27 May 2026 17:15:00 +0530",
+      "category": "WHITE HAT",
+      "summary": "CrowdStrike and Google tag-teamed the GlassWorm malware infrastructure into oblivion. Developer supply chain attacks got a serious reality check from some white hat justice."
+    },
+    {
+      "title": "EXPOSURE 2026 prepares cybersecurity professionals for the AI era",
+      "url": "https://www.tenable.com/blog/exposure-2026-prepares-cybersecurity-professionals-for-the-ai-era",
+      "source": "Tenable.com",
+      "publishedAt": "2026-05-26T14:07:00Z",
+      "category": "WHITE HAT",
+      "summary": "Anthropic's Claude AI found 10,000+ critical vulnerabilities because apparently robots are better at finding bugs than humans. The machines are saving us from ourselves, one CVE at a time."
+    },
+    {
+      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 26 May 2026 19:29:56 GMT",
       "category": "BREACH",
-      "summary": "TeamPCP's supply chain campaign spreads across three package ecosystems and even infiltrated GitHub's own codebase. These absolute madlads trojaned Microsoft's Python SDK and open-sourced their attack framework."
+      "summary": "'Megalodon' malware devoured 5,500 GitHub repos in six hours, stealing everything that wasn't nailed down. The feeding frenzy proves even developers' sacred repositories aren't safe."
+    },
+    {
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 27 May 2026 18:58:48 +0530",
+      "category": "BREACH",
+      "summary": "Malicious npm package specifically targeted Claude AI users' directories via GitHub. Even AI assistants can't escape the supply chain attack epidemic — nobody is safe."
     }
   ]
 }
