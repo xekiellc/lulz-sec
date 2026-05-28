@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T19:59:25.047Z",
+  "last_updated": "2026-05-28T02:05:34.579Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,47 +7,23 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor basically gift-wrapped AWS GovCloud keys and internal secrets on GitHub for the world to see. The cybersecurity agency securing cybersecurity couldn't secure their own shit — poetry in motion."
+      "summary": "CISA contractor casually dumps AWS GovCloud keys on GitHub like sharing vacation photos. Because nothing says 'cybersecurity expertise' like accidentally publishing the keys to the kingdom for script kiddies to find."
     },
     {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "title": "Zscaler Announces Strong Third-Quarter Fiscal 2026 Results",
+      "url": "https://www.globenewswire.com/news-release/2026/05/26/3301454/0/en/Zscaler-Announces-Strong-Third-Quarter-Fiscal-2026-Results.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-26T20:05:00Z",
+      "category": "ZERO DAY",
+      "summary": "KnowledgeDeliver LMS got schooled by hackers exploiting a zero-day to drop Godzilla web shells. The irony of a 'knowledge delivery' system delivering backdoors instead is *chef's kiss* perfect."
+    },
+    {
+      "title": "Sunrise Movement Backs Saikat Chakrabarti, Progressive Firebrand Behind the Green New Deal",
+      "url": "https://theintercept.com/2026/05/27/sunrise-movement-endorses-saikat-chakrabarti-congress-california/",
+      "source": "The Intercept",
+      "publishedAt": "Wed, 27 May 2026 19:21:52 +0000",
       "category": "BREACH",
-      "summary": "Congress finally noticed CISA's epic GitHub fuckup and wants answers. When lawmakers are demanding explanations about your data leak, you know someone's getting fired."
-    },
-    {
-      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 27 May 2026 12:11:30 GMT",
-      "category": "ZERO DAY",
-      "summary": "AI is now cranking out exploits faster than your vulnerability scanner can say 'oh fuck.' The robots aren't coming for our jobs — they're coming for our unpatched systems first."
-    },
-    {
-      "title": "Privacy commissioner to monitor security upgrades after Manage My Health hack",
-      "url": "https://www.rnz.co.nz/news/health/596425/privacy-commissioner-to-monitor-security-upgrades-after-manage-my-health-hack",
-      "source": "RNZ",
-      "publishedAt": "2026-05-26T17:55:54Z",
-      "category": "ZERO DAY",
-      "summary": "Trend Micro Apex One got pwned via zero-day path traversal, now CISA's waving red flags. Because nothing says 'cybersecurity vendor' like getting actively exploited in the wild."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "RIGHTS",
-      "summary": "License plate readers are now the Swiss Army knife of surveillance — tracking school kids, background checks, noise complaints. Mission creep? More like mission sprint toward dystopia."
-    },
-    {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF scored a win for encrypted messaging, proving that sometimes the good guys actually win one. Your Signal chats remain safe from prying eyes, for now."
+      "summary": "Megalodon malware devoured 5,500 GitHub repos in six hours, proving that supply chain attacks are the new ransomware. Your favorite open source project might be serving credentials as a side dish."
     },
     {
       "title": "3 SOC Steps that Shut Down Incident Risks Early",
@@ -55,23 +31,47 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 27 May 2026 17:15:00 +0530",
       "category": "WHITE HAT",
-      "summary": "CrowdStrike and Google tag-teamed the GlassWorm malware infrastructure into oblivion. Developer supply chain attacks got a serious reality check from some white hat justice."
+      "summary": "CrowdStrike and Google teamed up to nuke GlassWorm's entire C2 infrastructure targeting developers. Finally, some good news in the eternal hellscape of supply chain compromises."
     },
     {
-      "title": "EXPOSURE 2026 prepares cybersecurity professionals for the AI era",
-      "url": "https://www.tenable.com/blog/exposure-2026-prepares-cybersecurity-professionals-for-the-ai-era",
-      "source": "Tenable.com",
-      "publishedAt": "2026-05-26T14:07:00Z",
-      "category": "WHITE HAT",
-      "summary": "Anthropic's Claude AI found 10,000+ critical vulnerabilities because apparently robots are better at finding bugs than humans. The machines are saving us from ourselves, one CVE at a time."
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "RIGHTS",
+      "summary": "License plate readers have evolved from catching actual criminals to enforcing school enrollment and noise complaints. Because apparently Big Brother needed a hobby that involves tracking every grocery store run."
     },
     {
-      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
-      "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates a rare victory for end-to-end encryption in their latest newsletter. In these dark times, we'll take any W we can get for keeping our digital conversations away from three-letter agencies."
+    },
+    {
+      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
       "source": "Dark Reading",
-      "publishedAt": "Tue, 26 May 2026 19:29:56 GMT",
+      "publishedAt": "Wed, 27 May 2026 12:11:30 GMT",
+      "category": "ZERO DAY",
+      "summary": "AI is now helping script kiddies speedrun exploit development faster than security scanners can keep up. The machines aren't taking over—they're just making the humans better at breaking stuff."
+    },
+    {
+      "title": "Latin American Cybercriminals Hoover Up Government Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 27 May 2026 16:19:03 GMT",
       "category": "BREACH",
-      "summary": "'Megalodon' malware devoured 5,500 GitHub repos in six hours, stealing everything that wasn't nailed down. The feeding frenzy proves even developers' sacred repositories aren't safe."
+      "summary": "Silent Ransom Group literally shows up at law firms pretending to be tech support to steal data. Old school social engineering meets modern extortion—sometimes the classics never go out of style."
+    },
+    {
+      "title": "reconprobe added to PyPI",
+      "url": "https://pypi.org/project/reconprobe/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-05-26T15:40:59Z",
+      "category": "BREACH",
+      "summary": "TrapDoor malware targets crypto developers with supply chain attacks that manipulate AI coding assistants. Because apparently poisoning the well wasn't enough—now they're corrupting the AI that writes the code that drinks from the well."
     },
     {
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
@@ -79,7 +79,7 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 27 May 2026 18:58:48 +0530",
       "category": "BREACH",
-      "summary": "Malicious npm package specifically targeted Claude AI users' directories via GitHub. Even AI assistants can't escape the supply chain attack epidemic — nobody is safe."
+      "summary": "Malicious npm package specifically designed to pillage Claude AI's user directory and exfiltrate files via GitHub. Even our AI overlords can't escape having their digital pockets picked by crafty malware."
     }
   ]
 }
