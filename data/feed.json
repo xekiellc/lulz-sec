@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T15:28:01.803Z",
+  "last_updated": "2026-05-28T20:06:03.960Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA, the agency that's supposed to protect everyone else's infrastructure, just got caught with their own pants down after a contractor leaked AWS GovCloud keys on GitHub. Congress is rightfully losing their shit over this spectacular own-goal."
+      "summary": "CISA—the agency that's supposed to protect everyone else's cyber infrastructure—had a contractor casually dropping AWS GovCloud keys on GitHub like breadcrumbs. Congress is rightfully losing their minds over this spectacular own-goal."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,15 +15,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor casually dumped highly privileged AWS GovCloud credentials and internal agency secrets on public GitHub because apparently irony is the only thing government cybersecurity does well. Peak operational security right here, folks."
+      "summary": "A CISA contractor turned GitHub into their personal secrets dumping ground, exposing privileged AWS GovCloud credentials and internal systems to anyone with an internet connection. Peak cybersecurity agency irony achieved."
+    },
+    {
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 28 May 2026 20:56:04 +0530",
+      "category": "ZERO DAY",
+      "summary": "Critical RCE in Gogs Git service scores 9.4 on CVSS—any authenticated user can execute arbitrary code. Self-hosted Git repos just became self-pwned repos."
+    },
+    {
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 28 May 2026 19:23:52 +0530",
+      "category": "ZERO DAY",
+      "summary": "Threat actors are having a field day with that critical FortiClient EMS flaw, turning endpoint management infrastructure into credential-stealing malware delivery systems. Fortinet's security solutions securing nobody but the attackers."
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 28 May 2026 19:03:16 +0530",
+      "category": "WHITE HAT",
+      "summary": "Microsoft throws a tantrum about public zero-day disclosures after GitHub nuked a researcher's account, desperately pleading for 'coordinated disclosure' while probably sitting on unfixed vulns. The audacity is breathtaking."
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
       "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "ZERO DAY",
-      "summary": "AI is apparently getting really good at finding vulns in human code, which explains why this month's Patch Tuesday looks like a CVE explosion. The robots are coming for our bugs before they come for our jobs."
+      "category": "RIGHTS",
+      "summary": "Age verification laws are creating a surveillance hellscape for everyone in the name of 'protecting children.' EFF breaks down how lawmakers are speedrunning the destruction of web privacy and accessibility."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -31,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "EFF analysis reveals cops are using license plate readers for everything from school enrollment checks to noise complaints because mission creep is the most predictable feature of surveillance tech. Warrant? What warrant?"
+      "summary": "License plate readers have gone full mission creep—cops are now using ALPR databases for school residency checks and noise complaints without warrants. Automated surveillance state, one parking violation at a time."
     },
     {
       "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
@@ -39,31 +63,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
       "category": "RIGHTS",
-      "summary": "EFF celebrates a rare win for end-to-end encryption, reminding us that keeping our digital conversations away from prying eyes is still possible when done right. Small victories in the eternal crypto wars."
-    },
-    {
-      "title": "Company CEO flooded file share with smut, called for help after he deleted it",
-      "url": "https://www.theregister.com/security/2026/05/28/company-ceo-flooded-file-share-with-smut-called-for-help-after-he-deleted-it/5247502",
-      "source": "The Register",
-      "publishedAt": "Thu, 28 May 2026 09:00:00 +0200",
-      "category": "BREACH",
-      "summary": "ShinyHunters ransacked Carnival Cruise Lines for 6 million customer records because apparently their security was as watertight as the Titanic. Just another day in the ShinyHunters world tour of corporate incompetence."
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 28 May 2026 19:03:16 +0530",
-      "category": "ZERO DAY",
-      "summary": "Microsoft throws a tantrum about public zero-day disclosures after GitHub researcher accounts get nuked, demanding everyone play nice with coordinated disclosure. Classic Microsoft: shoot the messenger, blame the community."
-    },
-    {
-      "title": "Cogent Security launches autonomous vulnerability response tools as AI-assisted exploits outpace scanners",
-      "url": "https://siliconangle.com/2026/05/27/cogent-security-launches-autonomous-vulnerability-response-tools-ai-assisted-exploits-outpace-scanners/",
-      "source": "SiliconANGLE News",
-      "publishedAt": "2026-05-27T13:00:43Z",
-      "category": "ZERO DAY",
-      "summary": "Cogent launches AI-powered tools to close the exploit-to-remediation gap because traditional scanners move like molasses while exploits spread at light speed. Finally, someone building defenses that match the pace of modern attacks."
+      "summary": "EFF celebrates a rare victory for end-to-end encryption, the one thing standing between our private conversations and the surveillance apparatus. Actual good news in the digital rights wasteland."
     },
     {
       "title": "Tucker Carlson Doles Out Some Truly Strange Credit Card Advice",
@@ -71,15 +71,15 @@
       "source": "HuffPost",
       "publishedAt": "2026-05-27T01:47:16Z",
       "category": "BREACH",
-      "summary": "Indian student hacker claims to have breached CBSE's exam evaluation system while the board insists it was just a 'testing platform' - because nothing says educational integrity like arguing over which system got owned. Plot twist: the kid disputes their damage control."
+      "summary": "Student hacker claims they breached India's CBSE exam evaluation system while the board insists it was just a 'testing platform.' Classic 'it's not a breach if we call it something else' defense strategy."
     },
     {
-      "title": "Cogent zeroes in on zero-day response for rapid remediation",
-      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Cogent-zeroes-in-on-zero-day-response-for-rapid-remediation",
-      "source": "ComputerWeekly.com",
-      "publishedAt": "2026-05-27T12:22:38Z",
-      "category": "BREACH",
-      "summary": "CBSE's digital exam portal faces government audit after scoring glitches and hack claims surface, proving that even standardized testing isn't immune to the universal law of digital clusterfucks. IIT gets called in to clean up the mess."
+      "title": "TrendAI™ is recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection Platforms",
+      "url": "https://www.prnewswire.com/news-releases/trendai-is-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection-platforms-302783303.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-05-27T15:13:00Z",
+      "category": "WHITE HAT",
+      "summary": "New research shows multi-agent LLM systems can automate vulnerability discovery and reproduction, potentially finding some of those 50,000 CVEs faster than humans. AI finally doing something useful for security instead of just hallucinating threats."
     }
   ]
 }
