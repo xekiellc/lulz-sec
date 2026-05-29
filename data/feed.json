@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T14:42:56.822Z",
+  "last_updated": "2026-05-29T20:08:37.063Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA—the agency supposed to secure America's infrastructure—had a contractor accidentally leak AWS GovCloud keys and internal secrets on GitHub. The irony is so thick you could mine cryptocurrency with it."
+      "summary": "CISA contractors somehow managed to leak AWS GovCloud keys on GitHub, because apparently the agency tasked with securing America's infrastructure can't secure its own damn repositories. The irony is so thick you could cut it with a compromised API key."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,7 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor maintained a public GitHub repo exposing highly privileged AWS GovCloud credentials and internal systems. When the cybersecurity watchdog accidentally becomes the watched."
+      "summary": "A CISA contractor casually dumped highly privileged AWS GovCloud credentials on public GitHub because why secure the cybersecurity agency's crown jewels? Peak government IT incompetence achieved."
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Age verification systems are creating a surveillance hellscape for everyone in the name of 'protecting the children.' EFF breaks down why this privacy nightmare benefits no one except data brokers."
+      "summary": "Age verification laws are creating a surveillance hellscape that would make Orwell weep, turning the entire internet into a giant ID checkpoint. Protecting kids by violating everyone's privacy is like burning down the house to kill a spider."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -31,23 +31,31 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers meant for 'crime fighting' are now being used for school residency checks and noise complaints. Mission creep at its finest—because who needs the Fourth Amendment anyway?"
+      "summary": "License plate readers have evolved from 'finding stolen cars' to 'stalking citizens for noise complaints and background checks' because mission creep is the only thing law enforcement does efficiently. Automated tyranny, one scan at a time."
     },
     {
-      "title": "Russia-linked threat group put ChatGPT to work from lure to payload",
-      "url": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
+      "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
+      "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
       "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 13:49:45 +0200",
+      "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "ChatGPT will blindly trust browser content, turning web pages into payloads. AI so smart it forgot basic security fundamentals—truly the future we deserve."
+      "summary": "Critical RCE bug in Gogs Git service remains unfixed since March, with maintainers ghosting the researcher like a bad Tinder date. Exploit module is already out because responsible disclosure only works when maintainers give a damn."
     },
     {
-      "title": "Cloudflare's AI pivot: Agentic AI risk considerations for IT execs",
-      "url": "https://www.techtarget.com/searchcio/feature/Cloudflares-AI-pivot-Agentic-AI-risk-considerations-for-IT-execs",
-      "source": "Techtarget.com",
-      "publishedAt": "2026-05-28T14:37:00Z",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
       "category": "ZERO DAY",
-      "summary": "Critical RCE vulnerability in Gogs Git service rated 9.4 CVSS lets any authenticated user execute arbitrary code. Self-hosted freedom comes with self-hosted vulnerabilities, apparently."
+      "summary": "ChatGPT's blind trust in browser content creates perfect phishing opportunities, proving AI is just as gullible as humans but with better grammar. The future is automated stupidity at scale."
+    },
+    {
+      "title": "(The Hacker News, 5/28) A shared re ...",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__nightmareeclipse",
+      "source": "Ryukoku.ac.jp",
+      "publishedAt": "2026-05-28T15:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "FortiClient EMS vulnerability (CVE-2026-35616) is being actively exploited to deploy malware, because patch Tuesday is apparently more like patch Eventually. Critical CVSS 9.1 score means this one hurts."
     },
     {
       "title": "Physical activity and depressive symptoms among Chinese university students: Grit as a mediator",
@@ -55,31 +63,23 @@
       "source": "Plos.org",
       "publishedAt": "2026-05-28T14:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Unpatched zero-day in Gogs self-hosted Git service allows remote code execution on internet-facing instances. Open source, open season."
+      "summary": "Unpatched Gogs zero-day delivers remote code execution to anyone brave enough to poke internet-facing instances. When your Git service becomes a gift to hackers, it's time to find new maintainers."
     },
     {
-      "title": "\"I have proof for every single word\": This security researcher's GitHub and Microsoft accounts were deleted after claiming a Windows 11 exploit in BitLocker is by design",
-      "url": "https://www.windowscentral.com/microsoft/security-researcher-github-microsoft-accounts-deleted-windows-11-exploit-bitlocker",
-      "source": "Windows Central",
-      "publishedAt": "2026-05-28T13:38:22Z",
-      "category": "RIGHTS",
-      "summary": "Microsoft slams public zero-day disclosures while simultaneously deleting researcher accounts who find Windows exploits. Corporate gaslighting meets responsible disclosure theater."
-    },
-    {
-      "title": "I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-to-add-a-vpn-to-your-smart-tv/",
-      "source": "ZDNet",
-      "publishedAt": "2026-05-28T12:00:39Z",
-      "category": "LEGENDS",
-      "summary": "Microsoft nuked a researcher's GitHub and accounts after they exposed a Windows 11 BitLocker exploit, claiming the backdoor was 'by design.' When you find the smoking gun but they shoot the messenger."
-    },
-    {
-      "title": "Troops’ phones gave away location data to foreign adversaries",
-      "url": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
+      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
       "source": "The Register",
-      "publishedAt": "Thu, 28 May 2026 23:35:36 +0200",
+      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
       "category": "BREACH",
-      "summary": "ShinyHunters adds Charter to their trophy collection after leaking 4.9M customer records. Charter insists 'no sensitive data' was stolen—because names, addresses, and phone numbers are totally worthless, right?"
+      "summary": "23andMe inherits lawsuit over their 'disturbing' DNA breach where they allegedly downplayed the mega-leak while paying ransom to attackers. Your genetic privacy sold separately, refunds not included."
+    },
+    {
+      "title": "Tucker Carlson Doles Out Some Truly Strange Credit Card Advice",
+      "url": "https://www.huffpost.com/entry/tucker-carlson-dont-pay-credit-cards_n_6a1628abe4b0ddcc84649a38",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-27T01:47:16Z",
+      "category": "BREACH",
+      "summary": "Student hacker claims to breach CBSE's exam system while the board insists it was just a 'testing platform' because nothing says credible denial like arguing semantics. Either way, someone's evaluation system got schooled."
     }
   ]
 }
