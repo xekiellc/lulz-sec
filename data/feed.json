@@ -1,37 +1,21 @@
 {
-  "last_updated": "2026-05-29T02:10:06.814Z",
+  "last_updated": "2026-05-29T09:35:34.487Z",
   "articles": [
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally turned GitHub into their personal AWS key dumping ground, exposing GovCloud credentials like it's amateur hour. Congress is rightfully losing their minds over America's cybersecurity agency getting owned by basic OpSec failures."
+    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally turned GitHub into their personal confessional, dumping AWS GovCloud keys and agency secrets for the world to see. The agency tasked with protecting America's cyber infrastructure just got schooled in OPSEC 101."
-    },
-    {
-      "title": "Snowflake buys Natoma to help freeze out rogue agents",
-      "url": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
-      "source": "The Register",
-      "publishedAt": "Thu, 28 May 2026 21:52:47 +0200",
-      "category": "ZERO DAY",
-      "summary": "Disgruntled bug hunter threatens 'bone shattering drop' of six zero-days after Microsoft apparently hurt their feelings. When coordinated disclosure goes full scorched earth, we all win."
-    },
-    {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 28 May 2026 20:56:04 +0530",
-      "category": "ZERO DAY",
-      "summary": "Critical RCE in Gogs Git service lets any authenticated user execute arbitrary code with a beautiful 9.4 CVSS score. Self-hosted doesn't mean self-secured, apparently."
-    },
-    {
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 28 May 2026 19:03:16 +0530",
-      "category": "WHITE HAT",
-      "summary": "Microsoft throws tantrum over public zero-day disclosures while simultaneously nuking researcher GitHub accounts. Peak corporate hypocrisy: demanding responsible disclosure while being irresponsible custodians."
+      "summary": "A CISA contractor casually left AWS GovCloud keys on public GitHub because apparently security through obscurity died and nobody told them. The cybersecurity agency got cybersecurity'd by their own contractor's spectacular GitHub fail."
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
@@ -39,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Age verification laws are creating a privacy apocalypse for everyone, not just kids. EFF sounds the alarm as lawmakers rush to break the internet in the name of 'protecting children.'"
+      "summary": "Age verification laws are turning into a surveillance state wet dream, forcing everyone to doxx themselves to protect the children™. EFF correctly identifies this as the privacy nightmare it obviously is."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -47,39 +31,55 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers have gone full mission creep—now they're checking school residency and handling noise complaints. Because nothing says 'serving and protecting' like automated surveillance for paperwork violations."
+      "summary": "License plate readers have evolved from crime fighting to full-spectrum life stalking, now used for school residency checks and noise complaints. Because nothing says 'freedom' like having your every movement tracked for the most mundane bureaucratic purposes."
+    },
+    {
+      "title": "Snowflake buys Natoma to help freeze out rogue agents",
+      "url": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+      "source": "The Register",
+      "publishedAt": "Thu, 28 May 2026 21:52:47 +0200",
+      "category": "ZERO DAY",
+      "summary": "Disgruntled researcher promises Microsoft a 'bone shattering drop' of six zero-days after feeling 'humiliated' by Redmond's response. This is what happens when you piss off someone who literally holds the keys to your kingdom."
+    },
+    {
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 28 May 2026 20:56:04 +0530",
+      "category": "ZERO DAY",
+      "summary": "Critical RCE in Gogs Git service lets any authenticated user execute arbitrary code with a CVSS 9.4 rating. Self-hosted Git just became self-pwned Git for anyone running this popular repository manager."
+    },
+    {
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 28 May 2026 19:03:16 +0530",
+      "category": "ZERO DAY",
+      "summary": "Microsoft removes researcher's GitHub account then lectures everyone about 'responsible disclosure' like they're the victims. Peak corporate gaslighting: silence the messenger, then complain about the message delivery method."
     },
     {
       "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops",
       "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
       "source": "The Register",
       "publishedAt": "Thu, 28 May 2026 22:19:09 +0200",
-      "category": "BREACH",
-      "summary": "Military smartphones leaked troop locations to foreign adversaries through commercial tracking data. Turns out Candy Crush achievements aren't worth compromising national security."
+      "category": "RIGHTS",
+      "summary": "Military personnel's smartphones leaked location data to foreign adversaries because apparently OPSEC training doesn't cover commercial tracking. DoD finally realizes that maybe soldiers shouldn't be broadcasting their positions via Candy Crush."
     },
     {
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
       "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
       "source": "The Hacker News",
       "publishedAt": "Thu, 28 May 2026 19:23:52 +0530",
-      "category": "ZERO DAY",
-      "summary": "Attackers exploit critical FortiClient EMS flaw to deploy credential stealers via trusted endpoint management. When your security infrastructure becomes the attack vector, you're doing cybersecurity wrong."
-    },
-    {
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 28 May 2026 22:54:44 +0530",
       "category": "BREACH",
-      "summary": "ShinyHunters made off with 6 million Carnival customer records in April, because apparently cruise ship security is as watertight as their hull integrity. Another notch in the ransomware crew's belt."
+      "summary": "Threat actors exploit critical FortiClient EMS flaw to turn endpoint management into malware delivery infrastructure. Nothing quite like having your security solution become the very thing it was supposed to protect against."
     },
     {
-      "title": "TrendAI™ is recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Endpoint Protection Platforms",
-      "url": "https://www.prnewswire.com/news-releases/trendai-is-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection-platforms-302783303.html",
-      "source": "PRNewswire",
-      "publishedAt": "2026-05-27T15:13:00Z",
-      "category": "WHITE HAT",
-      "summary": "Researchers deploy multi-agent LLM systems for automated vulnerability discovery as CVEs hit 50K in 2025. AI vs AI—the future of cybersecurity is robots finding bugs other robots created."
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 29 May 2026 11:27:41 +0530",
+      "category": "BREACH",
+      "summary": "ShinyHunters sailed away with 6 million Carnival customer records in April breach, proving that cruise ship security is about as watertight as their reputation. Another day, another massive breach from the gift that keeps on giving."
     }
   ]
 }
