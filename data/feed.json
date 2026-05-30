@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T13:03:04.545Z",
+  "last_updated": "2026-05-30T18:59:27.915Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,15 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys on public GitHub like it's their personal diary. When the agency responsible for cybersecurity can't secure their own crown jewels, you know we're living in the best timeline."
-    },
-    {
-      "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
-      "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
-      "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
-      "category": "ZERO DAY",
-      "summary": "Critical RCE in Gogs Git service sits unfixed since March while maintainers ghost the researcher. Exploit module already in the wild because apparently responsible disclosure is a one-way street."
+      "summary": "CISA contractor accidentally yeeted AWS GovCloud credentials to GitHub like it's 2019. The agency tasked with protecting us from ourselves just doxxed their own crown jewels."
     },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
@@ -23,47 +15,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
       "category": "ZERO DAY",
-      "summary": "Palo Alto's GlobalProtect auth bypass (CVE-2026-0257) getting hammered in the wild. Nothing says 'enterprise security' like your VPN gateway becoming a welcome mat for attackers."
+      "summary": "Palo Alto's GlobalProtect authentication bypass is getting hammered in the wild. When your security appliance becomes the front door, you're gonna have a bad time."
     },
     {
-      "title": "New infostealer reaches enterprise devices through FortiClient EMS vulnerability",
-      "url": "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-29T11:45:59Z",
-      "category": "BREACH",
-      "summary": "Microsoft throws tantrum after researcher dumps zero-days without permission. Maybe if Redmond actually responded to vulnerability reports instead of playing dead, this wouldn't happen."
-    },
-    {
-      "title": "New infosec products of the month: May 2026",
-      "url": "https://www.helpnetsecurity.com/2026/05/29/new-infosec-products-of-the-month-may-2026/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-29T04:00:35Z",
+      "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
+      "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
+      "source": "The Register",
+      "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "Researcher drops 6 Windows zero-days after Microsoft ignores them, now 3 are being exploited. Classic tale of 'responsible disclosure' meeting corporate indifference — guess who wins?"
-    },
-    {
-      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-      "source": "EFF",
-      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "RIGHTS",
-      "summary": "Age verification laws create surveillance dystopia for everyone while pretending to protect kids. Because nothing says 'child safety' like forcing adults to upload government IDs to access memes."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "RIGHTS",
-      "summary": "License plate readers now used for school residency checks and noise complaints because mission creep never met a surveillance tool it didn't love. Your commute is now evidence for everything."
-    },
-    {
-      "title": "Microsoft Calls the Zero-Day Dumps Irresponsible. The Researcher Says Microsoft Started It.",
-      "url": "https://securityaffairs.com/192865/security/microsoft-calls-the-zero-day-dumps-irresponsible-the-researcher-says-microsoft-started-it.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-05-29T10:51:26Z",
-      "category": "BREACH",
-      "summary": "Attackers hijack FortiClient EMS vulnerability to push enterprise infostealer disguised as legit updates. When your security vendor becomes the attack vector, that's peak 2026 energy."
+      "summary": "Critical RCE in Gogs Git service sits unfixed since March while maintainers ghost the researcher. Open source responsiveness at its finest—exploit module already in the wild."
     },
     {
       "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
@@ -71,15 +31,55 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
       "category": "BREACH",
-      "summary": "23andMe lawsuit reveals they downplayed massive DNA breach while allegedly paying ransom. Your genetic secrets: stolen, sold, and covered up — but hey, at least you know you're 2% Viking."
+      "summary": "23andMe gets sued over their 2023 mega-leak while California AG claims they downplayed the breach and paid ransom. Your genetic data: compromised with a side of corporate gaslighting."
     },
     {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-28T15:26:04Z",
+      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+      "source": "EFF",
+      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
+      "category": "RIGHTS",
+      "summary": "Age verification laws create a privacy nightmare for everyone while pretending to protect kids. Lawmakers speedrunning the destruction of anonymous internet access."
+    },
+    {
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "RIGHTS",
+      "summary": "Police abuse license plate readers for school residency checks and noise complaints because mission creep is a feature, not a bug. Surveillance state gonna surveil."
+    },
+    {
+      "title": "Biden Sues DOJ to Block Release of Ghostwriter Audio in Classified Documents Probe",
+      "url": "https://www.ibtimes.com.au/biden-sues-block-ghostwriter-recordings-release-1869540",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-27T12:42:29Z",
       "category": "ZERO DAY",
-      "summary": "Critical RCE in Gogs Git service scores 9.4 CVSS, lets any authenticated user own the server. Self-hosted Git repos becoming self-owned faster than you can say 'git push origin pwned'."
+      "summary": "FortiClient EMS authentication bypass gets weaponized to push new EKZ infostealer. Another day, another enterprise security product becoming the attack vector."
+    },
+    {
+      "title": "This Week in Security: Ubiquiti Fixes, and FreeBSD Joins the Club you Don’t Want to Join",
+      "url": "https://hackaday.com/2026/05/29/this-week-in-security-ubiquiti-fixes-and-freebsd-joins-the-club-you-dont-want-to-join/",
+      "source": "Hackaday",
+      "publishedAt": "2026-05-29T14:00:19Z",
+      "category": "WHITE HAT",
+      "summary": "Bug hunter threatens 'bone shattering drop' after Microsoft 'humiliation'—sounds like responsible disclosure went full Joker arc. Popcorn stocks rising."
+    },
+    {
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 29 May 2026 17:01:59 +0530",
+      "category": "BREACH",
+      "summary": "Attackers exploit Marimo CVE then deploy LLM agents for post-exploitation activities. AI vs AI warfare has officially entered the chat—the future is beautifully dystopian."
+    },
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "category": "FOIA",
+      "summary": "Congress demands answers from CISA after their contractor's GitHub leak exposed agency secrets. Accountability theater begins as lawmakers clutch pearls over cybersecurity agency face-plant."
     }
   ]
 }
