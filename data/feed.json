@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T08:16:21.677Z",
+  "last_updated": "2026-05-30T13:03:04.545Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,31 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally published AWS GovCloud keys on GitHub like it's their personal diary. The agency tasked with protecting America's cyber infrastructure just leaked its own crown jewels to the internet."
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
-      "category": "ZERO DAY",
-      "summary": "Palo Alto's PAN-OS GlobalProtect has an auth bypass vulnerability under active exploitation. Because nothing says 'global protect' like letting attackers waltz right past your authentication."
-    },
-    {
-      "title": "Microsoft Threatens Researcher Over Bug Reports, Triggers Cybersecurity Uproar",
-      "url": "https://uk.pcmag.com/security/165215/microsoft-threatens-researcher-over-bug-reports-triggers-cybersecurity-uproar",
-      "source": "PCMag.com",
-      "publishedAt": "2026-05-28T20:18:22Z",
-      "category": "ZERO DAY",
-      "summary": "Disgruntled researcher threatens to drop six zero-days after Microsoft 'humiliated' them and called the cops. Sometimes the house always wins, except when it doesn't."
-    },
-    {
-      "title": "Zscaler Stock Plunges on Weak Guidance. Investors Were Maybe Right to Worry About an AI Apocalypse.",
-      "url": "https://www.barchart.com/story/news/2181770/zscaler-stock-plunges-on-weak-guidance-investors-were-maybe-right-to-worry-about-an-ai-apocalypse",
-      "source": "Barchart.com",
-      "publishedAt": "2026-05-28T16:37:02Z",
-      "category": "RIGHTS",
-      "summary": "Microsoft threatens legal action against researcher for exposing Windows bugs, triggering cybersecurity community uproar. Nothing screams 'we care about security' like siccing lawyers on bug hunters."
+      "summary": "CISA contractor casually dumped AWS GovCloud keys on public GitHub like it's their personal diary. When the agency responsible for cybersecurity can't secure their own crown jewels, you know we're living in the best timeline."
     },
     {
       "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
@@ -39,31 +15,31 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "Critical RCE bug in open-source Git service Gogs remains unfixed since March, exploit module now available. Maintainers went full ghost mode while the vulnerability goes full public."
+      "summary": "Critical RCE in Gogs Git service sits unfixed since March while maintainers ghost the researcher. Exploit module already in the wild because apparently responsible disclosure is a one-way street."
     },
     {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-28T15:26:04Z",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
       "category": "ZERO DAY",
-      "summary": "Critical 9.4 CVSS vulnerability in Gogs allows authenticated users to execute arbitrary code. Self-hosted Git service becomes self-pwned Git service with one simple trick."
+      "summary": "Palo Alto's GlobalProtect auth bypass (CVE-2026-0257) getting hammered in the wild. Nothing says 'enterprise security' like your VPN gateway becoming a welcome mat for attackers."
     },
     {
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-28T17:24:44Z",
-      "category": "ZERO DAY",
-      "summary": "Hackers exploiting FortiClient EMS auth bypass to push EKZ infostealer malware. Enterprise management server becomes enterprise pwning server courtesy of CVE-2026-35616."
-    },
-    {
-      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
-      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
-      "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
+      "title": "New infostealer reaches enterprise devices through FortiClient EMS vulnerability",
+      "url": "https://www.helpnetsecurity.com/2026/05/29/forticlient-ems-vulnerability-infostealer/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-29T11:45:59Z",
       "category": "BREACH",
-      "summary": "23andMe inherits lawsuit over 'disturbing' DNA data breach, California AG claims they downplayed the mega-leak while paying ransom. Your genetic privacy sold separately, apparently."
+      "summary": "Microsoft throws tantrum after researcher dumps zero-days without permission. Maybe if Redmond actually responded to vulnerability reports instead of playing dead, this wouldn't happen."
+    },
+    {
+      "title": "New infosec products of the month: May 2026",
+      "url": "https://www.helpnetsecurity.com/2026/05/29/new-infosec-products-of-the-month-may-2026/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-29T04:00:35Z",
+      "category": "ZERO DAY",
+      "summary": "Researcher drops 6 Windows zero-days after Microsoft ignores them, now 3 are being exploited. Classic tale of 'responsible disclosure' meeting corporate indifference — guess who wins?"
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
@@ -71,7 +47,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Age verification creates a privacy and security nightmare for everyone in lawmakers' rush to protect kids online. Digital ID requirements: because nothing protects children like surveilling everyone."
+      "summary": "Age verification laws create surveillance dystopia for everyone while pretending to protect kids. Because nothing says 'child safety' like forcing adults to upload government IDs to access memes."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -79,7 +55,31 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers now used for school residency verification and noise complaints, because mission creep is the only mission that never fails. ALPR surveillance: not just for actual crimes anymore."
+      "summary": "License plate readers now used for school residency checks and noise complaints because mission creep never met a surveillance tool it didn't love. Your commute is now evidence for everything."
+    },
+    {
+      "title": "Microsoft Calls the Zero-Day Dumps Irresponsible. The Researcher Says Microsoft Started It.",
+      "url": "https://securityaffairs.com/192865/security/microsoft-calls-the-zero-day-dumps-irresponsible-the-researcher-says-microsoft-started-it.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-05-29T10:51:26Z",
+      "category": "BREACH",
+      "summary": "Attackers hijack FortiClient EMS vulnerability to push enterprise infostealer disguised as legit updates. When your security vendor becomes the attack vector, that's peak 2026 energy."
+    },
+    {
+      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
+      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
+      "source": "The Register",
+      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
+      "category": "BREACH",
+      "summary": "23andMe lawsuit reveals they downplayed massive DNA breach while allegedly paying ransom. Your genetic secrets: stolen, sold, and covered up — but hey, at least you know you're 2% Viking."
+    },
+    {
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-28T15:26:04Z",
+      "category": "ZERO DAY",
+      "summary": "Critical RCE in Gogs Git service scores 9.4 CVSS, lets any authenticated user own the server. Self-hosted Git repos becoming self-owned faster than you can say 'git push origin pwned'."
     }
   ]
 }
