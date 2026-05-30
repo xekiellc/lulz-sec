@@ -1,37 +1,13 @@
 {
-  "last_updated": "2026-05-29T20:08:37.063Z",
+  "last_updated": "2026-05-30T02:05:02.868Z",
   "articles": [
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractors somehow managed to leak AWS GovCloud keys on GitHub, because apparently the agency tasked with securing America's infrastructure can't secure its own damn repositories. The irony is so thick you could cut it with a compromised API key."
-    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor casually dumped highly privileged AWS GovCloud credentials on public GitHub because why secure the cybersecurity agency's crown jewels? Peak government IT incompetence achieved."
-    },
-    {
-      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-      "source": "EFF",
-      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "RIGHTS",
-      "summary": "Age verification laws are creating a surveillance hellscape that would make Orwell weep, turning the entire internet into a giant ID checkpoint. Protecting kids by violating everyone's privacy is like burning down the house to kill a spider."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "RIGHTS",
-      "summary": "License plate readers have evolved from 'finding stolen cars' to 'stalking citizens for noise complaints and background checks' because mission creep is the only thing law enforcement does efficiently. Automated tyranny, one scan at a time."
+      "summary": "CISA contractor casually dumped AWS GovCloud keys on GitHub like it's a fucking recipe collection. The agency responsible for protecting critical infrastructure just leaked the keys to the kingdom — peak cybersecurity theater."
     },
     {
       "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
@@ -39,31 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "Critical RCE bug in Gogs Git service remains unfixed since March, with maintainers ghosting the researcher like a bad Tinder date. Exploit module is already out because responsible disclosure only works when maintainers give a damn."
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
-      "category": "ZERO DAY",
-      "summary": "ChatGPT's blind trust in browser content creates perfect phishing opportunities, proving AI is just as gullible as humans but with better grammar. The future is automated stupidity at scale."
-    },
-    {
-      "title": "(The Hacker News, 5/28) A shared re ...",
-      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__nightmareeclipse",
-      "source": "Ryukoku.ac.jp",
-      "publishedAt": "2026-05-28T15:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "FortiClient EMS vulnerability (CVE-2026-35616) is being actively exploited to deploy malware, because patch Tuesday is apparently more like patch Eventually. Critical CVSS 9.1 score means this one hurts."
-    },
-    {
-      "title": "Physical activity and depressive symptoms among Chinese university students: Grit as a mediator",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350277",
-      "source": "Plos.org",
-      "publishedAt": "2026-05-28T14:00:00Z",
-      "category": "ZERO DAY",
-      "summary": "Unpatched Gogs zero-day delivers remote code execution to anyone brave enough to poke internet-facing instances. When your Git service becomes a gift to hackers, it's time to find new maintainers."
+      "summary": "Critical RCE in Gogs Git service sitting unfixed since March while maintainers ghost the researcher. Exploit module already public — because nothing says 'responsible disclosure' like radio silence."
     },
     {
       "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
@@ -71,15 +23,63 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
       "category": "BREACH",
-      "summary": "23andMe inherits lawsuit over their 'disturbing' DNA breach where they allegedly downplayed the mega-leak while paying ransom to attackers. Your genetic privacy sold separately, refunds not included."
+      "summary": "23andMe faces lawsuit over their 2023 mega-breach where they downplayed the leak while secretly paying ransom. Your DNA data got pwned and they thought a quiet payout would make it go away."
     },
     {
-      "title": "Tucker Carlson Doles Out Some Truly Strange Credit Card Advice",
-      "url": "https://www.huffpost.com/entry/tucker-carlson-dont-pay-credit-cards_n_6a1628abe4b0ddcc84649a38",
-      "source": "HuffPost",
-      "publishedAt": "2026-05-27T01:47:16Z",
+      "title": "Microsoft Threatens Researcher Over Bug Reports, Triggers Cybersecurity Uproar",
+      "url": "https://uk.pcmag.com/security/165215/microsoft-threatens-researcher-over-bug-reports-triggers-cybersecurity-uproar",
+      "source": "PCMag.com",
+      "publishedAt": "2026-05-28T20:18:22Z",
+      "category": "ZERO DAY",
+      "summary": "Microsoft 'humiliated' 0-day hunter threatens 'bone shattering drop' of six vulns after Redmond calls the cops. Three already under active exploitation — this is what happens when you poke the bear."
+    },
+    {
+      "title": "Zscaler Stock Plunges on Weak Guidance. Investors Were Maybe Right to Worry About an AI Apocalypse.",
+      "url": "https://www.barchart.com/story/news/2181770/zscaler-stock-plunges-on-weak-guidance-investors-were-maybe-right-to-worry-about-an-ai-apocalypse",
+      "source": "Barchart.com",
+      "publishedAt": "2026-05-28T16:37:02Z",
+      "category": "RIGHTS",
+      "summary": "Microsoft threatens legal action against researcher for exposing Windows bugs, triggering cybersecurity community uproar. Nothing says 'security first' like siccing lawyers on people finding your flaws."
+    },
+    {
+      "title": "(The Hacker News, 5/28) A shared re ...",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/05.html#20260529__nightmareeclipse",
+      "source": "Ryukoku.ac.jp",
+      "publishedAt": "2026-05-28T15:00:00Z",
+      "category": "ZERO DAY",
+      "summary": "FortiClient EMS critical flaw (CVE-2026-35616) actively exploited to deploy infostealers after April patch. CVSS 9.1 and threat actors are having a field day with unpatched systems."
+    },
+    {
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-28T17:24:44Z",
       "category": "BREACH",
-      "summary": "Student hacker claims to breach CBSE's exam system while the board insists it was just a 'testing platform' because nothing says credible denial like arguing semantics. Either way, someone's evaluation system got schooled."
+      "summary": "Hackers exploiting FortiClient EMS auth bypass to push 'EKZ' credential stealer malware. Authentication? More like authentication't when your enterprise management server becomes a malware distribution platform."
+    },
+    {
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-28T15:26:04Z",
+      "category": "ZERO DAY",
+      "summary": "Critical 9.4 CVSS RCE in Gogs allows any authenticated user to execute arbitrary code. Popular self-hosted Git service becomes a playground for anyone with login creds and malicious intent."
+    },
+    {
+      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+      "source": "EFF",
+      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
+      "category": "RIGHTS",
+      "summary": "Age verification laws creating privacy nightmare for everyone while lawmakers rush to gatekeep the internet. Because nothing protects kids like destroying privacy and security for all users."
+    },
+    {
+      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
+      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
+      "source": "EFF",
+      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF celebrates win for encrypted messaging against government surveillance overreach. End-to-end encryption remains the last bastion against prying eyes in our digital panopticon."
     }
   ]
 }
