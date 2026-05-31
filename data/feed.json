@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T02:31:45.591Z",
+  "last_updated": "2026-05-31T08:34:26.237Z",
   "articles": [
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor yolo'd AWS GovCloud keys and agency secrets onto public GitHub because apparently 'security through obscurity' doesn't apply when you're literally the cybersecurity agency. Peak irony achieved."
+      "summary": "CISA contractor casually dropped AWS GovCloud keys on GitHub like it's a recipe for banana bread. The irony of America's cybersecurity agency leaking its own crown jewels is so thick you could cut it with a rusty SSH key."
     },
     {
       "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
@@ -15,15 +15,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "Critical RCE in Gogs remains unfixed since March while maintainers ghost the researcher who found it. Nothing says 'responsible disclosure' like radio silence and active exploit modules."
-    },
-    {
-      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
-      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
-      "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
-      "category": "BREACH",
-      "summary": "23andMe gets sued for downplaying their DNA breach while allegedly paying ransom to attackers. Your genetic privacy got sold faster than a startup's user data."
+      "summary": "Critical RCE in Gogs has been sitting unfixed since March while maintainers ghost the researcher who found it. Nothing says 'responsible disclosure' like radio silence and a public exploit module."
     },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
@@ -31,7 +23,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
       "category": "ZERO DAY",
-      "summary": "Palo Alto's PAN-OS auth bypass (CVE-2026-0257) is getting hammered in the wild. When your firewall becomes the front door, you're having a very bad time."
+      "summary": "Palo Alto's GlobalProtect authentication bypass (CVE-2026-0257) is being actively exploited in the wild. Because nothing protects like bypassing the protection entirely."
+    },
+    {
+      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
+      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
+      "source": "The Register",
+      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
+      "category": "BREACH",
+      "summary": "23andMe facing lawsuit over their 2023 mega-breach where they allegedly downplayed the leak while secretly paying ransom. Your DNA data: priceless to science, cheap to hackers."
     },
     {
       "title": "6 million Carnival Cruise customers’ data impacted amid hacker group’s slew of breaches",
@@ -39,15 +39,15 @@
       "source": "New York Post",
       "publishedAt": "2026-05-29T17:44:19Z",
       "category": "ZERO DAY",
-      "summary": "Disgruntled bug hunter promises 'bone shattering' 0-day drop after Microsoft 'humiliation.' Hell hath no fury like a security researcher scorned by corporate arrogance."
+      "summary": "Disgruntled bug hunter 'humiliated' by Microsoft promises a 'bone shattering drop' of zero-days. Hell hath no fury like a vulnerability researcher scorned by Redmond's bureaucracy."
     },
     {
-      "title": "Biden Sues DOJ to Block Release of Ghostwriter Audio in Classified Documents Probe",
-      "url": "https://www.ibtimes.com.au/biden-sues-block-ghostwriter-recordings-release-1869540",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-05-27T12:42:29Z",
-      "category": "ZERO DAY",
-      "summary": "Hackers exploiting FortiClient EMS auth bypass to drop EKZ infostealer because nothing says 'enterprise security' like getting pwned through your own management console."
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Krebs on Security",
+      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
+      "category": "ARCHIVE",
+      "summary": "Netherlands seizes 800 servers and arrests two hosting company owners for enabling Russian cyberattacks. Sometimes the best defense is a good old-fashioned server raid."
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
@@ -55,7 +55,7 @@
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Age verification schemes are privacy nightmares wrapped in 'think of the children' rhetoric. Lawmakers creating surveillance states while claiming to protect kids from seeing boobs online."
+      "summary": "Age verification systems are creating a privacy nightmare for everyone in the name of protecting children. Because nothing says 'safety' like requiring a drivers license to read Twitter."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -63,23 +63,23 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "Police are using license plate readers for everything except actual crime investigation—school residency checks, noise complaints, fishing expeditions. Mission creep or mission sprint?"
+      "summary": "Police are using license plate readers for everything from school residency checks to noise complaints. Mission creep meets surveillance state in a beautiful dystopian waltz."
     },
     {
-      "title": "Microsoft Took a Step Toward Human Rights Accountability. Google and Amazon (and Others) Should Pay Attention!",
-      "url": "https://www.eff.org/deeplinks/2026/05/microsoft-took-step-toward-human-rights-accountability-google-and-amazon-and",
-      "source": "EFF",
-      "publishedAt": "Tue, 19 May 2026 21:03:40 +0000",
-      "category": "RIGHTS",
-      "summary": "EFF scores a win for encrypted messaging, keeping our digital conversations safe from government snoops and corporate data hoarders. End-to-end encryption remains undefeated."
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
       "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "Congress demands answers after CISA's contractor leaked government secrets like a sieve. When the cybersecurity agency can't secure its own shit, democracy weeps."
+      "publishedAt": "Mon, 18 May 2026 20:48:21 +0000",
+      "category": "ARCHIVE",
+      "summary": "23-year-old Ottawa man arrested for building Kimwolf botnet that enslaved millions of IoT devices. Your smart toaster was probably part of his DDoS army and you never even knew."
+    },
+    {
+      "title": "Ask Paul: May 29 ⭐",
+      "url": "https://www.thurrott.com/paul/336733/ask-paul-may-29-2",
+      "source": "Thurrott.com",
+      "publishedAt": "2026-05-29T15:00:23Z",
+      "category": "RIGHTS",
+      "summary": "Canada's Bill C-22 lawful access legislation is being rushed through despite being 'badly designed, badly explained, badly consulted.' Government surveillance with the quality control of a gas station sushi bar."
     }
   ]
 }
