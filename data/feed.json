@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:08:43.609Z",
+  "last_updated": "2026-06-01T17:17:15.363Z",
   "articles": [
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA, the agency tasked with protecting America's cyber infrastructure, just leaked its own AWS GovCloud keys on GitHub like a drunk sysadmin at 3 AM. Congress is rightfully losing its collective mind."
+      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and agency secrets onto GitHub, proving once again that the cybersecurity agency tasked with protecting us can't even secure their own repos. Congress is rightfully losing their minds."
     },
     {
       "title": "Patch Tuesday, May 2026 Edition",
@@ -15,39 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor casually exposed highly privileged AWS GovCloud credentials and internal systems on public GitHub because apparently irony is the new security model. The foxes are literally doxxing themselves while guarding the henhouse."
-    },
-    {
-      "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
-      "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
-      "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
-      "category": "ZERO DAY",
-      "summary": "Critical RCE vulnerability in open-source Git service Gogs remains unfixed since March, with maintainers ghosting the researcher harder than your ex. Exploit module is live and the silence is deafening."
-    },
-    {
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
-      "category": "ZERO DAY",
-      "summary": "Palo Alto's GlobalProtect authentication bypass (CVE-2026-0257) is being actively exploited in the wild. When your enterprise firewall becomes a suggestion rather than protection, you know it's Tuesday."
-    },
-    {
-      "title": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
-      "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-30T15:23:26Z",
-      "category": "BREACH",
-      "summary": "Microsoft threatens to unleash their 'Digital Crimes Unit' against security researchers disclosing zero-days, because apparently shooting the messenger is their new vulnerability management strategy. The infosec community is rightfully erupting."
-    },
-    {
-      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-      "source": "EFF",
-      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "RIGHTS",
-      "summary": "Age verification schemes are creating a surveillance hellscape where proving you're old enough to see a meme requires surrendering more data than the NSA wet dreams about. Privacy dies one birthday check at a time."
+      "summary": "CISA's contractor exposed privileged AWS GovCloud credentials on GitHub because apparently irony is dead and we're all living in a cybersecurity fever dream. The agency that tells everyone else to secure their infrastructure just got pwned by basic OPSEC failure."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -55,31 +23,63 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers have evolved from catching speeders to stalking students and investigating noise complaints. Mission creep meets surveillance state, and your Toyota Corolla is now a person of interest."
+      "summary": "Police are using license plate readers for everything from checking school residency to noise complaints, because why solve actual crimes when you can build a surveillance panopticon? Mission creep in action, folks."
     },
     {
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "source": "The Hacker News",
-      "publishedAt": "Mon, 01 Jun 2026 15:01:15 +0530",
+      "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
+      "url": "https://theintercept.com/2026/06/01/dinapoli-new-york-comptroller-israel-trip-primary/",
+      "source": "The Intercept",
+      "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
+      "category": "RIGHTS",
+      "summary": "Cops are literally stalking social media to spy on people criticizing AI data centers, because apparently having opinions about corporate surveillance infrastructure makes you a threat. The irony is so thick you could cut it with a warrant."
+    },
+    {
+      "title": "Palo Alto VPN bug graduates from advisory to active exploitation",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/01/palo-alto-vpn-bug-graduates-from-advisory-to-active-exploitation/5249114",
+      "source": "The Register",
+      "publishedAt": "Mon, 01 Jun 2026 14:15:00 +0200",
       "category": "BREACH",
-      "summary": "23andMe inherits a lawsuit over their 'disturbing' 2023 DNA data breach where they allegedly downplayed the mega-leak while paying ransoms. Your genetic privacy got sold cheaper than your cousin's MySpace data."
+      "summary": "GTA cheat service Atlas Menu got hacked and 64,000 user records dumped after attacker claimed the service was spying via screenshots. Even the cheaters can't trust their cheat providers anymore—what a world."
     },
     {
-      "title": "What is hacking? Types, techniques, and how to protect yourself",
-      "url": "https://www.intego.com/mac-security-blog/what-is-hacking/",
-      "source": "Intego.com",
-      "publishedAt": "2026-05-01T08:16:27Z",
-      "category": "LEGENDS",
-      "summary": "CIA torture whistleblower John Kiriakou breaks down spy movies, probably explaining why real espionage involves more spreadsheets and fewer exploding pens. Truth remains stranger and more boring than fiction."
+      "title": "Show HN: Simple news aggregator with source bias meters",
+      "url": "https://unbiasthenews.com",
+      "source": "Unbiasthenews.com",
+      "publishedAt": "2026-05-29T18:21:24Z",
+      "category": "RIGHTS",
+      "summary": "Microsoft is threatening security researchers with their 'Digital Crimes Unit' over zero-day disclosures, because nothing says 'we care about security' like intimidating the people who find your bugs. Peak corporate dystopia vibes."
     },
     {
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sun, 31 May 2026 17:52:12 +0530",
+      "title": "California sues 23andMe over large 2023 data breach",
+      "url": "https://www.itnews.com.au/news/california-sues-23andme-over-large-2023-data-breach-626244?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "source": "iTnews",
+      "publishedAt": "2026-05-28T20:45:00Z",
       "category": "BREACH",
-      "summary": "Critical WP Maps Pro flaw is being actively exploited to create rogue admin accounts on WordPress sites. Because apparently even embedding Google Maps can lead to total site compromise in 2025."
+      "summary": "Carnival Cruise exposed 6 million customers' data because apparently their security was as leaky as their reputation for stranding people at sea. Another day, another massive breach that could have been prevented."
+    },
+    {
+      "title": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
+      "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-30T15:23:26Z",
+      "category": "BREACH",
+      "summary": "California is suing 23andMe over their 2023 data breach that exposed genetic information, proving that your DNA data is about as secure as your browser history. At least someone's holding these companies accountable."
+    },
+    {
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-30T06:41:26Z",
+      "category": "RIGHTS",
+      "summary": "Microsoft's legal intimidation tactics against researcher Nightmare Eclipse could kill vulnerability research entirely, because who needs security when you have lawyers? This is how we end up with more exploited systems, not fewer."
+    },
+    {
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "source": "Internet",
+      "publishedAt": "2026-05-29T18:07:12Z",
+      "category": "ZERO DAY",
+      "summary": "CVE-2026-0257 in Palo Alto's PAN-OS GlobalProtect is being actively exploited for authentication bypass, because even the companies that sell security can't secure their own products. Emergency patch Tuesday strikes again."
     }
   ]
 }
