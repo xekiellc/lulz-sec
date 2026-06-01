@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-01T02:41:17.682Z",
+  "last_updated": "2026-06-01T11:08:43.609Z",
   "articles": [
-    {
-      "title": "Patch Tuesday, May 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys and internal secrets on GitHub like they're sharing vacation photos. The agency tasked with protecting America's infrastructure just leaked the keys to the kingdom — peak bureaucratic competence."
-    },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "Congress finally notices CISA's contractor turned GitHub into their personal classified document dump. Nothing says cybersecurity leadership like accidentally publishing the admin credentials to half the government's cloud infrastructure."
+      "summary": "CISA, the agency tasked with protecting America's cyber infrastructure, just leaked its own AWS GovCloud keys on GitHub like a drunk sysadmin at 3 AM. Congress is rightfully losing its collective mind."
+    },
+    {
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 12 May 2026 21:46:45 +0000",
+      "category": "BREACH",
+      "summary": "A CISA contractor casually exposed highly privileged AWS GovCloud credentials and internal systems on public GitHub because apparently irony is the new security model. The foxes are literally doxxing themselves while guarding the henhouse."
     },
     {
       "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
@@ -23,7 +23,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 29 May 2026 18:12:26 +0200",
       "category": "ZERO DAY",
-      "summary": "Critical RCE bug in Gogs Git service gets the silent treatment from maintainers for months while exploit modules hit the wild. Open source responsiveness at its finest — crickets with a side of weaponized code."
+      "summary": "Critical RCE vulnerability in open-source Git service Gogs remains unfixed since March, with maintainers ghosting the researcher harder than your ex. Exploit module is live and the silence is deafening."
     },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
@@ -31,39 +31,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 29 May 2026 23:37:12 +0530",
       "category": "ZERO DAY",
-      "summary": "Palo Alto's GlobalProtect gets bypassed harder than airport security circa 2001. CVE-2026-0257 is actively exploited because apparently authentication is more of a suggestion than a requirement."
+      "summary": "Palo Alto's GlobalProtect authentication bypass (CVE-2026-0257) is being actively exploited in the wild. When your enterprise firewall becomes a suggestion rather than protection, you know it's Tuesday."
     },
     {
       "title": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
       "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-05-30T15:23:26Z",
-      "category": "WHITE HAT",
-      "summary": "Microsoft threatens to unleash their 'Digital Crimes Unit' on security researchers for doing their job. Because nothing encourages responsible disclosure like legal intimidation and corporate gaslighting."
-    },
-    {
-      "title": "Microsoft faces security community backlash over Nightmare Eclipse",
-      "url": "https://www.notebookcheck.net/Microsoft-faces-security-community-backlash-over-Nightmare-Eclipse.1311160.0.html",
-      "source": "Notebookcheck.net",
-      "publishedAt": "2026-05-30T12:40:00Z",
-      "category": "WHITE HAT",
-      "summary": "Microsoft goes full corporate villain mode, threatening researcher Nightmare Eclipse with lawsuits over exploit disclosure. Classic Microsoft: shoot the messenger, ignore the three unpatched zero-days."
-    },
-    {
-      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
-      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
-      "source": "The Register",
-      "publishedAt": "Fri, 29 May 2026 15:00:00 +0200",
       "category": "BREACH",
-      "summary": "23andMe inherits a lawsuit over their 2023 DNA data breach where they allegedly paid ransoms and downplayed the mega-leak. Your genetic privacy sold separately, terms and conditions may include criminal exploitation."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
-      "category": "RIGHTS",
-      "summary": "License plate readers evolve from catching criminals to stalking school kids and noise complainers. EFF exposes how surveillance creep turns traffic enforcement into a panopticon with police characteristics."
+      "summary": "Microsoft threatens to unleash their 'Digital Crimes Unit' against security researchers disclosing zero-days, because apparently shooting the messenger is their new vulnerability management strategy. The infosec community is rightfully erupting."
     },
     {
       "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
@@ -71,15 +47,39 @@
       "source": "EFF",
       "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Age verification transforms into a privacy apocalypse as lawmakers rush to 'protect' kids by surveilling everyone. EFF warns that checking IDs online means building the surveillance state one birthday at a time."
+      "summary": "Age verification schemes are creating a surveillance hellscape where proving you're old enough to see a meme requires surrendering more data than the NSA wet dreams about. Privacy dies one birthday check at a time."
     },
     {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
+      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
+      "source": "EFF",
+      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
+      "category": "RIGHTS",
+      "summary": "License plate readers have evolved from catching speeders to stalking students and investigating noise complaints. Mission creep meets surveillance state, and your Toyota Corolla is now a person of interest."
+    },
+    {
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
       "source": "The Hacker News",
-      "publishedAt": "Sat, 30 May 2026 12:11:26 +0530",
+      "publishedAt": "Mon, 01 Jun 2026 15:01:15 +0530",
       "category": "BREACH",
-      "summary": "Dutch authorities dismantle a 17-million-device botnet because apparently the Netherlands doesn't mess around with cyber cleanup. Meanwhile, your smart toaster was probably part of the zombie army."
+      "summary": "23andMe inherits a lawsuit over their 'disturbing' 2023 DNA data breach where they allegedly downplayed the mega-leak while paying ransoms. Your genetic privacy got sold cheaper than your cousin's MySpace data."
+    },
+    {
+      "title": "What is hacking? Types, techniques, and how to protect yourself",
+      "url": "https://www.intego.com/mac-security-blog/what-is-hacking/",
+      "source": "Intego.com",
+      "publishedAt": "2026-05-01T08:16:27Z",
+      "category": "LEGENDS",
+      "summary": "CIA torture whistleblower John Kiriakou breaks down spy movies, probably explaining why real espionage involves more spreadsheets and fewer exploding pens. Truth remains stranger and more boring than fiction."
+    },
+    {
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sun, 31 May 2026 17:52:12 +0530",
+      "category": "BREACH",
+      "summary": "Critical WP Maps Pro flaw is being actively exploited to create rogue admin accounts on WordPress sites. Because apparently even embedding Google Maps can lead to total site compromise in 2025."
     }
   ]
 }
