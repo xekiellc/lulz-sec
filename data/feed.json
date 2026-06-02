@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T15:59:44.472Z",
+  "last_updated": "2026-06-02T20:35:17.743Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got socially engineered harder than a Script Kiddie's first phishing attempt, leading to Obama's Instagram getting defaced with Iranian propaganda. When your AI chatbot has the street smarts of a freshly formatted Windows XP machine, maybe reconsider putting it in charge of account recovery."
+      "summary": "Meta's AI bot got socially engineered harder than a freshman at DefCon, letting attackers seize Obama's Instagram and the Space Force Chief's account. When your AI assistant falls for basic manipulation tactics, maybe it's time to reconsider that whole 'artificial intelligence' label."
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -15,39 +15,31 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA—the agency literally tasked with securing America's infrastructure—had a contractor yeet AWS GovCloud keys onto GitHub like it was their personal dotfiles repo. Congress is rightfully losing their minds over this spectacular own-goal in operational security."
+      "summary": "Congress is demanding answers after CISA—the agency literally tasked with cybersecurity—had a contractor leak AWS GovCloud keys on GitHub like a script kiddie's first day. The irony is so thick you could cut it with a rusty exploit."
+    },
+    {
+      "title": "We're Fighting Mass Surveillance Tech—and Winning",
+      "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
+      "source": "EFF",
+      "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
+      "category": "BREACH",
+      "summary": "A CISA contractor casually dumped AWS GovCloud credentials and internal system access on GitHub for the whole world to see. Nothing says 'cybersecurity leadership' quite like leaving your keys under the digital doormat."
     },
     {
       "title": "Welcome New EFF Executive Director Nicole Ozer",
       "url": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
       "source": "EFF",
       "publishedAt": "Mon, 01 Jun 2026 14:25:05 +0000",
-      "category": "BREACH",
-      "summary": "A CISA contractor turned GitHub into their personal credentials dumping ground, exposing AWS GovCloud keys and internal systems to anyone with basic git clone skills. Peak irony: the cybersecurity agency getting pwned by elementary OPSEC failures."
-    },
-    {
-      "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
-      "url": "https://www.eff.org/deeplinks/2026/05/encrypted-apple-android-texts-effector-3810",
-      "source": "EFF",
-      "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers have evolved from catching speeders to stalking students and investigating noise complaints—because nothing says 'proportionate response' like mass surveillance for minor infractions. EFF caught cops using ALPR databases like their personal Google for constitutional violations."
+      "summary": "EFF reminds us they're still fighting the good fight against tech-enabled tyranny while we're all busy arguing about AI chatbots. The surveillance state won't defeat itself, folks."
     },
     {
-      "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
-      "url": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
+      "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks",
       "source": "Dark Reading",
-      "publishedAt": "Mon, 01 Jun 2026 14:35:51 GMT",
-      "category": "ZERO DAY",
-      "summary": "Microsoft threatened legal action against a researcher who published zero-days, because apparently their preferred disclosure timeline is 'never' and their threat model includes 'accountability.' The security community collectively facepalmed so hard it registered on seismographs."
-    },
-    {
-      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
-      "url": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 29 May 2026 20:22:04 GMT",
-      "category": "ZERO DAY",
-      "summary": "Another Palo Alto auth bypass is getting hammered in the wild, proving once again that 'enterprise security' vendors are about as secure as a screen door on a submarine. Two attack waves and counting—patch now, cry later."
+      "publishedAt": "Tue, 02 Jun 2026 20:11:51 GMT",
+      "category": "RIGHTS",
+      "summary": "Police are using license plate readers for everything from school residency checks to noise complaints because mission creep is apparently the only thing law enforcement excels at. Your daily commute is now a constitutional violation waiting to happen."
     },
     {
       "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
@@ -55,31 +47,39 @@
       "source": "The Intercept",
       "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
       "category": "RIGHTS",
-      "summary": "Philadelphia cops are literally tracking 'First Amendment activity' critical of AI data centers, because apparently exercising constitutional rights while questioning surveillance infrastructure is suspicious. The irony is so thick you could mine it for cryptocurrency."
+      "summary": "Philadelphia cops admit they're tracking 'First Amendment activity' critical of AI data centers. Apparently exercising your constitutional rights makes you a person of interest in the City of Brotherly Love."
     },
     {
       "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
       "source": "The Register",
       "publishedAt": "Tue, 02 Jun 2026 13:54:08 +0200",
-      "category": "ZERO DAY",
-      "summary": "Microsoft backpedaled harder than a fixie rider on a San Francisco hill after threatening zero-day researchers with legal action. The security community's unified 'WTF' response forced Redmond to clarify they're not actually planning to criminalize vulnerability research."
+      "category": "WHITE HAT",
+      "summary": "Microsoft finally backed down from threatening zero-day researchers after the security community collectively told them to pound sand. Nothing like public humiliation to remind tech giants that bug hunters aren't the enemy."
     },
     {
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
       "source": "The Hacker News",
-      "publishedAt": "Mon, 01 Jun 2026 23:10:28 +0530",
-      "category": "BREACH",
-      "summary": "Dashlane got brute-forced and fewer than 20 encrypted vaults were downloaded, which is either impressive defense or terrible marketing depending on your perspective. At least when password managers get breached, the data is supposed to be encrypted—looking at you, every other company ever."
+      "publishedAt": "Tue, 02 Jun 2026 17:28:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "CISA added Oracle WebLogic CVE-2024-21182 to the Known Exploited Vulnerabilities catalog after active exploitation in the wild. Oracle software getting pwned is about as surprising as water being wet."
+    },
+    {
+      "title": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
+      "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access/",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-01T16:43:30Z",
+      "category": "ZERO DAY",
+      "summary": "A 9.8-rated Windows Server vulnerability grants system privileges with just a malformed packet, and domain controllers are getting owned in the wild. Microsoft's security track record continues to be a masterclass in creative failure."
     },
     {
       "title": "(2026.06.02) (various)",
       "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260602_various",
       "source": "Ryukoku.ac.jp",
       "publishedAt": "2026-06-01T15:00:00Z",
-      "category": "BREACH",
-      "summary": "The Miasma supply chain attack compromised Red Hat npm packages with a self-propagating credential-stealing worm, because apparently we needed malware that spreads like gossip in a developer Slack channel. Modern software dependencies: where every 'npm install' is Russian roulette with extra steps."
+      "category": "ZERO DAY",
+      "summary": "Anthropic finally gave EU access to Claude Mythos after weeks of standoff—the AI that autonomously discovered 10,000+ zero-days across major operating systems. When your AI finds more bugs than the entire security industry combined, maybe we've been doing this wrong."
     }
   ]
 }
