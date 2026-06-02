@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T02:39:26.540Z",
+  "last_updated": "2026-06-02T10:03:43.305Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got socially engineered harder than a fresh intern at DEF CON, letting hackers seize Instagram accounts including Obama's White House page. When your chatbot has worse OpSec than a drunk CEO on Twitter, maybe it's time to rethink automation."
+      "summary": "Meta's AI support bot got socially engineered harder than a freshman at DEFCON, letting attackers seize the Obama White House Instagram account. When your AI assistant falls for the same tricks as your grandma, maybe it's time to rethink automation."
+    },
+    {
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor casually leaked AWS GovCloud keys on GitHub like dropping state secrets in a coffee shop. Congress is now demanding answers while CISA tries to explain how the cybersecurity agency became the cybersecurity cautionary tale."
     },
     {
       "title": "Welcome New EFF Executive Director Nicole Ozer",
@@ -15,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 01 Jun 2026 14:25:05 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dropped AWS GovCloud keys on GitHub like classified docs at a coffee shop. The agency tasked with protecting America's infrastructure couldn't protect their own credentials from public embarrassment."
+      "summary": "A CISA contractor turned GitHub into their personal cloud storage for AWS GovCloud credentials and internal secrets. The irony of America's cybersecurity watchdog getting pwned by basic OPSEC failures is so thick you could cut it with a rusty exploit."
     },
     {
       "title": "🔒 A Win for Encrypted Messaging | EFFector 38.10",
@@ -23,7 +31,15 @@
       "source": "EFF",
       "publishedAt": "Wed, 20 May 2026 15:03:33 +0000",
       "category": "RIGHTS",
-      "summary": "License plate readers have officially jumped the shark—now they're stalking kids for school enrollment and noise complaints. Mission creep meets surveillance state in the dystopian crossover nobody asked for."
+      "summary": "Police are using license plate readers for everything from truancy enforcement to noise complaints because mission creep is the real pandemic. EFF's data dive reveals cops treating ALPR databases like their personal stalking toolkit."
+    },
+    {
+      "title": "Anthropic to Open Mythos AI to EU's ENISA",
+      "url": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
+      "source": "Dark Reading",
+      "publishedAt": "Mon, 01 Jun 2026 21:07:48 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF scores a win for encrypted messaging while the surveillance state sharpens its knives. End-to-end encryption remains our digital armor against prying eyes, assuming you can keep the backdoor enthusiasts at bay."
     },
     {
       "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
@@ -31,15 +47,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 01 Jun 2026 14:35:51 GMT",
       "category": "ZERO DAY",
-      "summary": "Microsoft threatens criminal charges against researcher who published zero-days, because apparently shooting the messenger is easier than fixing broken code. Nothing says 'responsible disclosure' like legal intimidation."
-    },
-    {
-      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
-      "url": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 29 May 2026 20:22:04 GMT",
-      "category": "ZERO DAY",
-      "summary": "Palo Alto's GlobalProtect VPN got pwned again with another auth bypass bug under active exploitation. At this point, their security track record makes Internet Explorer look bulletproof."
+      "summary": "Microsoft threatens legal action against researcher who published zero-days, because apparently shooting the messenger is the new responsible disclosure. Nothing says 'we take security seriously' like criminalizing the people who find your bugs."
     },
     {
       "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
@@ -47,7 +55,15 @@
       "source": "The Intercept",
       "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
       "category": "RIGHTS",
-      "summary": "Philly cops admit they're tracking 'First Amendment activity' critical of AI data centers. When exercising constitutional rights becomes a surveillance target, the cyberpunk dystopia officially arrived ahead of schedule."
+      "summary": "Philadelphia police openly admit to tracking 'First Amendment activity' critical of AI data centers. Apparently exercising constitutional rights while questioning our robot overlords is now considered suspicious behavior worth surveillance."
+    },
+    {
+      "title": "Password manager Dashlane suspends customer accounts amid brute-force attacks",
+      "url": "https://www.theregister.com/security/2026/06/01/password-manager-dashlane-suspends-customer-accounts-amid-brute-force-attacks/5248991",
+      "source": "The Register",
+      "publishedAt": "Mon, 01 Jun 2026 13:15:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Palo Alto's VPN authentication bypass bug graduated from theoretical to actively exploited faster than a script kiddie finding metasploit. Emergency patch Tuesday strikes again for PAN-OS users living in perpetual update hell."
     },
     {
       "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
@@ -55,7 +71,7 @@
       "source": "The Hacker News",
       "publishedAt": "Mon, 01 Jun 2026 19:29:54 +0530",
       "category": "BREACH",
-      "summary": "Red Hat npm packages got wormed by Miasma supply chain attack, stealing dev credentials faster than you can say 'trusted repository.' When even the enterprise Linux vendor's ecosystem gets compromised, trust nothing."
+      "summary": "Supply chain attack compromises Red Hat npm packages with credential-stealing worm that propagates like digital herpes. The Miasma campaign proves that trusting your package manager is about as smart as trusting a Nigerian prince."
     },
     {
       "title": "(OpenBSD, 5/25).3.x 1st stable rele ...",
@@ -63,23 +79,7 @@
       "source": "Ryukoku.ac.jp",
       "publishedAt": "2026-05-31T15:00:00Z",
       "category": "WHITE HAT",
-      "summary": "Pwn2Own Berlin 2026 delivered 47 zero-days for $1.3M in payouts, proving that ethical hacking still pays better than most honest jobs. Bug bounty culture at its finest—breaking things responsibly for profit."
-    },
-    {
-      "title": "Microsoft threatens legal action against researcher Nightmare Eclipse for exploit disclosure",
-      "url": "https://cryptobriefing.com/microsoft-threatens-nightmare-eclipse-exploit-disclosure/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-30T15:23:26Z",
-      "category": "ZERO DAY",
-      "summary": "CVE-2026-0257 lets attackers forge Palo Alto VPN cookies like a digital bakery of authentication bypass. Rapid7 caught active exploitation two weeks after the May patch—because who patches promptly anyway?"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "source": "Internet",
-      "publishedAt": "2026-05-30T06:41:26Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft threatens legal action against researcher Nightmare Eclipse for responsible disclosure, because nothing says 'we value security' like weaponizing lawyers against white hats. Corporate intimidation meets vulnerability research in the worst possible way."
+      "summary": "Pwn2Own Berlin delivered 47 zero-days and over $1.2 million in payouts, proving that breaking things responsibly is still the most profitable hobby. TrendAI's AI-focused competition shows even our robot friends aren't immune to good old-fashioned exploitation."
     }
   ]
 }
