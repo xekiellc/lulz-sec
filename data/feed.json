@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T10:43:01.416Z",
+  "last_updated": "2026-06-03T16:16:49.444Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot gets social-engineered into handing over Obama and Space Force Instagram accounts to Iranian hackers. When your AI is dumber than a Telegram script kiddie, maybe it's time to reconsider automation."
+      "summary": "Meta's AI support bot got social-engineered harder than a freshman at DEF CON, leading to the Obama White House Instagram getting draped in pro-Iranian propaganda. When your chatbot has worse OPSEC than a drunk politician's Twitter account, maybe it's time to rethink automation."
     },
     {
       "title": "We're Fighting Mass Surveillance Tech—and Winning",
@@ -15,23 +15,23 @@
       "source": "EFF",
       "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually uploads AWS GovCloud keys and agency secrets to public GitHub repo because apparently cybersecurity agencies don't practice what they preach. The irony is so thick you could cut it with a zero-day exploit."
+      "summary": "A CISA contractor decided to open-source the government's crown jewels by dumping AWS GovCloud keys on GitHub like it's their personal dotfiles repo. Nothing says 'cybersecurity leadership' like accidentally giving everyone root access to federal infrastructure."
     },
     {
-      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-      "source": "EFF",
-      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "RIGHTS",
-      "summary": "Age verification schemes are creating a privacy nightmare for everyone while lawmakers pretend they're protecting kids. Spoiler alert: surveillance capitalism doesn't suddenly become wholesome when you slap a 'for the children' label on it."
-    },
-    {
-      "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
+      "title": "Malicious Notifications Could Trick Google Gemini Users",
+      "url": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
       "source": "Dark Reading",
-      "publishedAt": "Wed, 03 Jun 2026 10:01:00 GMT",
+      "publishedAt": "Wed, 03 Jun 2026 12:01:00 GMT",
       "category": "RIGHTS",
-      "summary": "Police using license plate readers for school residency checks and noise complaints because nothing says 'protect and serve' like turning every traffic camera into a panopticon. Mission creep is the feature, not the bug."
+      "summary": "Cops are using license plate readers for everything from school enrollment checks to noise complaints because apparently warrants are just suggestions now. Mission creep meets surveillance state: coming soon to a dystopia near you."
+    },
+    {
+      "title": "Philly Cops Admit That They’re Tracking “First Amendment Activity” Critical of AI",
+      "url": "https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/",
+      "source": "The Intercept",
+      "publishedAt": "Mon, 01 Jun 2026 14:30:33 +0000",
+      "category": "RIGHTS",
+      "summary": "The Pentagon's running an AI propaganda mill targeting Latin America, mixing personal finance tips with military cheerleading like some demented financial advisor with an imperialism fetish. Psyops disguised as lifestyle content—how very 2025."
     },
     {
       "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
@@ -39,15 +39,23 @@
       "source": "The Intercept",
       "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
       "category": "RIGHTS",
-      "summary": "Philly cops admit they're tracking social media posts critical of AI data centers as 'First Amendment activity.' When your constitutional rights become police surveillance categories, democracy has left the building."
+      "summary": "Philly cops are tracking 'First Amendment activity' critical of AI data centers because apparently exercising constitutional rights is now suspicious behavior. The surveillance state really said 'hold my beer' to the whole democracy thing."
     },
     {
-      "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
+      "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
+      "url": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
       "source": "The Register",
-      "publishedAt": "Tue, 02 Jun 2026 13:54:08 +0200",
-      "category": "WHITE HAT",
-      "summary": "Microsoft walks back threats against 0-day researchers after security community collectively tells them to touch grass. Nothing like public humiliation to remind corporations that shooting the messenger is bad PR."
+      "publishedAt": "Wed, 03 Jun 2026 13:04:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Another bug hunter said 'fuck responsible disclosure' and leaked Microsoft exploits after Redmond's typical corporate stonewalling routine. When the disclosure process is more broken than the vulnerabilities, maybe the problem isn't the researchers."
+    },
+    {
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 03 Jun 2026 17:28:00 +0530",
+      "category": "ZERO DAY",
+      "summary": "VS Code's one-click GitHub token theft attack proves that developer tools are basically malware with better branding. Click a link, lose your repos—it's like phishing but with more JavaScript and existential dread."
     },
     {
       "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
@@ -55,31 +63,23 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 03 Jun 2026 14:03:35 +0530",
       "category": "ZERO DAY",
-      "summary": "Unpatched Windows Search URI vulnerability lets attackers steal NTLMv2 hashes because Microsoft's commitment to security is like their commitment to user privacy: purely theoretical."
+      "summary": "Windows Search URI vulnerability lets attackers steal NTLMv2 hashes because Microsoft's approach to security is apparently 'if it ain't broke, don't fix it, and if it is broke, also don't fix it.' Classic Redmond energy."
     },
     {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 03 Jun 2026 11:46:54 +0530",
-      "category": "ZERO DAY",
-      "summary": "New HTTP/2 Bomb vulnerability can remotely DoS NGINX, Apache, IIS, Envoy, and Cloudflare. When one exploit can take down the entire web server ecosystem, you know we've achieved true digital fragility."
-    },
-    {
-      "title": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
-      "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-01T16:43:30Z",
-      "category": "ZERO DAY",
-      "summary": "9.8-rated Windows Server vulnerability grants system privileges with a single malformed packet and domain controllers are getting pwned in the wild. Microsoft's security model: why make it hard when you can make it impossible?"
-    },
-    {
-      "title": "(2026.06.02) (various)",
-      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260602_various",
+      "title": "(The Hacker News, 6/2) ㏍キ∽綺承ャ若祉Ga ...",
+      "url": "http://www.st.ryukoku.ac.jp/~kjm/security/memo/2026/06.html#20260603__gamaredon",
       "source": "Ryukoku.ac.jp",
-      "publishedAt": "2026-06-01T15:00:00Z",
+      "publishedAt": "2026-06-02T15:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Anthropic finally gives EU access to Mythos AI after weeks of standoff over the model that found 10,000+ zero-days across major operating systems. When your bug-hunting AI is more effective than entire security teams, maybe humans should take notes."
+      "summary": "HTTP/2 Bomb vulnerability can DoS major web servers including NGINX, Apache, IIS, Envoy, and Cloudflare because apparently the internet's backbone is held together with digital duct tape. When everyone's vulnerable, no one is safe."
+    },
+    {
+      "title": "Tuskira Quell identifies, mitigates, and validates zero-day risk before breach",
+      "url": "https://www.helpnetsecurity.com/2026/06/02/tuskira-quell-zero-day-defense/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-02T13:48:59Z",
+      "category": "WHITE HAT",
+      "summary": "Microsoft backed down from legal threats against security researchers after the community collectively told them to touch grass. Nothing like the fear of looking like corporate bullies to make lawyers suddenly discover the value of responsible disclosure."
     }
   ]
 }
