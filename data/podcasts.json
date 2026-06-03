@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T12:04:02.808Z",
+  "last_updated": "2026-06-03T12:41:38.726Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's war against the CFAA continues - when digital freedom fighters push back, the system shows its true face."
+      "editorial_note": "Weev's battle against the CFAA shows how broken laws turn security researchers into criminals."
     },
     {
       "type": "podcast",
@@ -21,7 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "Before Swartz, there was weev - another brilliant mind crushed by the machine for exposing uncomfortable truths."
+      "editorial_note": "The legend himself takes on the same unjust system that destroyed Aaron Swartz."
     },
     {
       "type": "podcast",
@@ -32,7 +32,7 @@
       "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
       "duration": "1843",
       "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor proves that nation-state actors are writing the rulebook while we're still reading it."
+      "editorial_note": "Chinese APT groups proving that nation-states are the real threat actors we should worry about."
     },
     {
       "type": "youtube",
