@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T02:47:36.315Z",
+  "last_updated": "2026-06-03T10:43:01.416Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,15 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got social-engineered harder than a lonely boomer on Facebook, letting hackers hijack Obama's Instagram with pro-Iranian memes. When the machines become the weakest link, you know we've peaked as a species."
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and agency secrets onto GitHub like it's their personal dotfiles repo. Congress is demanding answers while we're all just impressed someone finally found a way to make government transparency happen by accident."
+      "summary": "Meta's AI support bot gets social-engineered into handing over Obama and Space Force Instagram accounts to Iranian hackers. When your AI is dumber than a Telegram script kiddie, maybe it's time to reconsider automation."
     },
     {
       "title": "We're Fighting Mass Surveillance Tech—and Winning",
@@ -23,15 +15,23 @@
       "source": "EFF",
       "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
       "category": "BREACH",
-      "summary": "Plot twist: the same CISA contractor who leaked AWS GovCloud credentials also exposed internal CISA systems on a public GitHub repo. Cybersecurity agency gets pwned by basic OPSEC failure—chef's kiss level irony."
+      "summary": "CISA contractor casually uploads AWS GovCloud keys and agency secrets to public GitHub repo because apparently cybersecurity agencies don't practice what they preach. The irony is so thick you could cut it with a zero-day exploit."
     },
     {
-      "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer",
-      "url": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
-      "source": "Dark Reading",
-      "publishedAt": "Tue, 02 Jun 2026 21:51:07 GMT",
+      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+      "source": "EFF",
+      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
       "category": "RIGHTS",
-      "summary": "Cops are using license plate readers for everything from school residency checks to noise complaints because mission creep is a feature, not a bug. Automated surveillance state speedrun any% world record attempt in progress."
+      "summary": "Age verification schemes are creating a privacy nightmare for everyone while lawmakers pretend they're protecting kids. Spoiler alert: surveillance capitalism doesn't suddenly become wholesome when you slap a 'for the children' label on it."
+    },
+    {
+      "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 03 Jun 2026 10:01:00 GMT",
+      "category": "RIGHTS",
+      "summary": "Police using license plate readers for school residency checks and noise complaints because nothing says 'protect and serve' like turning every traffic camera into a panopticon. Mission creep is the feature, not the bug."
     },
     {
       "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
@@ -39,23 +39,31 @@
       "source": "The Intercept",
       "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
       "category": "RIGHTS",
-      "summary": "Philly police are literally tracking citizens who criticize AI data centers on social media and calling it 'First Amendment Activity' monitoring. Orwell is spinning in his grave so fast we could power those data centers with his corpse."
+      "summary": "Philly cops admit they're tracking social media posts critical of AI data centers as 'First Amendment activity.' When your constitutional rights become police surveillance categories, democracy has left the building."
     },
     {
       "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
       "source": "The Register",
       "publishedAt": "Tue, 02 Jun 2026 13:54:08 +0200",
-      "category": "ZERO DAY",
-      "summary": "Microsoft backed down from threatening zero-day researchers after the security community collectively told them to go touch grass. Rare W for vulnerability hunters who refuse to be intimidated by corporate legal theater."
+      "category": "WHITE HAT",
+      "summary": "Microsoft walks back threats against 0-day researchers after security community collectively tells them to touch grass. Nothing like public humiliation to remind corporations that shooting the messenger is bad PR."
     },
     {
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
       "source": "The Hacker News",
-      "publishedAt": "Tue, 02 Jun 2026 17:28:00 +0530",
+      "publishedAt": "Wed, 03 Jun 2026 14:03:35 +0530",
       "category": "ZERO DAY",
-      "summary": "Oracle WebLogic CVE-2024-21182 got added to CISA's KEV catalog after active exploitation because apparently enterprise software security is still optional in 2025. Oracle gonna Oracle."
+      "summary": "Unpatched Windows Search URI vulnerability lets attackers steal NTLMv2 hashes because Microsoft's commitment to security is like their commitment to user privacy: purely theoretical."
+    },
+    {
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "source": "The Hacker News",
+      "publishedAt": "Wed, 03 Jun 2026 11:46:54 +0530",
+      "category": "ZERO DAY",
+      "summary": "New HTTP/2 Bomb vulnerability can remotely DoS NGINX, Apache, IIS, Envoy, and Cloudflare. When one exploit can take down the entire web server ecosystem, you know we've achieved true digital fragility."
     },
     {
       "title": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
@@ -63,7 +71,7 @@
       "source": "The Next Web",
       "publishedAt": "2026-06-01T16:43:30Z",
       "category": "ZERO DAY",
-      "summary": "Windows Server vulnerability scores a perfect 9.8 and grants system privileges with a single malformed packet—domain controllers getting rekt in the wild. Microsoft's definition of 'secure by design' continues to be... creative."
+      "summary": "9.8-rated Windows Server vulnerability grants system privileges with a single malformed packet and domain controllers are getting pwned in the wild. Microsoft's security model: why make it hard when you can make it impossible?"
     },
     {
       "title": "(2026.06.02) (various)",
@@ -71,15 +79,7 @@
       "source": "Ryukoku.ac.jp",
       "publishedAt": "2026-06-01T15:00:00Z",
       "category": "ZERO DAY",
-      "summary": "Anthropic's Mythos AI autonomously discovered 10,000+ zero-days across major operating systems, finally giving EU cybersecurity agency ENISA access after weeks of bureaucratic standoff. When AI becomes better at finding bugs than humans, it's time to update our résumés."
-    },
-    {
-      "title": "Grand Theft Auto V cheat service gets hacked, exposing thousands of gamers | TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T17:23:58Z",
-      "category": "BREACH",
-      "summary": "GTA V cheat service promising 'enhanced privacy' got hacked and exposed 64,000 accounts—because nothing says operational security like running illegal game modifications. The irony is so thick you could mine it for cryptocurrency."
+      "summary": "Anthropic finally gives EU access to Mythos AI after weeks of standoff over the model that found 10,000+ zero-days across major operating systems. When your bug-hunting AI is more effective than entire security teams, maybe humans should take notes."
     }
   ]
 }
