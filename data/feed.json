@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-06-04T02:42:30.301Z",
+  "last_updated": "2026-06-04T09:42:54.435Z",
   "articles": [
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "category": "NEWS",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
+    },
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "WHITE HAT",
-      "summary": "Meta's AI support bot got social engineered into handing over Obama's Instagram account to pro-Iranian trolls. When your chatbot has better access controls than your admins, maybe it's time to rethink the whole 'AI will solve security' narrative."
+      "category": "NEWS",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
+    },
+    {
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Krebs on Security",
+      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
+      "category": "NEWS",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor dumped AWS GovCloud keys on public GitHub because apparently the agency tasked with protecting America's infrastructure can't protect their own credentials. Congress is predictably outraged, but we're just impressed by the irony."
+      "category": "NEWS",
+      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 18 May 2026 20:48:21 +0000",
+      "category": "NEWS",
+      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive "
     },
     {
       "title": "We're Fighting Mass Surveillance Tech—and Winning",
       "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
       "source": "EFF",
       "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
-      "category": "BREACH",
-      "summary": "A CISA contractor left government cloud credentials exposed on GitHub for the world to see. The same agency telling everyone else about cybersecurity best practices just got schooled in 'don't commit your secrets, dipshit.'"
+      "category": "NEWS",
+      "summary": "EFF is on the front lines of the fight against tech-enabled tyranny, but we aren't alone. Our team depends on your help to fight back against the surveillance state.\nJOIN EFF\nPeople around the world are pushing back against the mass surveillance that undermines privacy and free expression for everyo"
     },
     {
-      "title": "Attackers Use AI to Automate EDR Evasion Testing",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 03 Jun 2026 21:34:07 GMT",
-      "category": "RIGHTS",
-      "summary": "License plate readers have evolved from catching speeders to full-spectrum surveillance creep—now tracking school residency and noise complaints. Because nothing says 'land of the free' like automated tracking of every car movement for trivial violations."
+      "title": "Welcome New EFF Executive Director Nicole Ozer",
+      "url": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
+      "source": "EFF",
+      "publishedAt": "Mon, 01 Jun 2026 14:25:05 +0000",
+      "category": "NEWS",
+      "summary": "EFF welcomes our new Executive Director Nicole Ozer today! \nNicole is a legal expert on privacy and surveillance, artificial intelligence, and digital speech who previously served as the inaugural executive director of the Center for Constitutional Democracy at UC Law San Francisco. From 2004-2025, "
     },
     {
-      "title": "Philly Cops Admit That They’re Tracking “First Amendment Activity” Critical of AI",
-      "url": "https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/",
-      "source": "The Intercept",
-      "publishedAt": "Mon, 01 Jun 2026 14:30:33 +0000",
-      "category": "RIGHTS",
-      "summary": "Pentagon runs AI propaganda mill targeting Latin America while simultaneously crying about foreign disinformation campaigns. The cognitive dissonance is so thick you could cut it with a drone strike authorization."
+      "title": "One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating",
+      "url": "https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating",
+      "source": "EFF",
+      "publishedAt": "Fri, 29 May 2026 20:15:43 +0000",
+      "category": "NEWS",
+      "summary": "After public outrage, California lawmakers are moving closer to exempting open-source operating systems from the sweeping age-bracketing regime mandated by last year’s Digital Age Assurance Act (AB 1043). Nonetheless, the current bill still jeopardizes internet users’ speech, privacy, and security.\n"
     },
     {
-      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
-      "url": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
-      "source": "The Register",
-      "publishedAt": "Thu, 04 Jun 2026 00:31:29 +0200",
-      "category": "RIGHTS",
-      "summary": "Philadelphia cops admit they're surveilling 'First Amendment activity' critical of AI data centers. Apparently exercising constitutional rights about corporate surveillance is now itself subject to surveillance."
+      "title": "Age Verification is a Privacy Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
+      "source": "EFF",
+      "publishedAt": "Thu, 28 May 2026 16:37:42 +0000",
+      "category": "NEWS",
+      "summary": "In the rush to block young people from certain parts of the internet, lawmakers are creating a privacy and security nightmare for everyone. This scenario is already playing out globally. Help us stop it and keep the web open and accessible for all.\nJOIN EFF\nProtect the web for everyone\nEven with the"
     },
     {
-      "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
-      "url": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
-      "source": "The Register",
-      "publishedAt": "Wed, 03 Jun 2026 13:04:00 +0200",
-      "category": "WHITE HAT",
-      "summary": "Security researchers are following Nightmare Eclipse's lead and instant-dropping Microsoft exploits instead of playing nice with Redmond's broken disclosure process. When the vendor won't listen, sometimes you have to get their attention with a digital brick through the window."
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 03 Jun 2026 19:17:09 +0530",
-      "category": "ZERO DAY",
-      "summary": "Microsoft left debug flags enabled in production Office 365 Android apps, letting any app steal authentication tokens. It's like leaving your house keys under the doormat, except the doormat is labeled 'PRODUCTION BUILD.'"
-    },
-    {
-      "title": "In bed with Andrew Sa",
-      "url": "http://chicagoreader.com/music/music-feature/andrew-sa-american-rough-cosmic-country-queer/",
-      "source": "Chicago Reader",
-      "publishedAt": "2026-06-02T18:48:35Z",
-      "category": "ZERO DAY",
-      "summary": "Autonomous AI tool found a 2-year-old RCE flaw in Redis that humans missed entirely. The machines are officially better at finding bugs than we are—at least until they start hiding them for the robot uprising."
-    },
-    {
-      "title": "U.S. CISA adds Oracle WebLogic flaw to its Known Exploited Vulnerabilities catalog",
-      "url": "https://securityaffairs.com/193027/security/u-s-cisa-adds-oracle-weblogic-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-06-02T15:18:52Z",
-      "category": "ZERO DAY",
-      "summary": "Oracle WebLogic CVE-2024-21182 added to CISA's Known Exploited Vulnerabilities catalog after active exploitation in the wild. Another day, another enterprise Java framework getting owned by script kiddies."
+      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
+      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
+      "source": "EFF",
+      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
+      "category": "NEWS",
+      "summary": "An EFF analysis of millions of searches of Flock Safety automated license plate reader (ALPR) data by police has uncovered a troubling pattern: in the absence of a warrant requirement to search ALPR databases, law enforcement agencies have moved beyond specific investigations to use these surveillan"
     }
   ]
 }
