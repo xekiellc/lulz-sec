@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-03T20:47:11.288Z",
+  "last_updated": "2026-06-04T02:42:30.301Z",
   "articles": [
     {
-      "title": "We're Fighting Mass Surveillance Tech—and Winning",
-      "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
-      "source": "EFF",
-      "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys and internal secrets on public GitHub because apparently cybersecurity agencies love irony. Nothing says 'secure infrastructure' quite like your crown jewels sitting on the internet's front porch."
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
+      "category": "WHITE HAT",
+      "summary": "Meta's AI support bot got social engineered into handing over Obama's Instagram account to pro-Iranian trolls. When your chatbot has better access controls than your admins, maybe it's time to rethink the whole 'AI will solve security' narrative."
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -15,7 +15,39 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "Congress finally woke up to demand answers after CISA's spectacular self-own went public. When the cybersecurity agency becomes the cybersecurity incident, you know we're living in the timeline where satire writes itself."
+      "summary": "CISA contractor dumped AWS GovCloud keys on public GitHub because apparently the agency tasked with protecting America's infrastructure can't protect their own credentials. Congress is predictably outraged, but we're just impressed by the irony."
+    },
+    {
+      "title": "We're Fighting Mass Surveillance Tech—and Winning",
+      "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
+      "source": "EFF",
+      "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
+      "category": "BREACH",
+      "summary": "A CISA contractor left government cloud credentials exposed on GitHub for the world to see. The same agency telling everyone else about cybersecurity best practices just got schooled in 'don't commit your secrets, dipshit.'"
+    },
+    {
+      "title": "Attackers Use AI to Automate EDR Evasion Testing",
+      "url": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
+      "source": "Dark Reading",
+      "publishedAt": "Wed, 03 Jun 2026 21:34:07 GMT",
+      "category": "RIGHTS",
+      "summary": "License plate readers have evolved from catching speeders to full-spectrum surveillance creep—now tracking school residency and noise complaints. Because nothing says 'land of the free' like automated tracking of every car movement for trivial violations."
+    },
+    {
+      "title": "Philly Cops Admit That They’re Tracking “First Amendment Activity” Critical of AI",
+      "url": "https://theintercept.com/2026/06/01/ai-data-center-protest-police-surveillance/",
+      "source": "The Intercept",
+      "publishedAt": "Mon, 01 Jun 2026 14:30:33 +0000",
+      "category": "RIGHTS",
+      "summary": "Pentagon runs AI propaganda mill targeting Latin America while simultaneously crying about foreign disinformation campaigns. The cognitive dissonance is so thick you could cut it with a drone strike authorization."
+    },
+    {
+      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
+      "url": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
+      "source": "The Register",
+      "publishedAt": "Thu, 04 Jun 2026 00:31:29 +0200",
+      "category": "RIGHTS",
+      "summary": "Philadelphia cops admit they're surveilling 'First Amendment activity' critical of AI data centers. Apparently exercising constitutional rights about corporate surveillance is now itself subject to surveillance."
     },
     {
       "title": "UK banks offered access to OpenAI’s GPT-5.5 amid exclusion from Anthropic’s Glasswing expansion",
@@ -23,15 +55,7 @@
       "source": "The Register",
       "publishedAt": "Wed, 03 Jun 2026 13:04:00 +0200",
       "category": "WHITE HAT",
-      "summary": "Bug hunters are rage-quitting Microsoft's broken disclosure process and just dumping exploits into the wild. When researchers start following Nightmare Eclipse's 'fuck it, we'll do it live' approach, maybe it's time to fix your vulnerability handling, Redmond."
-    },
-    {
-      "title": "In bed with Andrew Sa",
-      "url": "http://chicagoreader.com/music/music-feature/andrew-sa-american-rough-cosmic-country-queer/",
-      "source": "Chicago Reader",
-      "publishedAt": "2026-06-02T18:48:35Z",
-      "category": "ZERO DAY",
-      "summary": "Autonomous AI discovered a 2-year-old RCE flaw in Redis that humans somehow missed. The machines are now better at finding ways to break our systems than we are—definitely not ominous at all."
+      "summary": "Security researchers are following Nightmare Eclipse's lead and instant-dropping Microsoft exploits instead of playing nice with Redmond's broken disclosure process. When the vendor won't listen, sometimes you have to get their attention with a digital brick through the window."
     },
     {
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
@@ -39,39 +63,15 @@
       "source": "The Hacker News",
       "publishedAt": "Wed, 03 Jun 2026 19:17:09 +0530",
       "category": "ZERO DAY",
-      "summary": "Microsoft left a debug flag enabled in production Office apps, letting any Android app steal your account tokens. It's like leaving your house keys in the front door, except the door is connected to your entire digital life."
+      "summary": "Microsoft left debug flags enabled in production Office 365 Android apps, letting any app steal authentication tokens. It's like leaving your house keys under the doormat, except the doormat is labeled 'PRODUCTION BUILD.'"
     },
     {
-      "title": "Malicious Notifications Could Trick Google Gemini Users",
-      "url": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 03 Jun 2026 12:01:00 GMT",
+      "title": "In bed with Andrew Sa",
+      "url": "http://chicagoreader.com/music/music-feature/andrew-sa-american-rough-cosmic-country-queer/",
+      "source": "Chicago Reader",
+      "publishedAt": "2026-06-02T18:48:35Z",
       "category": "ZERO DAY",
-      "summary": "Another Microsoft authentication bypass because apparently security settings are more like security suggestions in Redmond. Android Office apps were handing out login credentials like Halloween candy."
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "BREACH",
-      "summary": "Social engineers tricked Meta's AI support bot into hijacking Obama's old Instagram account for some pro-Iranian redecoration. When artificial intelligence meets artificial intelligence, chaos ensues."
-    },
-    {
-      "title": "New York Comptroller’s Trip to Israel Raised Ethical Concerns, State Commission Said",
-      "url": "https://theintercept.com/2026/06/01/dinapoli-new-york-comptroller-israel-trip-primary/",
-      "source": "The Intercept",
-      "publishedAt": "Mon, 01 Jun 2026 13:47:40 +0000",
-      "category": "RIGHTS",
-      "summary": "Philly cops are surveilling citizens who dare criticize AI data centers because apparently the First Amendment doesn't apply to tech criticism. Nothing says 'land of the free' like monitoring people for having opinions about algorithms."
-    },
-    {
-      "title": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america",
-      "source": "Dark Reading",
-      "publishedAt": "Wed, 03 Jun 2026 19:52:32 GMT",
-      "category": "RIGHTS",
-      "summary": "Police are using license plate readers for everything from school residency checks to noise complaints because mission creep is a feature, not a bug. Your daily commute is now a comprehensive government surveillance log."
+      "summary": "Autonomous AI tool found a 2-year-old RCE flaw in Redis that humans missed entirely. The machines are officially better at finding bugs than we are—at least until they start hiding them for the robot uprising."
     },
     {
       "title": "U.S. CISA adds Oracle WebLogic flaw to its Known Exploited Vulnerabilities catalog",
@@ -79,7 +79,7 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-06-02T15:18:52Z",
       "category": "ZERO DAY",
-      "summary": "Oracle WebLogic's CVE-2024-21182 just hit CISA's KEV catalog after active exploitation in the wild. Another day, another enterprise Java disaster that probably should have been patched when the pyramids were still under construction."
+      "summary": "Oracle WebLogic CVE-2024-21182 added to CISA's Known Exploited Vulnerabilities catalog after active exploitation in the wild. Another day, another enterprise Java framework getting owned by script kiddies."
     }
   ]
 }
