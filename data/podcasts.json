@@ -1,39 +1,6 @@
 {
-  "last_updated": "2026-06-03T12:41:38.726Z",
+  "last_updated": "2026-06-04T11:15:05.880Z",
   "episodes": [
-    {
-      "type": "podcast",
-      "title": "Weev, Part 2",
-      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/30142034-0c23-433e-85e6-e476fa7cc1e9",
-      "source": "Malicious Life",
-      "host": "Ran Levi",
-      "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
-      "duration": "1729",
-      "category": "LEGENDS",
-      "editorial_note": "Weev's battle against the CFAA shows how broken laws turn security researchers into criminals."
-    },
-    {
-      "type": "podcast",
-      "title": "Weev, Part 1",
-      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/7d9d5336-9826-4318-98b8-d621263fbe7b",
-      "source": "Malicious Life",
-      "host": "Ran Levi",
-      "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
-      "duration": "1796",
-      "category": "LEGENDS",
-      "editorial_note": "The legend himself takes on the same unjust system that destroyed Aaron Swartz."
-    },
-    {
-      "type": "podcast",
-      "title": "Cuckoo Spear [B-Side]",
-      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/2dfca5a6-8223-4550-b326-083e52edc2c3",
-      "source": "Malicious Life",
-      "host": "Ran Levi",
-      "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
-      "duration": "1843",
-      "category": "ZERO DAY",
-      "editorial_note": "Chinese APT groups proving that nation-states are the real threat actors we should worry about."
-    },
     {
       "type": "youtube",
       "category": "LULZSEC",
