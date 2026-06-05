@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T19:53:42.874Z",
+  "last_updated": "2026-06-05T02:29:15.298Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -42,44 +42,44 @@
       "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive "
     },
     {
+      "title": "California’s AB 412 Still Demands Developers Do The Impossible",
+      "url": "https://www.eff.org/deeplinks/2026/06/californias-ab-412-still-demands-developers-do-impossible",
+      "source": "EFF",
+      "publishedAt": "Thu, 04 Jun 2026 22:56:13 +0000",
+      "category": "NEWS",
+      "summary": "California lawmakers are again considering A.B. 412, a bill that would require AI developers to identify and disclose copyrighted works used to train generative AI systems.\nThe problem this year is the same as last year: it’s practically impossible to comply with this law. The bill demands informati"
+    },
+    {
+      "title": "Pulte Appointment Underscores Need to Reform Section 702 Spying",
+      "url": "https://www.eff.org/deeplinks/2026/06/pulte-appointment-underscores-need-reform-section-702-spying",
+      "source": "EFF",
+      "publishedAt": "Thu, 04 Jun 2026 21:18:18 +0000",
+      "category": "NEWS",
+      "summary": "President Trump’s highly politicized appointment of an entirely unqualified acting Director of National Intelligence (DNI) underscores why the government’s warrantless mass spying power must be reformed. \nCongress now faces a deadline of Friday, June 12 to reauthorize Section 702 of the Foreign Inte"
+    },
+    {
+      "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-testifies-congress-protecting-americans-rights-government-ai",
+      "source": "EFF",
+      "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
+      "category": "NEWS",
+      "summary": "Governments must not adopt emerging and powerful AI technologies without also adopting strong and clear safeguards to protect Constitutional rights, EFF Senior Policy Analyst Dr. Matthew Guariglia testified today to the House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protect"
+    },
+    {
+      "title": "Move Fast, Surveil Things",
+      "url": "https://www.eff.org/deeplinks/2026/06/move-fast-surveil-things",
+      "source": "EFF",
+      "publishedAt": "Thu, 04 Jun 2026 20:08:25 +0000",
+      "category": "NEWS",
+      "summary": "Meta has deployed facial recognition code to millions of their always-on surveillance glasses, according to new reporting by Wired. EFF’s Threat Lab was able to confirm that the facial recognition code is present through static analysis of the application. \nThis dangerous new Meta functionality stor"
+    },
+    {
       "title": "We're Fighting Mass Surveillance Tech—and Winning",
       "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
       "source": "EFF",
       "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
       "category": "NEWS",
       "summary": "EFF is on the front lines of the fight against tech-enabled tyranny, but we aren't alone. Our team depends on your help to fight back against the surveillance state.\nJOIN EFF\nPeople around the world are pushing back against the mass surveillance that undermines privacy and free expression for everyo"
-    },
-    {
-      "title": "Welcome New EFF Executive Director Nicole Ozer",
-      "url": "https://www.eff.org/deeplinks/2026/05/welcome-new-eff-executive-director-nicole-ozer",
-      "source": "EFF",
-      "publishedAt": "Mon, 01 Jun 2026 14:25:05 +0000",
-      "category": "NEWS",
-      "summary": "EFF welcomes our new Executive Director Nicole Ozer today! \nNicole is a legal expert on privacy and surveillance, artificial intelligence, and digital speech who previously served as the inaugural executive director of the Center for Constitutional Democracy at UC Law San Francisco. From 2004-2025, "
-    },
-    {
-      "title": "One Step Forward, Two Steps Back: CA's AB 1856 Exempts Open Source But Expands Age-Gating",
-      "url": "https://www.eff.org/deeplinks/2026/05/one-step-forward-two-steps-back-cas-ab-1856-exempts-open-source-expands-age-gating",
-      "source": "EFF",
-      "publishedAt": "Fri, 29 May 2026 20:15:43 +0000",
-      "category": "NEWS",
-      "summary": "After public outrage, California lawmakers are moving closer to exempting open-source operating systems from the sweeping age-bracketing regime mandated by last year’s Digital Age Assurance Act (AB 1043). Nonetheless, the current bill still jeopardizes internet users’ speech, privacy, and security.\n"
-    },
-    {
-      "title": "Age Verification is a Privacy Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/age-verification-privacy-nightmare",
-      "source": "EFF",
-      "publishedAt": "Thu, 28 May 2026 16:37:42 +0000",
-      "category": "NEWS",
-      "summary": "In the rush to block young people from certain parts of the internet, lawmakers are creating a privacy and security nightmare for everyone. This scenario is already playing out globally. Help us stop it and keep the web open and accessible for all.\nJOIN EFF\nProtect the web for everyone\nEven with the"
-    },
-    {
-      "title": "More License Plate Reader Mission Creep: School Residency Verification, Background Checks, and Noise Complaints",
-      "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-      "source": "EFF",
-      "publishedAt": "Tue, 26 May 2026 21:23:43 +0000",
-      "category": "NEWS",
-      "summary": "An EFF analysis of millions of searches of Flock Safety automated license plate reader (ALPR) data by police has uncovered a troubling pattern: in the absence of a warrant requirement to search ALPR databases, law enforcement agencies have moved beyond specific investigations to use these surveillan"
     }
   ]
 }
