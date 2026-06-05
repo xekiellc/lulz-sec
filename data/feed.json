@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T14:25:04.515Z",
+  "last_updated": "2026-06-05T19:41:31.144Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -42,6 +42,22 @@
       "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive "
     },
     {
+      "title": "Internet Age-Gates Are a Growing Global Threat",
+      "url": "https://www.eff.org/deeplinks/2026/06/internet-age-gates-are-growing-global-threat",
+      "source": "EFF",
+      "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
+      "category": "NEWS",
+      "summary": "The internet is an essential resource for young people and adults to access information, explore community, and find themselves—both inside countries and across continents. Yet governments around the world continue to introduce and implement legislation requiring all online users to verify their age"
+    },
+    {
+      "title": "LGBT Q&A Season 1 Recap: Staying Safer Online",
+      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-season-1-recap-staying-safer-online",
+      "source": "EFF",
+      "publishedAt": "Fri, 05 Jun 2026 17:01:21 +0000",
+      "category": "NEWS",
+      "summary": "Last year during LGBTQ+ Pride month, we launched an LGBT Q&A where we answered your most pressing digital rights questions on EFF’s Instagram and TikTok  accounts. \nAhead of LGBT Q&A Season 2 launching next week, we’re posting a recap with some of the questions we answered. Check them out below.\nYou"
+    },
+    {
       "title": "California’s AB 412 Still Demands Developers Do The Impossible",
       "url": "https://www.eff.org/deeplinks/2026/06/californias-ab-412-still-demands-developers-do-impossible",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
       "category": "NEWS",
       "summary": "Governments must not adopt emerging and powerful AI technologies without also adopting strong and clear safeguards to protect Constitutional rights, EFF Senior Policy Analyst Dr. Matthew Guariglia testified today to the House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protect"
-    },
-    {
-      "title": "Move Fast, Surveil Things",
-      "url": "https://www.eff.org/deeplinks/2026/06/move-fast-surveil-things",
-      "source": "EFF",
-      "publishedAt": "Thu, 04 Jun 2026 20:08:25 +0000",
-      "category": "NEWS",
-      "summary": "Meta has deployed facial recognition code to millions of their always-on surveillance glasses, according to new reporting by Wired. EFF’s Threat Lab was able to confirm that the facial recognition code is present through static analysis of the application. \nThis dangerous new Meta functionality stor"
-    },
-    {
-      "title": "We're Fighting Mass Surveillance Tech—and Winning",
-      "url": "https://www.eff.org/deeplinks/2026/06/get-flock-out-here",
-      "source": "EFF",
-      "publishedAt": "Tue, 02 Jun 2026 16:41:54 +0000",
-      "category": "NEWS",
-      "summary": "EFF is on the front lines of the fight against tech-enabled tyranny, but we aren't alone. Our team depends on your help to fight back against the surveillance state.\nJOIN EFF\nPeople around the world are pushing back against the mass surveillance that undermines privacy and free expression for everyo"
     }
   ]
 }
