@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T13:08:18.210Z",
+  "last_updated": "2026-06-06T19:04:51.957Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,15 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got social-engineered into handing over Instagram accounts like a helpful intern with root access. The Obama White House and Space Force accounts got pro-Iranian makeovers because apparently even AI falls for basic phishing."
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "BREACH",
-      "summary": "Congress is rightfully losing its mind after CISA—the agency that's supposed to secure America's infrastructure—let a contractor dump AWS GovCloud keys on GitHub like a freshman's homework. The irony is so thick you could cut it with a CVE."
+      "summary": "Meta's AI support bot got social-engineered harder than a freshman at DEF CON, leading to the Obama White House Instagram getting tagged with pro-Iranian memes. When your AI is dumber than a Telegram script kiddie, maybe it's time to rethink automation."
     },
     {
       "title": "Internet Age-Gates Are a Growing Global Threat",
@@ -23,15 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor casually posted AWS GovCloud credentials and internal system access on public GitHub because apparently operational security is just a suggestion. This is like finding the keys to Fort Knox taped to a lamppost."
-    },
-    {
-      "title": "LGBT Q&A Season 1 Recap: Staying Safer Online",
-      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-season-1-recap-staying-safer-online",
-      "source": "EFF",
-      "publishedAt": "Fri, 05 Jun 2026 17:01:21 +0000",
-      "category": "RIGHTS",
-      "summary": "Governments worldwide are pushing age verification that would destroy online anonymity faster than you can say 'surveillance state.' EFF explains why these 'think of the children' laws are digital dystopia in sheep's clothing."
+      "summary": "CISA contractor casually dropped AWS GovCloud keys on GitHub like breadcrumbs for nation-states. The agency tasked with protecting America's infrastructure just handed out the skeleton keys to anyone with a browser."
     },
     {
       "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
@@ -39,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
       "category": "RIGHTS",
-      "summary": "Trump's unqualified DNI appointment perfectly illustrates why warrantless mass surveillance under Section 702 needs to die. When political hacks get the keys to the NSA's toy box, everyone's privacy goes out the window."
+      "summary": "Trump's unqualified DNI pick perfectly illustrates why Section 702's warrantless mass surveillance needs to die. When political hacks control the panopticon, everyone's privacy is fucked."
     },
     {
       "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
@@ -47,7 +31,7 @@
       "source": "The Register",
       "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Another Cisco SD-WAN zero-day is being actively exploited with no patch in sight. Sys admins everywhere are updating their CVs and questioning their life choices."
+      "summary": "Another Cisco SD-WAN zero-day is getting hammered in the wild with zero patches on the horizon. Cisco's response time makes geological epochs look speedy."
     },
     {
       "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
@@ -55,15 +39,23 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 06 Jun 2026 12:28:04 +0530",
       "category": "ZERO DAY",
-      "summary": "An AI agent just pwned FFmpeg with 21 zero-days while Google patched a record 429 Chrome bugs. The robots are getting scary good at finding our mistakes, and honestly, we're here for it."
+      "summary": "AI agent autonomously discovered 21 zero-days in FFmpeg while Google patched a record 429 Chrome bugs. The robots are getting scary good at breaking things, which is honestly more impressive than most human pentesters."
     },
     {
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 06 Jun 2026 09:49:28 +0530",
+      "title": "NSA using Clause Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-06-05T16:53:46Z",
       "category": "BREACH",
-      "summary": "The Miasma worm hit 73 Microsoft GitHub repos in a supply chain attack that spread like digital wildfire. Even Microsoft isn't immune to getting owned by self-replicating malware."
+      "summary": "Miasma worm infected 73 Microsoft GitHub repos in a self-replicating supply chain clusterfuck. When even Microsoft can't secure their own repositories, the rest of us are truly screwed."
+    },
+    {
+      "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
+      "url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-05T15:49:08Z",
+      "category": "LEGENDS",
+      "summary": "NSA is reportedly using Anthropic's Claude for 'offensive cyber operations' with half-a-dozen company engineers embedded inside the agency. Nothing says 'Don't Be Evil' like weaponizing AI for state-sponsored hacking."
     },
     {
       "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
@@ -71,15 +63,23 @@
       "source": "Decrypt",
       "publishedAt": "2026-06-05T12:49:04Z",
       "category": "ZERO DAY",
-      "summary": "Cisco's SD-WAN Manager has another actively exploited zero-day with no patch available. At this point, Cisco should just rename their products to 'CVE Generator Pro.'"
+      "summary": "AI-assisted researcher discovered a catastrophic Zcash exploit hiding in zero-knowledge proof circuits for four years. Privacy coins aren't so private when the math is fundamentally broken."
     },
     {
       "title": "No data breach: IIT Roorkee rubbishes claims of privacy violation affecting JEE Advanced 2026 students",
       "url": "https://indianexpress.com/article/education/iit-roorkee-rubbishes-claims-of-privacy-violation-jee-advanced-2026-students-10725341/",
       "source": "The Indian Express",
       "publishedAt": "2026-06-05T08:10:02Z",
-      "category": "RIGHTS",
-      "summary": "Five Eyes warns that Chinese spies are sliding into government employees' DMs with fake job offers. LinkedIn recruiters were already suspicious, but now they might actually be foreign intelligence."
+      "category": "BREACH",
+      "summary": "Five Eyes warns that Chinese spies are sliding into LinkedIn DMs posing as recruiters to honeypot government and military personnel. The oldest trick in the book works because humans are still the weakest link."
+    },
+    {
+      "title": "Using LLMs to secure source code | Claude",
+      "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "source": "Claude.com",
+      "publishedAt": "2026-06-05T12:06:28Z",
+      "category": "ZERO DAY",
+      "summary": "Cisco SD-WAN Manager has another root-level vulnerability with no patch or workaround available. Cisco's security track record makes Swiss cheese look impenetrable."
     }
   ]
 }
