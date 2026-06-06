@@ -1,85 +1,85 @@
 {
-  "last_updated": "2026-06-05T19:41:31.144Z",
+  "last_updated": "2026-06-06T02:08:37.822Z",
   "articles": [
-    {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "category": "NEWS",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
-    },
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "NEWS",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
-    },
-    {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
-      "category": "NEWS",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
+      "category": "BREACH",
+      "summary": "Script kiddies weaponize Meta's AI chatbot to hijack high-profile Instagram accounts including Obama's White House page. When your AI assistant becomes a social engineering accomplice, you know we're living in the dumbest timeline."
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
-      "category": "NEWS",
-      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. Krebs"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 18 May 2026 20:48:21 +0000",
-      "category": "NEWS",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive "
+      "category": "BREACH",
+      "summary": "CISA contractor dumps AWS GovCloud credentials on public GitHub while Congress demands answers. The agency tasked with protecting America's infrastructure just leaked their own keys to the kingdom — peak cybersecurity right there."
     },
     {
       "title": "Internet Age-Gates Are a Growing Global Threat",
       "url": "https://www.eff.org/deeplinks/2026/06/internet-age-gates-are-growing-global-threat",
       "source": "EFF",
       "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
-      "category": "NEWS",
-      "summary": "The internet is an essential resource for young people and adults to access information, explore community, and find themselves—both inside countries and across continents. Yet governments around the world continue to introduce and implement legislation requiring all online users to verify their age"
-    },
-    {
-      "title": "LGBT Q&A Season 1 Recap: Staying Safer Online",
-      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-season-1-recap-staying-safer-online",
-      "source": "EFF",
-      "publishedAt": "Fri, 05 Jun 2026 17:01:21 +0000",
-      "category": "NEWS",
-      "summary": "Last year during LGBTQ+ Pride month, we launched an LGBT Q&A where we answered your most pressing digital rights questions on EFF’s Instagram and TikTok  accounts. \nAhead of LGBT Q&A Season 2 launching next week, we’re posting a recap with some of the questions we answered. Check them out below.\nYou"
-    },
-    {
-      "title": "California’s AB 412 Still Demands Developers Do The Impossible",
-      "url": "https://www.eff.org/deeplinks/2026/06/californias-ab-412-still-demands-developers-do-impossible",
-      "source": "EFF",
-      "publishedAt": "Thu, 04 Jun 2026 22:56:13 +0000",
-      "category": "NEWS",
-      "summary": "California lawmakers are again considering A.B. 412, a bill that would require AI developers to identify and disclose copyrighted works used to train generative AI systems.\nThe problem this year is the same as last year: it’s practically impossible to comply with this law. The bill demands informati"
-    },
-    {
-      "title": "Pulte Appointment Underscores Need to Reform Section 702 Spying",
-      "url": "https://www.eff.org/deeplinks/2026/06/pulte-appointment-underscores-need-reform-section-702-spying",
-      "source": "EFF",
-      "publishedAt": "Thu, 04 Jun 2026 21:18:18 +0000",
-      "category": "NEWS",
-      "summary": "President Trump’s highly politicized appointment of an entirely unqualified acting Director of National Intelligence (DNI) underscores why the government’s warrantless mass spying power must be reformed. \nCongress now faces a deadline of Friday, June 12 to reauthorize Section 702 of the Foreign Inte"
+      "category": "BREACH",
+      "summary": "CISA contractor exposed privileged AWS GovCloud credentials and internal systems on public GitHub. America's cybersecurity watchdog just doxxed itself with the kind of OPSEC failure that would make a script kiddie blush."
     },
     {
       "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
       "url": "https://www.eff.org/deeplinks/2026/06/eff-testifies-congress-protecting-americans-rights-government-ai",
       "source": "EFF",
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
-      "category": "NEWS",
-      "summary": "Governments must not adopt emerging and powerful AI technologies without also adopting strong and clear safeguards to protect Constitutional rights, EFF Senior Policy Analyst Dr. Matthew Guariglia testified today to the House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protect"
+      "category": "RIGHTS",
+      "summary": "Trump's unqualified DNI appointment highlights urgent need for Section 702 surveillance reform. When political hacks control mass spying powers, constitutional rights become just another casualty of the surveillance state."
+    },
+    {
+      "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
+      "url": "https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605",
+      "source": "The Register",
+      "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Another Cisco SD-WAN zero-day under active exploitation with no patch available. Cisco's 'fix it in post' approach to security continues to deliver exactly what you'd expect."
+    },
+    {
+      "title": "Council in UK's City of York outs hundreds of disabled residents with a single email blunder",
+      "url": "https://www.theregister.com/security/2026/06/05/council-in-uks-city-of-york-outs-hundreds-of-disabled-residents-with-a-single-email-blunder/5251214",
+      "source": "The Register",
+      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0200",
+      "category": "BREACH",
+      "summary": "World Food Programme breach exposes data of 600,000 vulnerable Gaza families amid famine and war. Because when you're already surviving genocide, why not add identity theft to the mix?"
+    },
+    {
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 05 Jun 2026 20:23:40 +0530",
+      "category": "BREACH",
+      "summary": "IronWorm and Miasma worms hit npm ecosystem with supply chain attacks targeting over 50 packages. The JavaScript supply chain remains as secure as a screen door on a submarine."
+    },
+    {
+      "title": "The June 2026 AI Executive Order: What federal agencies need to know and how Tenable can help",
+      "url": "https://www.tenable.com/blog/summary-june-2026-ai-executive-order-requirements",
+      "source": "Tenable.com",
+      "publishedAt": "2026-06-04T23:33:00Z",
+      "category": "ZERO DAY",
+      "summary": "Critical RCE flaw in Everest Forms Pro WordPress plugin (CVE-2026-3300) actively exploited for site takeovers. Another day, another WordPress plugin turning websites into pwn-by-numbers coloring books."
+    },
+    {
+      "title": "'The Last Airbender' Leak: Inside Paramount's Movie Hack",
+      "url": "http://www.hollywoodreporter.com/business/digital/last-airbender-movie-hack-paramount-1236604522/",
+      "source": "Hollywood Reporter",
+      "publishedAt": "2026-06-04T13:05:38Z",
+      "category": "BREACH",
+      "summary": "iFood confirms 1.2 million user breach in Brazil while hackers claim much larger theft on BreachForums. When the company admits to millions compromised but criminals say 'hold my beer,' you know it's bad."
+    },
+    {
+      "title": "Ultrahuman suffers a major security breach, exposing users’ wellness data: How did it happen?",
+      "url": "https://www.medianama.com/2026/06/223-ultrahuman-suffers-security-breach-exposing-users-wellness-data/",
+      "source": "MediaNama.com",
+      "publishedAt": "2026-06-04T12:38:11Z",
+      "category": "BREACH",
+      "summary": "26-year-old hacker leaks Paramount's 'Avatar: The Last Airbender' movie after breaching screening company. Hollywood's digital security makes their plot holes look watertight by comparison."
     }
   ]
 }
