@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T02:08:37.822Z",
+  "last_updated": "2026-06-06T08:23:49.262Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Script kiddies weaponize Meta's AI chatbot to hijack high-profile Instagram accounts including Obama's White House page. When your AI assistant becomes a social engineering accomplice, you know we're living in the dumbest timeline."
+      "summary": "Meta's AI bot got social-engineered into handing over Obama's Instagram to pro-Iranian hackers. When your security is dumber than the humans it replaced, you've achieved peak tech dystopia."
     },
     {
       "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
@@ -15,7 +15,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor dumps AWS GovCloud credentials on public GitHub while Congress demands answers. The agency tasked with protecting America's infrastructure just leaked their own keys to the kingdom — peak cybersecurity right there."
+      "summary": "CISA contractor accidentally published AWS GovCloud keys on GitHub, because apparently cybersecurity agencies can't secure their own damn secrets. Congress is rightfully losing their minds."
     },
     {
       "title": "Internet Age-Gates Are a Growing Global Threat",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor exposed privileged AWS GovCloud credentials and internal systems on public GitHub. America's cybersecurity watchdog just doxxed itself with the kind of OPSEC failure that would make a script kiddie blush."
+      "summary": "CISA contractor left AWS GovCloud credentials on public GitHub like a digital rookie mistake of epic proportions. The agency that's supposed to protect our infrastructure couldn't protect its own keys."
     },
     {
       "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
@@ -31,7 +31,15 @@
       "source": "EFF",
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
       "category": "RIGHTS",
-      "summary": "Trump's unqualified DNI appointment highlights urgent need for Section 702 surveillance reform. When political hacks control mass spying powers, constitutional rights become just another casualty of the surveillance state."
+      "summary": "Trump's unqualified DNI appointment proves why Section 702's warrantless mass spying needs immediate reform. When politics trumps competence, your privacy is the casualty."
+    },
+    {
+      "title": "Exposed Fuel Tank Gauges Under Attack in the US",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 05 Jun 2026 19:04:36 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF testifies that government AI adoption without Constitutional safeguards is a recipe for digital authoritarianism. Someone has to speak truth to power about algorithmic overreach."
     },
     {
       "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
@@ -39,15 +47,23 @@
       "source": "The Register",
       "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Another Cisco SD-WAN zero-day under active exploitation with no patch available. Cisco's 'fix it in post' approach to security continues to deliver exactly what you'd expect."
+      "summary": "Another Cisco SD-WAN zero-day under active attack with no patch available. Cisco's security track record makes Swiss cheese look bulletproof."
     },
     {
-      "title": "Council in UK's City of York outs hundreds of disabled residents with a single email blunder",
-      "url": "https://www.theregister.com/security/2026/06/05/council-in-uks-city-of-york-outs-hundreds-of-disabled-residents-with-a-single-email-blunder/5251214",
-      "source": "The Register",
-      "publishedAt": "Fri, 05 Jun 2026 12:00:00 +0200",
-      "category": "BREACH",
-      "summary": "World Food Programme breach exposes data of 600,000 vulnerable Gaza families amid famine and war. Because when you're already surviving genocide, why not add identity theft to the mix?"
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 06 Jun 2026 12:28:04 +0530",
+      "category": "ZERO DAY",
+      "summary": "AI agent autonomously discovers 21 zero-days in FFmpeg while Chrome patches a record 429 bugs. The machines are now better at finding vulnerabilities than we are."
+    },
+    {
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 05 Jun 2026 23:35:30 +0530",
+      "category": "ZERO DAY",
+      "summary": "Cisco Catalyst SD-WAN Manager zero-day (CVE-2026-20245) actively exploited with no fix in sight. Sysadmins everywhere are updating their resumes and stress-eating."
     },
     {
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
@@ -55,31 +71,15 @@
       "source": "The Hacker News",
       "publishedAt": "Fri, 05 Jun 2026 20:23:40 +0530",
       "category": "BREACH",
-      "summary": "IronWorm and Miasma worms hit npm ecosystem with supply chain attacks targeting over 50 packages. The JavaScript supply chain remains as secure as a screen door on a submarine."
+      "summary": "IronWorm and Miasma worms hit npm with supply chain attacks targeting 50+ packages. The software ecosystem remains as secure as a house of cards in a hurricane."
     },
     {
-      "title": "The June 2026 AI Executive Order: What federal agencies need to know and how Tenable can help",
-      "url": "https://www.tenable.com/blog/summary-june-2026-ai-executive-order-requirements",
-      "source": "Tenable.com",
-      "publishedAt": "2026-06-04T23:33:00Z",
-      "category": "ZERO DAY",
-      "summary": "Critical RCE flaw in Everest Forms Pro WordPress plugin (CVE-2026-3300) actively exploited for site takeovers. Another day, another WordPress plugin turning websites into pwn-by-numbers coloring books."
-    },
-    {
-      "title": "'The Last Airbender' Leak: Inside Paramount's Movie Hack",
-      "url": "http://www.hollywoodreporter.com/business/digital/last-airbender-movie-hack-paramount-1236604522/",
-      "source": "Hollywood Reporter",
-      "publishedAt": "2026-06-04T13:05:38Z",
-      "category": "BREACH",
-      "summary": "iFood confirms 1.2 million user breach in Brazil while hackers claim much larger theft on BreachForums. When the company admits to millions compromised but criminals say 'hold my beer,' you know it's bad."
-    },
-    {
-      "title": "Ultrahuman suffers a major security breach, exposing users’ wellness data: How did it happen?",
-      "url": "https://www.medianama.com/2026/06/223-ultrahuman-suffers-security-breach-exposing-users-wellness-data/",
-      "source": "MediaNama.com",
-      "publishedAt": "2026-06-04T12:38:11Z",
-      "category": "BREACH",
-      "summary": "26-year-old hacker leaks Paramount's 'Avatar: The Last Airbender' movie after breaching screening company. Hollywood's digital security makes their plot holes look watertight by comparison."
+      "title": "Reporting from Vegas: Networking, AI, and good boys",
+      "url": "https://blog.talosintelligence.com/reporting-from-vegas-networking-ai-and-good-boys/",
+      "source": "Talosintelligence.com",
+      "publishedAt": "2026-06-04T18:00:59Z",
+      "category": "WHITE HAT",
+      "summary": "Ethical hacker flags cloud misconfiguration at IIT Roorkee affecting JEE exam data, gets fixed immediately. Proof that responsible disclosure still works when orgs aren't idiots."
     }
   ]
 }
