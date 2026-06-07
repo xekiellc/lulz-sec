@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T19:04:51.957Z",
+  "last_updated": "2026-06-07T02:35:07.501Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got social-engineered harder than a freshman at DEF CON, leading to the Obama White House Instagram getting tagged with pro-Iranian memes. When your AI is dumber than a Telegram script kiddie, maybe it's time to rethink automation."
+      "summary": "Meta's AI support bot just got socially engineered into handing over Obama's Instagram to Iranian trolls. When your chatbot has more security clearance than your actual security team, maybe it's time to rethink things."
     },
     {
       "title": "Internet Age-Gates Are a Growing Global Threat",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dropped AWS GovCloud keys on GitHub like breadcrumbs for nation-states. The agency tasked with protecting America's infrastructure just handed out the skeleton keys to anyone with a browser."
+      "summary": "CISA contractor dumped AWS GovCloud keys on public GitHub like it was their personal dev playground. The agency tasked with protecting America's infrastructure just leaked the keys to the castle—chef's kiss level operational security."
     },
     {
       "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
       "category": "RIGHTS",
-      "summary": "Trump's unqualified DNI pick perfectly illustrates why Section 702's warrantless mass surveillance needs to die. When political hacks control the panopticon, everyone's privacy is fucked."
+      "summary": "Trump appoints unqualified DNI while Section 702 warrantless mass spying powers face reauthorization. EFF reminds us why giving surveillance tools to incompetent authoritarians is a historically bad idea."
     },
     {
       "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
@@ -31,7 +31,15 @@
       "source": "The Register",
       "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Another Cisco SD-WAN zero-day is getting hammered in the wild with zero patches on the horizon. Cisco's response time makes geological epochs look speedy."
+      "summary": "Another Cisco SD-WAN zero-day is being actively exploited with no patch available. Cisco's motto should be 'Pwning the Connected World'—at least they're consistent."
+    },
+    {
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "source": "The Hacker News",
+      "publishedAt": "Sat, 06 Jun 2026 12:58:30 +0530",
+      "category": "ZERO DAY",
+      "summary": "CISA adds actively exploited SolarWinds Serv-U vulnerability to KEV catalog. Because if there's one company that needed more security problems, it's definitely SolarWinds."
     },
     {
       "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
@@ -39,31 +47,31 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 06 Jun 2026 12:28:04 +0530",
       "category": "ZERO DAY",
-      "summary": "AI agent autonomously discovered 21 zero-days in FFmpeg while Google patched a record 429 Chrome bugs. The robots are getting scary good at breaking things, which is honestly more impressive than most human pentesters."
+      "summary": "AI agent autonomously discovers 21 zero-days in FFmpeg while Chrome patches a record 429 bugs. The robots are getting scary good at finding holes—at least they're on our side for now."
     },
     {
-      "title": "NSA using Clause Mythos for 'offensive cyber operations,' report claims — says 'half-a-dozen' Anthropic engineers embedded inside the agency",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency",
-      "source": "Tom's Hardware UK",
-      "publishedAt": "2026-06-05T16:53:46Z",
+      "title": "Zcash faces governance concerns after emergency hard fork over critical vulnerability",
+      "url": "https://cryptobriefing.com/zcash-governance-concerns-emergency-hard-fork/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-06T01:22:30Z",
       "category": "BREACH",
-      "summary": "Miasma worm infected 73 Microsoft GitHub repos in a self-replicating supply chain clusterfuck. When even Microsoft can't secure their own repositories, the rest of us are truly screwed."
+      "summary": "Miasma worm hits 73 Microsoft GitHub repositories in massive supply chain attack. Microsoft's own repos got pwned—turns out even Big Tech can't escape the universal law of 'trust but verify.'"
     },
     {
-      "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
-      "url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T15:49:08Z",
-      "category": "LEGENDS",
-      "summary": "NSA is reportedly using Anthropic's Claude for 'offensive cyber operations' with half-a-dozen company engineers embedded inside the agency. Nothing says 'Don't Be Evil' like weaponizing AI for state-sponsored hacking."
+      "title": "Two men shot at Trump's Butler rally sue federal government over Secret Service 'preventable failures'",
+      "url": "https://www.foxnews.com/us/two-men-shot-trumps-butler-rally-sue-federal-government-secret-service-preventable-failures",
+      "source": "Fox News",
+      "publishedAt": "2026-06-05T23:18:10Z",
+      "category": "WHITE HAT",
+      "summary": "University of Toronto researchers build autonomous AI worm that can reason and adapt to find vulnerabilities. Academic proof-of-concept today, nation-state cyber weapon tomorrow—the future is beautifully terrifying."
     },
     {
-      "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
-      "url": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-05T12:49:04Z",
+      "title": "IITs deny JEE Advanced data breach; CBSE files plaint over cyber attacks",
+      "url": "https://economictimes.indiatimes.com/news/india/iits-deny-jee-advanced-data-breach-cbse-files-plaint-over-cyber-attacks/articleshow/131538842.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T18:10:46Z",
       "category": "ZERO DAY",
-      "summary": "AI-assisted researcher discovered a catastrophic Zcash exploit hiding in zero-knowledge proof circuits for four years. Privacy coins aren't so private when the math is fundamentally broken."
+      "summary": "CISA confirms hackers are actively exploiting patched SolarWinds Serv-U flaw to crash servers. SolarWinds: the gift that keeps on giving—like herpes, but for enterprise infrastructure."
     },
     {
       "title": "No data breach: IIT Roorkee rubbishes claims of privacy violation affecting JEE Advanced 2026 students",
@@ -71,15 +79,7 @@
       "source": "The Indian Express",
       "publishedAt": "2026-06-05T08:10:02Z",
       "category": "BREACH",
-      "summary": "Five Eyes warns that Chinese spies are sliding into LinkedIn DMs posing as recruiters to honeypot government and military personnel. The oldest trick in the book works because humans are still the weakest link."
-    },
-    {
-      "title": "Using LLMs to secure source code | Claude",
-      "url": "https://claude.com/blog/using-llms-to-secure-source-code",
-      "source": "Claude.com",
-      "publishedAt": "2026-06-05T12:06:28Z",
-      "category": "ZERO DAY",
-      "summary": "Cisco SD-WAN Manager has another root-level vulnerability with no patch or workaround available. Cisco's security track record makes Swiss cheese look impenetrable."
+      "summary": "Five Eyes warns Chinese spies are using fake LinkedIn recruiter profiles to target government and military personnel. Nothing says 'sophisticated nation-state actor' like sliding into someone's DMs with a too-good-to-be-true job offer."
     }
   ]
 }
