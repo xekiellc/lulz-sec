@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T02:44:51.536Z",
+  "last_updated": "2026-06-08T15:29:04.031Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI chatbot got social-engineered harder than a freshman at DEFCON, leading to Obama's Instagram getting decorated with Iranian propaganda. When your \"smart\" AI falls for basic human manipulation, maybe it's time to reconsider calling it intelligence."
+      "summary": "Meta's AI chatbot got socially engineered harder than a freshman at DEFCON, letting attackers seize Instagram accounts including Obama's White House page. When your AI is dumber than a phishing email, maybe it's time to rethink automation."
     },
     {
       "title": "Internet Age-Gates Are a Growing Global Threat",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 05 Jun 2026 19:28:01 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor yeeted AWS GovCloud keys and internal secrets onto public GitHub because apparently cybersecurity agencies are just as good at OpSec as your average startup. The irony is so thick you could cut it with a rusty CVE."
+      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and internal secrets onto GitHub like it's their personal diary. The cybersecurity agency that's supposed to protect America just doxxed itself—chef's kiss level irony."
     },
     {
       "title": "EFF Testifies to Congress on Protecting Americans’ Rights from Government AI",
@@ -23,63 +23,63 @@
       "source": "EFF",
       "publishedAt": "Thu, 04 Jun 2026 20:52:05 +0000",
       "category": "RIGHTS",
-      "summary": "Trump's unqualified DNI pick highlights why Section 702's warrantless mass surveillance needs to die in a fire. When political hacks get the keys to the panopticon, maybe it's time to question why the panopticon exists at all."
+      "summary": "Trump's unqualified DNI pick perfectly illustrates why Section 702's warrantless mass surveillance needs to die. When political hacks control the spy apparatus, your constitutional rights become their playthings."
     },
     {
-      "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
-      "url": "https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605",
+      "title": "NSO Group back in Meta's crosshairs after alleged WhatsApp targeting",
+      "url": "https://www.theregister.com/security/2026/06/08/nso-group-back-in-metas-crosshairs-after-alleged-whatsapp-targeting/5252105",
       "source": "The Register",
-      "publishedAt": "Fri, 05 Jun 2026 15:00:00 +0200",
-      "category": "ZERO DAY",
-      "summary": "Another Cisco SD-WAN zero-day is getting hammered in the wild with no patch in sight. Sysadmins everywhere are updating their résumés and contemplating careers in organic farming."
-    },
-    {
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 06 Jun 2026 12:58:30 +0530",
-      "category": "ZERO DAY",
-      "summary": "CISA adds actively exploited SolarWinds Serv-U flaw to KEV catalog because apparently SolarWinds wasn't done being a cybersecurity punchline. Some companies just can't help themselves."
-    },
-    {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "source": "The Hacker News",
-      "publishedAt": "Sat, 06 Jun 2026 12:28:04 +0530",
-      "category": "ZERO DAY",
-      "summary": "AI agent autonomously discovered 21 zero-days in FFmpeg while Chrome patched a record 429 bugs. The robots are getting scary good at finding holes in our digital house of cards."
-    },
-    {
-      "title": "Is Cybersecurity Hard? Honest Career Guide for 2026",
-      "url": "https://www.smashingapps.com/is-cybersecurity-hard/",
-      "source": "Smashingapps.com",
-      "publishedAt": "2026-06-06T21:54:10Z",
+      "publishedAt": "Mon, 08 Jun 2026 14:10:00 +0200",
       "category": "BREACH",
-      "summary": "Miasma worm infected 73 Microsoft GitHub repos in a supply chain attack that spread like gossip at a security conference. When even Microsoft can't keep their own repos clean, we're all doomed."
+      "summary": "GitHub nuked 70+ Microsoft repos after the Miasma worm went full shapeshifter hunting cloud secrets. Supply chain attacks just got their PhD in persistence—this worm adapts faster than management pivots."
     },
     {
-      "title": "It's So Over for Crypto",
-      "url": "https://www.jezebel.com/its-so-over-for-crypto",
-      "source": "Jezebel",
-      "publishedAt": "2026-06-06T09:55:39Z",
-      "category": "LEGENDS",
-      "summary": "Reports claim Anthropic deployed engineers to help NSA use restricted AI model Mythos for cybersecurity. Nothing says \"don't be evil\" like secretly helping the surveillance state upgrade their digital panopticon."
-    },
-    {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "source": "Weekinsecurity.com",
-      "publishedAt": "2026-06-06T18:35:27Z",
+      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 08 Jun 2026 19:47:39 +0530",
       "category": "ZERO DAY",
-      "summary": "Claude Opus AI discovered a four-year-old critical Zcash flaw that could enable undetectable counterfeit coin creation. When AI starts auditing crypto better than humans, the future is both terrifying and hilarious."
+      "summary": "Another Cisco SD-WAN zero-day is being actively exploited with no patch in sight. Cisco's patch schedule moves slower than continental drift while attackers are having a field day."
+    },
+    {
+      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+      "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 08 Jun 2026 18:49:13 +0530",
+      "category": "ZERO DAY",
+      "summary": "Check Point VPN flaw lets attackers bypass passwords in IKEv1 setups—because apparently deprecated protocols are the gift that keeps on giving. Critical score 9.3 and actively exploited, because of course it is."
+    },
+    {
+      "title": "Security Affairs newsletter Round 580 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "url": "https://securityaffairs.com/193260/breaking-news/security-affairs-newsletter-round-580-by-pierluigi-paganini-international-edition.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-06-07T14:39:23Z",
+      "category": "BREACH",
+      "summary": "Chinese APT group VerdantBamboo deployed BSD variant of BRICKSTORM malware on Linux appliances. When nation-state actors start porting malware across operating systems, you know they're committed to the bit."
+    },
+    {
+      "title": "Week in review: Cisco SD-WAN 0-day exploited, Patch Tuesday forecast",
+      "url": "https://www.helpnetsecurity.com/2026/06/07/week-in-review-cisco-sd-wan-0-day-exploited-june-2026-patch-tuesday-forecast/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-07T08:00:37Z",
+      "category": "WHITE HAT",
+      "summary": "Microsoft retreated faster than France in 1940 after threatening researcher Nightmare Eclipse over unpatched Windows Defender zero-days. Industry backlash reminded Redmond that shooting the messenger makes you look like the villain."
+    },
+    {
+      "title": "CBSE OSM row: Pradhan 'incompetent', continuation in office insult to lakhs of students: Cong",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-slams-education-minister-pradhan-over-cbse-osm-lapses-calls-for-resignation/articleshow/131552271.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-06T12:53:29Z",
+      "category": "BREACH",
+      "summary": "Meta confirms thousands of Instagram accounts got pwned via their AI chatbot exploit. Their fix came after the horse left the barn, ran a marathon, and started a new life in witness protection."
     },
     {
       "title": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
       "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-06-06T10:08:17Z",
-      "category": "LEGENDS",
-      "summary": "Former IBM cybersecurity exec blows whistle on company allegedly covering up years of Chinese state hacking. Corporate malfeasance meets geopolitical espionage in this thrilling episode of \"why we can't have nice things.\""
+      "category": "BREACH",
+      "summary": "Former IBM exec whistleblows on company covering up years of Chinese state hacking. Big Blue kept quiet about getting owned while selling cybersecurity services—that's some premium corporate cognitive dissonance."
     }
   ]
 }
