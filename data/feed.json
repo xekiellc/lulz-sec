@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T20:01:07.472Z",
+  "last_updated": "2026-06-09T02:05:38.416Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,71 +7,47 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI chatbot got social engineered harder than a freshman at DEF CON, letting attackers hijack Instagram accounts including Obama's White House page. When your AI is dumber than a phishing email, maybe it's time to rethink that 'artificial intelligence' branding."
+      "summary": "Meta's AI chatbot got socially engineered into hijacking Instagram accounts including Obama's White House page. When your AI assistant is dumber than a phishing email, maybe reconsider giving it the keys to user accounts."
+    },
+    {
+      "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
+      "url": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
+      "source": "EFF",
+      "publishedAt": "Mon, 08 Jun 2026 23:32:38 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor casually dumped AWS GovCloud credentials on GitHub like it's a personal blog. The agency tasked with protecting America's infrastructure couldn't protect their own cloud keys from public embarrassment."
     },
     {
       "title": "Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!",
       "url": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
       "source": "EFF",
       "publishedAt": "Mon, 08 Jun 2026 19:12:02 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor dumped AWS GovCloud keys on GitHub like it's a fucking recipe blog, exposing highly privileged government systems. The agency that's supposed to protect America's cyber infrastructure just handed the keys to anyone with a browser."
+      "category": "RIGHTS",
+      "summary": "Meta quietly embedded facial recognition into millions of phones, got called out by WIRED, then quietly removed it after public outrage. Classic surveillance capitalism: ask forgiveness, not permission."
     },
     {
       "title": "Iran Signed a Ceasefire — Its Hackers Didn't",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers",
       "source": "Dark Reading",
       "publishedAt": "Mon, 08 Jun 2026 19:07:48 GMT",
+      "category": "ZERO DAY",
+      "summary": "Critical Check Point VPN zero-day exploited since May by Qilin ransomware crew. Another day, another enterprise VPN turning into a welcome mat for threat actors."
+    },
+    {
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "url": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 09 Jun 2026 01:47:39 +0530",
       "category": "RIGHTS",
-      "summary": "Trump's clown-car DNI appointment highlights why Section 702's warrantless mass surveillance needs to die in a fire. When the intelligence community is run by reality TV rejects, maybe we shouldn't give them unlimited spying powers."
+      "summary": "NSO Group apparently can't take a hint from federal courts and keeps targeting WhatsApp users. Meta's filing contempt charges because some spyware vendors need their restraining orders explained in crayon."
     },
     {
-      "title": "Ransomware sends Illinois high school on an early summer vacation",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/08/ransomware-attack-shuts-illinois-high-school-until-wednesday/5252322",
-      "source": "The Register",
-      "publishedAt": "Mon, 08 Jun 2026 17:46:52 +0200",
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "url": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+      "source": "The Hacker News",
+      "publishedAt": "Mon, 08 Jun 2026 22:38:44 +0530",
       "category": "ZERO DAY",
-      "summary": "Ransomware crews had a month-long party with Check Point VPN zero-day CVE-2026-50751 before anyone bothered to patch it. Nothing says 'enterprise security' like letting the bad guys RSVP first."
-    },
-    {
-      "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
-      "url": "https://www.theregister.com/security/2026/06/06/oxford-university-data-pwned-again-by-career-platform-breach/5251754",
-      "source": "The Register",
-      "publishedAt": "Sat, 06 Jun 2026 09:28:00 +0200",
-      "category": "BREACH",
-      "summary": "NSO Group keeps targeting WhatsApp users despite a federal court telling them to fuck off, proving surveillance capitalism doesn't respect court orders. Meta's filing contempt charges because apparently some people need legal consequences explained in crayon."
-    },
-    {
-      "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
-      "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
-      "source": "Decrypt",
-      "publishedAt": "2026-06-07T18:01:03Z",
-      "category": "ZERO DAY",
-      "summary": "Cisco SD-WAN zero-day CVE-2026-20245 is being actively exploited with no patch in sight, because why fix critical infrastructure when you can just hope for the best? Also Windows Netlogon RCE is back like a bad sequel nobody asked for."
-    },
-    {
-      "title": "DeFi’s old hack vectors are fading – But the new risk can hit six chains at once",
-      "url": "https://cryptoslate.com/defis-old-hacks-are-fading-the-new-risk-can-hit-six-chains-at-once/",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-06-07T17:10:56Z",
-      "category": "ZERO DAY",
-      "summary": "AI models are now finding crypto bugs faster than human researchers, starting with a critical Zcash vulnerability discovered by Anthropic's Claude. The future is AI vs AI, and humans are just along for the ride to bankruptcy."
-    },
-    {
-      "title": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
-      "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-06T10:08:17Z",
-      "category": "BREACH",
-      "summary": "Former IBM exec whistleblows the company for covering up years of Chinese state hacking because apparently corporate reputation matters more than national security. IBM's threat intelligence VP watched them bury breaches like it's fucking Watergate."
-    },
-    {
-      "title": "NSO Group back in Meta's crosshairs after alleged WhatsApp targeting",
-      "url": "https://www.theregister.com/security/2026/06/08/nso-group-back-in-metas-crosshairs-after-alleged-whatsapp-targeting/5252105",
-      "source": "The Register",
-      "publishedAt": "Mon, 08 Jun 2026 14:10:00 +0200",
-      "category": "BREACH",
-      "summary": "GitHub nuked 70+ Microsoft repos after Miasma worm infections broke CI/CD pipelines everywhere, proving even Microsoft can't secure their own shit. The worm shapeshifts but its goal remains the same: hoover up cloud secrets like a digital vacuum cleaner."
+      "summary": "One-character Linux kernel flaw lets any local user escalate to root with public exploits available. Sometimes the smallest typos create the biggest security nightmares."
     },
     {
       "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
@@ -79,7 +55,31 @@
       "source": "The Hacker News",
       "publishedAt": "Mon, 08 Jun 2026 18:49:13 +0530",
       "category": "ZERO DAY",
-      "summary": "Check Point VPN users running deprecated IKEv1 are getting owned by CVE-2026-50751, a logic flaw that bypasses passwords entirely. Pro tip: maybe don't use protocols that were sketchy when Friendster was still a thing."
+      "summary": "Check Point VPN flaw lets attackers bypass passwords in IKEv1 deployments under active exploitation. Pro tip: maybe don't use deprecated crypto protocols for your enterprise security."
+    },
+    {
+      "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+      "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-07T18:01:03Z",
+      "category": "ZERO DAY",
+      "summary": "Cisco SD-WAN zero-day with no patch available faces active exploitation alongside Windows Netlogon RCE. When enterprise networking becomes a threat actor playground, admins everywhere weep."
+    },
+    {
+      "title": "DeFi’s old hack vectors are fading – But the new risk can hit six chains at once",
+      "url": "https://cryptoslate.com/defis-old-hacks-are-fading-the-new-risk-can-hit-six-chains-at-once/",
+      "source": "CryptoSlate",
+      "publishedAt": "2026-06-07T17:10:56Z",
+      "category": "ZERO DAY",
+      "summary": "AI models are now finding critical crypto bugs faster than human auditors, starting with a major Zcash vulnerability. The future of security research involves teaching machines to break things better than we do."
+    },
+    {
+      "title": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
+      "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-06T10:08:17Z",
+      "category": "BREACH",
+      "summary": "Former IBM exec whistleblows the company for allegedly covering up years of Chinese state hacking. Nothing says 'enterprise security leader' like hiding breaches from your own threat intelligence VP."
     }
   ]
 }
