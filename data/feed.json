@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T14:25:15.045Z",
+  "last_updated": "2026-06-09T19:56:12.873Z",
   "articles": [
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot got socially engineered harder than a freshman CS student, letting attackers seize Obama's Instagram and Space Force accounts with pro-Iranian messages. When your chatbot falls for the oldest tricks in the book, maybe it's time to question that whole 'AI revolution' thing."
+      "summary": "Meta's AI support bot just became the perfect social engineering target, letting hackers seize high-profile Instagram accounts including Obama's White House account. When your AI is dumber than a phishing email, maybe it's time to rethink automation."
     },
     {
       "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
@@ -15,15 +15,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 08 Jun 2026 23:32:38 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumped AWS GovCloud keys and internal secrets on public GitHub like it's their personal blog. The agency tasked with protecting America's cyber infrastructure just doxxed itself spectacularly."
-    },
-    {
-      "title": "Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!",
-      "url": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
-      "source": "EFF",
-      "publishedAt": "Mon, 08 Jun 2026 19:12:02 +0000",
-      "category": "RIGHTS",
-      "summary": "Meta quietly shoved facial recognition into millions of phones via their smart glasses app, then backpedaled faster than a politician during election season after WIRED exposed their creepy surveillance overreach. Public outcry still works, apparently."
+      "summary": "CISA contractor casually dumps AWS GovCloud keys on GitHub like it's their personal notepad. The agency tasked with protecting critical infrastructure just leaked their own crown jewels—chef's kiss of irony."
     },
     {
       "title": "Iran Signed a Ceasefire — Its Hackers Didn't",
@@ -31,7 +23,7 @@
       "source": "Dark Reading",
       "publishedAt": "Mon, 08 Jun 2026 19:07:48 GMT",
       "category": "ZERO DAY",
-      "summary": "Check Point VPN got owned by a critical zero-day that's been getting exploited since May, with Qilin ransomware crew taking the victory lap. Another day, another enterprise VPN falling face-first into the vulnerability hall of fame."
+      "summary": "Check Point VPN zero-day gets exploited by Qilin ransomware for over a month before anyone notices. Nothing says 'enterprise security' like giving attackers a month-long head start."
     },
     {
       "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
@@ -39,7 +31,7 @@
       "source": "The Register",
       "publishedAt": "Tue, 09 Jun 2026 14:15:00 +0200",
       "category": "RIGHTS",
-      "summary": "UK government wants to scan everyone's devices for nudes 'for the children,' while Signal correctly points out this surveillance infrastructure will inevitably be repurposed for full-spectrum censorship. Privacy dies one 'reasonable' exception at a time."
+      "summary": "Signal tells UK government their plan to scan devices for nude images 'endangers us all.' Because nothing could possibly go wrong with mandatory government backdoors masquerading as child protection."
     },
     {
       "title": "France probes compromise of gov messaging platform after account hijack",
@@ -47,39 +39,47 @@
       "source": "The Register",
       "publishedAt": "Tue, 09 Jun 2026 13:27:55 +0200",
       "category": "ZERO DAY",
-      "summary": "Chrome's fifth zero-day of the year got patched after active exploitation, netting the researcher a sweet $55K bounty. Google's playing vulnerability whack-a-mole at industrial scale."
+      "summary": "Chrome's fifth exploited zero-day of the year proves Google's Whac-A-Mole security strategy. At least they paid the researcher $55K—more than most people make finding Chrome bugs the hard way."
     },
     {
-      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
-      "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0530",
+      "title": "A Qilin ransomware affiliate exploited a Check Point VPN zero-day for a month before a patch existed",
+      "url": "https://thenextweb.com/news/check-point-vpn-zero-day-qilin-ransomware-ikev1/",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-08T18:13:34Z",
       "category": "ZERO DAY",
-      "summary": "Chrome's V8 engine got pwned via CVE-2026-11645, an out-of-bounds memory access bug being actively exploited in the wild. Another reminder that JavaScript engines are basically nuclear reactors made of C++ and wishful thinking."
+      "summary": "University of Toronto researchers build self-replicating AI worm that operates entirely on local models. Because apparently regular malware wasn't scary enough—now it can think for itself."
     },
     {
-      "title": "Reducing security operations complexity with Wazuh Cloud",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
-      "source": "BleepingComputer",
-      "publishedAt": "2026-06-08T14:01:11Z",
-      "category": "ZERO DAY",
-      "summary": "FROST attack lets malicious websites track your browsing and app usage by timing your SSD operations through pure JavaScript. Your storage device's performance characteristics just became a privacy nightmare with no permissions required."
-    },
-    {
-      "title": "CBSE OSM row: Pradhan 'incompetent', continuation in office insult to lakhs of students: Cong",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-slams-education-minister-pradhan-over-cbse-osm-lapses-calls-for-resignation/articleshow/131552271.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-06T12:53:29Z",
-      "category": "BREACH",
-      "summary": "Meta confirmed thousands of Instagram accounts got hijacked by tricking their AI chatbot into password resets, affecting accounts without 2FA. The age of social engineering chatbots has officially begun."
-    },
-    {
-      "title": "CBSE retains COEMPT for answer-sheet scanning, shifts data to its own servers",
-      "url": "https://www.thehindubusinessline.com/news/cbse-retains-coempt-for-answer-sheet-scanning-shifts-data-to-its-own-servers/article71069326.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-06T10:08:17Z",
+      "title": "Ransomware crims got a month-long head start on Check Point VPN 0-day that now has a fix",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/08/attackers-had-month-long-head-start-on-patched-check-point-vpn-zero-day/5252438",
+      "source": "Theregister.com",
+      "publishedAt": "2026-06-08T17:10:31Z",
       "category": "LEGENDS",
-      "summary": "Former IBM cybersecurity VP turned whistleblower, accusing Big Blue of covering up years of Chinese state hacking like it's 2023 corporate standard operating procedure. When your own security chief calls you out, maybe it's time for some soul-searching."
+      "summary": "WhatsApp catches NSO Group violating court orders like the digital arms dealers they are. Turns out telling spyware companies to 'please stop' works about as well as you'd expect."
+    },
+    {
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "source": "BleepingComputer",
+      "publishedAt": "2026-06-08T16:18:40Z",
+      "category": "LEGENDS",
+      "summary": "Former IBM exec blows whistle on company covering up years of Chinese state hacking. Big Blue apparently thought 'security through obscurity' meant hiding breaches from their own customers."
+    },
+    {
+      "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-08T13:18:57Z",
+      "category": "ZERO DAY",
+      "summary": "Gogs patches critical zero-day enabling remote code execution on any public instance. Git repositories: where your code goes to die, apparently."
+    },
+    {
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 09 Jun 2026 17:56:10 +0530",
+      "category": "BREACH",
+      "summary": "Microsoft takes GitHub repos offline after Miasma worm infects 73 open-source projects. When even Microsoft's own code gets pwned, you know supply chain attacks have reached peak lulz."
     }
   ]
 }
