@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T14:52:54.399Z",
+  "last_updated": "2026-06-10T20:11:44.950Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,63 +7,63 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped a record-breaking 200 patches in one Patch Tuesday, with three dozen critical vulns that'll have sysadmins crying into their energy drinks. AI is apparently making vulnerability discovery so efficient that we're drowning in bugs faster than we can fix them."
+      "summary": "Microsoft drops a record-breaking 200 patches in one Patch Tuesday, with nearly three dozen critical fixes. When even Redmond's security team needs a vacation after one release cycle, you know the digital apocalypse is upon us."
     },
     {
-      "title": "How and Why to Fight Back Against Social Media Bans",
-      "url": "https://www.eff.org/deeplinks/2026/06/how-and-why-fight-back-against-social-media-bans",
-      "source": "EFF",
-      "publishedAt": "Tue, 09 Jun 2026 22:51:45 +0000",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub because apparently even the cybersecurity watchdog can't watch their own contractors. Congress is rightfully losing their minds over this spectacular own-goal."
+      "summary": "Meta's AI chatbot gets social engineered into handing over Obama's and Space Force chief's Instagram accounts to Iranian hackers. Even the machines are falling for basic social engineering now—what a time to be alive."
     },
     {
-      "title": "Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!",
-      "url": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
+      "title": "Enshittification Merch That Actually Fights Enshittification",
+      "url": "https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification",
       "source": "EFF",
-      "publishedAt": "Mon, 08 Jun 2026 19:12:02 +0000",
-      "category": "RIGHTS",
-      "summary": "Meta quietly embedded facial recognition code into millions of phones via their smart glasses app, got caught by WIRED, and removed it faster than you can say 'privacy violation.' Sometimes public shaming actually works."
+      "publishedAt": "Wed, 10 Jun 2026 17:34:12 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally publishes AWS GovCloud keys and agency secrets on public GitHub, prompting Congressional fury. Nothing says 'cybersecurity leadership' like leaving your crown jewels in a public repo."
     },
     {
-      "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
-      "url": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
+      "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
       "source": "Dark Reading",
-      "publishedAt": "Tue, 09 Jun 2026 19:33:45 GMT",
-      "category": "ZERO DAY",
-      "summary": "Microsoft Exchange's 'Ghost-Sender' flaw lets attackers spoof any email address through widespread misconfiguration. It's being actively exploited in the wild because of course it is."
+      "publishedAt": "Wed, 10 Jun 2026 16:31:02 GMT",
+      "category": "RIGHTS",
+      "summary": "Meta quietly removes facial recognition code from smart glasses app after public outcry and damning WIRED exposé. Victory achieved through the ancient art of 'naming and shaming'—still the most effective bug bounty program."
     },
     {
-      "title": "AI is making Patch Tuesday (kinda) fun again",
-      "url": "https://www.theregister.com/patches/2026/06/09/ai-is-making-patch-tuesday-kinda-fun-again/5253225",
+      "title": "The Invisible Battlefield: How Cyber War Is Reshaping Everyday Life",
+      "url": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
+      "source": "Dark Reading",
+      "publishedAt": "Tue, 09 Jun 2026 21:57:11 GMT",
+      "category": "ZERO DAY",
+      "summary": "Nightmare-Eclipse drops another Windows Defender exploit called RoguePlanet, continuing their personal war against Microsoft. When researchers go rogue, they really commit to the bit."
+    },
+    {
+      "title": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
+      "url": "https://theintercept.com/2026/06/10/trump-boat-strikes-human-trafficking-victims/",
+      "source": "The Intercept",
+      "publishedAt": "Wed, 10 Jun 2026 09:35:00 +0000",
+      "category": "RIGHTS",
+      "summary": "Bipartisan momentum builds to rein in domestic surveillance laws, with Sen. Wyden noting unprecedented support. Even the surveillance state occasionally faces pushback from people who actually read the Constitution."
+    },
+    {
+      "title": "GitHub pulls pin on npm's auto-run scripts",
+      "url": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
       "source": "The Register",
-      "publishedAt": "Wed, 10 Jun 2026 00:49:16 +0200",
+      "publishedAt": "Wed, 10 Jun 2026 15:11:14 +0200",
       "category": "ZERO DAY",
-      "summary": "Ivanti Sentry customers need to patch NOW as critical bugs scoring 10.0 and 9.9 offer remote, unauthenticated RCE with root privileges. That's basically the vulnerability equivalent of leaving your front door open with a neon 'ROB ME' sign."
+      "summary": "Angry researcher drops new Windows 0-day in ongoing Microsoft beef. Nothing says 'responsible disclosure' like serving revenge code cold and public."
     },
     {
-      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-      "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
       "source": "The Hacker News",
-      "publishedAt": "Wed, 10 Jun 2026 10:52:01 +0530",
-      "category": "BREACH",
-      "summary": "ServiceNow got pwned through an exploited flaw that gave attackers unauthorized access to customer instances. The company's advisory requires customer login to read, because nothing says transparency like hiding breach details behind a paywall."
-    },
-    {
-      "title": "Anthropic says Mythos is too dangerous for the public. It just gave 150 more organisations access.",
-      "url": "https://thenextweb.com/news/anthropic-says-mythos-is-too-dangerous-for-the-public-it-just-gave-150-more-organisations-access/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-09T14:47:18Z",
+      "publishedAt": "Wed, 10 Jun 2026 20:14:29 +0530",
       "category": "ZERO DAY",
-      "summary": "Anonymous researcher Chaotic Eclipse dropped another Microsoft Defender zero-day called RoguePlanet that grants SYSTEM access on fully updated Windows. It's a race condition exploit, so your mileage may vary on total system compromise."
-    },
-    {
-      "title": "Date set for World Naked Bike Ride in Madison",
-      "url": "https://freerepublic.com/focus/f-chat/4382989/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-09T13:25:16Z",
-      "category": "ZERO DAY",
-      "summary": "Check Point VPN zero-day exploited by Qilin ransomware through legacy IKEv1 protocol because apparently we're still running decades-old crypto like it's 1998. Emergency hotfixes are out, but the horse has probably left the barn."
+      "summary": "Unpatched Langflow AI platform flaw CVE-2026-5027 gets actively exploited for unauthenticated RCE. The AI revolution includes getting pwned by AI tools—how delightfully recursive."
     },
     {
       "title": "France’s ‘sovereign’ messenger Tchap was breached, and officials and the hacker disagree on how badly",
@@ -71,15 +71,15 @@
       "source": "The Next Web",
       "publishedAt": "2026-06-09T12:04:41Z",
       "category": "BREACH",
-      "summary": "France's 'sovereign' Tchap messaging platform got breached through account hijacking, proving that rolling your own crypto messenger doesn't automatically make you safer than WhatsApp. The government and hacker can't even agree on how badly they got owned."
+      "summary": "France's 'sovereign' government messaging platform Tchap gets breached through basic account hijacking. Building your own secure messenger doesn't mean much if you forget the 'secure' part."
     },
     {
-      "title": "Check Point says VPN attacks caused by Qilin ransomware group — who had a month's head start on them",
-      "url": "https://www.techradar.com/pro/security/check-point-says-vpn-attacks-caused-by-qilin-ransomware-group-who-had-a-months-head-start-on-them",
-      "source": "TechRadar",
-      "publishedAt": "2026-06-09T12:58:11Z",
-      "category": "ZERO DAY",
-      "summary": "Google patched another Chrome zero-day that's already being exploited for arbitrary code execution and data theft. Update now unless you enjoy having your browser turned into a digital petri dish for malware."
+      "title": "Security in the Post-Mythos Era",
+      "url": "https://blogs.cisco.com/security/security-in-the-post-mythos-era",
+      "source": "Cisco.com",
+      "publishedAt": "2026-06-09T15:00:53Z",
+      "category": "BREACH",
+      "summary": "Handala claims Israeli radar hack but researchers reveal it's just a phone admin panel access. When your l33t military infiltration turns out to be basic telecom pwnage—the digital equivalent of breaking into a janitor's closet."
     }
   ]
 }
