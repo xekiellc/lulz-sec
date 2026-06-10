@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-06-09T19:56:12.873Z",
+  "last_updated": "2026-06-10T02:29:48.909Z",
   "articles": [
+    {
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "category": "ZERO DAY",
+      "summary": "Microsoft drops a record-breaking 200 CVEs in one Patch Tuesday because apparently they're speedrunning vulnerability disclosure. Nearly three dozen earned the 'critical' rating, which in Microsoft speak means 'please reboot your entire existence.'"
+    },
     {
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
       "source": "Krebs on Security",
       "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "Meta's AI support bot just became the perfect social engineering target, letting hackers seize high-profile Instagram accounts including Obama's White House account. When your AI is dumber than a phishing email, maybe it's time to rethink automation."
+      "summary": "Hackers weaponized Meta's AI chatbot to hijack Instagram accounts including Obama's White House and Space Force accounts with pro-Iranian messages. When your AI assistant becomes an unwitting insider threat, you know we're living in the cyberpunk timeline."
     },
     {
-      "title": "VICTORY: Meta Strips Facial Recognition Code From Smart Glasses App After Public Outcry",
-      "url": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
-      "source": "EFF",
-      "publishedAt": "Mon, 08 Jun 2026 23:32:38 +0000",
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 21 May 2026 21:50:25 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumps AWS GovCloud keys on GitHub like it's their personal notepad. The agency tasked with protecting critical infrastructure just leaked their own crown jewels—chef's kiss of irony."
-    },
-    {
-      "title": "Iran Signed a Ceasefire — Its Hackers Didn't",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers",
-      "source": "Dark Reading",
-      "publishedAt": "Mon, 08 Jun 2026 19:07:48 GMT",
-      "category": "ZERO DAY",
-      "summary": "Check Point VPN zero-day gets exploited by Qilin ransomware for over a month before anyone notices. Nothing says 'enterprise security' like giving attackers a month-long head start."
+      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and agency secrets onto public GitHub, prompting bipartisan congressional rage. Nothing says 'cybersecurity leadership' like accidentally open-sourcing your crown jewels."
     },
     {
       "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
@@ -31,31 +31,39 @@
       "source": "The Register",
       "publishedAt": "Tue, 09 Jun 2026 14:15:00 +0200",
       "category": "RIGHTS",
-      "summary": "Signal tells UK government their plan to scan devices for nude images 'endangers us all.' Because nothing could possibly go wrong with mandatory government backdoors masquerading as child protection."
+      "summary": "Signal calls out UK's device-scanning surveillance dystopia disguised as 'child safety' measures. Because nothing protects children like destroying encryption and enabling authoritarian censorship for everyone."
     },
     {
-      "title": "France probes compromise of gov messaging platform after account hijack",
-      "url": "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717",
-      "source": "The Register",
-      "publishedAt": "Tue, 09 Jun 2026 13:27:55 +0200",
+      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
+      "url": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
+      "source": "The Hacker News",
+      "publishedAt": "Tue, 09 Jun 2026 22:33:58 +0530",
       "category": "ZERO DAY",
-      "summary": "Chrome's fifth exploited zero-day of the year proves Google's Whac-A-Mole security strategy. At least they paid the researcher $55K—more than most people make finding Chrome bugs the hard way."
+      "summary": "Chrome's fifth zero-day of the year gets patched after active exploitation, netting the researcher a sweet $55K bounty. Google's Whac-A-Mole security model continues to provide steady income for bug hunters."
     },
     {
-      "title": "A Qilin ransomware affiliate exploited a Check Point VPN zero-day for a month before a patch existed",
-      "url": "https://thenextweb.com/news/check-point-vpn-zero-day-qilin-ransomware-ikev1/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-08T18:13:34Z",
+      "title": "Cisco Cloud Control: One Login for Human and AI Agent Operations",
+      "url": "https://www.storagereview.com/news/cisco-cloud-control-one-login-for-human-and-ai-agent-operations",
+      "source": "Storagereview.com",
+      "publishedAt": "2026-06-08T20:45:32Z",
+      "category": "RIGHTS",
+      "summary": "WhatsApp blocks NSO's Pegasus spyware campaign and asks courts to treat it as contempt of their injunction. Surveillance capitalism meets its match when messaging apps fight back against state-sponsored stalkerware."
+    },
+    {
+      "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
+      "url": "https://it.slashdot.org/story/26/06/08/1656222/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-08T18:00:00Z",
       "category": "ZERO DAY",
-      "summary": "University of Toronto researchers build self-replicating AI worm that operates entirely on local models. Because apparently regular malware wasn't scary enough—now it can think for itself."
+      "summary": "Qilin ransomware gang had a month-long head start exploiting Check Point VPN zero-day before patches existed. Nothing like giving criminals a 30-day free trial of your critical infrastructure vulnerabilities."
     },
     {
-      "title": "Ransomware crims got a month-long head start on Check Point VPN 0-day that now has a fix",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/08/attackers-had-month-long-head-start-on-patched-check-point-vpn-zero-day/5252438",
-      "source": "Theregister.com",
-      "publishedAt": "2026-06-08T17:10:31Z",
-      "category": "LEGENDS",
-      "summary": "WhatsApp catches NSO Group violating court orders like the digital arms dealers they are. Turns out telling spyware companies to 'please stop' works about as well as you'd expect."
+      "title": "Can a VPN Actually Protect You From Hackers? The Answer Is Complicated",
+      "url": "https://uk.pcmag.com/vpn/165431/can-a-vpn-actually-protect-you-from-hackers-the-answer-is-complicated",
+      "source": "PCMag.com",
+      "publishedAt": "2026-06-08T16:03:19Z",
+      "category": "BREACH",
+      "summary": "Meta's AI chatbot bug let hackers hijack 20,225 Instagram accounts by simply asking nicely for password resets. Social engineering meets artificial intelligence in the most painfully predictable way possible."
     },
     {
       "title": "Gogs patches critical zero-day enabling remote code execution",
@@ -63,23 +71,15 @@
       "source": "BleepingComputer",
       "publishedAt": "2026-06-08T16:18:40Z",
       "category": "LEGENDS",
-      "summary": "Former IBM exec blows whistle on company covering up years of Chinese state hacking. Big Blue apparently thought 'security through obscurity' meant hiding breaches from their own customers."
+      "summary": "Former IBM cybersecurity exec whistleblows on company covering up years of Chinese state hacking. Corporate security theater meets geopolitical reality when executives choose plausible deniability over disclosure."
     },
     {
-      "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-      "source": "Internet",
-      "publishedAt": "2026-06-08T13:18:57Z",
-      "category": "ZERO DAY",
-      "summary": "Gogs patches critical zero-day enabling remote code execution on any public instance. Git repositories: where your code goes to die, apparently."
-    },
-    {
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "source": "The Hacker News",
-      "publishedAt": "Tue, 09 Jun 2026 17:56:10 +0530",
-      "category": "BREACH",
-      "summary": "Microsoft takes GitHub repos offline after Miasma worm infects 73 open-source projects. When even Microsoft's own code gets pwned, you know supply chain attacks have reached peak lulz."
+      "title": "Cheers to the Winners of EFF’s 18th Annual Cyberlaw Trivia Night!",
+      "url": "https://www.eff.org/deeplinks/2026/06/cheers-winners-effs-17th-annual-cyberlaw-trivia-night",
+      "source": "EFF",
+      "publishedAt": "Mon, 08 Jun 2026 19:12:02 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF victory forces Meta to strip facial recognition code from smart glasses app after public outcry. Turns out mass surveillance is slightly less popular when people actually know it's happening."
     }
   ]
 }
