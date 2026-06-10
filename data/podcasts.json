@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T10:03:23.404Z",
+  "last_updated": "2026-06-10T11:38:31.208Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's battle against the CFAA shows how the system criminalizes curiosity while the EFF finally grows a spine."
+      "editorial_note": "Weev's battle against the CFAA shows how broken laws criminalize curiosity and punish those who expose corporate negligence."
     },
     {
       "type": "podcast",
@@ -21,18 +21,7 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "The tale of two digital martyrs - Swartz and weev - who dared to challenge America's most broken cybercrime law."
-    },
-    {
-      "type": "podcast",
-      "title": "Cuckoo Spear [B-Side]",
-      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/2dfca5a6-8223-4550-b326-083e52edc2c3",
-      "source": "Malicious Life",
-      "host": "Ran Levi",
-      "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
-      "duration": "1843",
-      "category": "ZERO DAY",
-      "editorial_note": "APT-10's LODEINFO backdoor proves that nation-state hackers are writing better code than most Silicon Valley startups."
+      "editorial_note": "From Swartz to weev - two warriors who fought the same unjust system, with vastly different public reception but equal conviction."
     },
     {
       "type": "youtube",
