@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T10:05:27.672Z",
+  "last_updated": "2026-06-11T15:34:31.406Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,15 +7,15 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped a record-breaking 200 security patches in one Patch Tuesday because apparently their code quality control is having an existential crisis. Nearly three dozen earned the coveted 'critical' rating—because why fix things right the first time when you can fix them dramatically later?"
+      "summary": "Microsoft just served up a record-breaking 200 security holes in one Patch Tuesday, including 36 critical bugs. Even for a company that treats vulnerabilities like a subscription service, this is impressively broken."
     },
     {
-      "title": "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "title": "LGBT Q&A: We’re Back With Season 2!",
+      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2",
       "source": "EFF",
-      "publishedAt": "Wed, 10 Jun 2026 22:54:52 +0000",
+      "publishedAt": "Thu, 11 Jun 2026 11:20:27 +0000",
       "category": "BREACH",
-      "summary": "A CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub like it's their personal diary, prompting Congress to demand answers. Nothing says 'cybersecurity leadership' like your own contractor leaking your crown jewels on the world's most public code repository."
+      "summary": "CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub because apparently even cybersecurity agencies can't handle basic operational security. Congress is now asking the obvious questions everyone else was already screaming."
     },
     {
       "title": "Enshittification Merch That Actually Fights Enshittification",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Wed, 10 Jun 2026 17:34:12 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702 FISA mass surveillance authority faces its biggest challenge yet as Congress finally grows a spine about warrant requirements. The stakes have never been higher for telling the surveillance state to get a damn warrant like the Constitution actually matters."
+      "summary": "Section 702 mass surveillance authority faces its final countdown as Congress finally considers requiring warrants for spying on Americans. About time someone remembered the Fourth Amendment exists."
     },
     {
       "title": "Scott Pelley Shows How Legacy Media Got It Wrong — Before Bari Weiss Made It Worse",
@@ -31,7 +31,7 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 11 Jun 2026 10:00:00 +0000",
       "category": "ZERO DAY",
-      "summary": "Nightmare-Eclipse drops another Windows Defender zero-day called RoguePlanet, continuing their beautiful feud with Microsoft's security team. When a researcher goes full scorched earth against Redmond, we all win—except for Windows users, obviously."
+      "summary": "Nightmare-Eclipse drops another Windows zero-day called RoguePlanet, continuing their beautiful revenge arc against Microsoft. When responsible disclosure fails, public embarrassment is the next best teacher."
     },
     {
       "title": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
@@ -39,7 +39,15 @@
       "source": "The Intercept",
       "publishedAt": "Wed, 10 Jun 2026 09:35:00 +0000",
       "category": "RIGHTS",
-      "summary": "Senator Ron Wyden reports unprecedented bipartisan support for reining in domestic spying laws, which is either a miracle or the apocalypse. After decades of being the lone voice screaming about surveillance overreach, Wyden finally has company in the 'maybe mass spying is bad' camp."
+      "summary": "Bipartisan momentum builds to rein in domestic spying laws with unprecedented support. Sen. Wyden says he's never seen this level of cooperation, which means the surveillance state must be really pissing people off."
+    },
+    {
+      "title": "Chinese agents caught rebuilding botnets and stirring the pot on AI datacenter debate",
+      "url": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
+      "source": "The Register",
+      "publishedAt": "Thu, 11 Jun 2026 02:00:45 +0200",
+      "category": "BREACH",
+      "summary": "Some CEO stored every employee password in a single Excel file to 'solve email issues.' This is why we can't have nice things and also why security researchers develop drinking problems."
     },
     {
       "title": "GitHub pulls pin on npm's auto-run scripts",
@@ -47,39 +55,31 @@
       "source": "The Register",
       "publishedAt": "Wed, 10 Jun 2026 15:11:14 +0200",
       "category": "ZERO DAY",
-      "summary": "An angry researcher with a Microsoft grudge drops another Windows zero-day because revenge truly is a dish best served with working exploit code. Nothing motivates vulnerability research quite like corporate spite and a functioning GitHub account."
+      "summary": "Angry researcher with Microsoft beef drops fresh Windows zero-day because revenge is indeed a dish best served as weaponized code. The vulnerability disclosure process is working exactly as intended, obviously."
     },
     {
-      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
-      "source": "The Hacker News",
-      "publishedAt": "Wed, 10 Jun 2026 20:14:29 +0530",
-      "category": "ZERO DAY",
-      "summary": "CVE-2026-5027 in Langflow is being actively exploited for unauthenticated RCE, because apparently AI platforms are just as terrible at security as everything else. Pro tip: maybe patch your AI tools before the bots become sentient AND compromised."
+      "title": "Lack of White House guidance has complicated agency Mythos adoption, people familiar say",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/06/lack-white-house-guidance-has-complicated-agency-mythos-adoption-people-familiar-say/414093/",
+      "source": "Nextgov",
+      "publishedAt": "2026-06-10T15:16:00Z",
+      "category": "WHITE HAT",
+      "summary": "GitHub finally disables npm install scripts by default to stop supply chain attacks. Only took them until malware was auto-executing on every package install, but hey, better late than never."
     },
     {
-      "title": "Chaotic Eclipse Unveils RoguePlanet Exploit Targeting Fully Patched Windows",
-      "url": "https://securityaffairs.com/193436/security/chaotic-eclipse-unveils-rogueplanet-exploit-targeting-fully-patched-windows.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-06-10T09:45:00Z",
-      "category": "ZERO DAY",
-      "summary": "Microsoft patches YellowKey, GreenPlasma, and MiniPlasma zero-days that grant SYSTEM privileges and BitLocker bypass capabilities. The rainbow of exploit names suggests either a very creative researcher or someone who really loves colorful ways to own Windows boxes."
-    },
-    {
-      "title": "France probes compromise of gov messaging platform after account hijack",
-      "url": "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717",
-      "source": "Theregister.com",
-      "publishedAt": "2026-06-09T11:27:55Z",
+      "title": "France’s ‘sovereign’ messenger Tchap was breached, and officials and the hacker disagree on how badly",
+      "url": "https://thenextweb.com/news/tchap-france-sovereign-messenger-breach/",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-09T12:04:41Z",
       "category": "BREACH",
-      "summary": "France's 'sovereign' encrypted messenger Tchap got breached, with officials and the attacker hilariously disagreeing on how badly they got owned. Building your own WhatsApp to avoid trusting Big Tech only works if you can actually secure the damn thing."
+      "summary": "France's 'sovereign' government messaging platform Tchap got breached through basic account hijacking. Building your own encrypted messenger to avoid trusting WhatsApp, then getting owned anyway, is peak irony."
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "BREACH",
-      "summary": "Hackers used Meta's AI support bot to hijack Instagram accounts including Obama's White House and US Space Force profiles, defacing them with pro-Iranian content. When your AI chatbot becomes the weakest link in account security, maybe it's time to reconsider the whole 'AI for everything' strategy."
+      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+      "source": "Securityweek.com",
+      "publishedAt": "2026-06-10T11:44:39Z",
+      "category": "ZERO DAY",
+      "summary": "Critical Ivanti Sentry flaws allow root-level remote code execution with perfect 10.0 and 9.9 CVSS scores. When your security appliance becomes the attack vector, someone's having a very bad day."
     }
   ]
 }
