@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T11:38:31.208Z",
+  "last_updated": "2026-06-11T12:09:47.769Z",
   "episodes": [
     {
       "type": "podcast",
@@ -10,7 +10,7 @@
       "publishedAt": "Tue, 10 Dec 2024 11:03:00 +0000",
       "duration": "1729",
       "category": "LEGENDS",
-      "editorial_note": "Weev's battle against the CFAA shows how broken laws criminalize curiosity and punish those who expose corporate negligence."
+      "editorial_note": "Weev's legal battle against the CFAA proves that sometimes the real trolls are the laws we made along the way."
     },
     {
       "type": "podcast",
@@ -21,7 +21,18 @@
       "publishedAt": "Wed, 27 Nov 2024 11:40:00 +0000",
       "duration": "1796",
       "category": "LEGENDS",
-      "editorial_note": "From Swartz to weev - two warriors who fought the same unjust system, with vastly different public reception but equal conviction."
+      "editorial_note": "Before weev became a controversial figure, he was fighting the same digital rights battles as Swartz—just with more edge."
+    },
+    {
+      "type": "podcast",
+      "title": "Cuckoo Spear [B-Side]",
+      "url": "https://redcircle.com/shows/597cfd00-b29a-49c6-9622-03c8decfc35f/episodes/2dfca5a6-8223-4550-b326-083e52edc2c3",
+      "source": "Malicious Life",
+      "host": "Ran Levi",
+      "publishedAt": "Wed, 20 Nov 2024 06:30:00 +0000",
+      "duration": "1843",
+      "category": "ZERO DAY",
+      "editorial_note": "APT-10's LODEINFO backdoor shows that nation-state hackers don't need lulz when they've got unlimited government funding."
     },
     {
       "type": "youtube",
