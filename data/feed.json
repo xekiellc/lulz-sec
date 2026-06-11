@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T15:34:31.406Z",
+  "last_updated": "2026-06-11T20:10:04.214Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,63 +7,47 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just served up a record-breaking 200 security holes in one Patch Tuesday, including 36 critical bugs. Even for a company that treats vulnerabilities like a subscription service, this is impressively broken."
+      "summary": "Microsoft just dropped fixes for nearly 200 security holes in one Patch Tuesday—apparently they've been saving them up like Pokémon cards. Three dozen earned the coveted 'critical' rating, because why patch incrementally when you can have one glorious dumpster fire?"
     },
     {
-      "title": "LGBT Q&A: We’re Back With Season 2!",
-      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 11:20:27 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub because apparently even cybersecurity agencies can't handle basic operational security. Congress is now asking the obvious questions everyone else was already screaming."
-    },
-    {
-      "title": "Enshittification Merch That Actually Fights Enshittification",
-      "url": "https://www.eff.org/deeplinks/2026/06/enshittification-merch-actually-fights-enshittification",
-      "source": "EFF",
-      "publishedAt": "Wed, 10 Jun 2026 17:34:12 +0000",
-      "category": "RIGHTS",
-      "summary": "Section 702 mass surveillance authority faces its final countdown as Congress finally considers requiring warrants for spying on Americans. About time someone remembered the Fourth Amendment exists."
-    },
-    {
-      "title": "Scott Pelley Shows How Legacy Media Got It Wrong — Before Bari Weiss Made It Worse",
-      "url": "https://theintercept.com/2026/06/11/bari-weiss-scott-pelley-60-minutes-cbs-news/",
-      "source": "The Intercept",
-      "publishedAt": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "category": "ZERO DAY",
-      "summary": "Nightmare-Eclipse drops another Windows zero-day called RoguePlanet, continuing their beautiful revenge arc against Microsoft. When responsible disclosure fails, public embarrassment is the next best teacher."
-    },
-    {
-      "title": "Top Pentagon Official Admits Boat Strike May Have Killed Victims of Human Trafficking",
-      "url": "https://theintercept.com/2026/06/10/trump-boat-strikes-human-trafficking-victims/",
-      "source": "The Intercept",
-      "publishedAt": "Wed, 10 Jun 2026 09:35:00 +0000",
-      "category": "RIGHTS",
-      "summary": "Bipartisan momentum builds to rein in domestic spying laws with unprecedented support. Sen. Wyden says he's never seen this level of cooperation, which means the surveillance state must be really pissing people off."
-    },
-    {
-      "title": "Chinese agents caught rebuilding botnets and stirring the pot on AI datacenter debate",
-      "url": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
+      "title": "Microsoft's worst 'Nightmare' unleashes BitLocker bypass 0-day",
+      "url": "https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371",
       "source": "The Register",
-      "publishedAt": "Thu, 11 Jun 2026 02:00:45 +0200",
-      "category": "BREACH",
-      "summary": "Some CEO stored every employee password in a single Excel file to 'solve email issues.' This is why we can't have nice things and also why security researchers develop drinking problems."
-    },
-    {
-      "title": "GitHub pulls pin on npm's auto-run scripts",
-      "url": "https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453",
-      "source": "The Register",
-      "publishedAt": "Wed, 10 Jun 2026 15:11:14 +0200",
+      "publishedAt": "Thu, 11 Jun 2026 19:51:52 +0200",
       "category": "ZERO DAY",
-      "summary": "Angry researcher with Microsoft beef drops fresh Windows zero-day because revenge is indeed a dish best served as weaponized code. The vulnerability disclosure process is working exactly as intended, obviously."
+      "summary": "ShinyHunters claims they pwned 100 organizations using an Oracle PeopleSoft zero-day, starting with University of Nottingham. When your enterprise software has more holes than Swiss cheese, maybe it's time to reconsider that vendor relationship."
     },
     {
-      "title": "Lack of White House guidance has complicated agency Mythos adoption, people familiar say",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/06/lack-white-house-guidance-has-complicated-agency-mythos-adoption-people-familiar-say/414093/",
-      "source": "Nextgov",
-      "publishedAt": "2026-06-10T15:16:00Z",
-      "category": "WHITE HAT",
-      "summary": "GitHub finally disables npm install scripts by default to stop supply chain attacks. Only took them until malware was auto-executing on every package install, but hey, better late than never."
+      "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
+      "url": "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246",
+      "source": "The Register",
+      "publishedAt": "Thu, 11 Jun 2026 18:01:00 +0200",
+      "category": "ZERO DAY",
+      "summary": "Microsoft's BitLocker gets yet another bypass courtesy of researcher 'Nightmare'—because apparently Microsoft's idea of encryption is more like a polite suggestion. Another day, another Windows exploit dropping like it's hot."
+    },
+    {
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "source": "The Hacker News",
+      "publishedAt": "Thu, 11 Jun 2026 22:20:47 +0530",
+      "category": "ZERO DAY",
+      "summary": "GreatXML exploit bypasses BitLocker via recovery partition XML files, discovered accidentally in just 4 hours. When your 'secure' disk encryption can be defeated by parsing some XML, maybe it's time to admit defeat and go back to hiding files in fake calculator apps."
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
+      "category": "BREACH",
+      "summary": "Hackers seized Obama's Instagram and Space Force accounts by tricking Meta's AI support bot into resetting passwords. Nothing says 'cutting-edge security' like getting owned by social engineering a chatbot that's dumber than a box of rocks."
+    },
+    {
+      "title": "Yes to California's Bill to Ban Surveillance Pricing",
+      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
+      "source": "EFF",
+      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor 'accidentally' published AWS GovCloud keys and agency secrets on public GitHub, now Congress wants answers. When the cybersecurity agency can't secure its own secrets, it's like hiring a pyromaniac as fire chief."
     },
     {
       "title": "France’s ‘sovereign’ messenger Tchap was breached, and officials and the hacker disagree on how badly",
@@ -71,15 +55,31 @@
       "source": "The Next Web",
       "publishedAt": "2026-06-09T12:04:41Z",
       "category": "BREACH",
-      "summary": "France's 'sovereign' government messaging platform Tchap got breached through basic account hijacking. Building your own encrypted messenger to avoid trusting WhatsApp, then getting owned anyway, is peak irony."
+      "summary": "France's 'sovereign' government messaging platform Tchap got breached through account hijacking. Building your own secure messenger to avoid trusting WhatsApp, only to get pwned anyway—that's some premium government-grade irony right there."
     },
     {
-      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
-      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
-      "source": "Securityweek.com",
-      "publishedAt": "2026-06-10T11:44:39Z",
-      "category": "ZERO DAY",
-      "summary": "Critical Ivanti Sentry flaws allow root-level remote code execution with perfect 10.0 and 9.9 CVSS scores. When your security appliance becomes the attack vector, someone's having a very bad day."
+      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "category": "RIGHTS",
+      "summary": "EFF drops the ultimatum on Section 702: warrant requirement or bust as Congress keeps kicking the surveillance can down the road. The mass surveillance authority's expiration deadline looms while lawmakers play hot potato with our civil liberties."
+    },
+    {
+      "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
+      "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
+      "source": "The Intercept",
+      "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
+      "category": "RIGHTS",
+      "summary": "Hakeem Jeffries finally grew a spine as Democratic leaders rallied against extending the domestic spy law. Advocates are cautiously optimistic that centrist Democrats switched sides, but warn against any extension of this constitutional dumpster fire."
+    },
+    {
+      "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
+      "url": "https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers",
+      "source": "EFF",
+      "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
+      "category": "RIGHTS",
+      "summary": "EFF backs California's bill to ban surveillance pricing—the corporate practice of charging different prices based on harvested personal data. Because nothing says 'free market' like algorithmically screwing customers based on their browsing history."
     }
   ]
 }
