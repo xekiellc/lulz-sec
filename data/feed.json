@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T09:56:32.515Z",
+  "last_updated": "2026-06-12T14:34:33.005Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,31 +7,31 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped a record-breaking 200 security holes like confetti at a hacker convention. When AI starts hunting bugs, apparently it finds them faster than we can spell 'CVE'."
+      "summary": "Microsoft just dropped a record-breaking 200 patches in one Patch Tuesday, with nearly three dozen rated critical. When even Microsoft can't keep up with their own vulnerabilities, you know the digital apocalypse is accelerating."
     },
     {
-      "title": "Microsoft's worst 'Nightmare' unleashes BitLocker bypass 0-day",
-      "url": "https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371",
-      "source": "The Register",
-      "publishedAt": "Thu, 11 Jun 2026 19:51:52 +0200",
+      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
+      "url": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
+      "source": "Securityweek.com",
+      "publishedAt": "2026-06-11T13:45:00Z",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters went full shopping spree on 100+ orgs using an Oracle PeopleSoft zero-day. Universities got hit hardest because apparently higher education means lower security standards."
+      "summary": "Oracle scrambles to patch CVE-2026-35273 in PeopleSoft as ShinyHunters allegedly exploit it in the wild. Nothing says 'enterprise security' like getting pwned by a crew that sounds like a Pokemon fan club."
     },
     {
-      "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
-      "url": "https://www.theregister.com/security/2026/06/11/24m-vrchat-users-data-accessed-following-cloud-breach/5254246",
-      "source": "The Register",
-      "publishedAt": "Thu, 11 Jun 2026 18:01:00 +0200",
+      "title": "Casepoint Appoints Paul Colangelo as Chief Executive Officer",
+      "url": "https://www.prnewswire.com/news-releases/casepoint-appoints-paul-colangelo-as-chief-executive-officer-302793423.html",
+      "source": "PRNewswire",
+      "publishedAt": "2026-06-08T13:30:00Z",
       "category": "ZERO DAY",
-      "summary": "Another day, another BitLocker bypass from the prolific Nightmare researcher. Microsoft's encryption is starting to look more like a polite suggestion than actual security."
+      "summary": "Microsoft patches another actively exploited Exchange Server zero-day allowing XSS attacks on Outlook Web Access. Exchange continues its proud tradition of being the gift that keeps on giving—to attackers."
     },
     {
-      "title": "Segmentation Works for OT If Operators Are Paying Attention",
-      "url": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
-      "source": "Dark Reading",
-      "publishedAt": "Thu, 11 Jun 2026 14:51:48 GMT",
-      "category": "ZERO DAY",
-      "summary": "Max-severity Ivanti flaw got exploited within 24 hours of disclosure. Attackers had their homework done and their exploits ready—this is why we can't have nice things."
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
+      "category": "BREACH",
+      "summary": "Hackers seized the Obama White House and U.S. Space Force Instagram accounts by tricking Meta's AI support bot into password resets via Telegram instructions. AI replacing humans in customer service was always going to end badly."
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -39,31 +39,23 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually published AWS GovCloud keys and agency secrets on GitHub like it's their personal blog. Congress is demanding answers while we're demanding better contractors."
+      "summary": "CISA contractor 'accidentally' published AWS GovCloud keys and agency secrets on public GitHub while Congress demands answers. When the cybersecurity agency can't secure its own secrets, we're all fucked."
     },
     {
-      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations | TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T21:35:03Z",
+      "title": "Criminal IP at Infosecurity Europe 2026: Introducing AITEM, the Next Chapter of Attack Surface Management",
+      "url": "https://www.nextbigfuture.com/2026/06/criminal-ip-at-infosecurity-europe-2026-introducing-aitem-the-next-chapter-of-attack-surface-management.html",
+      "source": "Next Big Future",
+      "publishedAt": "2026-06-11T14:00:48Z",
       "category": "BREACH",
-      "summary": "Nearly a million passports and IDs just hanging out on the public internet like a digital yard sale. Someone typed a few characters into their browser and found an identity theft goldmine."
+      "summary": "South Korea hammers Coupang with a record $409 million fine for leaking 33+ million customers' data and failing to detect it within 72 hours. Finally, a regulator with teeth who makes privacy violations actually hurt."
     },
     {
-      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
-      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T22:02:32Z",
-      "category": "BREACH",
-      "summary": "South Korea just slapped Coupang with a $409 million fine for leaking 33 million customers' data. Finally, a country that puts actual teeth behind their privacy laws."
-    },
-    {
-      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "source": "Dark Reading",
-      "publishedAt": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "title": "The Right’s “Election Fraud” Cry for Midterms Previewed in Primaries",
+      "url": "https://theintercept.com/2026/06/12/california-maine-primaries/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
       "category": "RIGHTS",
-      "summary": "Congress keeps kicking the Section 702 surveillance can down the road while EFF demands warrant requirements. It's warrant requirement or bust time—no more warrantless spying on Americans."
+      "summary": "EFF demands warrant requirements for Section 702 surveillance as Congress keeps kicking the can down the road. The mass surveillance deadline approaches and our representatives still think warrantless spying is totally fine."
     },
     {
       "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
@@ -71,7 +63,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
       "category": "RIGHTS",
-      "summary": "California wants to ban surveillance pricing where corporations charge you different amounts based on stalking your digital footprint. Finally, someone noticed the creepy personalized price tags."
+      "summary": "California considers banning 'surveillance pricing' where corporations charge different prices based on harvested personal data. Because apparently even our shopping receipts need to be dystopian now."
     },
     {
       "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
@@ -79,7 +71,15 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
       "category": "RIGHTS",
-      "summary": "Hakeem Jeffries finally grew a spine and rallied Dems against extending domestic spy laws. About time centrist Democrats remembered they're supposed to protect civil liberties, not enable surveillance states."
+      "summary": "Hakeem Jeffries finally grows a backbone as Democratic leaders rally against extending domestic spy laws. Miracles do happen when the surveillance state gets too obvious to ignore."
+    },
+    {
+      "title": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
+      "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
+      "source": "SiliconANGLE News",
+      "publishedAt": "2026-06-10T23:00:02Z",
+      "category": "WHITE HAT",
+      "summary": "Former Avast CEO's AI allegedly found every OpenSSL zero-day this year and now runs in air-gapped networks. Either this is the future of vulnerability research or the most elaborate marketing pitch ever conceived."
     }
   ]
 }
