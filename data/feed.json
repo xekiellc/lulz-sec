@@ -1,21 +1,13 @@
 {
-  "last_updated": "2026-06-11T20:10:04.214Z",
+  "last_updated": "2026-06-12T02:35:30.593Z",
   "articles": [
-    {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "category": "ZERO DAY",
-      "summary": "Microsoft just dropped fixes for nearly 200 security holes in one Patch Tuesday—apparently they've been saving them up like Pokémon cards. Three dozen earned the coveted 'critical' rating, because why patch incrementally when you can have one glorious dumpster fire?"
-    },
     {
       "title": "Microsoft's worst 'Nightmare' unleashes BitLocker bypass 0-day",
       "url": "https://www.theregister.com/security/2026/06/11/nightmare-eclipse-drops-claimed-bitlocker-bypass-for-microsoft-windows/5254371",
       "source": "The Register",
       "publishedAt": "Thu, 11 Jun 2026 19:51:52 +0200",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters claims they pwned 100 organizations using an Oracle PeopleSoft zero-day, starting with University of Nottingham. When your enterprise software has more holes than Swiss cheese, maybe it's time to reconsider that vendor relationship."
+      "summary": "ShinyHunters pwned 100+ organizations using an Oracle PeopleSoft zero-day because apparently enterprise security is still stuck in 2005. Universities got hit hardest, proving that higher education means lower security standards."
     },
     {
       "title": "VRChat says somebody faked a breach notice with the Maine AG's office",
@@ -23,23 +15,15 @@
       "source": "The Register",
       "publishedAt": "Thu, 11 Jun 2026 18:01:00 +0200",
       "category": "ZERO DAY",
-      "summary": "Microsoft's BitLocker gets yet another bypass courtesy of researcher 'Nightmare'—because apparently Microsoft's idea of encryption is more like a polite suggestion. Another day, another Windows exploit dropping like it's hot."
+      "summary": "Nightmare Eclipse strikes again with a BitLocker bypass that makes your encrypted drives about as secure as a screen door. Microsoft's nightmare just became everyone else's reality."
     },
     {
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "source": "The Hacker News",
-      "publishedAt": "Thu, 11 Jun 2026 22:20:47 +0530",
-      "category": "ZERO DAY",
-      "summary": "GreatXML exploit bypasses BitLocker via recovery partition XML files, discovered accidentally in just 4 hours. When your 'secure' disk encryption can be defeated by parsing some XML, maybe it's time to admit defeat and go back to hiding files in fake calculator apps."
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "BREACH",
-      "summary": "Hackers seized Obama's Instagram and Space Force accounts by tricking Meta's AI support bot into resetting passwords. Nothing says 'cutting-edge security' like getting owned by social engineering a chatbot that's dumber than a box of rocks."
+      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "category": "ZERO DAY",
+      "summary": "Microsoft just dropped a record-breaking 200 vulnerability patches in one Patch Tuesday, proving that AI isn't just making art—it's making security researchers find bugs faster than devs can ship them. Three dozen earned the coveted 'critical' rating because why fix things right the first time?"
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -47,15 +31,23 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor 'accidentally' published AWS GovCloud keys and agency secrets on public GitHub, now Congress wants answers. When the cybersecurity agency can't secure its own secrets, it's like hiring a pyromaniac as fire chief."
+      "summary": "CISA contractor casually published AWS GovCloud keys on GitHub like it's a recipe for banana bread, and now Congress wants answers. Nothing says cybersecurity leadership like accidentally open-sourcing your entire secret infrastructure."
     },
     {
-      "title": "France’s ‘sovereign’ messenger Tchap was breached, and officials and the hacker disagree on how badly",
-      "url": "https://thenextweb.com/news/tchap-france-sovereign-messenger-breach/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-09T12:04:41Z",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
       "category": "BREACH",
-      "summary": "France's 'sovereign' government messaging platform Tchap got breached through account hijacking. Building your own secure messenger to avoid trusting WhatsApp, only to get pwned anyway—that's some premium government-grade irony right there."
+      "summary": "Hackers social-engineered Meta's AI support bot to hijack Obama's Instagram account with pro-Iranian propaganda. When your AI customer service is dumber than a call center in 1995, maybe it's time to reconsider automation."
+    },
+    {
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T21:35:03Z",
+      "category": "BREACH",
+      "summary": "Nearly a million passports and IDs were just sitting on the public internet waiting to be harvested like digital fruit. Because apparently 'security through obscurity' means hoping nobody types random URLs into their browser."
     },
     {
       "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
@@ -63,15 +55,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 00:58:07 GMT",
       "category": "RIGHTS",
-      "summary": "EFF drops the ultimatum on Section 702: warrant requirement or bust as Congress keeps kicking the surveillance can down the road. The mass surveillance authority's expiration deadline looms while lawmakers play hot potato with our civil liberties."
-    },
-    {
-      "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
-      "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
-      "source": "The Intercept",
-      "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
-      "category": "RIGHTS",
-      "summary": "Hakeem Jeffries finally grew a spine as Democratic leaders rallied against extending the domestic spy law. Advocates are cautiously optimistic that centrist Democrats switched sides, but warn against any extension of this constitutional dumpster fire."
+      "summary": "Congress keeps kicking the Section 702 surveillance can down the road while civil liberties hang in the balance. Either add a warrant requirement or watch democracy get NSA'd into oblivion."
     },
     {
       "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
@@ -79,7 +63,23 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
       "category": "RIGHTS",
-      "summary": "EFF backs California's bill to ban surveillance pricing—the corporate practice of charging different prices based on harvested personal data. Because nothing says 'free market' like algorithmically screwing customers based on their browsing history."
+      "summary": "California wants to ban surveillance pricing—where corporations stalk your digital footprints to charge you custom ripoff rates. Finally, someone realizes that behavioral targeting isn't just creepy marketing, it's algorithmic price discrimination."
+    },
+    {
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Krebs on Security",
+      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
+      "category": "WHITE HAT",
+      "summary": "Netherlands seized 800 servers and arrested two hosting company owners for enabling Russian cyberattacks on the EU. Sometimes the good guys actually win one, even if it took them way too long to connect the dots."
+    },
+    {
+      "title": "Nearly a million passports and photo IDs were left unprotected on the public internet",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "source": "The Verge",
+      "publishedAt": "2026-06-10T22:02:32Z",
+      "category": "ARCHIVE",
+      "summary": "Nightmare Eclipse dropped a seventh Windows zero-day hours after Microsoft threatened criminal prosecution, because nothing motivates a researcher quite like corporate legal intimidation. The legend continues with SYSTEM privileges for everyone."
     }
   ]
 }
