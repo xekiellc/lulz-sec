@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T08:46:35.897Z",
+  "last_updated": "2026-06-13T13:25:17.515Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just patched a record-breaking 200 vulnerabilities in one Patch Tuesday, because why fix security incrementally when you can let it all pile up like dirty laundry? Three dozen earned the coveted 'critical' rating — aka the 'we're probably already pwned' tier."
-    },
-    {
-      "title": "Victory! 702 has Expired!",
-      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
-      "source": "EFF",
-      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor casually yeeted AWS GovCloud keys and agency secrets onto public GitHub because apparently cybersecurity agencies can't secure their own contractors. Congress is rightfully losing their collective shit over this galaxy-brain move."
-    },
-    {
-      "title": "Yes to California's Bill to Ban Surveillance Pricing",
-      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
-      "category": "RIGHTS",
-      "summary": "Section 702's warrantless surveillance authority finally expired, giving Americans a brief moment to breathe before Congress inevitably resurrects this constitutional vampire. The EFF is celebrating like it's 1776 all over again."
+      "summary": "Microsoft dropped a record-breaking 200 patches this Patch Tuesday because apparently they've been collecting vulnerabilities like Pokémon cards. Three dozen earned the coveted 'critical' rating, which in Microsoft-speak means 'we're really sorry about this one.'"
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,23 +15,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploited an Oracle ERP zero-day to ransack American universities, because apparently higher education needed another reason to cry about budgets. Nothing says 'pursue knowledge' like having your entire student database stolen."
-    },
-    {
-      "title": "The Right’s “Election Fraud” Cry for Midterms Previewed in Primaries",
-      "url": "https://theintercept.com/2026/06/12/california-maine-primaries/",
-      "source": "The Intercept",
-      "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
-      "category": "RIGHTS",
-      "summary": "Senator Whitehouse demands ICE prove it hasn't been infiltrated by white supremacists after The Intercept exposed their recruitment materials being celebrated by neo-Nazis. Shocking absolutely no one who's been paying attention."
-    },
-    {
-      "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
-      "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
-      "source": "The Intercept",
-      "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
-      "category": "RIGHTS",
-      "summary": "Hakeem Jeffries finally grew a spine and rallied Democrats against extending domestic surveillance laws, proving that even centrist politicians can occasionally remember the Constitution exists. Better late than never, we guess."
+      "summary": "ShinyHunters found a sweet Oracle ERP zero-day and decided to make American universities their personal data piñata. Because nothing says 'higher education' like getting schooled by ransomware gangs."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
@@ -55,31 +23,63 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
       "category": "BREACH",
-      "summary": "Over 400 Arch Linux AUR packages got hijacked to deploy credential stealers and eBPF rootkits, because even the elitist Linux users aren't safe from supply chain attacks. Your custom kernel won't save you from social engineering, btw."
+      "summary": "Over 400 Arch Linux AUR packages got hijacked to deploy credential stealers and eBPF rootkits. The irony of Arch users getting pwned while telling everyone they use Arch is absolutely *chef's kiss*."
     },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
       "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
       "source": "The Hacker News",
       "publishedAt": "Fri, 12 Jun 2026 17:34:33 +0530",
-      "category": "ZERO DAY",
-      "summary": "Chinese hackers backdoored Linux PAM and OpenSSH for nearly a decade, hiding in plain sight at the authentication layer like digital ninjas. This is why we can't have nice things — or secure login systems, apparently."
+      "category": "BREACH",
+      "summary": "Chinese hackers spent nearly a decade backdooring Linux PAM and OpenSSH login systems like the world's most patient burglars. Sometimes the best place to hide is exactly where everyone's looking but nobody's seeing."
     },
     {
-      "title": "Oracle warns of PeopleSoft zero-day breaches #tech",
-      "url": "https://alltoc.com/tech/oracle-warns-of-peoplesoft-zero-day-breaches",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-06-12T06:03:26Z",
-      "category": "ZERO DAY",
-      "summary": "CISA issued a 72-hour patch-or-die ultimatum for an actively exploited Ivanti flaw, because apparently government agencies need stern parental supervision to apply security updates. Sunday deadline means some sysadmins are working weekends again."
+      "title": "Victory! 702 has Expired!",
+      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
+      "source": "EFF",
+      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally published AWS GovCloud keys and agency secrets on GitHub because apparently 'security agency' doesn't automatically mean 'secure.' Congress is asking the hard questions while we're all just facepalming."
     },
     {
-      "title": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
-      "url": "https://economictimes.indiatimes.com/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit/articleshow/131672070.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-12T02:45:22Z",
-      "category": "ZERO DAY",
-      "summary": "Oracle's PeopleSoft got demolished by a zero-day that ShinyHunters used to breach 100+ organizations, proving that enterprise software security is still stuck in the dial-up era. Oracle's 'unbreakable' marketing aged like milk in the sun."
+      "title": "Yes to California's Bill to Ban Surveillance Pricing",
+      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
+      "source": "EFF",
+      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
+      "category": "RIGHTS",
+      "summary": "Section 702 surveillance authority finally expired, and EFF is throwing a well-deserved victory party. Sometimes the best defense against government spying is simply letting their own bureaucracy trip over itself."
+    },
+    {
+      "title": "NanoClaw now armed with JFrog for safer packages",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/13/nanoclaw-integrates-jfrog-registries-to-secure-ai-agent-downloads/5255189",
+      "source": "The Register",
+      "publishedAt": "Sat, 13 Jun 2026 01:07:31 +0200",
+      "category": "RIGHTS",
+      "summary": "Hakeem Jeffries finally grew a spine and rallied Democrats against extending domestic spy laws. Better late than never, but we'll take principled opposition to surveillance overreach wherever we can get it."
+    },
+    {
+      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
+      "source": "Dark Reading",
+      "publishedAt": "Fri, 12 Jun 2026 20:26:32 GMT",
+      "category": "RIGHTS",
+      "summary": "Congress rushed through a 'technical reorganization' bill that fundamentally rewrites copyright law because nothing says 'transparency' like hiding massive legal changes in boring committee names. The EFF is rightfully pissed."
+    },
+    {
+      "title": "ICE Should Show It Hasn’t Been “Infiltrated by Violent Extremists,” Senator Urges",
+      "url": "https://theintercept.com/2026/06/12/ice-infiltrated-violent-extremists-senator-whitehouse/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 12 Jun 2026 17:37:23 +0000",
+      "category": "RIGHTS",
+      "summary": "Indiana banned press from executions under the guise of 'dignity' but really just wants to kill people in secret. There's nothing dignified about state-sanctioned murder hidden from public scrutiny."
+    },
+    {
+      "title": "CISA orders federal agencies to “patch smarter”",
+      "url": "https://www.helpnetsecurity.com/2026/06/11/cisa-risk-based-vulnerability-management-government/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-06-11T16:06:11Z",
+      "category": "WHITE HAT",
+      "summary": "CISA's new BOD 26-04 directive forces federal agencies to patch critical vulns in just three days using a fancy four-variable risk model. Finally, some bureaucrats who understand that 'eventually' isn't a timeline."
     }
   ]
 }
