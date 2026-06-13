@@ -1,53 +1,45 @@
 {
-  "last_updated": "2026-06-12T19:52:46.114Z",
+  "last_updated": "2026-06-13T02:28:21.994Z",
   "articles": [
-    {
-      "title": "ShinyHunters claims it hacked 100 orgs by exploiting an Oracle PeopleSoft 0-day",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
-      "source": "Theregister.com",
-      "publishedAt": "2026-06-11T19:01:16Z",
-      "category": "ZERO DAY",
-      "summary": "Oracle's PeopleSoft gets absolutely wrecked by a critical zero-day (CVE-2026-35273) that ShinyHunters used to steal data from 100+ orgs. When criminals find your RCE before you do, you've already lost the game."
-    },
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft sets a new record with 200 security holes in one Patch Tuesday, including 36 critical flaws. It's like watching a software company speedrun their way to irrelevance."
+      "summary": "Microsoft drops a record-breaking 200 patches this Patch Tuesday, with 36 rated critical. When Redmond's own patch count looks like a CVE fever dream, you know it's been a rough month for secure coding."
     },
     {
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "source": "The Hacker News",
-      "publishedAt": "Fri, 12 Jun 2026 17:34:33 +0530",
+      "title": "Victory! 702 has Expired!",
+      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
+      "source": "EFF",
+      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "BREACH",
-      "summary": "China-linked Velvet Ant backdoored Linux PAM and OpenSSH for nearly a decade, turning login systems into their personal VIP entrance. The ultimate persistence play that makes rootkits look amateur."
+      "summary": "CISA contractor casually dumps AWS GovCloud keys and agency secrets on public GitHub because apparently operational security is just a suggestion. Congress is demanding answers, and we're demanding better infosec training."
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
       "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor dumps AWS GovCloud keys and agency secrets on public GitHub like it's their personal diary. Congress is big mad, and honestly, they should be."
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "BREACH",
-      "summary": "Hackers weaponized Meta's AI support bot to hijack Instagram accounts, including Obama's White House and Space Force leadership. AI assistants: making social engineering great again."
+      "category": "RIGHTS",
+      "summary": "Section 702's warrantless surveillance authority finally expires after years of dragnet spying on Americans. Victory tastes sweet when the surveillance state has to actually ask permission for once."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "url": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
+      "category": "ZERO DAY",
+      "summary": "ShinyHunters weaponizes Oracle ERP zero-day to absolutely demolish higher education networks. Universities getting schooled in why patch management isn't optional homework."
+    },
+    {
+      "title": "The Right’s “Election Fraud” Cry for Midterms Previewed in Primaries",
+      "url": "https://theintercept.com/2026/06/12/california-maine-primaries/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702 mass surveillance authority faces its final showdown in Congress. EFF says warrant requirement or bust, because warrantless spying is so pre-Snowden."
+      "summary": "Senator calls out DHS for ICE recruitment materials that white nationalists are celebrating. Apparently violent extremists infiltrating law enforcement is a feature, not a bug."
     },
     {
       "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
@@ -55,31 +47,39 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
       "category": "RIGHTS",
-      "summary": "Hakeem Jeffries grows a backbone and rallies Democrats against extending domestic spy laws. Better late than never, but civil liberties shouldn't require political courage."
-    },
-    {
-      "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
-      "url": "https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
-      "category": "RIGHTS",
-      "summary": "California considers banning surveillance pricing, where corporations charge different prices based on your harvested personal data. Finally, someone noticed the digital discrimination economy."
+      "summary": "Hakeem Jeffries grows a backbone and rallies Democrats against extending domestic spy laws. Shocking development: politicians occasionally remember civil liberties exist."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
       "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
-      "category": "WHITE HAT",
-      "summary": "Attackers hijacked 400+ Arch Linux AUR packages to install a Rust-based credential stealer targeting developers. Supply chain attacks: because why hack one dev when you can hack them all?"
+      "category": "BREACH",
+      "summary": "Over 400 Arch Linux AUR packages hijacked to deploy credential stealers and eBPF rootkits. Supply chain attacks hitting the distro that arch users definitely saw coming but installed anyway."
     },
     {
-      "title": "CISA orders federal agencies to “patch smarter”",
-      "url": "https://www.helpnetsecurity.com/2026/06/11/cisa-risk-based-vulnerability-management-government/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-06-11T16:06:11Z",
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "source": "The Hacker News",
+      "publishedAt": "Fri, 12 Jun 2026 17:34:33 +0530",
       "category": "BREACH",
-      "summary": "South Korea fines Coupang $409 million for leaking 33 million customers' data and failing basic breach detection. When your privacy violations cost more than most countries' GDP, you've achieved legendary incompetence."
+      "summary": "China-linked Velvet Ant backdoored Linux PAM and OpenSSH for nearly a decade, owning the login system itself. When you can't beat authentication, become authentication."
+    },
+    {
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+      "source": "Internet",
+      "publishedAt": "2026-06-11T20:29:23Z",
+      "category": "ZERO DAY",
+      "summary": "ShinyHunters exploited Oracle PeopleSoft zero-day CVE-2026-35273 to breach 100+ organizations, with universities taking the hardest hits. Oracle's enterprise software proving that critical infrastructure and security don't mix."
+    },
+    {
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
+      "category": "BREACH",
+      "summary": "Hackers trick Meta's AI support bot into resetting Instagram accounts, briefly defacing Obama White House and Space Force profiles with pro-Iranian messages. Even AI customer service can't escape social engineering."
     }
   ]
 }
