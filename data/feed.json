@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T02:28:21.994Z",
+  "last_updated": "2026-06-13T08:46:35.897Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a record-breaking 200 patches this Patch Tuesday, with 36 rated critical. When Redmond's own patch count looks like a CVE fever dream, you know it's been a rough month for secure coding."
+      "summary": "Microsoft just patched a record-breaking 200 vulnerabilities in one Patch Tuesday, because why fix security incrementally when you can let it all pile up like dirty laundry? Three dozen earned the coveted 'critical' rating — aka the 'we're probably already pwned' tier."
     },
     {
       "title": "Victory! 702 has Expired!",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumps AWS GovCloud keys and agency secrets on public GitHub because apparently operational security is just a suggestion. Congress is demanding answers, and we're demanding better infosec training."
+      "summary": "CISA contractor casually yeeted AWS GovCloud keys and agency secrets onto public GitHub because apparently cybersecurity agencies can't secure their own contractors. Congress is rightfully losing their collective shit over this galaxy-brain move."
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702's warrantless surveillance authority finally expires after years of dragnet spying on Americans. Victory tastes sweet when the surveillance state has to actually ask permission for once."
+      "summary": "Section 702's warrantless surveillance authority finally expired, giving Americans a brief moment to breathe before Congress inevitably resurrects this constitutional vampire. The EFF is celebrating like it's 1776 all over again."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,7 +31,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters weaponizes Oracle ERP zero-day to absolutely demolish higher education networks. Universities getting schooled in why patch management isn't optional homework."
+      "summary": "ShinyHunters exploited an Oracle ERP zero-day to ransack American universities, because apparently higher education needed another reason to cry about budgets. Nothing says 'pursue knowledge' like having your entire student database stolen."
     },
     {
       "title": "The Right’s “Election Fraud” Cry for Midterms Previewed in Primaries",
@@ -39,7 +39,7 @@
       "source": "The Intercept",
       "publishedAt": "Fri, 12 Jun 2026 10:00:00 +0000",
       "category": "RIGHTS",
-      "summary": "Senator calls out DHS for ICE recruitment materials that white nationalists are celebrating. Apparently violent extremists infiltrating law enforcement is a feature, not a bug."
+      "summary": "Senator Whitehouse demands ICE prove it hasn't been infiltrated by white supremacists after The Intercept exposed their recruitment materials being celebrated by neo-Nazis. Shocking absolutely no one who's been paying attention."
     },
     {
       "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
@@ -47,7 +47,7 @@
       "source": "The Intercept",
       "publishedAt": "Thu, 11 Jun 2026 18:02:47 +0000",
       "category": "RIGHTS",
-      "summary": "Hakeem Jeffries grows a backbone and rallies Democrats against extending domestic spy laws. Shocking development: politicians occasionally remember civil liberties exist."
+      "summary": "Hakeem Jeffries finally grew a spine and rallied Democrats against extending domestic surveillance laws, proving that even centrist politicians can occasionally remember the Constitution exists. Better late than never, we guess."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
@@ -55,31 +55,31 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
       "category": "BREACH",
-      "summary": "Over 400 Arch Linux AUR packages hijacked to deploy credential stealers and eBPF rootkits. Supply chain attacks hitting the distro that arch users definitely saw coming but installed anyway."
+      "summary": "Over 400 Arch Linux AUR packages got hijacked to deploy credential stealers and eBPF rootkits, because even the elitist Linux users aren't safe from supply chain attacks. Your custom kernel won't save you from social engineering, btw."
     },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
       "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
       "source": "The Hacker News",
       "publishedAt": "Fri, 12 Jun 2026 17:34:33 +0530",
-      "category": "BREACH",
-      "summary": "China-linked Velvet Ant backdoored Linux PAM and OpenSSH for nearly a decade, owning the login system itself. When you can't beat authentication, become authentication."
-    },
-    {
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "source": "Internet",
-      "publishedAt": "2026-06-11T20:29:23Z",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploited Oracle PeopleSoft zero-day CVE-2026-35273 to breach 100+ organizations, with universities taking the hardest hits. Oracle's enterprise software proving that critical infrastructure and security don't mix."
+      "summary": "Chinese hackers backdoored Linux PAM and OpenSSH for nearly a decade, hiding in plain sight at the authentication layer like digital ninjas. This is why we can't have nice things — or secure login systems, apparently."
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "BREACH",
-      "summary": "Hackers trick Meta's AI support bot into resetting Instagram accounts, briefly defacing Obama White House and Space Force profiles with pro-Iranian messages. Even AI customer service can't escape social engineering."
+      "title": "Oracle warns of PeopleSoft zero-day breaches #tech",
+      "url": "https://alltoc.com/tech/oracle-warns-of-peoplesoft-zero-day-breaches",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-06-12T06:03:26Z",
+      "category": "ZERO DAY",
+      "summary": "CISA issued a 72-hour patch-or-die ultimatum for an actively exploited Ivanti flaw, because apparently government agencies need stern parental supervision to apply security updates. Sunday deadline means some sysadmins are working weekends again."
+    },
+    {
+      "title": "Google says ShinyHunters hackers targeting education sector via Oracle exploit",
+      "url": "https://economictimes.indiatimes.com/tech/technology/google-says-shinyhunters-hackers-targeting-education-sector-via-oracle-exploit/articleshow/131672070.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T02:45:22Z",
+      "category": "ZERO DAY",
+      "summary": "Oracle's PeopleSoft got demolished by a zero-day that ShinyHunters used to breach 100+ organizations, proving that enterprise software security is still stuck in the dial-up era. Oracle's 'unbreakable' marketing aged like milk in the sun."
     }
   ]
 }
