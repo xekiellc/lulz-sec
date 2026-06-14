@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T02:39:48.045Z",
+  "last_updated": "2026-06-14T09:18:31.417Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a record-breaking 200 patches this Patch Tuesday, with three dozen rated critical — because apparently Redmond was saving up all year for one spectacular vulnerability Christmas morning."
+      "summary": "Microsoft drops a record-breaking 200 patches in one Patch Tuesday cycle, including 36 critical vulns. Either they've been hoarding fixes or the code quality is reaching new depths of despair."
     },
     {
       "title": "Victory! 702 has Expired!",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually dumps AWS GovCloud keys on public GitHub like it's their personal blog, prompting Congress to ask the obvious question: what the actual hell, guys?"
+      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and agency secrets to GitHub, prompting congressional demands for answers. When the cybersecurity watchdog can't watch its own data, who watches the watchers?"
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702's warrantless surveillance authority finally expires, meaning the government will have to find new creative ways to violate the Fourth Amendment."
+      "summary": "Section 702 surveillance authority finally expires after years of constitutional violations disguised as foreign intelligence gathering. One small step for privacy, one giant leap away from the surveillance state."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,7 +31,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploits Oracle ERP zero-day to ransack university networks nationwide. Higher education meets higher exploitation — tuition money well spent, clearly."
+      "summary": "ShinyHunters exploits Oracle ERP zero-day to ransack American universities' data like it's 2012 again. Higher education gets a brutal lesson in why legacy enterprise software is a security nightmare."
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -39,7 +39,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 11:12:50 +0530",
       "category": "ZERO DAY",
-      "summary": "Critical Splunk Enterprise flaw (CVE-2026-20253) allows unauthenticated remote code execution with a perfect 9.8 CVSS score. Even your logs aren't safe anymore."
+      "summary": "Critical Splunk Enterprise flaw scores 9.8 CVSS, allowing unauthenticated RCE because apparently enterprise logging platforms are now attack vectors. The irony of security tools being insecure never gets old."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
@@ -47,15 +47,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
       "category": "BREACH",
-      "summary": "Attackers hijack 400+ Arch Linux AUR packages to deploy credential stealers and eBPF rootkits. Linux elitists discover their package repository isn't as secure as their smugness suggested."
+      "summary": "Over 400 Arch Linux AUR packages hijacked to deploy credential stealers and eBPF rootkits. Supply chain attacks hit the DIY Linux crowd where it hurts: their beloved user repository."
     },
     {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "source": "Depthfirst.com",
-      "publishedAt": "2026-06-12T22:13:29Z",
+      "title": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
+      "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension/",
+      "source": "The Next Web",
+      "publishedAt": "2026-06-13T06:57:05Z",
       "category": "BREACH",
-      "summary": "Chinese Velvet Ant group backdoors Linux PAM and OpenSSH for nearly a decade, proving that sometimes the best place to hide is right in the front door."
+      "summary": "China-linked Velvet Ant crew backdoored Linux PAM and OpenSSH for nearly a decade, hiding in plain sight in the login system itself. Sometimes the best place to hide is where everyone looks but no one sees."
     },
     {
       "title": "The new BitLocker exploit everyone's freaking out about probably won't affect you",
@@ -63,7 +63,7 @@
       "source": "MakeUseOf",
       "publishedAt": "2026-06-12T16:50:26Z",
       "category": "ZERO DAY",
-      "summary": "Autonomous security agent discovers 21 zero-days in FFmpeg after Google and Anthropic's analysis missed them. AI vs AI — may the best bot win."
+      "summary": "Autonomous security agent discovers 21 zero-days in FFmpeg after Google and Anthropic's analysis missed them all. AI finds what humans couldn't, proving that even the robots are better at breaking things than we are."
     },
     {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
@@ -71,15 +71,15 @@
       "source": "Securityweek.com",
       "publishedAt": "2026-06-11T13:57:54Z",
       "category": "ZERO DAY",
-      "summary": "Oracle warns of security bug exploited in mass-hacking campaign targeting 100+ companies. When Oracle issues security warnings, you know it's either very serious or very embarrassing."
+      "summary": "Oracle warns of security flaw actively exploited by cybercrime gangs in mass-hacking campaign affecting 100+ organizations. Classic Oracle: patch late, communicate poorly, leave customers exposed."
     },
     {
-      "title": "The Hidden Security Risks of Poor Software Testing",
-      "url": "https://hackread.com/the-hidden-security-risks-of-poor-software-testing/",
-      "source": "HackRead",
-      "publishedAt": "2026-06-11T12:49:34Z",
-      "category": "ZERO DAY",
-      "summary": "Oracle scrambles to address CVE-2026-35273 PeopleSoft vulnerability amid ShinyHunters zero-day attacks. PeopleSoft living up to its reputation as enterprise software that makes people soft targets."
+      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T20:27:25Z",
+      "category": "BREACH",
+      "summary": "23andMe settles 2023 data breach for $46.75M after exposing users' genetic data and ancestry information. Your DNA is worth about $47 million in settlement money, apparently."
     }
   ]
 }
