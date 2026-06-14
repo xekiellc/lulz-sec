@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T09:18:31.417Z",
+  "last_updated": "2026-06-14T13:28:03.964Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,23 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a record-breaking 200 patches in one Patch Tuesday cycle, including 36 critical vulns. Either they've been hoarding fixes or the code quality is reaching new depths of despair."
-    },
-    {
-      "title": "Victory! 702 has Expired!",
-      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
-      "source": "EFF",
-      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
-      "category": "BREACH",
-      "summary": "CISA contractor accidentally yeeted AWS GovCloud keys and agency secrets to GitHub, prompting congressional demands for answers. When the cybersecurity watchdog can't watch its own data, who watches the watchers?"
-    },
-    {
-      "title": "Yes to California's Bill to Ban Surveillance Pricing",
-      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
-      "category": "RIGHTS",
-      "summary": "Section 702 surveillance authority finally expires after years of constitutional violations disguised as foreign intelligence gathering. One small step for privacy, one giant leap away from the surveillance state."
+      "summary": "Microsoft drops a record-breaking 200 security patches in one Patch Tuesday, with nearly three dozen rated 'critical' — because apparently they've been saving up all year like it's Christmas morning for vulnerabilities."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,7 +15,23 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploits Oracle ERP zero-day to ransack American universities' data like it's 2012 again. Higher education gets a brutal lesson in why legacy enterprise software is a security nightmare."
+      "summary": "ShinyHunters exploited an Oracle zero-day to ransack American universities like digital pirates with a treasure map. Higher education just got a very expensive lesson in enterprise security."
+    },
+    {
+      "title": "Yes to California's Bill to Ban Surveillance Pricing",
+      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
+      "source": "EFF",
+      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
+      "category": "RIGHTS",
+      "summary": "Section 702 surveillance authority has finally expired! The NSA's favorite backdoor into American communications just got slammed shut, at least temporarily."
+    },
+    {
+      "title": "Victory! 702 has Expired!",
+      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
+      "source": "EFF",
+      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
+      "category": "BREACH",
+      "summary": "CISA contractor accidentally published AWS GovCloud keys on GitHub like leaving nuclear codes in a public bathroom. Congress is predictably having a meltdown over the cybersecurity agency's own cybersecurity fail."
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -39,7 +39,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 11:12:50 +0530",
       "category": "ZERO DAY",
-      "summary": "Critical Splunk Enterprise flaw scores 9.8 CVSS, allowing unauthenticated RCE because apparently enterprise logging platforms are now attack vectors. The irony of security tools being insecure never gets old."
+      "summary": "Splunk Enterprise gets pwned by a critical 9.8 CVSS flaw allowing unauthenticated remote code execution. Your log analysis tool just became someone else's backdoor."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
@@ -47,15 +47,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
       "category": "BREACH",
-      "summary": "Over 400 Arch Linux AUR packages hijacked to deploy credential stealers and eBPF rootkits. Supply chain attacks hit the DIY Linux crowd where it hurts: their beloved user repository."
+      "summary": "Over 400 Arch Linux AUR packages hijacked to deploy credential stealers and eBPF rootkits. Even the DIY Linux crowd isn't safe from supply chain attacks."
     },
     {
-      "title": "US government orders Anthropic to kill Fable 5 and Mythos 5 in unprecedented AI model recall",
-      "url": "https://thenextweb.com/news/anthropic-fable-mythos-us-government-suspension/",
-      "source": "The Next Web",
-      "publishedAt": "2026-06-13T06:57:05Z",
+      "title": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
+      "url": "https://securityaffairs.com/193574/security/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-06-13T09:19:14Z",
       "category": "BREACH",
-      "summary": "China-linked Velvet Ant crew backdoored Linux PAM and OpenSSH for nearly a decade, hiding in plain sight in the login system itself. Sometimes the best place to hide is where everyone looks but no one sees."
+      "summary": "Chinese hackers backdoored Linux PAM and OpenSSH for nearly a decade, hiding in plain sight inside the login system itself. The ultimate example of why you should never trust your authentication stack."
     },
     {
       "title": "The new BitLocker exploit everyone's freaking out about probably won't affect you",
@@ -63,7 +63,7 @@
       "source": "MakeUseOf",
       "publishedAt": "2026-06-12T16:50:26Z",
       "category": "ZERO DAY",
-      "summary": "Autonomous security agent discovers 21 zero-days in FFmpeg after Google and Anthropic's analysis missed them all. AI finds what humans couldn't, proving that even the robots are better at breaking things than we are."
+      "summary": "Autonomous security agent discovers 21 zero-days in FFmpeg after Google and Anthropic missed them. AI vs AI — at least someone's putting these models to good use finding bugs instead of writing poetry."
     },
     {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
@@ -71,15 +71,15 @@
       "source": "Securityweek.com",
       "publishedAt": "2026-06-11T13:57:54Z",
       "category": "ZERO DAY",
-      "summary": "Oracle warns of security flaw actively exploited by cybercrime gangs in mass-hacking campaign affecting 100+ organizations. Classic Oracle: patch late, communicate poorly, leave customers exposed."
+      "summary": "Oracle warns of security bug exploited in mass-hacking campaign affecting 100+ organizations. When Oracle actually bothers to warn you quickly, you know it's bad."
     },
     {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T20:27:25Z",
-      "category": "BREACH",
-      "summary": "23andMe settles 2023 data breach for $46.75M after exposing users' genetic data and ancestry information. Your DNA is worth about $47 million in settlement money, apparently."
+      "title": "ICE Should Show It Hasn’t Been “Infiltrated by Violent Extremists,” Senator Urges",
+      "url": "https://theintercept.com/2026/06/12/ice-infiltrated-violent-extremists-senator-whitehouse/",
+      "source": "The Intercept",
+      "publishedAt": "Fri, 12 Jun 2026 17:37:23 +0000",
+      "category": "RIGHTS",
+      "summary": "Indiana bans press from executions claiming 'dignity' — but secret state-sanctioned killing serves repression, not dignity. Transparency dies in darkness, literally."
     }
   ]
 }
