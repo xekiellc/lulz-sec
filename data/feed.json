@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T19:08:58.842Z",
+  "last_updated": "2026-06-15T02:45:01.647Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft just dropped a record-breaking 200 patches including three dozen critical bugs—because apparently even software giants need to occasionally admit they're held together with digital duct tape and prayers."
+      "summary": "Microsoft just dropped a historic 200-vulnerability patch bomb, with 36 critical flaws that could probably turn your Windows box into a very expensive paperweight. When Redmond breaks their own records for security holes, you know someone's having a very bad month."
     },
     {
       "title": "Victory! 702 has Expired!",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor casually published AWS GovCloud keys on GitHub like it's a goddamn recipe blog, proving that government cybersecurity is as solid as wet cardboard."
+      "summary": "CISA contractor decided to cosplay as Edward Snowden and dumped AWS GovCloud keys plus a treasure trove of agency secrets on GitHub for the world to see. Congress is now asking the uncomfortable questions that should've been asked before handing government secrets to contractors with questionable operational security."
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -23,7 +23,15 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702 surveillance authority finally expired—a rare victory where Big Brother's warrantless surveillance program actually faced consequences for once."
+      "summary": "Section 702's warrantless surveillance authority finally expired, and the EFF is throwing a well-deserved victory party. Because nothing says 'land of the free' like intelligence agencies hoovering up Americans' communications without bothering with that pesky Fourth Amendment."
+    },
+    {
+      "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
+      "url": "https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers",
+      "source": "EFF",
+      "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
+      "category": "RIGHTS",
+      "summary": "California wants to ban 'surveillance pricing' where corporations charge different prices based on your digital stalking profile. Finally, someone noticed that harvesting our browsing habits to price-gouge us might not be the pinnacle of ethical capitalism."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,7 +39,7 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploited an Oracle zero-day to ransack American universities, because apparently higher education's IT security is about as robust as their student loan forgiveness programs."
+      "summary": "ShinyHunters weaponized an Oracle zero-day to go on a higher education data heist spree, proving that university IT security is about as robust as their student loan forgiveness programs. Nothing says 'ivory tower' like storing sensitive data behind tissue-paper defenses."
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -39,7 +47,7 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 11:12:50 +0530",
       "category": "ZERO DAY",
-      "summary": "Splunk Enterprise's critical CVE-2026-20253 lets attackers execute code without authentication—because who needs security when you're processing everyone's logs anyway?"
+      "summary": "Splunk Enterprise users just got a 9.8 CVSS reality check with CVE-2026-20253, allowing unauthenticated remote code execution. Because apparently searching through your logs shouldn't require authentication when hackers want to add their own entries."
     },
     {
       "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
@@ -47,15 +55,15 @@
       "source": "The Hacker News",
       "publishedAt": "Sat, 13 Jun 2026 00:29:32 +0530",
       "category": "BREACH",
-      "summary": "Over 400 Arch Linux AUR packages got hijacked to deploy infostealers and eBPF rootkits—proving that even the most paranoid Linux users aren't safe from supply chain fuckery."
+      "summary": "Over 400 Arch Linux AUR packages got hijacked to deploy credential stealers and eBPF rootkits, proving that even the elitist Linux distribution isn't immune to supply chain attacks. Turns out 'I use Arch btw' doesn't automatically confer security superpowers."
     },
     {
-      "title": "Identifying the Best Crypto to Buy Today Before the Market Jump",
-      "url": "https://punchng.com/identifying-the-best-crypto-to-buy-today-before-the-market-jump/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-13T18:33:04Z",
+      "title": "Show HN: Web Researcher MCP – Search with verify citations and sources",
+      "url": "https://github.com/zoharbabin/web-researcher-mcp",
+      "source": "Github.com",
+      "publishedAt": "2026-06-13T19:48:03Z",
       "category": "BREACH",
-      "summary": "Chinese hackers backdoored Linux PAM and OpenSSH for nearly a decade, essentially owning the front door while everyone was worried about windows—the ultimate long game."
+      "summary": "China-linked Velvet Ant group backdoored Linux PAM and OpenSSH for nearly a decade, essentially owning the front door keys to countless systems. While everyone was watching for malware, these folks were rewriting the bouncer list at the club entrance."
     },
     {
       "title": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
@@ -63,7 +71,7 @@
       "source": "Securityaffairs.com",
       "publishedAt": "2026-06-13T09:19:14Z",
       "category": "BREACH",
-      "summary": "Chinese hackers hijacked an organization's entire auth stack for 10 years with full admin visibility—a masterclass in persistence that makes most APTs look like amateur hour."
+      "summary": "Chinese hackers pulled off a decade-long persistence masterclass by hijacking an organization's entire authentication stack with full admin visibility. Ten years of watching every login while defenders played security theater - that's not hacking, that's performance art."
     },
     {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
@@ -71,15 +79,7 @@
       "source": "Securityweek.com",
       "publishedAt": "2026-06-11T13:57:54Z",
       "category": "ZERO DAY",
-      "summary": "Oracle's PeopleSoft vulnerability got mass-exploited across 100+ companies while Oracle played the 'we'll fix it eventually' game—classic enterprise software arrogance."
-    },
-    {
-      "title": "The Hidden Security Risks of Poor Software Testing",
-      "url": "https://hackread.com/the-hidden-security-risks-of-poor-software-testing/",
-      "source": "HackRead",
-      "publishedAt": "2026-06-11T12:49:34Z",
-      "category": "ZERO DAY",
-      "summary": "Oracle finally addresses CVE-2026-35273 after ShinyHunters went on a zero-day rampage, but won't admit it was actively exploited because corporate transparency is apparently optional."
+      "summary": "Oracle's PeopleSoft got absolutely wrecked by hackers who breached 100+ companies using a previously unknown vulnerability that the vendor is still scrambling to patch. When a cybercrime gang starts bragging about your zero-day on social media, you know it's time to update your resume."
     }
   ]
 }
