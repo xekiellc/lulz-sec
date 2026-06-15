@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T11:45:29.300Z",
+  "last_updated": "2026-06-15T16:56:53.147Z",
   "articles": [
     {
       "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
@@ -7,7 +7,7 @@
       "source": "Krebs on Security",
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "ZERO DAY",
-      "summary": "Microsoft drops a record-breaking 200 patches this Patch Tuesday, with nearly three dozen rated 'critical' — because apparently Redmond's security team had a particularly productive month discovering their own mistakes."
+      "summary": "Microsoft just dropped a record-breaking 200 security patches in one Patch Tuesday, with 36 critical vulns that could ruin your entire month. When Redmond breaks their own records for broken code, you know it's been a particularly creative quarter for the bug hunters."
     },
     {
       "title": "Victory! 702 has Expired!",
@@ -15,7 +15,7 @@
       "source": "EFF",
       "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "BREACH",
-      "summary": "CISA contractor accidentally dumps AWS GovCloud keys and agency secrets on GitHub, proving that even the cybersecurity agency can't secure its own contractors. Congress is predictably losing its collective mind."
+      "summary": "CISA contractor casually published AWS GovCloud keys and agency secrets on public GitHub because apparently operational security is just a suggestion. Congress is now demanding answers while the cybersecurity agency tries to explain how they got owned by their own people."
     },
     {
       "title": "Yes to California's Bill to Ban Surveillance Pricing",
@@ -23,7 +23,7 @@
       "source": "EFF",
       "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
       "category": "RIGHTS",
-      "summary": "Section 702 surveillance authority finally expires, marking a rare victory against the NSA's warrantless dragnet. Time to pop champagne before they inevitably find another loophole."
+      "summary": "Section 702 surveillance authority has expired, dealing a blow to the surveillance state's warrantless dragnet collection of Americans' communications. Sometimes the system works exactly as intended - by running out of legal authority to spy on us."
     },
     {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
@@ -31,39 +31,39 @@
       "source": "Dark Reading",
       "publishedAt": "Fri, 12 Jun 2026 13:01:00 GMT",
       "category": "ZERO DAY",
-      "summary": "ShinyHunters exploits Oracle ERP zero-day to rampage through American universities, proving that higher education's IT security is about as robust as their student loan forgiveness programs."
+      "summary": "ShinyHunters leveraged an Oracle zero-day to absolutely devastate higher education networks, because apparently university IT security is still stuck in the 1990s. Nothing says 'ivory tower' quite like getting pwned by a known ransomware crew exploiting basic enterprise software."
     },
     {
-      "title": "ICE Should Show It Hasn’t Been “Infiltrated by Violent Extremists,” Senator Urges",
-      "url": "https://theintercept.com/2026/06/12/ice-infiltrated-violent-extremists-senator-whitehouse/",
+      "title": "Civil Records for Hundreds of Thousands of Lebanese Could Be Wiped Out By Israel’s Total War",
+      "url": "https://theintercept.com/2026/06/14/lebanon-civil-records-israe/",
       "source": "The Intercept",
-      "publishedAt": "Fri, 12 Jun 2026 17:37:23 +0000",
-      "category": "RIGHTS",
-      "summary": "Indiana bans press from executions under the guise of 'dignity,' but really it's just good old-fashioned state repression. Nothing says transparency like murdering people in secret."
+      "publishedAt": "Sun, 14 Jun 2026 13:42:01 +0000",
+      "category": "LEGENDS",
+      "summary": "Army whistleblower exposes systematic cover-up of child abuse at military daycare centers, with officials first claiming evidence didn't exist then magically producing it months later. The military-industrial complex protecting itself at the expense of children - shocking absolutely no one who's been paying attention."
     },
     {
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
       "source": "The Hacker News",
-      "publishedAt": "Sat, 13 Jun 2026 18:53:03 +0530",
+      "publishedAt": "Mon, 15 Jun 2026 19:19:29 +0530",
       "category": "ZERO DAY",
-      "summary": "Palo Alto confirms active exploitation of GlobalProtect VPN authentication bypass flaw. When your VPN security company can't secure VPNs, maybe it's time to reconsider the whole cybersecurity industrial complex."
+      "summary": "Researchers chained three Microsoft 365 Copilot bugs into 'SearchLeak' - a one-click attack that could exfiltrate emails, calendars, and MFA codes. Because nothing says 'enterprise security' quite like turning your AI assistant into an unwitting data thief."
     },
     {
-      "title": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack",
-      "url": "https://www.helpnetsecurity.com/2026/06/14/week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-06-14T08:00:50Z",
-      "category": "ZERO DAY",
-      "summary": "Critical Splunk Enterprise flaw allows unauthenticated remote code execution with a perfect 9.8 CVSS score. Your log analysis tool just became someone else's favorite backdoor."
-    },
-    {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T20:27:25Z",
+      "title": "Security Affairs newsletter Round 581 by Pierluigi Paganini – INTERNATIONAL EDITION",
+      "url": "https://securityaffairs.com/193600/security/security-affairs-newsletter-round-581-by-pierluigi-paganini-international-edition.html",
+      "source": "Securityaffairs.com",
+      "publishedAt": "2026-06-14T13:03:56Z",
       "category": "BREACH",
-      "summary": "23andMe settles data breach lawsuit for $46.75M after hackers accessed genetic data of millions. Your DNA profile is now worth approximately $2.50 in settlement money."
+      "summary": "Attackers compromised trusted WordPress plugin scripts from PushEngage, OptinMonster, and TrustPulse to plant backdoors on countless sites. Supply chain attacks continue proving that trusting third-party code is basically digital Russian roulette with extra steps."
+    },
+    {
+      "title": "Privacy own-goal: World Cup blunder leaks Lionel Messi’s passport details",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details",
+      "source": "Bitdefender.com",
+      "publishedAt": "2026-06-12T18:48:06Z",
+      "category": "BREACH",
+      "summary": "Iranian hackers penetrated California water systems and issued a 'warning' to Trump about their ability to disrupt drinking supplies. Critical infrastructure security remains a dumpster fire, but at least the hackers are being polite about their capabilities."
     },
     {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
@@ -71,7 +71,7 @@
       "source": "Securityweek.com",
       "publishedAt": "2026-06-11T13:57:54Z",
       "category": "ZERO DAY",
-      "summary": "Oracle warns of security bug exploited by cybercrime gangs to breach 100+ companies in mass-hacking campaign. Larry Ellison's empire continues its tradition of being a hacker's best friend."
+      "summary": "Oracle finally acknowledged a security flaw that cybercriminals have been actively exploiting in mass-hacking campaigns against 100+ organizations. Nothing quite like Oracle's legendary transparency - acknowledging vulnerabilities only after the entire internet gets pwned."
     },
     {
       "title": "CISA BOD 26-04: Frequently asked questions about the new risk-based patching directive",
@@ -79,7 +79,7 @@
       "source": "Tenable.com",
       "publishedAt": "2026-06-11T23:39:00Z",
       "category": "ZERO DAY",
-      "summary": "Oracle addresses PeopleSoft zero-day amid ShinyHunters attacks, but won't confirm if it's actually the exploited vulnerability. Classic Oracle transparency — about as clear as their licensing agreements."
+      "summary": "Oracle released mitigations for CVE-2026-35273 after ShinyHunters went on a PeopleSoft rampage, but won't confirm if it was actually a zero-day. Corporate doublespeak at its finest - 'we fixed something that may or may not have been broken in the way you think it was.'"
     }
   ]
 }
