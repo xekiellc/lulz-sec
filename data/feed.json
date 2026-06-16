@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T20:45:07.231Z",
+  "last_updated": "2026-06-16T02:46:44.594Z",
   "articles": [
     {
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
@@ -42,6 +42,14 @@
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
     },
     {
+      "title": "EFFecting Change: LGBTQ+ Solidarity Against the Tide of Surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/06/effecting-change-lgbtq-solidarity-against-tide-surveillance",
+      "source": "EFF",
+      "publishedAt": "Mon, 15 Jun 2026 23:35:43 +0000",
+      "category": "NEWS",
+      "summary": "LGBTQ+ communities are facing an escalating wave of censorship and targeted surveillance, but we can push back through mutual solidarity. Join us live to learn how safer virtual spaces get built, how platform policies and government pressure are reshaping the digital landscape, and what platform acc"
+    },
+    {
       "title": "Victory! 702 has Expired!",
       "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 11 Jun 2026 11:20:27 +0000",
       "category": "NEWS",
       "summary": "Last June during Pride, we launched a new initiative—LGBT Q&A—where we answered your most pressing queer-related digital rights questions on EFF’s Instagram and TikTok accounts. No question was too big or too small! You asked us things like what pictures to use on dating apps; how to remove your nam"
-    },
-    {
-      "title": "Congress Just Rushed Through a Disastrous Copyright Office Overhaul",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-      "source": "EFF",
-      "publishedAt": "Wed, 10 Jun 2026 22:54:52 +0000",
-      "category": "NEWS",
-      "summary": "In a voice vote earlier this week, the House of Representatives passed H.R. 6028, the “Legislative Branch Agencies Clarification Act.” The legislation is presented as a technical reorganization of some government agencies, but it’s much more than that. \nH.R. 6028 would fundamentally change the U.S. "
     }
   ]
 }
