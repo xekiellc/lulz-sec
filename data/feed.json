@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:23:19.719Z",
+  "last_updated": "2026-06-16T20:37:41.847Z",
   "articles": [
     {
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
@@ -42,6 +42,14 @@
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
     },
     {
+      "title": "Onward, Friends",
+      "url": "https://www.eff.org/deeplinks/2026/06/farewell-now-friends",
+      "source": "EFF",
+      "publishedAt": "Tue, 16 Jun 2026 18:56:00 +0000",
+      "category": "NEWS",
+      "summary": "After 26 years, today is my last day at EFF. It's been a terrific and wild ride — the organization has grown from a tiny band of fighty people trying to plant a flag for freedom and justice in the coming digital world into a large, established band of fighty people doing, well, much the same. The wo"
+    },
+    {
       "title": "EFFecting Change: LGBTQ+ Solidarity Against the Tide of Surveillance",
       "url": "https://www.eff.org/deeplinks/2026/06/effecting-change-lgbtq-solidarity-against-tide-surveillance",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
       "category": "NEWS",
       "summary": "What do EFF staffers Sarah Chen, Javier Morales, Caitlin Chin, Emma Rodriguez, and Mikko Kopponen have in common? \nFor one thing, they don’t exist. \nFor another, all have been quoted as EFF experts in articles published in the past two months on a site called News-USA Today, which describes itself a"
-    },
-    {
-      "title": "LGBT Q&A: We’re Back With Season 2!",
-      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-were-back-season-2",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 11:20:27 +0000",
-      "category": "NEWS",
-      "summary": "Last June during Pride, we launched a new initiative—LGBT Q&A—where we answered your most pressing queer-related digital rights questions on EFF’s Instagram and TikTok accounts. No question was too big or too small! You asked us things like what pictures to use on dating apps; how to remove your nam"
     }
   ]
 }
