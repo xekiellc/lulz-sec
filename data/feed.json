@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-18T14:46:16.187Z",
+  "last_updated": "2026-06-18T20:10:34.644Z",
   "articles": [
+    {
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "category": "NEWS",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet "
+    },
     {
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
       "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -34,52 +42,44 @@
       "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 22 May 2026 16:34:24 +0000",
+      "title": "Call for Submissions: Digital Pride",
+      "url": "https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride",
+      "source": "EFF",
+      "publishedAt": "Thu, 18 Jun 2026 19:46:02 +0000",
       "category": "NEWS",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
+      "summary": "This Pride season, join EFF and the Queer Arts Collective in building a creative space at the intersection of digital justice and artistic expression. \nWe’re looking for fresh, untold, historically censored takes on digital liberation. \nWhether it’s pointing the lens towards an issue you feel is und"
     },
     {
-      "title": "The Free and Open Web Is Under Attack at the IETF",
-      "url": "https://www.eff.org/deeplinks/2026/06/free-and-open-web-under-attack-ietf",
+      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
       "source": "EFF",
-      "publishedAt": "Wed, 17 Jun 2026 21:26:08 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 19:38:21 +0000",
       "category": "NEWS",
-      "summary": "The ability to access publicly available information using automated tools is a central value and benefit of a free and open internet. Automated access—often called crawling or scraping—powers important, useful tools for locating, preserving, and analyzing online information. For example, crawling a"
+      "summary": "Last week, Senators Ted Cruz and Ron Wyden introduced the Justice Against Weaponized Bureaucratic Overreach to Networked Expression, or JAWBONE Act. The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive com"
     },
     {
-      "title": "The NO FAKES Act Could Silence Satire, Commentary, And News",
-      "url": "https://www.eff.org/deeplinks/2026/06/no-fakes-act-could-silence-satire-commentary-and-news",
+      "title": "Court Records Should Be Free",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
       "source": "EFF",
-      "publishedAt": "Wed, 17 Jun 2026 20:33:28 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 19:36:10 +0000",
       "category": "NEWS",
-      "summary": "The NO FAKES Act is supposed to target harmful AI-generated impersonations. But in reality, it will make it easier to suppress commentary, satire, and other lawful speech. That's why EFF has signed a letter urging the Senate Judiciary Committee not to advance the bill in its current form.\nTake actio"
+      "summary": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a barr"
     },
     {
-      "title": "Onward, Friends",
-      "url": "https://www.eff.org/deeplinks/2026/06/farewell-now-friends",
+      "title": "Field Notes from a Year of OPSEC Training",
+      "url": "https://www.eff.org/deeplinks/2026/06/field-notes-year-opsec-training",
       "source": "EFF",
-      "publishedAt": "Tue, 16 Jun 2026 18:56:00 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 19:00:21 +0000",
       "category": "NEWS",
-      "summary": "After 26 years, today is my last day at EFF. It's been a terrific and wild ride — the organization has grown from a tiny band of fighty people trying to plant a flag for freedom and justice in the coming digital world into a large, established band of fighty people doing, well, much the same. The wo"
+      "summary": "Late last year, as part of our annual “Year in Review” series, we summarized our efforts providing digital privacy and security advice to at-risk communities. OPSEC trainings (short for operational security, a catch-all term we use to describe any kind of workshop, advising session, assessment, or p"
     },
     {
-      "title": "EFFecting Change: LGBTQ+ Solidarity Against the Tide of Surveillance",
-      "url": "https://www.eff.org/deeplinks/2026/06/effecting-change-lgbtq-solidarity-against-tide-surveillance",
+      "title": "AI Regulation Should Be Rational, Not Retaliatory",
+      "url": "https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory",
       "source": "EFF",
-      "publishedAt": "Mon, 15 Jun 2026 23:35:43 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 18:45:40 +0000",
       "category": "NEWS",
-      "summary": "LGBTQ+ communities are facing an escalating wave of censorship and targeted surveillance, but we can push back through mutual solidarity. Join us live to learn how safer virtual spaces get built, how platform policies and government pressure are reshaping the digital landscape, and what platform acc"
-    },
-    {
-      "title": "Victory! 702 has Expired!",
-      "url": "https://www.eff.org/deeplinks/2026/06/victory-702-has-expired",
-      "source": "EFF",
-      "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
-      "category": "NEWS",
-      "summary": "Section 702 of the Foreign Intelligence Surveillance Act lets US intelligence agencies collect communications from foreigners abroad without a warrant, and routinely sweeps in Americans’ emails, messages, and calls in the process.\nThe authority for this program is set to expire Friday, June 12th, 20"
+      "summary": "The Trump administration’s approach to AI safety, particularly the generative AI models that regularly grab headlines, has been haphazard at best. At worst, it’s unconstitutional. As EFF and our allies explained in an amicus brief, the Pentagon’s actions against one company, Anthropic, violate the F"
     }
   ]
 }
