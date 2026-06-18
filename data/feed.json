@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T19:59:10.860Z",
+  "last_updated": "2026-06-18T02:39:57.071Z",
   "articles": [
     {
       "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
@@ -42,6 +42,22 @@
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account"
     },
     {
+      "title": "The Free and Open Web Is Under Attack at the IETF",
+      "url": "https://www.eff.org/deeplinks/2026/06/free-and-open-web-under-attack-ietf",
+      "source": "EFF",
+      "publishedAt": "Wed, 17 Jun 2026 21:26:08 +0000",
+      "category": "NEWS",
+      "summary": "The ability to access publicly available information using automated tools is a central value and benefit of a free and open internet. Automated access—often called crawling or scraping—powers important, useful tools for locating, preserving, and analyzing online information. For example, crawling a"
+    },
+    {
+      "title": "The NO FAKES Act Could Silence Satire, Commentary, And News",
+      "url": "https://www.eff.org/deeplinks/2026/06/no-fakes-act-could-silence-satire-commentary-and-news",
+      "source": "EFF",
+      "publishedAt": "Wed, 17 Jun 2026 20:33:28 +0000",
+      "category": "NEWS",
+      "summary": "The NO FAKES Act is supposed to target harmful AI-generated impersonations. But in reality, it will make it easier to suppress commentary, satire, and other lawful speech. That's why EFF has signed a letter urging the Senate Judiciary Committee not to advance the bill in its current form.\nTake actio"
+    },
+    {
       "title": "Onward, Friends",
       "url": "https://www.eff.org/deeplinks/2026/06/farewell-now-friends",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 12 Jun 2026 23:49:27 +0000",
       "category": "NEWS",
       "summary": "Section 702 of the Foreign Intelligence Surveillance Act lets US intelligence agencies collect communications from foreigners abroad without a warrant, and routinely sweeps in Americans’ emails, messages, and calls in the process.\nThe authority for this program is set to expire Friday, June 12th, 20"
-    },
-    {
-      "title": "Yes to California's Bill to Ban Surveillance Pricing",
-      "url": "https://www.eff.org/deeplinks/2026/06/californias-bill-ban-surveillance-pricing",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 19:56:39 +0000",
-      "category": "NEWS",
-      "summary": "Corporations harvest and monetize ever-growing amounts of our personal data, such as our browsing history and physical location. One bitter fruit of this poisonous tree is known as “surveillance pricing”: corporations offer the same product to two different people at two different prices, based on s"
-    },
-    {
-      "title": "‘News’ Site Keeps Hallucinating EFF Staffers",
-      "url": "https://www.eff.org/deeplinks/2026/06/news-site-keeps-hallucinating-eff-staffers",
-      "source": "EFF",
-      "publishedAt": "Thu, 11 Jun 2026 17:20:26 +0000",
-      "category": "NEWS",
-      "summary": "What do EFF staffers Sarah Chen, Javier Morales, Caitlin Chin, Emma Rodriguez, and Mikko Kopponen have in common? \nFor one thing, they don’t exist. \nFor another, all have been quoted as EFF experts in articles published in the past two months on a site called News-USA Today, which describes itself a"
     }
   ]
 }
