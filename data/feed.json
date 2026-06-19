@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:10:34.644Z",
+  "last_updated": "2026-06-19T02:55:47.505Z",
   "articles": [
     {
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
@@ -42,6 +42,22 @@
       "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
     },
     {
+      "title": "Canada Is Forging Ahead with Its Dangerous Surveillance Bill",
+      "url": "https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill",
+      "source": "EFF",
+      "publishedAt": "Thu, 18 Jun 2026 22:34:07 +0000",
+      "category": "NEWS",
+      "summary": "With no serious debate, including on proposed amendments, Canada is blazing full speed ahead with Bill C-22, which would threaten encryption and increase surveillance. Also known as the Lawful Access Bill, Bill C-22 is currently moving forward quickly to a vote despite the many, many criticisms civi"
+    },
+    {
+      "title": "EFF Thanks SerpApi For Helping Us Protect Free Speech Online",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online",
+      "source": "EFF",
+      "publishedAt": "Thu, 18 Jun 2026 21:56:22 +0000",
+      "category": "NEWS",
+      "summary": "EFF is grateful for SerpApi’s generous support, helping us fight for your rights to speak and access information online. SerpApi has been giving to EFF every year since 2018, and alongside our 32,000 individual donors, their gift is critical to keeping up the fight.\nWhether in the courts, halls of p"
+    },
+    {
       "title": "Call for Submissions: Digital Pride",
       "url": "https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Thu, 18 Jun 2026 19:36:10 +0000",
       "category": "NEWS",
       "summary": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a barr"
-    },
-    {
-      "title": "Field Notes from a Year of OPSEC Training",
-      "url": "https://www.eff.org/deeplinks/2026/06/field-notes-year-opsec-training",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 19:00:21 +0000",
-      "category": "NEWS",
-      "summary": "Late last year, as part of our annual “Year in Review” series, we summarized our efforts providing digital privacy and security advice to at-risk communities. OPSEC trainings (short for operational security, a catch-all term we use to describe any kind of workshop, advising session, assessment, or p"
-    },
-    {
-      "title": "AI Regulation Should Be Rational, Not Retaliatory",
-      "url": "https://www.eff.org/deeplinks/2026/06/ai-regulation-should-be-rational-not-retaliatory",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 18:45:40 +0000",
-      "category": "NEWS",
-      "summary": "The Trump administration’s approach to AI safety, particularly the generative AI models that regularly grab headlines, has been haphazard at best. At worst, it’s unconstitutional. As EFF and our allies explained in an amicus brief, the Pentagon’s actions against one company, Anthropic, violate the F"
     }
   ]
 }
