@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T02:55:47.505Z",
+  "last_updated": "2026-06-19T10:11:40.495Z",
   "articles": [
     {
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
@@ -42,6 +42,22 @@
       "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
     },
     {
+      "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
+      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
+      "source": "EFF",
+      "publishedAt": "Fri, 19 Jun 2026 09:45:31 +0000",
+      "category": "NEWS",
+      "summary": "This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. \nThe UK government continues to falsely characterize this policy as a necessary response "
+    },
+    {
+      "title": "EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border",
+      "url": "https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border",
+      "source": "EFF",
+      "publishedAt": "Fri, 19 Jun 2026 09:35:31 +0000",
+      "category": "NEWS",
+      "summary": "This week, EFF joined Foxglove, Human Rights Watch, and 60 other organizations in writing to the UK’s Minister of State for Border Security and Asylum, Alex Norris, raising serious concern about the Home Office’s decision to deploy Facial Age Estimation (FAE) to assess asylum-seeking children from 2"
+    },
+    {
       "title": "Canada Is Forging Ahead with Its Dangerous Surveillance Bill",
       "url": "https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Thu, 18 Jun 2026 19:46:02 +0000",
       "category": "NEWS",
       "summary": "This Pride season, join EFF and the Queer Arts Collective in building a creative space at the intersection of digital justice and artistic expression. \nWe’re looking for fresh, untold, historically censored takes on digital liberation. \nWhether it’s pointing the lens towards an issue you feel is und"
-    },
-    {
-      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 19:38:21 +0000",
-      "category": "NEWS",
-      "summary": "Last week, Senators Ted Cruz and Ron Wyden introduced the Justice Against Weaponized Bureaucratic Overreach to Networked Expression, or JAWBONE Act. The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive com"
-    },
-    {
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 19:36:10 +0000",
-      "category": "NEWS",
-      "summary": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a barr"
     }
   ]
 }
