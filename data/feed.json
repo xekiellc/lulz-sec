@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-06-23T14:27:02.045Z",
+  "last_updated": "2026-06-23T19:49:16.473Z",
   "articles": [
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "category": "NEWS",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
+    },
     {
       "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -32,14 +40,6 @@
       "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
       "category": "NEWS",
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
-    },
-    {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 25 May 2026 13:21:49 +0000",
-      "category": "NEWS",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecu"
     },
     {
       "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
