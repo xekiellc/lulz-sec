@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:05:40.253Z",
+  "last_updated": "2026-06-24T19:25:42.940Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,14 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "🦅 Domestic Spying Takes an L | EFFector 38.12",
+      "url": "https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812",
+      "source": "EFF",
+      "publishedAt": "Wed, 24 Jun 2026 16:20:33 +0000",
+      "category": "NEWS",
+      "summary": "Sold to the public as a foreign surveillance tool, Section 702 is the law has let intelligence agencies spy on millions of Americans’ private conversations without a warrant. Despite years of revelations about this law's misuse, Congress has repeatedly reauthorized Section 702 without meaningful ref"
+    },
+    {
       "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
       "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 18 Jun 2026 21:56:22 +0000",
       "category": "NEWS",
       "summary": "EFF is grateful for SerpApi’s generous support, helping us fight for your rights to speak and access information online. SerpApi has been giving to EFF every year since 2018, and alongside our 32,000 individual donors, their gift is critical to keeping up the fight.\nWhether in the courts, halls of p"
-    },
-    {
-      "title": "Call for Submissions: Digital Pride",
-      "url": "https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 19:46:02 +0000",
-      "category": "NEWS",
-      "summary": "This Pride season, join EFF and the Queer Arts Collective in building a creative space at the intersection of digital justice and artistic expression. \nWe’re looking for fresh, untold, historically censored takes on digital liberation. \nWhether it’s pointing the lens towards an issue you feel is und"
     }
   ]
 }
