@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T02:13:51.946Z",
+  "last_updated": "2026-06-25T08:46:15.387Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,14 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "The KIDS Act Would Require Age Checks To Get Online",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 06:40:07 +0000",
+      "category": "NEWS",
+      "summary": "Within the next week, Congress is preparing to vote on the KIDS Act, a sprawling package of legislation that seeks to control Americans’ web browsing and private messaging. The package includes a revised version of the Kids Online Safety Act, or KOSA, combined with a collection of other internet bil"
+    },
+    {
       "title": "🦅 Domestic Spying Takes an L | EFFector 38.12",
       "url": "https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 18 Jun 2026 22:34:07 +0000",
       "category": "NEWS",
       "summary": "With no serious debate, including on proposed amendments, Canada is blazing full speed ahead with Bill C-22, which would threaten encryption and increase surveillance. Also known as the Lawful Access Bill, Bill C-22 is currently moving forward quickly to a vote despite the many, many criticisms civi"
-    },
-    {
-      "title": "EFF Thanks SerpApi For Helping Us Protect Free Speech Online",
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 21:56:22 +0000",
-      "category": "NEWS",
-      "summary": "EFF is grateful for SerpApi’s generous support, helping us fight for your rights to speak and access information online. SerpApi has been giving to EFF every year since 2018, and alongside our 32,000 individual donors, their gift is critical to keeping up the fight.\nWhether in the courts, halls of p"
     }
   ]
 }
