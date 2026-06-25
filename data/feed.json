@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T14:03:03.434Z",
+  "last_updated": "2026-06-25T19:45:04.540Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,22 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "The FCC’s Spam Call Proposal Is Just a Data Collection Scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 17:28:13 +0000",
+      "category": "NEWS",
+      "summary": "The Federal Communications Commission wants to require telecommunications providers to collect vast amounts of personal information from every person who wants a phone number in the name of combatting scam and spam calls. This plan will fail to combat the deluge of unwanted calls people in the Unite"
+    },
+    {
+      "title": "Are Your Local Police Using Flock Safety ALPRs to Scan for Immigrants?",
+      "url": "https://www.eff.org/deeplinks/2026/06/are-your-local-police-using-flock-safety-alprs-scan-immigrants",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 16:00:37 +0000",
+      "category": "NEWS",
+      "summary": "When a car passes an automated license plate reader (ALPR), its plate is captured and instantly compared against a list of vehicles that police are actively looking for or that police have identified for real-time surveillance. These are called “hotlists,” and EFF has learned that one used by agenci"
+    },
+    {
       "title": "The KIDS Act Would Require Age Checks To Get Online",
       "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 19 Jun 2026 09:45:31 +0000",
       "category": "NEWS",
       "summary": "This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. \nThe UK government continues to falsely characterize this policy as a necessary response "
-    },
-    {
-      "title": "EFF Joins 60+ Groups Urging the UK to Halt Face Estimation at the Border",
-      "url": "https://www.eff.org/deeplinks/2026/06/joins-60-groups-urging-uk-halt-face-estimation-border",
-      "source": "EFF",
-      "publishedAt": "Fri, 19 Jun 2026 09:35:31 +0000",
-      "category": "NEWS",
-      "summary": "This week, EFF joined Foxglove, Human Rights Watch, and 60 other organizations in writing to the UK’s Minister of State for Border Security and Asylum, Alex Norris, raising serious concern about the Home Office’s decision to deploy Facial Age Estimation (FAE) to assess asylum-seeking children from 2"
-    },
-    {
-      "title": "Canada Is Forging Ahead with Its Dangerous Surveillance Bill",
-      "url": "https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill",
-      "source": "EFF",
-      "publishedAt": "Thu, 18 Jun 2026 22:34:07 +0000",
-      "category": "NEWS",
-      "summary": "With no serious debate, including on proposed amendments, Canada is blazing full speed ahead with Bill C-22, which would threaten encryption and increase surveillance. Also known as the Lawful Access Bill, Bill C-22 is currently moving forward quickly to a vote despite the many, many criticisms civi"
     }
   ]
 }
