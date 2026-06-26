@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:45:04.540Z",
+  "last_updated": "2026-06-26T02:26:55.666Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,30 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "Primed for Malware: Stop Selling Compromised Android Devices",
+      "url": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 23:39:34 +0000",
+      "category": "NEWS",
+      "summary": "Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers"
+    },
+    {
+      "title": "EFF, TEDIC and CEJIL Challenge Secrecy in the Use of Face Recognition in Paraguay",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-tedic-and-cejil-challenge-secrecy-use-face-recognition-paraguay",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 21:15:53 +0000",
+      "category": "NEWS",
+      "summary": "Seeking transparency and accountability in Paraguay’s use of facial recognition, EFF, the Association of Technology, Education, Development, Research, Communication (TEDIC), and the Centre for Justice and International Law (CEJIL) filed a complaint  with the Inter-American Commission on Human Rights"
+    },
+    {
+      "title": "Four Years After Dobbs, Anti-Abortion Lawmakers Keep Coming for Online Speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/four-years-after-dobbs-anti-abortion-lawmakers-keep-coming-online-speech",
+      "source": "EFF",
+      "publishedAt": "Thu, 25 Jun 2026 20:49:25 +0000",
+      "category": "NEWS",
+      "summary": "This week marks four years since Dobbs v. Jackson Women’s Health Organization overturned Roe v. Wade’s constitutional protections for people seeking abortion care. Anniversaries are a moment to take stock, and over the last four years, EFF has seen firsthand how digital rights and reproductive right"
+    },
+    {
       "title": "The FCC’s Spam Call Proposal Is Just a Data Collection Scheme",
       "url": "https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Thu, 25 Jun 2026 16:00:37 +0000",
       "category": "NEWS",
       "summary": "When a car passes an automated license plate reader (ALPR), its plate is captured and instantly compared against a list of vehicles that police are actively looking for or that police have identified for real-time surveillance. These are called “hotlists,” and EFF has learned that one used by agenci"
-    },
-    {
-      "title": "The KIDS Act Would Require Age Checks To Get Online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "source": "EFF",
-      "publishedAt": "Thu, 25 Jun 2026 06:40:07 +0000",
-      "category": "NEWS",
-      "summary": "Within the next week, Congress is preparing to vote on the KIDS Act, a sprawling package of legislation that seeks to control Americans’ web browsing and private messaging. The package includes a revised version of the Kids Online Safety Act, or KOSA, combined with a collection of other internet bil"
-    },
-    {
-      "title": "🦅 Domestic Spying Takes an L | EFFector 38.12",
-      "url": "https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812",
-      "source": "EFF",
-      "publishedAt": "Wed, 24 Jun 2026 16:20:33 +0000",
-      "category": "NEWS",
-      "summary": "Sold to the public as a foreign surveillance tool, Section 702 is the law has let intelligence agencies spy on millions of Americans’ private conversations without a warrant. Despite years of revelations about this law's misuse, Congress has repeatedly reauthorized Section 702 without meaningful ref"
-    },
-    {
-      "title": "The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
-      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
-      "source": "EFF",
-      "publishedAt": "Fri, 19 Jun 2026 09:45:31 +0000",
-      "category": "NEWS",
-      "summary": "This week, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by announcing a ban on social media for users under 16 that is set to take effect in Spring 2027. \nThe UK government continues to falsely characterize this policy as a necessary response "
     }
   ]
 }
