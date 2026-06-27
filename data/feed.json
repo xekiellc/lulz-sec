@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T19:27:44.359Z",
+  "last_updated": "2026-06-27T02:10:58.333Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,14 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits",
+      "url": "https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits",
+      "source": "EFF",
+      "publishedAt": "Fri, 26 Jun 2026 16:18:00 +0000",
+      "category": "NEWS",
+      "summary": "This Pride month, we’re calling on the dating app Grindr to prioritize LGBTQ+ user safety by making privacy the default across its platform. That means no more sharing personal data with advertisers or training AI on private information without users’ opt-in consent.\nGrindr is a dating app for the L"
+    },
+    {
       "title": "Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For",
       "url": "https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 25 Jun 2026 23:39:34 +0000",
       "category": "NEWS",
       "summary": "Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers"
-    },
-    {
-      "title": "EFF, TEDIC and CEJIL Challenge Secrecy in the Use of Face Recognition in Paraguay",
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-tedic-and-cejil-challenge-secrecy-use-face-recognition-paraguay",
-      "source": "EFF",
-      "publishedAt": "Thu, 25 Jun 2026 21:15:53 +0000",
-      "category": "NEWS",
-      "summary": "Seeking transparency and accountability in Paraguay’s use of facial recognition, EFF, the Association of Technology, Education, Development, Research, Communication (TEDIC), and the Centre for Justice and International Law (CEJIL) filed a complaint with the Inter-American Commission on Human Rights "
     }
   ]
 }
