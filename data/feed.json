@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T15:30:03.854Z",
+  "last_updated": "2026-06-29T19:42:02.355Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,22 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "EFF to Gov. Pritzker: Veto Illinois’ HB 5511",
+      "url": "https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511",
+      "source": "EFF",
+      "publishedAt": "Mon, 29 Jun 2026 18:23:38 +0000",
+      "category": "NEWS",
+      "summary": "The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabled hardware, operating systems, and online services. This well-intentioned but deeply flawed piece of legislation will harm young people who rely on t"
+    },
+    {
+      "title": "Victory! Supreme Court Says Constitution Protects People’s Location Data",
+      "url": "https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data",
+      "source": "EFF",
+      "publishedAt": "Mon, 29 Jun 2026 17:25:22 +0000",
+      "category": "NEWS",
+      "summary": "You have an expectation of privacy in location data that reveals your movements in the physical world, and even short-term surveillance of these movements is a search subject to the Fourth Amendment, the U.S. Supreme Court ruled today in Chatrie v. United States.  \nThe case involved geofence warrant"
+    },
+    {
       "title": "EFF to Grindr: This Pride Month, Put Safety and Privacy Over Profits",
       "url": "https://www.eff.org/deeplinks/2026/06/grindr-put-queer-safety-and-privacy-over-profits",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 26 Jun 2026 15:22:40 +0000",
       "category": "NEWS",
       "summary": "This is not science fiction. It’s not premature. If towns, cities, states, or the federal government want to act to reign in the emergence of armed police drones and robots, we have precious little time. In the absence of substantial regulation around when and how domestic law enforcement in the Uni"
-    },
-    {
-      "title": "We Can Still Stop California’s 3D Printer Surveillance Scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "source": "EFF",
-      "publishedAt": "Fri, 26 Jun 2026 15:05:16 +0000",
-      "category": "NEWS",
-      "summary": "Ignoring EFF’s warnings about the dangers and impossibility of implementing a new mandate for 3D print surveillance software, the California State Assembly has signed off on legislation to do just that. In the process, legislators amended the bill to make it even more confusing, while failing to add"
-    },
-    {
-      "title": "Primed for Malware: Stop Selling Compromised Android Devices",
-      "url": "https://www.eff.org/deeplinks/2026/06/primed-malware-stop-selling-compromised-android-devices",
-      "source": "EFF",
-      "publishedAt": "Thu, 25 Jun 2026 23:39:34 +0000",
-      "category": "NEWS",
-      "summary": "Time and time again, researchers have found numerous compromised Android devices for sale at large online retailers like Amazon. When these devices get individually reported, we have seen some noted efforts to take them down. But this is a systemic problem and Amazon and other major online retailers"
     }
   ]
 }
