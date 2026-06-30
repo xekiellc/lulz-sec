@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:27:08.906Z",
+  "last_updated": "2026-06-30T08:55:50.098Z",
   "articles": [
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
@@ -42,6 +42,14 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
+      "title": "LGBT Q&A: What Data Are Companies in the UK Collecting When Verifying My Age?",
+      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age",
+      "source": "EFF",
+      "publishedAt": "Tue, 30 Jun 2026 08:08:47 +0000",
+      "category": "NEWS",
+      "summary": "This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: I live in the UK, and we have age verification now on a bunch of websites (including Reddit) and now on iPhones. Can you explain what sort of data companies are actually collecting wh"
+    },
+    {
       "title": "EFF to Gov. Pritzker: Veto Illinois’ HB 5511",
       "url": "https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 26 Jun 2026 16:06:49 +0000",
       "category": "NEWS",
       "summary": "Poke your head into just about any online social network—or any general conversations about internet culture—and you’ll likely find a boogieman: the algorithm. Since at least the moment Facebook introduced (and apologized for) its News Feed, “the algorithm” has been shorthand for the ways the tech g"
-    },
-    {
-      "title": "Lawmakers Must Act Now to Prevent Armed Police Drones",
-      "url": "https://www.eff.org/deeplinks/2026/06/lawmakers-must-act-now-prevent-armed-police-drones",
-      "source": "EFF",
-      "publishedAt": "Fri, 26 Jun 2026 15:22:40 +0000",
-      "category": "NEWS",
-      "summary": "This is not science fiction. It’s not premature. If towns, cities, states, or the federal government want to act to reign in the emergence of armed police drones and robots, we have precious little time. In the absence of substantial regulation around when and how domestic law enforcement in the Uni"
     }
   ]
 }
