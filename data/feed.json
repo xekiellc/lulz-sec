@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-02T19:08:37.568Z",
+  "last_updated": "2026-07-03T01:56:46.756Z",
   "articles": [
+    {
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "category": "NEWS",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
+    },
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -32,14 +40,6 @@
       "publishedAt": "Tue, 09 Jun 2026 22:07:28 +0000",
       "category": "NEWS",
       "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploi"
-    },
-    {
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "category": "NEWS",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting ac"
     },
     {
       "title": "LGBT Q&A: How Can I Wipe Online Data That Points To My Queer Identity?",
