@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T14:06:22.335Z",
+  "last_updated": "2026-07-07T19:40:33.438Z",
   "articles": [
     {
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
@@ -42,6 +42,22 @@
       "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploi"
     },
     {
+      "title": "Automated Moderation Is Here to Stay",
+      "url": "https://www.eff.org/deeplinks/2026/07/part-1-automated-moderation-here-stay",
+      "source": "EFF",
+      "publishedAt": "Tue, 07 Jul 2026 16:21:36 +0000",
+      "category": "NEWS",
+      "summary": "This blog post is part 1 of a 2-part series. The second part will set out recommendations for companies and policymakers.\nSix years ago—one month into a global pandemic—we argued that the automated moderation processes many platforms were rapidly adopting should be highly transparent, easily appeala"
+    },
+    {
+      "title": "Help EFF Cut the AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/07/help-eff-cut-ai-hype",
+      "source": "EFF",
+      "publishedAt": "Tue, 07 Jul 2026 16:17:38 +0000",
+      "category": "NEWS",
+      "summary": "In the global race to build and dominate the AI industry, it can sure seem like the interests of ordinary people sit last on the agenda. It's just the opposite for EFF. While companies furiously jam AI tools into their veins and your eyeballs, EFF’s technologists, activists, and attorneys have been "
+    },
+    {
       "title": "LGBT Q&A: How Can I Wipe Online Data That Points To My Queer Identity?",
       "url": "https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Tue, 30 Jun 2026 08:08:47 +0000",
       "category": "NEWS",
       "summary": "This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: I live in the UK, and we have age verification now on a bunch of websites (including Reddit) and now on iPhones. Can you explain what sort of data companies are actually collecting wh"
-    },
-    {
-      "title": "EFF to Gov. Pritzker: Veto Illinois’ HB 5511",
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511",
-      "source": "EFF",
-      "publishedAt": "Mon, 29 Jun 2026 18:23:38 +0000",
-      "category": "NEWS",
-      "summary": "The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabled hardware, operating systems, and online services. This well-intentioned but deeply flawed piece of legislation will harm young people who rely on t"
-    },
-    {
-      "title": "Victory! Supreme Court Says Constitution Protects People’s Location Data",
-      "url": "https://www.eff.org/deeplinks/2026/06/victory-supreme-court-says-constitution-protects-peoples-location-data",
-      "source": "EFF",
-      "publishedAt": "Mon, 29 Jun 2026 17:25:22 +0000",
-      "category": "NEWS",
-      "summary": "You have an expectation of privacy in location data that reveals your movements in the physical world, and even short-term surveillance of these movements is a search subject to the Fourth Amendment, the U.S. Supreme Court ruled today in Chatrie v. United States.  \nThe case involved geofence warrant"
     }
   ]
 }
