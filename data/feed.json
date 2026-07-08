@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-08T08:07:26.850Z",
+  "last_updated": "2026-07-08T13:29:49.686Z",
   "articles": [
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "source": "Krebs on Security",
+      "publishedAt": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "category": "NEWS",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
+    },
     {
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -32,14 +40,6 @@
       "publishedAt": "Wed, 10 Jun 2026 14:03:44 +0000",
       "category": "NEWS",
       "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi"
-    },
-    {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "category": "NEWS",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploi"
     },
     {
       "title": "Automated Moderation Is Here to Stay",
