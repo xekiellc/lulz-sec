@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T01:56:47.218Z",
+  "last_updated": "2026-07-09T09:20:44.506Z",
   "articles": [
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
@@ -42,6 +42,14 @@
       "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi"
     },
     {
+      "title": "Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme",
+      "url": "https://www.eff.org/deeplinks/2026/07/googles-new-remote-attestation-scheme-every-bit-terrible-its-old-remote",
+      "source": "EFF",
+      "publishedAt": "Thu, 09 Jul 2026 09:15:49 +0000",
+      "category": "NEWS",
+      "summary": "Google owes its existence to the open web, but today, its technological “innovations” have much to do with locking users into a “walled garden.” The latest of these is “reCAPTCHA Mobile Verification,” an experimental initiative that will let companies block users if they are running independent, \"de"
+    },
+    {
       "title": "Automated Moderation Is Here to Stay",
       "url": "https://www.eff.org/deeplinks/2026/07/part-1-automated-moderation-here-stay",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 02 Jul 2026 15:04:54 +0000",
       "category": "NEWS",
       "summary": "X Corp. should not be able to escape privacy compliance because it changed its name. \nOn May 15, X Corp. filed a petition before the Federal Trade Commission (FTC) to set aside or modify an order issued in 2022 requiring the company to report regularly to the FTC for its violations of user data. The"
-    },
-    {
-      "title": "LGBT Q&A: What Data Are Companies in the UK Collecting When Verifying My Age?",
-      "url": "https://www.eff.org/deeplinks/2026/06/lgbt-qa-what-data-are-companies-uk-collecting-when-verifying-my-age",
-      "source": "EFF",
-      "publishedAt": "Tue, 30 Jun 2026 08:08:47 +0000",
-      "category": "NEWS",
-      "summary": "This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: I live in the UK, and we have age verification now on a bunch of websites (including Reddit) and now on iPhones. Can you explain what sort of data companies are actually collecting wh"
     }
   ]
 }
