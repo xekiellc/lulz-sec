@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:21:52.315Z",
+  "last_updated": "2026-07-10T01:55:36.328Z",
   "articles": [
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
@@ -42,6 +42,22 @@
       "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi"
     },
     {
+      "title": "\"We Want Texans to Know Their Rights\": Q&A with Mayday Health on the Impact of Surveillance on Abortion Care",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "source": "EFF",
+      "publishedAt": "Thu, 09 Jul 2026 21:12:57 +0000",
+      "category": "NEWS",
+      "summary": "Last May, EFF reported that a sheriff’s office in Texas searched data from more than 83,000 automated license plate reader (ALPR) cameras to track down a woman suspected of self-managing an abortion. ALPRs are promoted as tools for keeping communities safe by finding missing persons and locating sto"
+    },
+    {
+      "title": "The House Passed The KIDS Act—The Senate Should Reject It",
+      "url": "https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it",
+      "source": "EFF",
+      "publishedAt": "Thu, 09 Jul 2026 20:58:33 +0000",
+      "category": "NEWS",
+      "summary": "Last week, the House voted on the KIDS Act, a disjointed package of legislation that seeks to control Americans’ web browsing and private messaging. The package combines a revised version of the Kids Online Safety Act (KOSA), with several other internet bills, study bills, reporting requirements, an"
+    },
+    {
       "title": "European Commission Chooses to Keep EU Users Locked Up Behind Big Tech’s Gates",
       "url": "https://www.eff.org/deeplinks/2026/07/european-commission-chooses-keep-eu-users-locked-behind-big-techs-gates",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Tue, 07 Jul 2026 16:21:36 +0000",
       "category": "NEWS",
       "summary": "This blog post is part 1 of a 2-part series. The second part will set out recommendations for companies and policymakers.\nSix years ago—one month into a global pandemic—we argued that the automated moderation processes many platforms were rapidly adopting should be highly transparent, easily appeala"
-    },
-    {
-      "title": "Help EFF Cut the AI Hype",
-      "url": "https://www.eff.org/deeplinks/2026/07/help-eff-cut-ai-hype",
-      "source": "EFF",
-      "publishedAt": "Tue, 07 Jul 2026 16:17:38 +0000",
-      "category": "NEWS",
-      "summary": "In the global race to build and dominate the AI industry, it can sure seem like the interests of ordinary people sit last on the agenda. It's just the opposite for EFF. While companies furiously jam AI tools into their veins and your eyeballs, EFF’s technologists, activists, and attorneys have been "
-    },
-    {
-      "title": "LGBT Q&A: How Can I Wipe Online Data That Points To My Queer Identity?",
-      "url": "https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity",
-      "source": "EFF",
-      "publishedAt": "Thu, 02 Jul 2026 15:52:20 +0000",
-      "category": "NEWS",
-      "summary": "This Pride, we’re answering all your digital rights questions in season two of our initiative, LGBT Q&A. \nYou Asked: Is there a way for me to wipe data about me online that could point to my queer identity?\nEFF’s Answer: You cannot protect everything all the time, but there are ways to wipe informat"
     }
   ]
 }
