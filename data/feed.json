@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:18:09.198Z",
+  "last_updated": "2026-07-10T13:58:09.889Z",
   "articles": [
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
@@ -42,6 +42,14 @@
       "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi"
     },
     {
+      "title": "Automated Moderation Is Here to Stay—Accountability Must Keep Pace",
+      "url": "https://www.eff.org/deeplinks/2026/07/part-2-automated-moderation-here-stay-accountability-must-keep-pace",
+      "source": "EFF",
+      "publishedAt": "Fri, 10 Jul 2026 13:19:46 +0000",
+      "category": "NEWS",
+      "summary": "This post is part 2 in a series about automated content moderation. Read the first post here.\nWhen whistleblower Frances Haugen leaked a set of documents from Meta in 2020, among the revelations was a jarring statistic: The company’s algorithms designed to detect terrorist content incorrectly delete"
+    },
+    {
       "title": "\"We Want Texans to Know Their Rights\": Q&A with Mayday Health on the Impact of Surveillance on Abortion Care",
       "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 09 Jul 2026 09:15:49 +0000",
       "category": "NEWS",
       "summary": "Google owes its existence to the open web, but today, its technological “innovations” have much to do with locking users into a “walled garden.” The latest of these is “reCAPTCHA Mobile Verification,” an experimental initiative that will let companies block users if they are running independent, \"de"
-    },
-    {
-      "title": "Automated Moderation Is Here to Stay",
-      "url": "https://www.eff.org/deeplinks/2026/07/part-1-automated-moderation-here-stay",
-      "source": "EFF",
-      "publishedAt": "Tue, 07 Jul 2026 16:21:36 +0000",
-      "category": "NEWS",
-      "summary": "This blog post is part 1 of a 2-part series. The second part will set out recommendations for companies and policymakers.\nSix years ago—one month into a global pandemic—we argued that the automated moderation processes many platforms were rapidly adopting should be highly transparent, easily appeala"
     }
   ]
 }
