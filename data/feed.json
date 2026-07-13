@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-13T14:04:28.505Z",
+  "last_updated": "2026-07-13T19:11:22.972Z",
   "articles": [
+    {
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "category": "NEWS",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper"
+    },
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -34,12 +42,12 @@
       "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet "
     },
     {
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "source": "Krebs on Security",
-      "publishedAt": "Wed, 10 Jun 2026 14:03:44 +0000",
+      "title": "Sony Nerfs Videogame Ownership",
+      "url": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
+      "source": "EFF",
+      "publishedAt": "Mon, 13 Jul 2026 17:30:45 +0000",
       "category": "NEWS",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointi"
+      "summary": "Legal intern Suzanne Castillo co-authored this post.\nPlaystation’s decision to kill physical game discs is the latest attack on our diminishing rights to access and engage with culture digitally. Rent-seeking corporations and negligent lawmakers share the blame–and they can do better. \nWe’ve seen th"
     },
     {
       "title": "Building Our Future Together",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 09 Jul 2026 20:58:33 +0000",
       "category": "NEWS",
       "summary": "Last week, the House voted on the KIDS Act, a disjointed package of legislation that seeks to control Americans’ web browsing and private messaging. The package combines a revised version of the Kids Online Safety Act (KOSA), with several other internet bills, study bills, reporting requirements, an"
-    },
-    {
-      "title": "European Commission Chooses to Keep EU Users Locked Up Behind Big Tech’s Gates",
-      "url": "https://www.eff.org/deeplinks/2026/07/european-commission-chooses-keep-eu-users-locked-behind-big-techs-gates",
-      "source": "EFF",
-      "publishedAt": "Thu, 09 Jul 2026 18:30:12 +0000",
-      "category": "NEWS",
-      "summary": "Users are always seeking more control over their social networking experience to make it better, whether to improve privacy or enhance flexibility. Interoperability between social networking platforms like Facebook and TikTok has so many benefits that solve those issues.  \nSay you’re on multiple pla"
     }
   ]
 }
