@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T13:11:22.672Z",
+  "last_updated": "2026-07-15T18:54:39.003Z",
   "articles": [
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -42,6 +42,14 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
+      "title": "🚫 Don't Let Congress Age-Gate the Internet | EFFector 38.13",
+      "url": "https://www.eff.org/deeplinks/2026/07/dont-let-congress-age-gate-internet-effector-3813",
+      "source": "EFF",
+      "publishedAt": "Wed, 15 Jul 2026 17:02:02 +0000",
+      "category": "NEWS",
+      "summary": "The effort to age gate the internet is back in Washington—and now it has a new name. Recently passed by the House of Representatives, the KIDS Act is a sprawling package of proposals to control what we can see and say online. Supporters claim the KIDS Act is needed to protect minors online. But if l"
+    },
+    {
       "title": "European Court: Apple Can Not Shirk Off its Interoperability Requirements",
       "url": "https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 10 Jul 2026 15:00:03 +0000",
       "category": "NEWS",
       "summary": "In my first weeks as Executive Director of EFF, I’ve been reminded every day how consequential this moment is in determining what kind of future we will have. \nWe are on the edge. What each one of us steps up to do – with our expertise, energy, and resources – will determine whether our future is on"
-    },
-    {
-      "title": "Automated Moderation Is Here to Stay—Accountability Must Keep Pace",
-      "url": "https://www.eff.org/deeplinks/2026/07/part-2-automated-moderation-here-stay-accountability-must-keep-pace",
-      "source": "EFF",
-      "publishedAt": "Fri, 10 Jul 2026 13:19:46 +0000",
-      "category": "NEWS",
-      "summary": "This post is part 2 in a series about automated content moderation. Read the first post here.\nWhen whistleblower Frances Haugen leaked a set of documents from Meta in 2020, among the revelations was a jarring statistic: The company’s algorithms designed to detect terrorist content incorrectly delete"
     }
   ]
 }
