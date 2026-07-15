@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-14T19:01:34.042Z",
+  "last_updated": "2026-07-15T01:22:44.886Z",
   "articles": [
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 14 Jul 2026 19:22:42 +0000",
+      "category": "NEWS",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p"
+    },
     {
       "title": "Lessons Learned from CISA’s Recent GitHub Leak",
       "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
@@ -34,12 +42,20 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "title": "European Court: Apple Can Not Shirk Off its Interoperability Requirements",
+      "url": "https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements",
+      "source": "EFF",
+      "publishedAt": "Tue, 14 Jul 2026 21:14:31 +0000",
       "category": "NEWS",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet "
+      "summary": "One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them. Unsurp"
+    },
+    {
+      "title": "Don’t Repeat NY’s 3D Printing Blunder",
+      "url": "https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder",
+      "source": "EFF",
+      "publishedAt": "Tue, 14 Jul 2026 19:52:39 +0000",
+      "category": "NEWS",
+      "summary": "This year the state of New York had the dubious honor of being the first to pass a controversial provision to mandate all 3D printers come with surveillance and censorship. That means not only is there a ticking clock to protect every artist, researcher, engineer, and hobbyist in the state, but ther"
     },
     {
       "title": "Sony Nerfs Videogame Ownership",
@@ -47,7 +63,7 @@
       "source": "EFF",
       "publishedAt": "Mon, 13 Jul 2026 17:30:45 +0000",
       "category": "NEWS",
-      "summary": "Legal intern Suzanne Castillo co-authored this post.\nPlaystation’s decision to kill physical game discs is the latest attack on our diminishing rights to access and engage with culture digitally. Rent-seeking corporations and negligent lawmakers share the blame–and they can do better. \nWe’ve seen th"
+      "summary": "Legal intern Suzanne Castillo co-authored of this post.\nPlaystation’s decision to kill physical game discs is the latest attack on our diminishing rights to access and engage with culture digitally. Rent-seeking corporations and negligent lawmakers share the blame — and they can do better. \nWe’ve se"
     },
     {
       "title": "Building Our Future Together",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 10 Jul 2026 13:19:46 +0000",
       "category": "NEWS",
       "summary": "This post is part 2 in a series about automated content moderation. Read the first post here.\nWhen whistleblower Frances Haugen leaked a set of documents from Meta in 2020, among the revelations was a jarring statistic: The company’s algorithms designed to detect terrorist content incorrectly delete"
-    },
-    {
-      "title": "\"We Want Texans to Know Their Rights\": Q&A with Mayday Health on the Impact of Surveillance on Abortion Care",
-      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-      "source": "EFF",
-      "publishedAt": "Thu, 09 Jul 2026 21:12:57 +0000",
-      "category": "NEWS",
-      "summary": "Last May, EFF reported that a sheriff’s office in Texas searched data from more than 83,000 automated license plate reader (ALPR) cameras to track down a woman suspected of self-managing an abortion. ALPRs are promoted as tools for keeping communities safe by finding missing persons and locating sto"
-    },
-    {
-      "title": "The House Passed The KIDS Act—The Senate Should Reject It",
-      "url": "https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it",
-      "source": "EFF",
-      "publishedAt": "Thu, 09 Jul 2026 20:58:33 +0000",
-      "category": "NEWS",
-      "summary": "Last week, the House voted on the KIDS Act, a disjointed package of legislation that seeks to control Americans’ web browsing and private messaging. The package combines a revised version of the Kids Online Safety Act (KOSA), with several other internet bills, study bills, reporting requirements, an"
     }
   ]
 }
