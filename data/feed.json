@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T07:55:00.034Z",
+  "last_updated": "2026-07-16T13:19:12.934Z",
   "articles": [
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -42,6 +42,14 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
+      "title": "EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines",
+      "url": "https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines",
+      "source": "EFF",
+      "publishedAt": "Thu, 16 Jul 2026 09:22:17 +0000",
+      "category": "NEWS",
+      "summary": "EFF and ARTICLE 19 have submitted joint comments to the European Commission on draft guidelines for the Digital Services Act’s trusted flagger mechanism. Having long advocated for a DSA that protects freedom of expression while preserving intermediary liability protections and the prohibition on gen"
+    },
+    {
       "title": "California Steps Back From Dangerous Expansion of its Age-Gating Law",
       "url": "https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 14 Jul 2026 21:14:31 +0000",
       "category": "NEWS",
       "summary": "One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them. Unsurp"
-    },
-    {
-      "title": "Don’t Repeat NY’s 3D Printing Blunder",
-      "url": "https://www.eff.org/deeplinks/2026/07/dont-repeat-nys-3d-printing-blunder",
-      "source": "EFF",
-      "publishedAt": "Tue, 14 Jul 2026 19:52:39 +0000",
-      "category": "NEWS",
-      "summary": "This year the state of New York had the dubious honor of being the first to pass a controversial provision to mandate all 3D printers come with surveillance and censorship. That means not only is there a ticking clock to protect every artist, researcher, engineer, and hobbyist in the state, but ther"
     }
   ]
 }
