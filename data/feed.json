@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:54:39.003Z",
+  "last_updated": "2026-07-16T01:43:48.204Z",
   "articles": [
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -42,6 +42,22 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
+      "title": "California Steps Back From Dangerous Expansion of its Age-Gating Law",
+      "url": "https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law",
+      "source": "EFF",
+      "publishedAt": "Wed, 15 Jul 2026 20:50:48 +0000",
+      "category": "NEWS",
+      "summary": "The California legislature has stepped back from a plan that would have expanded its age-gating law, removing language that could have compounded serious threats to users’ speech, privacy and security just to browse the internet. A.B. 1856, authored by Assemblymember Buffy Wicks, will now move forwa"
+    },
+    {
+      "title": "Most Smart Watches, Rings, and Bands Lack Basic Transparency Reports and Key Privacy Features",
+      "url": "https://www.eff.org/deeplinks/2026/07/most-smart-watches-rings-and-bands-lack-basic-transparency-reports-and-key-privacy",
+      "source": "EFF",
+      "publishedAt": "Wed, 15 Jul 2026 19:56:18 +0000",
+      "category": "NEWS",
+      "summary": "Oura Rings, Garmin GPS fitness watches, Apple Watches, Whoop bands—every year, more and more tech devices are promising to monitor our health and fitness, guide us toward healthier living, and provide useful health metrics to take to our doctors. But few of these tools provide the sorts of privacy a"
+    },
+    {
       "title": "🚫 Don't Let Congress Age-Gate the Internet | EFFector 38.13",
       "url": "https://www.eff.org/deeplinks/2026/07/dont-let-congress-age-gate-internet-effector-3813",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Tue, 14 Jul 2026 19:52:39 +0000",
       "category": "NEWS",
       "summary": "This year the state of New York had the dubious honor of being the first to pass a controversial provision to mandate all 3D printers come with surveillance and censorship. That means not only is there a ticking clock to protect every artist, researcher, engineer, and hobbyist in the state, but ther"
-    },
-    {
-      "title": "Sony Nerfs Videogame Ownership",
-      "url": "https://www.eff.org/deeplinks/2026/07/sony-nerfs-videogame-ownership",
-      "source": "EFF",
-      "publishedAt": "Mon, 13 Jul 2026 17:30:45 +0000",
-      "category": "NEWS",
-      "summary": "Legal intern Suzanne Castillo co-authored of this post.\nPlaystation’s decision to kill physical game discs is the latest attack on our diminishing rights to access and engage with culture digitally. Rent-seeking corporations and negligent lawmakers share the blame — and they can do better. \nWe’ve se"
-    },
-    {
-      "title": "Building Our Future Together",
-      "url": "https://www.eff.org/deeplinks/2026/07/building-our-future-together",
-      "source": "EFF",
-      "publishedAt": "Fri, 10 Jul 2026 15:00:03 +0000",
-      "category": "NEWS",
-      "summary": "In my first weeks as Executive Director of EFF, I’ve been reminded every day how consequential this moment is in determining what kind of future we will have. \nWe are on the edge. What each one of us steps up to do – with our expertise, energy, and resources – will determine whether our future is on"
     }
   ]
 }
