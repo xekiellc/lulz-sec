@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T13:03:28.295Z",
+  "last_updated": "2026-07-17T18:52:28.452Z",
   "articles": [
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -42,6 +42,30 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
+      "title": "Victory! Flock Ends Rollout of Audio “Distress Detection” of Human Voices",
+      "url": "https://www.eff.org/deeplinks/2026/07/victory-flock-ends-rollout-audio-distress-detection-human-voices",
+      "source": "EFF",
+      "publishedAt": "Fri, 17 Jul 2026 17:05:57 +0000",
+      "category": "NEWS",
+      "summary": "Reversing course, Flock Safety—the surveillance technology vendor most known for its extensive network of automated license plate readers—has announced that it will end a pilot for its acoustic gunshot detection devices to identify signs of “human distress.”\nIn October 2025, EFF warned the public th"
+    },
+    {
+      "title": "Your Vision. Your Legacy. Your Future.",
+      "url": "https://www.eff.org/deeplinks/2026/07/your-vision-your-legacy-your-future",
+      "source": "EFF",
+      "publishedAt": "Fri, 17 Jul 2026 16:44:40 +0000",
+      "category": "NEWS",
+      "summary": "This month, we celebrate 36 years of EFF and a mission that is bigger than any one of us. Thanks to EFF, communities around the world are demanding that technology protects their freedom, advances justice, and opens doors to opportunity. That's not a small thing—it's a life's work worth continuing.\n"
+    },
+    {
+      "title": "How the Watch Dogs Video Game Series Mirrored and Predicted Real-World Digital Rights Issues",
+      "url": "https://www.eff.org/deeplinks/2026/07/how-watch-dogs-video-game-series-mirrored-and-predicted-real-world-digital-rights",
+      "source": "EFF",
+      "publishedAt": "Fri, 17 Jul 2026 15:01:22 +0000",
+      "category": "NEWS",
+      "summary": "When Ubisoft's Watch Dogs 2 was released in 2016, it was a headtrip for those of us working on digital-rights issues in the Bay Area. During the day, I'd fight tech-authoritarianism from EFF's San Francisco offices and then, at night, I'd fight tech-authoritarianism in an uncanny simulation of San F"
+    },
+    {
       "title": "EFF and ARTICLE 19 Submission to the European Commission on the DSA Trusted Flagger Guidelines",
       "url": "https://www.eff.org/deeplinks/2026/07/eff-and-article-19-submission-european-commission-dsa-trusted-flagger-guidelines",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Wed, 15 Jul 2026 20:50:48 +0000",
       "category": "NEWS",
       "summary": "The California legislature has stepped back from a plan that would have expanded its age-gating law, removing language that could have compounded serious threats to users’ speech, privacy and security just to browse the internet. A.B. 1856, authored by Assemblymember Buffy Wicks, will now move forwa"
-    },
-    {
-      "title": "Most Smart Watches, Rings, and Bands Lack Basic Transparency Reports and Key Privacy Features",
-      "url": "https://www.eff.org/deeplinks/2026/07/most-smart-watches-rings-and-bands-lack-basic-transparency-reports-and-key-privacy",
-      "source": "EFF",
-      "publishedAt": "Wed, 15 Jul 2026 19:56:18 +0000",
-      "category": "NEWS",
-      "summary": "Oura Rings, Garmin GPS fitness watches, Apple Watches, Whoop bands—every year, more and more tech devices are promising to monitor our health and fitness, guide us toward healthier living, and provide useful health metrics to take to our doctors. But few of these tools provide the sorts of privacy a"
-    },
-    {
-      "title": "🚫 Don't Let Congress Age-Gate the Internet | EFFector 38.13",
-      "url": "https://www.eff.org/deeplinks/2026/07/dont-let-congress-age-gate-internet-effector-3813",
-      "source": "EFF",
-      "publishedAt": "Wed, 15 Jul 2026 17:02:02 +0000",
-      "category": "NEWS",
-      "summary": "The effort to age gate the internet is back in Washington—and now it has a new name. Recently passed by the House of Representatives, the KIDS Act is a sprawling package of proposals to control what we can see and say online. Supporters claim the KIDS Act is needed to protect minors online. But if l"
-    },
-    {
-      "title": "European Court: Apple Can Not Shirk Off its Interoperability Requirements",
-      "url": "https://www.eff.org/deeplinks/2026/07/european-court-apple-can-not-shirk-its-interoperability-requirements",
-      "source": "EFF",
-      "publishedAt": "Tue, 14 Jul 2026 21:14:31 +0000",
-      "category": "NEWS",
-      "summary": "One of the best bulwarks against monopoly is interoperability—that is making a new product or service work with an existing product or service. Interoperability allows users, and not the manufacturers of their devices or largest player in a market, to decide what application best serves them. Unsurp"
     }
   ]
 }
