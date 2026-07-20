@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T13:47:38.443Z",
+  "last_updated": "2026-07-20T19:25:03.987Z",
   "articles": [
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
@@ -42,6 +42,14 @@
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
+      "title": "“Stealth Crawlers” Are Not a Threat to the Open Web. Bills Targeting Them Would Be.",
+      "url": "https://www.eff.org/deeplinks/2026/07/stealth-crawlers-are-not-threat-open-web-bills-targeting-them-would-be",
+      "source": "EFF",
+      "publishedAt": "Mon, 20 Jul 2026 18:46:50 +0000",
+      "category": "NEWS",
+      "summary": "There’s a new boogeyman in the battles over AI: so-called “stealth crawlers.” We’ll admit it—the term “stealth crawlers” sounds quite nefarious. In reality, they’re anything but.\n“Stealth crawlers” are simply automated tools to access and collect public web data—without disclosing the user’s identit"
+    },
+    {
       "title": "Victory! Flock Ends Rollout of Audio “Distress Detection” of Human Voices",
       "url": "https://www.eff.org/deeplinks/2026/07/victory-flock-ends-rollout-audio-distress-detection-human-voices",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 16 Jul 2026 09:22:17 +0000",
       "category": "NEWS",
       "summary": "EFF and ARTICLE 19 have submitted joint comments to the European Commission on draft guidelines for the Digital Services Act’s trusted flagger mechanism. Having long advocated for a DSA that protects freedom of expression while preserving intermediary liability protections and the prohibition on gen"
-    },
-    {
-      "title": "California Steps Back From Dangerous Expansion of its Age-Gating Law",
-      "url": "https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law",
-      "source": "EFF",
-      "publishedAt": "Wed, 15 Jul 2026 20:50:48 +0000",
-      "category": "NEWS",
-      "summary": "The California legislature has stepped back from a plan that would have expanded its age-gating law, removing language that could have compounded serious threats to users’ speech, privacy and security just to browse the internet. A.B. 1856, authored by Assemblymember Buffy Wicks, will now move forwa"
     }
   ]
 }
