@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-21T19:02:41.872Z",
+  "last_updated": "2026-07-22T01:43:12.470Z",
   "articles": [
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "publishedAt": "Wed, 22 Jul 2026 01:10:38 +0000",
+      "category": "NEWS",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
+    },
     {
       "title": "Microsoft Patches a Record 570 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -32,14 +40,6 @@
       "publishedAt": "Thu, 02 Jul 2026 19:27:33 +0000",
       "category": "NEWS",
       "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
-    },
-    {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "category": "NEWS",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as"
     },
     {
       "title": "Protect Your Privacy with California's DROP Tool",
