@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T18:56:52.215Z",
+  "last_updated": "2026-07-23T01:50:34.859Z",
   "articles": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -42,6 +42,14 @@
       "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
     },
     {
+      "title": "The Fourth Circuit Says Border Agents Can Search Your Phone By Hand, No Suspicion Required",
+      "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required",
+      "source": "EFF",
+      "publishedAt": "Wed, 22 Jul 2026 22:30:31 +0000",
+      "category": "NEWS",
+      "summary": "Legal intern Suzanne Castillo was the principal author of this post.\nThe Fourth Circuit issued a disappointing opinion in U.S. v. Belmonte Cardozo, a case in which EFF filed an amicus brief, alongside the national ACLU, its Maryland, North Carolina, South Carolina, and Virginia affiliates, and the N"
+    },
+    {
       "title": "New EU Court of Justice Ruling on Platform Liability Could Cause Collateral Damage to Freedom of Expression",
       "url": "https://www.eff.org/deeplinks/2026/07/new-eu-court-justice-ruling-platform-liability-could-cause-collateral-damage",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 20 Jul 2026 18:46:50 +0000",
       "category": "NEWS",
       "summary": "There’s a new boogeyman in the battles over AI: so-called “stealth crawlers.” We’ll admit it—the term “stealth crawlers” sounds quite nefarious. In reality, they’re anything but.\n“Stealth crawlers” are simply automated tools to access and collect public web data—without disclosing the user’s identit"
-    },
-    {
-      "title": "Victory! Flock Ends Rollout of Audio “Distress Detection” of Human Voices",
-      "url": "https://www.eff.org/deeplinks/2026/07/victory-flock-ends-rollout-audio-distress-detection-human-voices",
-      "source": "EFF",
-      "publishedAt": "Fri, 17 Jul 2026 17:05:57 +0000",
-      "category": "NEWS",
-      "summary": "Reversing course, Flock Safety—the surveillance technology vendor most known for its extensive network of automated license plate readers—has announced that it will end a pilot for its acoustic gunshot detection devices to identify signs of “human distress.”\n...public pressure can sometimes work to "
     }
   ]
 }
