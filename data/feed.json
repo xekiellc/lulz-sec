@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T13:29:19.469Z",
+  "last_updated": "2026-07-28T19:06:32.640Z",
   "articles": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -42,12 +42,28 @@
       "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
     },
     {
+      "title": "Why Are Gay Bars Building Databases of Their Patrons?",
+      "url": "https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons",
+      "source": "EFF",
+      "publishedAt": "Tue, 28 Jul 2026 16:19:13 +0000",
+      "category": "NEWS",
+      "summary": "Recent reports have raised alarm about the use of PatronScan, an ID-checking and face-scanning system, at multiple LGBTQ+ bars in San Francisco’s Castro neighborhood. Much of the attention has focused on reports that the system photographs patrons as they enter venues and questions about whether tho"
+    },
+    {
       "title": "Missed EFF's Livestream with Adam Savage and iFixit? Listen Here!",
       "url": "https://www.eff.org/deeplinks/2026/07/miss-last-weeks-livestream-adam-savage-and-ifixit-listen-here",
       "source": "EFF",
       "publishedAt": "Mon, 27 Jul 2026 19:25:18 +0000",
       "category": "NEWS",
       "summary": "EFF’s first EFFecting Change livestream was all the way back in July of 2024. Maybe you've caught each stream, or maybe you’ve only caught a few. Or maybe you’re like me and prefer to listen to conversations like these on your daily commute! Either way, if you want to stay on top of these monthly co"
+    },
+    {
+      "title": "Farmers Are Getting Control Of Their Equipment Back",
+      "url": "https://www.eff.org/deeplinks/2026/07/farmers-are-getting-control-their-equipment-back",
+      "source": "EFF",
+      "publishedAt": "Fri, 24 Jul 2026 18:18:28 +0000",
+      "category": "NEWS",
+      "summary": "For years, John Deere had actively made repairing their tractors near-impossible for anyone but itself and the few \"authorized\" repair shops—regardless of the ability of its customers to actually visit such shops. Now, in a major win for farmers and right to repair advocates, John Deere must soon pr"
     },
     {
       "title": "Hundreds of Drone-as-First-Responder Programs Could Soon Be Launched Across the Country",
@@ -64,22 +80,6 @@
       "publishedAt": "Wed, 22 Jul 2026 22:30:31 +0000",
       "category": "NEWS",
       "summary": "Legal intern Suzanne Castillo was the principal author of this post.\nThe Fourth Circuit issued a disappointing opinion in U.S. v. Belmonte Cardozo, a case in which EFF filed an amicus brief, alongside the national ACLU, its Maryland, North Carolina, South Carolina, and Virginia affiliates, and the N"
-    },
-    {
-      "title": "New EU Court of Justice Ruling on Platform Liability Could Cause Collateral Damage to Freedom of Expression",
-      "url": "https://www.eff.org/deeplinks/2026/07/new-eu-court-justice-ruling-platform-liability-could-cause-collateral-damage",
-      "source": "EFF",
-      "publishedAt": "Wed, 22 Jul 2026 08:34:12 +0000",
-      "category": "NEWS",
-      "summary": "Intermediary liability laws around the world recognize that social media platforms, search engines, and other online service providers have become an integral part of our lives: they shape how we access information, communicate with others and participate in public debate, and foster innovation onli"
-    },
-    {
-      "title": "Protect Your Privacy with California's DROP Tool",
-      "url": "https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool",
-      "source": "EFF",
-      "publishedAt": "Mon, 20 Jul 2026 21:55:28 +0000",
-      "category": "NEWS",
-      "summary": "Are you a California resident? Then we've got exciting news for you: there's a tool just for you that lets you take a single, relatively easy step to protect your privacy. \nIt's called a DROP request. (That's Delete Request and Opt-out Platform, if you're fancy). This one bit of paperwork lets you t"
     }
   ]
 }
