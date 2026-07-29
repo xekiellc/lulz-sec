@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T13:44:35.629Z",
+  "last_updated": "2026-07-29T18:56:31.180Z",
   "articles": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -42,6 +42,14 @@
       "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
     },
     {
+      "title": "🏃 Fitness Tracker Privacy Fails | EFFector 38.14",
+      "url": "https://www.eff.org/deeplinks/2026/07/fitness-tracker-privacy-fails-effector-3814",
+      "source": "EFF",
+      "publishedAt": "Wed, 29 Jul 2026 16:52:58 +0000",
+      "category": "NEWS",
+      "summary": "Watches, bands, and rings—if you want to digitally monitor your fitness, more companies than ever are selling devices to do it. And more Americans than ever now own at least one wearable health device. But what are the companies that make fitness trackers doing to protect our sensitive data from pry"
+    },
+    {
       "title": "San Francisco: Don’t Fall for Industry Defense of Surveillance Pricing",
       "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 24 Jul 2026 18:18:28 +0000",
       "category": "NEWS",
       "summary": "For years, John Deere had actively made repairing their tractors near-impossible for anyone but itself and the few \"authorized\" repair shops—regardless of the ability of its customers to actually visit such shops. Now, in a major win for farmers and right to repair advocates, John Deere must soon pr"
-    },
-    {
-      "title": "Hundreds of Drone-as-First-Responder Programs Could Soon Be Launched Across the Country",
-      "url": "https://www.eff.org/deeplinks/2026/07/hundreds-drone-first-responder-programs-could-soon-be-launched-across-country",
-      "source": "EFF",
-      "publishedAt": "Thu, 23 Jul 2026 22:00:00 +0000",
-      "category": "NEWS",
-      "summary": "Police departments across the country are lining up to launch drone-as-first-responder (DFR) programs, and hundreds have cleared a necessary hurdle toward making deployment a reality, expanding aerial surveillance and data collection even in areas patrol officers typically can't reach.\nAs of Februar"
     }
   ]
 }
