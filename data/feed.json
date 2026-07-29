@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T19:06:32.640Z",
+  "last_updated": "2026-07-29T01:41:24.953Z",
   "articles": [
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
@@ -42,6 +42,14 @@
       "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
     },
     {
+      "title": "San Francisco: Don’t Fall for Industry Defense of Surveillance Pricing",
+      "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
+      "source": "EFF",
+      "publishedAt": "Tue, 28 Jul 2026 21:55:43 +0000",
+      "category": "NEWS",
+      "summary": "The concept of “surveillance pricing” is just one part of a much larger problem and business model: corporations maximizing their profits by invading our privacy. The all-too-common business model is to systematically harvest, collate, and store as much of our personal data as possible, and then mon"
+    },
+    {
       "title": "Why Are Gay Bars Building Databases of Their Patrons?",
       "url": "https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 23 Jul 2026 22:00:00 +0000",
       "category": "NEWS",
       "summary": "Police departments across the country are lining up to launch drone-as-first-responder (DFR) programs, and hundreds have cleared a necessary hurdle toward making deployment a reality, expanding aerial surveillance and data collection even in areas patrol officers typically can't reach.\nAs of Februar"
-    },
-    {
-      "title": "The Fourth Circuit Says Border Agents Can Search Your Phone By Hand, No Suspicion Required",
-      "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required",
-      "source": "EFF",
-      "publishedAt": "Wed, 22 Jul 2026 22:30:31 +0000",
-      "category": "NEWS",
-      "summary": "Legal intern Suzanne Castillo was the principal author of this post.\nThe Fourth Circuit issued a disappointing opinion in U.S. v. Belmonte Cardozo, a case in which EFF filed an amicus brief, alongside the national ACLU, its Maryland, North Carolina, South Carolina, and Virginia affiliates, and the N"
     }
   ]
 }
