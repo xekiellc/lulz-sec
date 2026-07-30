@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-07-30T13:26:10.584Z",
+  "last_updated": "2026-07-30T19:08:57.579Z",
   "articles": [
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "category": "NEWS",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
+    },
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -32,14 +40,6 @@
       "publishedAt": "Wed, 08 Jul 2026 12:31:39 +0000",
       "category": "NEWS",
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 02 Jul 2026 19:27:33 +0000",
-      "category": "NEWS",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks afte"
     },
     {
       "title": "🏃 Fitness Tracker Privacy Fails | EFFector 38.14",
