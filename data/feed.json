@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:07:34.860Z",
+  "last_updated": "2026-08-01T01:52:08.335Z",
   "articles": [
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
@@ -42,6 +42,22 @@
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
     },
     {
+      "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
+      "url": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
+      "source": "EFF",
+      "publishedAt": "Fri, 31 Jul 2026 19:47:34 +0000",
+      "category": "NEWS",
+      "summary": "California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it still threatens the privacy and First Amendment rights of all Californians.\nProponents of the bill may argue that the recent amendments represent a com"
+    },
+    {
+      "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
+      "url": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
+      "source": "EFF",
+      "publishedAt": "Fri, 31 Jul 2026 19:41:55 +0000",
+      "category": "NEWS",
+      "summary": "The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up thei"
+    },
+    {
       "title": "The CHATBOT Act Forces One Parenting Model On Every Family",
       "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Wed, 29 Jul 2026 16:52:58 +0000",
       "category": "NEWS",
       "summary": "Watches, bands, and rings—if you want to digitally monitor your fitness, more companies than ever are selling devices to do it. And more Americans than ever now own at least one wearable health device. But what are the companies that make fitness trackers doing to protect our sensitive data from pry"
-    },
-    {
-      "title": "San Francisco: Don’t Fall for Industry Defense of Surveillance Pricing",
-      "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
-      "source": "EFF",
-      "publishedAt": "Tue, 28 Jul 2026 21:55:43 +0000",
-      "category": "NEWS",
-      "summary": "The concept of “surveillance pricing” is just one part of a much larger problem and business model: corporations maximizing their profits by invading our privacy. The all-too-common business model is to systematically harvest, collate, and store as much of our personal data as possible, and then mon"
-    },
-    {
-      "title": "Why Are Gay Bars Building Databases of Their Patrons?",
-      "url": "https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons",
-      "source": "EFF",
-      "publishedAt": "Tue, 28 Jul 2026 16:19:13 +0000",
-      "category": "NEWS",
-      "summary": "Recent reports have raised alarm about the use of PatronScan, an ID-checking and face-scanning system, at multiple LGBTQ+ bars in San Francisco’s Castro neighborhood. Much of the attention has focused on reports that the system photographs patrons as they enter venues and questions about whether tho"
     }
   ]
 }
