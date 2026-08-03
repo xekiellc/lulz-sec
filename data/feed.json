@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T14:14:39.976Z",
+  "last_updated": "2026-08-03T19:18:15.213Z",
   "articles": [
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
@@ -42,6 +42,14 @@
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
     },
     {
+      "title": "EFF at BSidesLV, Black Hat, and DEF CON 👨‍💻",
+      "url": "https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con",
+      "source": "EFF",
+      "publishedAt": "Mon, 03 Aug 2026 14:45:00 +0000",
+      "category": "NEWS",
+      "summary": "It's time. Time for tinkerers, security researchers, hackers, and fellow nerds to gather together in signature black hoodies and utilikilts to beat the heat in Las Vegas for the summer security conferences: BSidesLV, Black Hat USA, and DEF CON.\nEFF's lawyers, activists, and technologists are excited"
+    },
+    {
       "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
       "url": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 31 Jul 2026 14:11:24 +0000",
       "category": "NEWS",
       "summary": "This post is available as a printable one page handout in English and Spanish.\nRecordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can c"
-    },
-    {
-      "title": "🏃 Fitness Tracker Privacy Fails | EFFector 38.14",
-      "url": "https://www.eff.org/deeplinks/2026/07/fitness-tracker-privacy-fails-effector-3814",
-      "source": "EFF",
-      "publishedAt": "Wed, 29 Jul 2026 16:52:58 +0000",
-      "category": "NEWS",
-      "summary": "Watches, bands, and rings—if you want to digitally monitor your fitness, more companies than ever are selling devices to do it. And more Americans than ever now own at least one wearable health device. But what are the companies that make fitness trackers doing to protect our sensitive data from pry"
     }
   ]
 }
