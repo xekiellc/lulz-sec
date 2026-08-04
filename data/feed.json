@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T13:47:02.473Z",
+  "last_updated": "2026-08-04T19:17:49.682Z",
   "articles": [
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
@@ -42,6 +42,14 @@
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
     },
     {
+      "title": "Technology's Power in the Hands of the People",
+      "url": "https://www.eff.org/deeplinks/2026/07/vv26",
+      "source": "EFF",
+      "publishedAt": "Tue, 04 Aug 2026 14:12:50 +0000",
+      "category": "NEWS",
+      "summary": "In the scorching heat of every Las Vegas summer, EFF joins thousands of hackers, makers, policy analysts, and activists for the world's largest computer security gathering. If you're there during this summer security week, be sure to say hello to us at BSides Las Vegas, Black Hat Briefings, and DEF "
+    },
+    {
       "title": "The Senate Should Reject KOSA's Privacy Risks",
       "url": "https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 03 Aug 2026 21:08:45 +0000",
       "category": "NEWS",
       "summary": "The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and mak"
-    },
-    {
-      "title": "EFF at BSidesLV, Black Hat, and DEF CON 👨‍💻",
-      "url": "https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con",
-      "source": "EFF",
-      "publishedAt": "Mon, 03 Aug 2026 14:45:00 +0000",
-      "category": "NEWS",
-      "summary": "It's time. Time for tinkerers, security researchers, hackers, and fellow nerds to gather together in signature black hoodies and utilikilts to beat the heat in Las Vegas for the summer security conferences: BSidesLV, Black Hat USA, and DEF CON.\nEFF's lawyers, activists, and technologists are excited"
     }
   ]
 }
