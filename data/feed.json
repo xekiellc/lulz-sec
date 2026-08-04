@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T19:18:15.213Z",
+  "last_updated": "2026-08-04T01:26:27.289Z",
   "articles": [
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
@@ -42,44 +42,44 @@
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
     },
     {
+      "title": "The Senate Should Reject KOSA's Privacy Risks",
+      "url": "https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks",
+      "source": "EFF",
+      "publishedAt": "Mon, 03 Aug 2026 23:47:38 +0000",
+      "category": "NEWS",
+      "summary": "The Senate Commerce Committee is once again considering legislation that would dramatically expand age verification, and undermine privacy for everyone. Alongside the SCREEN Act, the CHATBOT Act, and the Youth AI Privacy Act, the Kids Online Safety Act (KOSA) would push companies to collect more inf"
+    },
+    {
+      "title": "EFF Joins 18 Civil Rights Organizations Calling on Governor Hochul to Reject the Stealth Crawler Prohibition Act",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-18-civil-rights-organizations-calling-governor-hochul-reject-stealth",
+      "source": "EFF",
+      "publishedAt": "Mon, 03 Aug 2026 23:25:40 +0000",
+      "category": "NEWS",
+      "summary": "EFF joined a group of 18 civil society organizations to send a letter encouraging New York Governor Kathy Hochul to Senate Bill 9934A, the New York Stealth Crawler Prohibition Act. The letter states:\nWhile framed as a measure to protect local journalism, this legislation harms free expression and es"
+    },
+    {
+      "title": "EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal",
+      "source": "EFF",
+      "publishedAt": "Mon, 03 Aug 2026 22:17:56 +0000",
+      "category": "NEWS",
+      "summary": "The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence systems.” We urge the FTC to withdraw this misguided proposal and instead focus on its core strengths and mission to protect consumers. \nThe new proposed p"
+    },
+    {
+      "title": "The Youth AI Privacy Act’s Privacy Paradox",
+      "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
+      "source": "EFF",
+      "publishedAt": "Mon, 03 Aug 2026 21:08:45 +0000",
+      "category": "NEWS",
+      "summary": "The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and mak"
+    },
+    {
       "title": "EFF at BSidesLV, Black Hat, and DEF CON 👨‍💻",
       "url": "https://www.eff.org/deeplinks/2026/07/eff-bsideslv-black-hat-and-def-con",
       "source": "EFF",
       "publishedAt": "Mon, 03 Aug 2026 14:45:00 +0000",
       "category": "NEWS",
       "summary": "It's time. Time for tinkerers, security researchers, hackers, and fellow nerds to gather together in signature black hoodies and utilikilts to beat the heat in Las Vegas for the summer security conferences: BSidesLV, Black Hat USA, and DEF CON.\nEFF's lawyers, activists, and technologists are excited"
-    },
-    {
-      "title": "Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy",
-      "url": "https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free",
-      "source": "EFF",
-      "publishedAt": "Fri, 31 Jul 2026 19:47:34 +0000",
-      "category": "NEWS",
-      "summary": "California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it still threatens the privacy and First Amendment rights of all Californians.\nProponents of the bill may argue that the recent amendments represent a com"
-    },
-    {
-      "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
-      "url": "https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites",
-      "source": "EFF",
-      "publishedAt": "Fri, 31 Jul 2026 19:41:55 +0000",
-      "category": "NEWS",
-      "summary": "The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up thei"
-    },
-    {
-      "title": "The CHATBOT Act Forces One Parenting Model On Every Family",
-      "url": "https://www.eff.org/deeplinks/2026/07/chatbot-act-forces-one-parenting-model-every-family",
-      "source": "EFF",
-      "publishedAt": "Fri, 31 Jul 2026 19:06:43 +0000",
-      "category": "NEWS",
-      "summary": "Artificial intelligence is rapidly changing education, and the way people search for information. Parents, teenagers, teachers, and schools are struggling with tough questions about when AI should, and should not, be used. It makes sense for Congress to hold hearings and examine how AI should be use"
-    },
-    {
-      "title": "EFF Guide to Recording Law Enforcement",
-      "url": "https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement",
-      "source": "EFF",
-      "publishedAt": "Fri, 31 Jul 2026 14:11:24 +0000",
-      "category": "NEWS",
-      "summary": "This post is available as a printable one page handout in English and Spanish.\nRecordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can c"
     }
   ]
 }
