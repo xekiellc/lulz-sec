@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T19:17:49.682Z",
+  "last_updated": "2026-08-05T01:41:58.467Z",
   "articles": [
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
@@ -42,44 +42,44 @@
       "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform t"
     },
     {
+      "title": "Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction",
+      "url": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
+      "source": "EFF",
+      "publishedAt": "Wed, 05 Aug 2026 00:15:11 +0000",
+      "category": "NEWS",
+      "summary": "The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CHATBOT Act. While we appreciate that the Committee is taking the time to look at these bills separately, it’s still impossible to ignore the message Co"
+    },
+    {
+      "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA",
+      "url": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
+      "source": "EFF",
+      "publishedAt": "Tue, 04 Aug 2026 22:32:39 +0000",
+      "category": "NEWS",
+      "summary": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistan"
+    },
+    {
+      "title": "Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
+      "url": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
+      "source": "EFF",
+      "publishedAt": "Tue, 04 Aug 2026 19:30:41 +0000",
+      "category": "NEWS",
+      "summary": "Developers Must Beware of Ad Libraries that Betray Users’ Privacy\n\n\n\nSAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track peop"
+    },
+    {
+      "title": "Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy",
+      "url": "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy",
+      "source": "EFF",
+      "publishedAt": "Tue, 04 Aug 2026 19:30:21 +0000",
+      "category": "NEWS",
+      "summary": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not ev"
+    },
+    {
       "title": "Technology's Power in the Hands of the People",
       "url": "https://www.eff.org/deeplinks/2026/07/vv26",
       "source": "EFF",
       "publishedAt": "Tue, 04 Aug 2026 14:12:50 +0000",
       "category": "NEWS",
       "summary": "In the scorching heat of every Las Vegas summer, EFF joins thousands of hackers, makers, policy analysts, and activists for the world's largest computer security gathering. If you're there during this summer security week, be sure to say hello to us at BSides Las Vegas, Black Hat Briefings, and DEF "
-    },
-    {
-      "title": "The Senate Should Reject KOSA's Privacy Risks",
-      "url": "https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks",
-      "source": "EFF",
-      "publishedAt": "Mon, 03 Aug 2026 23:47:38 +0000",
-      "category": "NEWS",
-      "summary": "The Senate Commerce Committee is once again considering legislation that would dramatically expand age verification, and undermine privacy for everyone. Alongside the SCREEN Act, the CHATBOT Act, and the Youth AI Privacy Act, the Kids Online Safety Act (KOSA) would push companies to collect more inf"
-    },
-    {
-      "title": "EFF Joins 18 Civil Rights Organizations Calling on Governor Hochul to Reject the Stealth Crawler Prohibition Act",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-18-civil-rights-organizations-calling-governor-hochul-reject-stealth",
-      "source": "EFF",
-      "publishedAt": "Mon, 03 Aug 2026 23:25:40 +0000",
-      "category": "NEWS",
-      "summary": "EFF joined a group of 18 civil society organizations to send a letter encouraging New York Governor Kathy Hochul to Senate Bill 9934A, the New York Stealth Crawler Prohibition Act. The letter states:\nWhile framed as a measure to protect local journalism, this legislation harms free expression and es"
-    },
-    {
-      "title": "EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal",
-      "source": "EFF",
-      "publishedAt": "Mon, 03 Aug 2026 22:17:56 +0000",
-      "category": "NEWS",
-      "summary": "The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence systems.” We urge the FTC to withdraw this misguided proposal and instead focus on its core strengths and mission to protect consumers. \nThe new proposed p"
-    },
-    {
-      "title": "The Youth AI Privacy Act’s Privacy Paradox",
-      "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
-      "source": "EFF",
-      "publishedAt": "Mon, 03 Aug 2026 21:08:45 +0000",
-      "category": "NEWS",
-      "summary": "The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and mak"
     }
   ]
 }
