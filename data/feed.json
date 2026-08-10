@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T12:43:33.325Z",
+  "last_updated": "2026-08-10T18:41:52.613Z",
   "articles": [
     {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -42,6 +42,14 @@
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper"
     },
     {
+      "title": "Meta Must Stop Silencing Reproductive Health Information",
+      "url": "https://www.eff.org/deeplinks/2026/08/meta-must-stop-silencing-reproductive-health-information",
+      "source": "EFF",
+      "publishedAt": "Mon, 10 Aug 2026 17:18:21 +0000",
+      "category": "NEWS",
+      "summary": "Access to accurate information about reproductive and maternal health can be critical. But on Meta's platforms, simply talking about prescription medication, abortion care, or one's own medical experiences can be enough to trigger content removals and account restrictions.\nThat's why EFF recently su"
+    },
+    {
       "title": "Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction",
       "url": "https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 04 Aug 2026 19:30:21 +0000",
       "category": "NEWS",
       "summary": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not ev"
-    },
-    {
-      "title": "Technology's Power in the Hands of the People",
-      "url": "https://www.eff.org/deeplinks/2026/07/vv26",
-      "source": "EFF",
-      "publishedAt": "Tue, 04 Aug 2026 14:12:50 +0000",
-      "category": "NEWS",
-      "summary": "In the scorching heat of every Las Vegas summer, EFF joins thousands of hackers, makers, policy analysts, and activists for the world's largest computer security gathering. If you're there during this summer security week, be sure to say hello to us at BSides Las Vegas, Black Hat Briefings, and DEF "
     }
   ]
 }
