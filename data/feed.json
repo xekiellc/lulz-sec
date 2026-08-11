@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T18:41:52.613Z",
+  "last_updated": "2026-08-11T00:56:32.143Z",
   "articles": [
     {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -42,6 +42,14 @@
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper"
     },
     {
+      "title": "Dismiss Church’s Trademark Lawsuit Against “Mormon Stories” Podcast, EFF Urges Court",
+      "url": "https://www.eff.org/deeplinks/2026/08/dismiss-churchs-trademark-lawsuit-against-mormon-stories-podcast-eff-urges-court",
+      "source": "EFF",
+      "publishedAt": "Tue, 11 Aug 2026 00:00:30 +0000",
+      "category": "NEWS",
+      "summary": "Imagine if McDonald’s could use trademark law to control how you use the term “fast food.” Or if the Canadian government could stop you from using the word “Canada” in the title of a book about the country and its people. That wouldn’t just be absurd; it would be an unacceptable obstacle to criticis"
+    },
+    {
       "title": "Meta Must Stop Silencing Reproductive Health Information",
       "url": "https://www.eff.org/deeplinks/2026/08/meta-must-stop-silencing-reproductive-health-information",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 04 Aug 2026 19:30:41 +0000",
       "category": "NEWS",
       "summary": "Developers Must Beware of Ad Libraries that Betray Users’ Privacy\n\n\n\nSAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track peop"
-    },
-    {
-      "title": "Developers: Beware of Ad Libraries that Betray Your Users’ Location Privacy",
-      "url": "https://www.eff.org/deeplinks/2026/07/developers-beware-ad-libraries-betray-your-users-location-privacy",
-      "source": "EFF",
-      "publishedAt": "Tue, 04 Aug 2026 19:30:21 +0000",
-      "category": "NEWS",
-      "summary": "Across mobile platforms, advertising companies provide developers with software development kits (SDKs) that make it easy to monetize their apps. But those same SDKs can automatically feed users’ location data into ad systems that location data brokers use to track people. Many developers may not ev"
     }
   ]
 }
