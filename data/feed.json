@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-11T18:46:07.526Z",
+  "last_updated": "2026-08-12T01:03:10.783Z",
   "articles": [
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "category": "NEWS",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
+    },
     {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -34,12 +42,12 @@
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p"
     },
     {
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "title": "Who (or What) Generates Images for EFF?",
+      "url": "https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff",
+      "source": "EFF",
+      "publishedAt": "Tue, 11 Aug 2026 20:24:25 +0000",
       "category": "NEWS",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Exper"
+      "summary": "We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been created with AI image generators. We’d like to answer these questions and clarify our internal policy regarding image creation. \nEFF images are all made "
     },
     {
       "title": "Dismiss Church’s Trademark Lawsuit Against “Mormon Stories” Podcast, EFF Urges Court",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 04 Aug 2026 22:32:39 +0000",
       "category": "NEWS",
       "summary": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistan"
-    },
-    {
-      "title": "Mobile Ad Software Encourages Location Data Sharing, EFF Report Finds",
-      "url": "https://www.eff.org/press/releases/mobile-ad-software-encourages-location-data-sharing-eff-report-finds",
-      "source": "EFF",
-      "publishedAt": "Tue, 04 Aug 2026 19:30:41 +0000",
-      "category": "NEWS",
-      "summary": "Developers Must Beware of Ad Libraries that Betray Users’ Privacy\n\n\n\nSAN FRANCISCO – Some software development kits (SDKs) provided by advertising companies to help developers monetize their apps are automatically feeding users’ location data into systems that location data brokers use to track peop"
     }
   ]
 }
