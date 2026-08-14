@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-14T07:07:54.969Z",
+  "last_updated": "2026-08-14T12:40:40.716Z",
   "articles": [
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "publishedAt": "Fri, 14 Aug 2026 11:24:35 +0000",
+      "category": "NEWS",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
+    },
     {
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -32,14 +40,6 @@
       "publishedAt": "Wed, 22 Jul 2026 01:10:38 +0000",
       "category": "NEWS",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 14 Jul 2026 19:22:42 +0000",
-      "category": "NEWS",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p"
     },
     {
       "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
