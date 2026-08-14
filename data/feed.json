@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:47:53.035Z",
+  "last_updated": "2026-08-14T01:03:37.952Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning p"
     },
     {
+      "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
+      "url": "https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms",
+      "source": "EFF",
+      "publishedAt": "Thu, 13 Aug 2026 20:52:35 +0000",
+      "category": "NEWS",
+      "summary": "Flock Safety, the embattled vendor of mass surveillance technology, has rolled out a handful of new reforms intended to appease the justified nationwide anger that has seen scores of towns cancel or suspend their contracts with the company for automated license plate readers (ALPRs). The reforms are"
+    },
+    {
       "title": "Who (or What) Generates Images for EFF?",
       "url": "https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 05 Aug 2026 00:15:11 +0000",
       "category": "NEWS",
       "summary": "The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CHATBOT Act. While we appreciate that the Committee is taking the time to look at these bills separately, it’s still impossible to ignore the message Co"
-    },
-    {
-      "title": "Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA",
-      "url": "https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa",
-      "source": "EFF",
-      "publishedAt": "Tue, 04 Aug 2026 22:32:39 +0000",
-      "category": "NEWS",
-      "summary": "The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistan"
     }
   ]
 }
