@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T12:22:57.620Z",
+  "last_updated": "2026-08-19T18:18:25.487Z",
   "articles": [
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -42,12 +42,28 @@
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
     },
     {
+      "title": "📍 The Sneaky Code Tracking App Users | EFFector 38.15",
+      "url": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
+      "source": "EFF",
+      "publishedAt": "Wed, 19 Aug 2026 16:35:30 +0000",
+      "category": "NEWS",
+      "summary": "Your location isn't just a pin on a map—it can expose some of the most intimate details about your life. The value of this information to advertisers and others has turned the location data business into a multi-billion dollar industry. In our latest EFFector newsletter, we're covering a new EFF rep"
+    },
+    {
       "title": "Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230",
       "url": "https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy",
       "source": "EFF",
       "publishedAt": "Tue, 18 Aug 2026 23:23:50 +0000",
       "category": "NEWS",
       "summary": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Meta, a Ninth Circuit three-judge panel held that the lower court’s denial of Section 230 immunity to Meta is not immediately appealable. The misguided r"
+    },
+    {
+      "title": "ZKP’s Aren’t Age Verification Silver Bullets",
+      "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+      "source": "EFF",
+      "publishedAt": "Tue, 18 Aug 2026 22:39:03 +0000",
+      "category": "NEWS",
+      "summary": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verification law in place, and dangerous propo"
     },
     {
       "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
@@ -64,22 +80,6 @@
       "publishedAt": "Tue, 11 Aug 2026 20:24:25 +0000",
       "category": "NEWS",
       "summary": "We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been created with AI image generators. We’d like to answer these questions and clarify our internal policy regarding image creation. \nEFF images are all made "
-    },
-    {
-      "title": "Dismiss Church’s Trademark Lawsuit Against “Mormon Stories” Podcast, EFF Urges Court",
-      "url": "https://www.eff.org/deeplinks/2026/08/dismiss-churchs-trademark-lawsuit-against-mormon-stories-podcast-eff-urges-court",
-      "source": "EFF",
-      "publishedAt": "Tue, 11 Aug 2026 00:00:30 +0000",
-      "category": "NEWS",
-      "summary": "Imagine if McDonald’s could use trademark law to control how you use the term “fast food.” Or if the Canadian government could stop you from using the word “Canada” in the title of a book about the country and its people. That wouldn’t just be absurd; it would be an unacceptable obstacle to criticis"
-    },
-    {
-      "title": "Meta Must Stop Silencing Reproductive Health Information",
-      "url": "https://www.eff.org/deeplinks/2026/08/meta-must-stop-silencing-reproductive-health-information",
-      "source": "EFF",
-      "publishedAt": "Mon, 10 Aug 2026 17:18:21 +0000",
-      "category": "NEWS",
-      "summary": "Access to accurate information about reproductive and maternal health can be critical. But on Meta's platforms, simply talking about prescription medication, abortion care, or one's own medical experiences can be enough to trigger content removals and account restrictions.\nThat's why EFF recently su"
     }
   ]
 }
