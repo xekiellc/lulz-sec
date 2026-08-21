@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:24:55.782Z",
+  "last_updated": "2026-08-21T18:21:44.332Z",
   "articles": [
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -42,6 +42,14 @@
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
     },
     {
+      "title": "EFF and Civil Society Groups Call on Nottinghamshire Police to Halt Live Face Recognition",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-and-civil-society-groups-call-nottinghamshire-police-halt-live-face",
+      "source": "EFF",
+      "publishedAt": "Fri, 21 Aug 2026 16:03:17 +0000",
+      "category": "NEWS",
+      "summary": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to Nottinghamshire Police Force in the UK raising concern about the proposed roll-out of live facial recognition technology (LFR), and called for its imm"
+    },
+    {
       "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
       "url": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 18 Aug 2026 22:39:03 +0000",
       "category": "NEWS",
       "summary": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verification law in place, and dangerous propo"
-    },
-    {
-      "title": "Too Little, Too Late: Flock Admits Their Technology Needs Reforms",
-      "url": "https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms",
-      "source": "EFF",
-      "publishedAt": "Thu, 13 Aug 2026 20:52:35 +0000",
-      "category": "NEWS",
-      "summary": "Flock Safety, the embattled vendor of mass surveillance technology, has rolled out a handful of new reforms intended to appease the justified nationwide anger that has seen scores of towns cancel or suspend their contracts with the company for automated license plate readers (ALPRs). The reforms are"
     }
   ]
 }
