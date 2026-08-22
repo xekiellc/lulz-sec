@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:21:44.332Z",
+  "last_updated": "2026-08-22T00:38:16.823Z",
   "articles": [
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -50,6 +50,14 @@
       "summary": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to Nottinghamshire Police Force in the UK raising concern about the proposed roll-out of live facial recognition technology (LFR), and called for its imm"
     },
     {
+      "title": "Intermediary Liability in Brazil: The Intricate Path Ahead",
+      "url": "https://www.eff.org/deeplinks/2026/08/intermediary-liability-brazil-intricate-path-ahead",
+      "source": "EFF",
+      "publishedAt": "Thu, 20 Aug 2026 23:17:55 +0000",
+      "category": "NEWS",
+      "summary": "Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and takedown mechanisms and duty of care obligations. Caution is crucial as these measures can create problematic incentives for enforcement overreach and o"
+    },
+    {
       "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
       "url": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 18 Aug 2026 23:23:50 +0000",
       "category": "NEWS",
       "summary": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Meta, a Ninth Circuit three-judge panel held that the lower court’s denial of Section 230 immunity to Meta is not immediately appealable. The misguided r"
-    },
-    {
-      "title": "Zero-Knowledge Proofs Aren’t Age Verification Silver Bullets",
-      "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
-      "source": "EFF",
-      "publishedAt": "Tue, 18 Aug 2026 22:39:03 +0000",
-      "category": "NEWS",
-      "summary": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verification law in place, and dangerous propo"
     }
   ]
 }
