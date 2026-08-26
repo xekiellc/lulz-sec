@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T12:28:48.292Z",
+  "last_updated": "2026-08-26T19:29:13.230Z",
   "articles": [
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -42,6 +42,30 @@
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
     },
     {
+      "title": "EFF's Policy Position on ALPR Surveillance: Eliminate It and Reduce Its Harms",
+      "url": "https://www.eff.org/deeplinks/2026/08/effs-policy-position-alpr-surveillance-eliminate-it-and-reduce-its-harms",
+      "source": "EFF",
+      "publishedAt": "Wed, 26 Aug 2026 17:44:34 +0000",
+      "category": "NEWS",
+      "summary": "Automated license plate readers (ALPRs) build a searchable map of everywhere a driver goes, fed into databases that police, ICE, and private vendors can query after the fact. Networked across a city, ALPRs are purpose-built to track everyone regardless of suspicion. ALPRs are not a surveillance tool"
+    },
+    {
+      "title": "EFF Statement on Meta Settlement",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement",
+      "source": "EFF",
+      "publishedAt": "Wed, 26 Aug 2026 16:34:41 +0000",
+      "category": "NEWS",
+      "summary": "Under this settlement, young users will now have less access to Meta products, and a lesser ability to exercise their rights to speak, access information and art and culture, associate and form communities, and play. The settlement also embeds age assurance into every product, mandating the collecti"
+    },
+    {
+      "title": "French Top Court Gets It Right, Strikes Down Social Media Ban For Youths",
+      "url": "https://www.eff.org/deeplinks/2026/08/french-top-court-gets-it-right-strikes-down-social-media-ban-youths",
+      "source": "EFF",
+      "publishedAt": "Wed, 26 Aug 2026 14:32:59 +0000",
+      "category": "NEWS",
+      "summary": "Earlier this month, France’s top court struck down the country’s legislation that banned social media use for people under 15 years old, which had been scheduled to take effect in January 2027. This is a welcome win for free expression, as we face a wave of countries and U.S. states seeking to pass "
+    },
+    {
       "title": "EFF and Civil Society Groups Call on Nottinghamshire Police to Halt Live Face Recognition",
       "url": "https://www.eff.org/deeplinks/2026/08/eff-and-civil-society-groups-call-nottinghamshire-police-halt-live-face",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Thu, 20 Aug 2026 23:17:55 +0000",
       "category": "NEWS",
       "summary": "Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and takedown mechanisms and duty of care obligations. Caution is crucial as these measures can create problematic incentives for enforcement overreach and o"
-    },
-    {
-      "title": "Some Tech Companies Have Privately Pushed Back on ICE Subpoenas. They Should All Do More.",
-      "url": "https://www.eff.org/deeplinks/2026/08/some-tech-companies-have-privately-pushed-back-ice-subpoenas-they-should-all-do",
-      "source": "EFF",
-      "publishedAt": "Wed, 19 Aug 2026 22:23:49 +0000",
-      "category": "NEWS",
-      "summary": "In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when the agency tried to unmask anonymous users who tracked immigration activities or criticized the government.\n As ICE engages in a pattern of illegal an"
-    },
-    {
-      "title": "📍 The Sneaky Code Tracking App Users | EFFector 38.15",
-      "url": "https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815",
-      "source": "EFF",
-      "publishedAt": "Wed, 19 Aug 2026 16:35:30 +0000",
-      "category": "NEWS",
-      "summary": "Your location isn't just a pin on a map—it can expose some of the most intimate details about your life. The value of this information to advertisers and others has turned the location data business into a multi-billion dollar industry. In our latest EFFector newsletter, we're covering a new EFF rep"
-    },
-    {
-      "title": "Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230",
-      "url": "https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy",
-      "source": "EFF",
-      "publishedAt": "Tue, 18 Aug 2026 23:23:50 +0000",
-      "category": "NEWS",
-      "summary": "A federal appeals court just made it harder for online services, big and small, to get lawsuits over user speech dismissed early. In California v. Meta, a Ninth Circuit three-judge panel held that the lower court’s denial of Section 230 immunity to Meta is not immediately appealable. The misguided r"
     }
   ]
 }
