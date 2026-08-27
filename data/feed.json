@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-08-27T05:43:40.715Z",
+  "last_updated": "2026-08-27T17:04:22.928Z",
   "articles": [
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "publishedAt": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "category": "NEWS",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\r\n\r\nIn a statement released today, the Australian Federal Police (AFP) said two unn"
+    },
     {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -32,14 +40,6 @@
       "publishedAt": "Thu, 30 Jul 2026 16:49:00 +0000",
       "category": "NEWS",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "source": "Krebs on Security",
-      "publishedAt": "Wed, 22 Jul 2026 01:10:38 +0000",
-      "category": "NEWS",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available fo"
     },
     {
       "title": "EFF's Policy Position on ALPR Surveillance: Eliminate It and Reduce Its Harms",
