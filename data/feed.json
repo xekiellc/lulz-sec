@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T17:04:22.928Z",
+  "last_updated": "2026-08-28T01:53:51.092Z",
   "articles": [
     {
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -42,6 +42,14 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
     },
     {
+      "title": "A List of ICE Subpoenas to Tech Companies",
+      "url": "https://www.eff.org/deeplinks/2026/08/list-ice-subpoenas-tech-companies",
+      "source": "EFF",
+      "publishedAt": "Wed, 26 Aug 2026 21:31:14 +0000",
+      "category": "NEWS",
+      "summary": "Immigration and Customs Enforcement (ICE) has conducted unlawful investigations into dozens of individuals who have documented ICE activities in their communities, social media users who criticized the government, and international students who attended a protest.\nA favored tool in these speech chil"
+    },
+    {
       "title": "EFF's Policy Position on ALPR Surveillance: Eliminate It and Reduce Its Harms",
       "url": "https://www.eff.org/deeplinks/2026/08/effs-policy-position-alpr-surveillance-eliminate-it-and-reduce-its-harms",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 21 Aug 2026 16:03:17 +0000",
       "category": "NEWS",
       "summary": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to Nottinghamshire Police Force in the UK raising concern about the proposed roll-out of live facial recognition technology (LFR), and called for its imm"
-    },
-    {
-      "title": "Intermediary Liability in Brazil: The Intricate Path Ahead",
-      "url": "https://www.eff.org/deeplinks/2026/08/intermediary-liability-brazil-intricate-path-ahead",
-      "source": "EFF",
-      "publishedAt": "Thu, 20 Aug 2026 23:17:55 +0000",
-      "category": "NEWS",
-      "summary": "Brazil's new internet intermediary liability regime is underway. The implementation of changes established by the Supreme Court includes notice and takedown mechanisms and duty of care obligations. Caution is crucial as these measures can create problematic incentives for enforcement overreach and o"
     }
   ]
 }
