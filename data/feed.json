@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:53:51.092Z",
+  "last_updated": "2026-08-28T17:52:27.722Z",
   "articles": [
     {
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -42,6 +42,14 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
     },
     {
+      "title": "EFF and Allies on Brazil's Elections: Privacy Protections are Crucial to Electoral Integrity",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-and-allies-brazils-elections-privacy-protections-are-crucial-electoral",
+      "source": "EFF",
+      "publishedAt": "Fri, 28 Aug 2026 03:46:26 +0000",
+      "category": "NEWS",
+      "summary": "EFF, Access Now, and Data Privacy Brasil are putting forward recommendations to strengthen robust privacy and data protection safeguards in the context of Brazil's elections. The recommendations stress the close relationship between violations of personal data protection and challenges to the integr"
+    },
+    {
       "title": "A List of ICE Subpoenas to Tech Companies",
       "url": "https://www.eff.org/deeplinks/2026/08/list-ice-subpoenas-tech-companies",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 26 Aug 2026 14:32:59 +0000",
       "category": "NEWS",
       "summary": "Earlier this month, France’s top court struck down the country’s legislation that banned social media use for people under 15 years old, which had been scheduled to take effect in January 2027. This is a welcome win for free expression, as we face a wave of countries and U.S. states seeking to pass "
-    },
-    {
-      "title": "EFF and Civil Society Groups Call on Nottinghamshire Police to Halt Live Face Recognition",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-and-civil-society-groups-call-nottinghamshire-police-halt-live-face",
-      "source": "EFF",
-      "publishedAt": "Fri, 21 Aug 2026 16:03:17 +0000",
-      "category": "NEWS",
-      "summary": "This week, EFF, along with Big Brother Watch, Defend Digital Me, Liberty, Open Rights Group, Race Equality First, Statewatch, and Stopwatch, wrote to Nottinghamshire Police Force in the UK raising concern about the proposed roll-out of live facial recognition technology (LFR), and called for its imm"
     }
   ]
 }
