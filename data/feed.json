@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T12:07:45.076Z",
+  "last_updated": "2026-08-31T22:10:17.834Z",
   "articles": [
     {
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -42,44 +42,44 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
     },
     {
-      "title": "EFF and Allies on Brazil's Elections: Privacy Protections are Crucial to Electoral Integrity",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-and-allies-brazils-elections-privacy-protections-are-crucial-electoral",
+      "title": "EFF to Courts: Don’t Rewrite Copyright Over AI Hype",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
       "source": "EFF",
-      "publishedAt": "Fri, 28 Aug 2026 03:46:26 +0000",
+      "publishedAt": "Mon, 31 Aug 2026 19:45:54 +0000",
       "category": "NEWS",
-      "summary": "EFF, Access Now, and Data Privacy Brasil are putting forward recommendations to strengthen robust privacy and data protection safeguards in the context of Brazil's elections. The recommendations stress the close relationship between violations of personal data protection and challenges to the integr"
+      "summary": "The history of technology is rife with copyright panics.  In the 1980s, major rightsholders ran to Congress and the courts, claiming that videotape recorders (VTR) were “to the American film producer and the American public as the Boston strangler is to the woman home alone.” Then, the Supreme Court"
     },
     {
-      "title": "A List of ICE Subpoenas to Tech Companies",
-      "url": "https://www.eff.org/deeplinks/2026/08/list-ice-subpoenas-tech-companies",
+      "title": "Doxxing Safety Part II: Incident Response",
+      "url": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response",
       "source": "EFF",
-      "publishedAt": "Wed, 26 Aug 2026 21:31:14 +0000",
+      "publishedAt": "Mon, 31 Aug 2026 19:02:37 +0000",
       "category": "NEWS",
-      "summary": "Immigration and Customs Enforcement (ICE) has conducted unlawful investigations into dozens of individuals who have documented ICE activities in their communities, social media users who criticized the government, and international students who attended a protest.\nA favored tool in these speech chil"
+      "summary": "Doxxing, also known as the deliberate sharing of personal information to harass or endanger someone, is a tricky thing to protect against. It often happens by some ill-intentioned person accessing publicly available information, then sharing that information more widely in the hopes it will intimida"
     },
     {
-      "title": "EFF's Policy Position on ALPR Surveillance: Eliminate It and Reduce Its Harms",
-      "url": "https://www.eff.org/deeplinks/2026/08/effs-policy-position-alpr-surveillance-eliminate-it-and-reduce-its-harms",
+      "title": "Doxxing Safety Pt I: Prevention and Footprint Management",
+      "url": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-pt-i-prevention-and-footprint-management",
       "source": "EFF",
-      "publishedAt": "Wed, 26 Aug 2026 17:44:34 +0000",
+      "publishedAt": "Mon, 31 Aug 2026 18:52:45 +0000",
       "category": "NEWS",
-      "summary": "Automated license plate readers (ALPRs) build a searchable map of everywhere a driver goes, fed into databases that police, ICE, and private vendors can query after the fact. Networked across a city, ALPRs are purpose-built to track everyone regardless of suspicion. ALPRs are not a surveillance tool"
+      "summary": "Doxxing is the deliberate disclosure of personal information in order to bully, harass, intimidate, or instigate a chain of harms against someone. It's a tricky thing to protect against when the jerk doing it is often able to use legal and accessible means to do so. The odds are stacked against ever"
     },
     {
-      "title": "EFF Statement on Meta Settlement",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement",
+      "title": "Privacy on the Map (Part 2): Progress, Pitfalls, and the Fight for Enforceable Location Data Protections",
+      "url": "https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-fight-enforceable-location-data",
       "source": "EFF",
-      "publishedAt": "Wed, 26 Aug 2026 16:34:41 +0000",
+      "publishedAt": "Mon, 31 Aug 2026 16:49:34 +0000",
       "category": "NEWS",
-      "summary": "Under this settlement, young users will now have less access to Meta products, and a lesser ability to exercise their rights to speak, access information and art and culture, associate and form communities, and play. The settlement also embeds age assurance into every product, mandating the collecti"
+      "summary": "Regulating commercial location tracking has reached a turning point. Last year, we published our rubric for what comprehensive and protective location privacy laws should look like, outlining the baseline standards states should meet to shield individuals from pervasive location surveillance. Since "
     },
     {
-      "title": "French Top Court Gets It Right, Strikes Down Social Media Ban For Youths",
-      "url": "https://www.eff.org/deeplinks/2026/08/french-top-court-gets-it-right-strikes-down-social-media-ban-youths",
+      "title": "LGBT Q&A: What’s One Thing I Can Do Today to Improve My Safety and Security Online as an LGBTQ+ Person?",
+      "url": "https://www.eff.org/deeplinks/2026/08/lgbt-qa-whats-one-thing-i-can-do-today-improve-my-safety-and-security-online-lgbtq",
       "source": "EFF",
-      "publishedAt": "Wed, 26 Aug 2026 14:32:59 +0000",
+      "publishedAt": "Mon, 31 Aug 2026 15:57:37 +0000",
       "category": "NEWS",
-      "summary": "Earlier this month, France’s top court struck down the country’s legislation that banned social media use for people under 15 years old, which had been scheduled to take effect in January 2027. This is a welcome win for free expression, as we face a wave of countries and U.S. states seeking to pass "
+      "summary": "This post is adapted from a video recorded by EFF and the Trevor Project. Head over to our TikTok or Instagram to watch! \nEFF answers all the queer digital rights questions you submit to us through our LGBT Q&A. You asked us: What’s one thing I can do today to improve my safety and security online a"
     }
   ]
 }
