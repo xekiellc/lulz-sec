@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T22:10:17.834Z",
+  "last_updated": "2026-09-01T02:35:42.267Z",
   "articles": [
     {
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -42,6 +42,14 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
     },
     {
+      "title": "EFF to Governor Newsom: Veto California’s AB 1709",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
+      "source": "EFF",
+      "publishedAt": "Mon, 31 Aug 2026 23:37:39 +0000",
+      "category": "NEWS",
+      "summary": "The California legislature passed Assembly Bill 1709 (A.B. 1709) today, which functions as a sweeping ban on social media use for young people under the age of 16. This well-intentioned, but deeply flawed piece of legislation, cuts young people off from essential information and experiences, particu"
+    },
+    {
       "title": "EFF to Courts: Don’t Rewrite Copyright Over AI Hype",
       "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 31 Aug 2026 16:49:34 +0000",
       "category": "NEWS",
       "summary": "Regulating commercial location tracking has reached a turning point. Last year, we published our rubric for what comprehensive and protective location privacy laws should look like, outlining the baseline standards states should meet to shield individuals from pervasive location surveillance. Since "
-    },
-    {
-      "title": "LGBT Q&A: What’s One Thing I Can Do Today to Improve My Safety and Security Online as an LGBTQ+ Person?",
-      "url": "https://www.eff.org/deeplinks/2026/08/lgbt-qa-whats-one-thing-i-can-do-today-improve-my-safety-and-security-online-lgbtq",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 15:57:37 +0000",
-      "category": "NEWS",
-      "summary": "This post is adapted from a video recorded by EFF and the Trevor Project. Head over to our TikTok or Instagram to watch! \nEFF answers all the queer digital rights questions you submit to us through our LGBT Q&A. You asked us: What’s one thing I can do today to improve my safety and security online a"
     }
   ]
 }
