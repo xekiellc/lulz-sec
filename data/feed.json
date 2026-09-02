@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-01T20:17:32.470Z",
+  "last_updated": "2026-09-02T01:57:05.978Z",
   "articles": [
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 01 Sep 2026 22:40:28 +0000",
+      "category": "NEWS",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
+    },
     {
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
       "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -34,12 +42,20 @@
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar"
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 30 Jul 2026 16:49:00 +0000",
+      "title": "Judge Rules DOD Unlawfully Retaliated Against Anthropic",
+      "url": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
+      "source": "EFF",
+      "publishedAt": "Wed, 02 Sep 2026 01:13:50 +0000",
       "category": "NEWS",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also r"
+      "summary": "A federal judge has sided with Anthropic on its claims that the Department of Defense illegally retaliated against Anthropic’s protected speech by labeling the AI company a “supply chain risk.” The judge found that designation, intended to penalize Anthropic for telling the U.S. military it would no"
+    },
+    {
+      "title": "Meta's $17 Billion Settlement is a Bad Deal for Teens and All Social Media Users",
+      "url": "https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users",
+      "source": "EFF",
+      "publishedAt": "Tue, 01 Sep 2026 20:51:07 +0000",
+      "category": "NEWS",
+      "summary": "Meta’s settlement with 52 state attorneys general is a bad deal for all internet users, and especially for teens. That’s what we said the day the settlement was announced.\nIn this post, we go through the Settlement’s provisions in detail and explain why that is so, including how:\nThe Settlement embe"
     },
     {
       "title": "EFF to Governor Newsom: Veto California’s AB 1709",
@@ -64,22 +80,6 @@
       "publishedAt": "Mon, 31 Aug 2026 19:02:37 +0000",
       "category": "NEWS",
       "summary": "Doxxing, also known as the deliberate sharing of personal information to harass or endanger someone, is a tricky thing to protect against. It often happens by some ill-intentioned person accessing publicly available information, then sharing that information more widely in the hopes it will intimida"
-    },
-    {
-      "title": "Doxxing Safety Pt I: Prevention and Footprint Management",
-      "url": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-pt-i-prevention-and-footprint-management",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 18:52:45 +0000",
-      "category": "NEWS",
-      "summary": "Doxxing is the deliberate disclosure of personal information in order to bully, harass, intimidate, or instigate a chain of harms against someone. It's a tricky thing to protect against when the jerk doing it is often able to use legal and accessible means to do so. The odds are stacked against ever"
-    },
-    {
-      "title": "Privacy on the Map (Part 2): Progress, Pitfalls, and the Fight for Enforceable Location Data Protections",
-      "url": "https://www.eff.org/deeplinks/2026/08/privacy-map-part-2-progress-pitfalls-and-fight-enforceable-location-data",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 16:49:34 +0000",
-      "category": "NEWS",
-      "summary": "Regulating commercial location tracking has reached a turning point. Last year, we published our rubric for what comprehensive and protective location privacy laws should look like, outlining the baseline standards states should meet to shield individuals from pervasive location surveillance. Since "
     }
   ]
 }
