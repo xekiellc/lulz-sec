@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T15:35:48.024Z",
+  "last_updated": "2026-09-02T20:16:25.384Z",
   "articles": [
     {
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
@@ -42,6 +42,14 @@
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar"
     },
     {
+      "title": "Texas and Florida Step Back from ALPRs",
+      "url": "https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs",
+      "source": "EFF",
+      "publishedAt": "Wed, 02 Sep 2026 17:31:31 +0000",
+      "category": "NEWS",
+      "summary": "Within the last few days, two important state actions have dealt a big blow to automated license plate reader (ALPR) networks. This is just the latest proof of the growing tide of public opposition to mass surveillance. After years of successful grassroots battles to pull these cameras from local st"
+    },
+    {
       "title": "Judge Rules DOD Unlawfully Retaliated Against Anthropic",
       "url": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 31 Aug 2026 19:45:54 +0000",
       "category": "NEWS",
       "summary": "The history of technology is rife with copyright panics.  In the 1980s, major rightsholders ran to Congress and the courts, claiming that videotape recorders (VTR) were “to the American film producer and the American public as the Boston strangler is to the woman home alone.” Then, the Supreme Court"
-    },
-    {
-      "title": "Doxxing Safety Part II: Incident Response",
-      "url": "https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 19:02:37 +0000",
-      "category": "NEWS",
-      "summary": "Doxxing, also known as the deliberate sharing of personal information to harass or endanger someone, is a tricky thing to protect against. It often happens by some ill-intentioned person accessing publicly available information, then sharing that information more widely in the hopes it will intimida"
     }
   ]
 }
