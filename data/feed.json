@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T15:27:19.332Z",
+  "last_updated": "2026-09-03T20:16:24.716Z",
   "articles": [
     {
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
@@ -42,6 +42,14 @@
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontar"
     },
     {
+      "title": "Court Rules Against Citizen Journalists in DMCA Takedown Case—EFF Will Appeal",
+      "url": "https://www.eff.org/deeplinks/2026/09/court-rules-against-citizen-journalists-dmca-takedown-case-eff-will-appeal",
+      "source": "EFF",
+      "publishedAt": "Thu, 03 Sep 2026 19:11:56 +0000",
+      "category": "NEWS",
+      "summary": "A federal court in Massachusetts has ruled that copyright holders can issue online takedown notices based on a subjective belief of copyright infringement, even when that belief is unreasonable and self-serving. The case was brought by our client, Channel 781 News, after takedown notices temporarily"
+    },
+    {
       "title": "Texas and Florida Step Back from ALPRs",
       "url": "https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 31 Aug 2026 23:37:39 +0000",
       "category": "NEWS",
       "summary": "The California legislature passed Assembly Bill 1709 (A.B. 1709) today, which functions as a sweeping ban on social media use for young people under the age of 16. This well-intentioned, but deeply flawed piece of legislation, cuts young people off from essential information and experiences, particu"
-    },
-    {
-      "title": "EFF to Courts: Don’t Rewrite Copyright Over AI Hype",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 19:45:54 +0000",
-      "category": "NEWS",
-      "summary": "The history of technology is rife with copyright panics.  In the 1980s, major rightsholders ran to Congress and the courts, claiming that videotape recorders (VTR) were “to the American film producer and the American public as the Boston strangler is to the woman home alone.” Then, the Supreme Court"
     }
   ]
 }
