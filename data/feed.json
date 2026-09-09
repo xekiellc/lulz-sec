@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T10:22:16.178Z",
+  "last_updated": "2026-09-09T15:32:27.176Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
+      "url": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
+      "source": "EFF",
+      "publishedAt": "Tue, 08 Sep 2026 19:19:44 +0000",
+      "category": "NEWS",
+      "summary": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model, a new Medicare program that uses AI to evaluate prior authorization requests for certain medical services. Today, we’re releasing approximately 1,000 pages of records obtained "
+    },
+    {
       "title": "Court Rules Against Citizen Journalists in DMCA Takedown Case—EFF Will Appeal",
       "url": "https://www.eff.org/deeplinks/2026/09/court-rules-against-citizen-journalists-dmca-takedown-case-eff-will-appeal",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 01 Sep 2026 20:51:07 +0000",
       "category": "NEWS",
       "summary": "Meta’s settlement with 52 state attorneys general is a bad deal for all internet users, and especially for teens. That’s what we said the day the settlement was announced.\nIn this post, we go through the Settlement’s provisions in detail and explain why that is so, including how:\nThe Settlement embe"
-    },
-    {
-      "title": "EFF to Governor Newsom: Veto California’s AB 1709",
-      "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-      "source": "EFF",
-      "publishedAt": "Mon, 31 Aug 2026 23:37:39 +0000",
-      "category": "NEWS",
-      "summary": "The California legislature passed Assembly Bill 1709 (A.B. 1709) today, which functions as a sweeping ban on social media use for young people under the age of 16. This well-intentioned, but deeply flawed piece of legislation, cuts young people off from essential information and experiences, particu"
     }
   ]
 }
