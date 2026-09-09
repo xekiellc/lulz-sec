@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T15:32:27.176Z",
+  "last_updated": "2026-09-09T20:11:20.348Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,30 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
+      "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
+      "source": "EFF",
+      "publishedAt": "Wed, 09 Sep 2026 20:09:10 +0000",
+      "category": "NEWS",
+      "summary": "Law enforcement agencies across the country are increasingly relying on spying technologies—automated license plate readers (ALPR), cell-site simulators, and facial recognition, to name a few--causing an outcry in many communities where people are rightly concerned about the threat to civil rights a"
+    },
+    {
+      "title": "Digital Sovereignty: What It Is, What It Could Be",
+      "url": "https://www.eff.org/deeplinks/2026/09/digital-sovereignty-what-it-what-it-could-be",
+      "source": "EFF",
+      "publishedAt": "Wed, 09 Sep 2026 18:04:27 +0000",
+      "category": "NEWS",
+      "summary": "The term “digital sovereignty” has become ubiquitous. European officials invoke it in debates about cloud infrastructure, AI, semiconductors, and platform regulation. Governments throughout the global majority use it to argue for greater control over data and communications infrastructure and boost "
+    },
+    {
+      "title": "2026 EFF Award Winners: Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights",
+      "url": "https://www.eff.org/deeplinks/2026/09/2026-eff-award-winners-access-now-7amleh-arab-center-advancement-social-media",
+      "source": "EFF",
+      "publishedAt": "Wed, 09 Sep 2026 16:00:33 +0000",
+      "category": "NEWS",
+      "summary": "EFF is pleased to announce that Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights have received 2026 EFF Awards for their vital work in ensuring that technology supports freedom, justice, and innovation for all people. \nThe EFF Awards recognize s"
+    },
+    {
       "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
       "url": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Thu, 03 Sep 2026 19:11:56 +0000",
       "category": "NEWS",
       "summary": "A federal court in Massachusetts has ruled that copyright holders can issue online takedown notices based on a subjective belief of copyright infringement, even when that belief is unreasonable and self-serving. The case was brought by our client, Channel 781 News, after takedown notices temporarily"
-    },
-    {
-      "title": "Texas and Florida Step Back from ALPRs",
-      "url": "https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs",
-      "source": "EFF",
-      "publishedAt": "Wed, 02 Sep 2026 17:31:31 +0000",
-      "category": "NEWS",
-      "summary": "Within the last few days, two important state actions have dealt a big blow to automated license plate reader (ALPR) networks. This is just the latest proof of the growing tide of public opposition to mass surveillance. After years of successful grassroots battles to pull these cameras from local st"
-    },
-    {
-      "title": "Judge Rules DOD Unlawfully Retaliated Against Anthropic",
-      "url": "https://www.eff.org/deeplinks/2026/09/judge-rules-dod-unlawfully-retaliated-against-anthropic",
-      "source": "EFF",
-      "publishedAt": "Wed, 02 Sep 2026 01:13:50 +0000",
-      "category": "NEWS",
-      "summary": "A federal judge has sided with Anthropic on its claims that the Department of Defense illegally retaliated against Anthropic’s protected speech by labeling the AI company a “supply chain risk.” The judge found that designation, intended to penalize Anthropic for telling the U.S. military it would no"
-    },
-    {
-      "title": "Meta's $17 Billion Settlement is a Bad Deal for Teens and All Social Media Users",
-      "url": "https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users",
-      "source": "EFF",
-      "publishedAt": "Tue, 01 Sep 2026 20:51:07 +0000",
-      "category": "NEWS",
-      "summary": "Meta’s settlement with 52 state attorneys general is a bad deal for all internet users, and especially for teens. That’s what we said the day the settlement was announced.\nIn this post, we go through the Settlement’s provisions in detail and explain why that is so, including how:\nThe Settlement embe"
     }
   ]
 }
