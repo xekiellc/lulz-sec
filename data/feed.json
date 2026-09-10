@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T15:28:06.249Z",
+  "last_updated": "2026-09-10T20:12:53.557Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "We All Deserve a Better Internet, Not A Smaller One",
+      "url": "https://www.eff.org/press/releases/we-all-deserve-better-internet-not-smaller-one",
+      "source": "EFF",
+      "publishedAt": "Thu, 10 Sep 2026 19:12:08 +0000",
+      "category": "NEWS",
+      "summary": "Bans Like California’s Don’t Fix What’s Wrong With Social Media Companies \n\n\n\nSAN FRANCISCO - Technology and the laws that regulate it should support and empower young people. California’s AB 1709 - signed into law today by Gov. Gavin Newsom - falls far short of this goal, say the Electronic Frontie"
+    },
+    {
       "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
       "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 08 Sep 2026 19:19:44 +0000",
       "category": "NEWS",
       "summary": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model, a new Medicare program that uses AI to evaluate prior authorization requests for certain medical services. Today, we’re releasing approximately 1,000 pages of records obtained "
-    },
-    {
-      "title": "Court Rules Against Citizen Journalists in DMCA Takedown Case—EFF Will Appeal",
-      "url": "https://www.eff.org/deeplinks/2026/09/court-rules-against-citizen-journalists-dmca-takedown-case-eff-will-appeal",
-      "source": "EFF",
-      "publishedAt": "Thu, 03 Sep 2026 19:11:56 +0000",
-      "category": "NEWS",
-      "summary": "A federal court in Massachusetts has ruled that copyright holders can issue online takedown notices based on a subjective belief of copyright infringement, even when that belief is unreasonable and self-serving. The case was brought by our client, Channel 781 News, after takedown notices temporarily"
     }
   ]
 }
