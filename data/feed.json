@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:30:10.078Z",
+  "last_updated": "2026-09-11T20:12:07.884Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "Cold TAKE: Amazon's New Encryption Method Still Doesn't Deliver Real Privacy",
+      "url": "https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy",
+      "source": "EFF",
+      "publishedAt": "Fri, 11 Sep 2026 16:56:34 +0000",
+      "category": "NEWS",
+      "summary": "Amazon recently debuted a new feature for its Ring cameras that the company is calling Throw Away the Key Encryption (TAKE). The idea is to cut back on the amount of video content available to the company, and thus potentially available to law enforcement. But while it might technically add a speed "
+    },
+    {
       "title": "We All Deserve a Better Internet, Not A Smaller One",
       "url": "https://www.eff.org/press/releases/we-all-deserve-better-internet-not-smaller-one",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 09 Sep 2026 16:00:33 +0000",
       "category": "NEWS",
       "summary": "EFF is pleased to announce that Access Now, 7amleh – The Arab Center for the Advancement of Social Media, DeFlock, and New Media Rights have received 2026 EFF Awards for their vital work in ensuring that technology supports freedom, justice, and innovation for all people. \nThe EFF Awards recognize s"
-    },
-    {
-      "title": "New Records Reveal Problems with Medicare’s AI Prior Authorization Experiment",
-      "url": "https://www.eff.org/deeplinks/2026/09/new-records-reveal-problems-medicares-ai-prior-authorization-experiment",
-      "source": "EFF",
-      "publishedAt": "Tue, 08 Sep 2026 19:19:44 +0000",
-      "category": "NEWS",
-      "summary": "EFF sued the government back in March for information about the Wasteful and Inappropriate Service Reduction (WISeR) model, a new Medicare program that uses AI to evaluate prior authorization requests for certain medical services. Today, we’re releasing approximately 1,000 pages of records obtained "
     }
   ]
 }
