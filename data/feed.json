@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T11:13:10.091Z",
+  "last_updated": "2026-09-14T17:13:56.802Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "The High Crime of “LMAO”: How Cops Are Treating Mass Surveillance As a Joke",
+      "url": "https://www.eff.org/deeplinks/2026/09/high-crime-lmao-how-cops-are-treating-mass-surveillance-joke",
+      "source": "EFF",
+      "publishedAt": "Mon, 14 Sep 2026 15:21:05 +0000",
+      "category": "NEWS",
+      "summary": "Here's a riddle: Why did a Goshen Police Department officer search 6,474 automated license plate reader (ALPR) networks, representing data from 82,413 cameras, on May 7, 2025? \nIf your answer is \"I don't know,\" it turns out you're 100% correct. The officer left the letters \"idk\" in the search field "
+    },
+    {
       "title": "Governor Newsom Signs Student-Backed Digital Literacy Bills Alongside Misguided Bans",
       "url": "https://www.eff.org/deeplinks/2026/09/governor-newsom-signs-student-backed-digital-literacy-bills-alongside-misguided",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 09 Sep 2026 20:09:10 +0000",
       "category": "NEWS",
       "summary": "Law enforcement agencies across the country are increasingly relying on spying technologies—automated license plate readers (ALPR), cell-site simulators, and facial recognition, to name a few--causing an outcry in many communities where people are rightly concerned about the threat to civil rights a"
-    },
-    {
-      "title": "Digital Sovereignty: What It Is, What It Could Be",
-      "url": "https://www.eff.org/deeplinks/2026/09/digital-sovereignty-what-it-what-it-could-be",
-      "source": "EFF",
-      "publishedAt": "Wed, 09 Sep 2026 18:04:27 +0000",
-      "category": "NEWS",
-      "summary": "The term “digital sovereignty” has become ubiquitous. European officials invoke it in debates about cloud infrastructure, AI, semiconductors, and platform regulation. Governments throughout the global majority use it to argue for greater control over data and communications infrastructure and boost "
     }
   ]
 }
