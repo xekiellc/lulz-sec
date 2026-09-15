@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T15:53:51.540Z",
+  "last_updated": "2026-09-15T20:38:05.906Z",
   "articles": [
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -42,6 +42,14 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     },
     {
+      "title": "California: Tell the Governor to Stand Up for Net Neutrality, Affordability, and Public Safety",
+      "url": "https://www.eff.org/deeplinks/2026/09/california-tell-governor-stand-net-neutrality-affordability-and-public-safety",
+      "source": "EFF",
+      "publishedAt": "Tue, 15 Sep 2026 18:35:24 +0000",
+      "category": "NEWS",
+      "summary": "The federal government has inserted a provision into a funding deal with the state of California that would make the state abandon its gold standard net neutrality law, broadband affordability laws, and public safety protections. Doing so would be a huge step back for California, and would actually "
+    },
+    {
       "title": "The High Crime of “LMAO”: How Cops Are Treating Mass Surveillance As a Joke",
       "url": "https://www.eff.org/deeplinks/2026/09/high-crime-lmao-how-cops-are-treating-mass-surveillance-joke",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 10 Sep 2026 19:12:08 +0000",
       "category": "NEWS",
       "summary": "Bans Like California’s Don’t Fix What’s Wrong With Social Media Companies \n\n\n\nSAN FRANCISCO - Technology and the laws that regulate it should support and empower young people. California’s AB 1709 - signed into law today by Gov. Gavin Newsom - falls far short of this goal, say the Electronic Frontie"
-    },
-    {
-      "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
-      "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
-      "source": "EFF",
-      "publishedAt": "Wed, 09 Sep 2026 20:09:10 +0000",
-      "category": "NEWS",
-      "summary": "Law enforcement agencies across the country are increasingly relying on spying technologies—automated license plate readers (ALPR), cell-site simulators, and facial recognition, to name a few--causing an outcry in many communities where people are rightly concerned about the threat to civil rights a"
     }
   ]
 }
