@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-16T15:45:22.742Z",
+  "last_updated": "2026-09-16T20:37:19.306Z",
   "articles": [
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "Krebs on Security",
+      "publishedAt": "Wed, 16 Sep 2026 18:14:22 +0000",
+      "category": "NEWS",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides"
+    },
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -34,12 +42,36 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 11 Aug 2026 21:28:35 +0000",
+      "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
+      "url": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
+      "source": "EFF",
+      "publishedAt": "Wed, 16 Sep 2026 16:50:43 +0000",
       "category": "NEWS",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
+      "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the entity that controls the server that hosts a copyrighted work, not the user or website that merely directs others to it, is directly liable "
+    },
+    {
+      "title": "EFF Welcomes Alexander Macgillivray to its Board of Directors",
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-welcomes-alexander-macgillivray-its-board-directors",
+      "source": "EFF",
+      "publishedAt": "Wed, 16 Sep 2026 16:36:37 +0000",
+      "category": "NEWS",
+      "summary": "The Electronic Frontier Foundation (EFF) is honored to announce today that Alexander “amac” Macgillivray — a former White House official who also served in top legal capacities at Twitter and Google — has joined EFF’s Board of Directors. \nMacgillivray served in the Biden Administration as Deputy Ass"
+    },
+    {
+      "title": "👮 Flock Searches for the LOLs | EFFector 38.16",
+      "url": "https://www.eff.org/deeplinks/2026/09/flock-searches-lols-effector-3816",
+      "source": "EFF",
+      "publishedAt": "Wed, 16 Sep 2026 16:23:19 +0000",
+      "category": "NEWS",
+      "summary": "Mass surveillance isn't a joke. But police are treating it like one when using automated license plate reader (ALPR) networks. In our latest EFFector newsletter, we're covering a new EFF report on how officers across the country are routinely logging completely nonsensical \"reasons\" for their Flock "
+    },
+    {
+      "title": "How the Meta Settlement Silences Youth Activism",
+      "url": "https://www.eff.org/how-the-meta-settlement-silences-youth-activism",
+      "source": "EFF",
+      "publishedAt": "Wed, 16 Sep 2026 16:04:50 +0000",
+      "category": "NEWS",
+      "summary": "Since its integration into our digital world, social media has played a pivotal role in youth organizing and social mobilization. Yet, people’s access to these platforms is increasingly coming under threat from courts and legislatures under the guise of protecting young people online—presenting a si"
     },
     {
       "title": "California: Tell the Governor to Stand Up for Net Neutrality, Affordability, and Public Safety",
@@ -48,38 +80,6 @@
       "publishedAt": "Tue, 15 Sep 2026 18:35:24 +0000",
       "category": "NEWS",
       "summary": "The federal government has inserted a provision into a funding deal with the state of California that would make the state abandon its gold standard net neutrality law, broadband affordability laws, and public safety protections. Doing so would be a huge step back for California, and would actually "
-    },
-    {
-      "title": "The High Crime of “LMAO”: How Cops Are Treating Mass Surveillance As a Joke",
-      "url": "https://www.eff.org/deeplinks/2026/09/high-crime-lmao-how-cops-are-treating-mass-surveillance-joke",
-      "source": "EFF",
-      "publishedAt": "Mon, 14 Sep 2026 15:21:05 +0000",
-      "category": "NEWS",
-      "summary": "Here's a riddle: Why did a Goshen Police Department officer search 6,474 automated license plate reader (ALPR) networks, representing data from 82,413 cameras, on May 7, 2025? \nIf your answer is \"I don't know,\" it turns out you're 100% correct. The officer left the letters \"idk\" in the search field "
-    },
-    {
-      "title": "Governor Newsom Signs Student-Backed Digital Literacy Bills Alongside Misguided Bans",
-      "url": "https://www.eff.org/deeplinks/2026/09/governor-newsom-signs-student-backed-digital-literacy-bills-alongside-misguided",
-      "source": "EFF",
-      "publishedAt": "Fri, 11 Sep 2026 20:25:57 +0000",
-      "category": "NEWS",
-      "summary": "Governor Newsom signed a package of 12 bills yesterday aimed at “protecting children” online. One of them was AB 1709, which EFF has opposed this legislative session and serves as a functional ban on young people under 16 using social media. However, EFF supported two of the bills signed into law, A"
-    },
-    {
-      "title": "Cold TAKE: Amazon's New Encryption Method Still Doesn't Deliver Real Privacy",
-      "url": "https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy",
-      "source": "EFF",
-      "publishedAt": "Fri, 11 Sep 2026 16:56:34 +0000",
-      "category": "NEWS",
-      "summary": "Amazon recently debuted a new feature for its Ring cameras that the company is calling Throw Away the Key Encryption (TAKE). The idea is to cut back on the amount of video content available to the company, and thus potentially available to law enforcement. But while it might technically add a speed "
-    },
-    {
-      "title": "We All Deserve a Better Internet, Not A Smaller One",
-      "url": "https://www.eff.org/press/releases/we-all-deserve-better-internet-not-smaller-one",
-      "source": "EFF",
-      "publishedAt": "Thu, 10 Sep 2026 19:12:08 +0000",
-      "category": "NEWS",
-      "summary": "Bans Like California’s Don’t Fix What’s Wrong With Social Media Companies \n\n\n\nSAN FRANCISCO - Technology and the laws that regulate it should support and empower young people. California’s AB 1709 - signed into law today by Gov. Gavin Newsom - falls far short of this goal, say the Electronic Frontie"
     }
   ]
 }
