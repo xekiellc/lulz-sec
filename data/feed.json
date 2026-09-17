@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T20:37:19.306Z",
+  "last_updated": "2026-09-17T02:23:20.288Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "Victory! Appeals Court Rejects Expansive New Copyright Claim",
+      "url": "https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim",
+      "source": "EFF",
+      "publishedAt": "Wed, 16 Sep 2026 22:47:35 +0000",
+      "category": "NEWS",
+      "summary": "The U.S. Court of Appeals for the Ninth Circuit handed internet users and programmers a big win today, by rejecting an attempt to stretch a narrow provision of the Digital Millennium Copyright Act (DMCA) into a new source of copyright liability.  \nThe case involves Section 1202 of the DMCA, which pr"
+    },
+    {
       "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
       "url": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
       "source": "EFF",
@@ -67,19 +75,11 @@
     },
     {
       "title": "How the Meta Settlement Silences Youth Activism",
-      "url": "https://www.eff.org/how-the-meta-settlement-silences-youth-activism",
+      "url": "https://www.eff.org/deeplinks/2026/09/meta-settlement-yet-another-example-online-youth-organizing-under-threat",
       "source": "EFF",
       "publishedAt": "Wed, 16 Sep 2026 16:04:50 +0000",
       "category": "NEWS",
       "summary": "Since its integration into our digital world, social media has played a pivotal role in youth organizing and social mobilization. Yet, people’s access to these platforms is increasingly coming under threat from courts and legislatures under the guise of protecting young people online—presenting a si"
-    },
-    {
-      "title": "California: Tell the Governor to Stand Up for Net Neutrality, Affordability, and Public Safety",
-      "url": "https://www.eff.org/deeplinks/2026/09/california-tell-governor-stand-net-neutrality-affordability-and-public-safety",
-      "source": "EFF",
-      "publishedAt": "Tue, 15 Sep 2026 18:35:24 +0000",
-      "category": "NEWS",
-      "summary": "The federal government has inserted a provision into a funding deal with the state of California that would make the state abandon its gold standard net neutrality law, broadband affordability laws, and public safety protections. Doing so would be a huge step back for California, and would actually "
     }
   ]
 }
