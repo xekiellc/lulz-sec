@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T15:52:04.217Z",
+  "last_updated": "2026-09-17T20:44:24.029Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights",
+      "url": "https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights",
+      "source": "EFF",
+      "publishedAt": "Thu, 17 Sep 2026 19:43:17 +0000",
+      "category": "NEWS",
+      "summary": "A California law that prohibits teens from receiving recommended social media content from other social media users violates their First Amendment rights, EFF argued this week.\nThe case, Meta v. Bonta, challenges SB 976, which requires that teen social media users get their parents’ permission befor"
+    },
+    {
       "title": "Victory! Appeals Court Rejects Expansive New Copyright Claim",
       "url": "https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 16 Sep 2026 16:23:19 +0000",
       "category": "NEWS",
       "summary": "Mass surveillance isn't a joke. But police are treating it like one when using automated license plate reader (ALPR) networks. In our latest EFFector newsletter, we're covering a new EFF report on how officers across the country are routinely logging completely nonsensical \"reasons\" for their Flock "
-    },
-    {
-      "title": "How the Meta Settlement Silences Youth Activism",
-      "url": "https://www.eff.org/deeplinks/2026/09/meta-settlement-yet-another-example-online-youth-organizing-under-threat",
-      "source": "EFF",
-      "publishedAt": "Wed, 16 Sep 2026 16:04:50 +0000",
-      "category": "NEWS",
-      "summary": "Since its integration into our digital world, social media has played a pivotal role in youth organizing and social mobilization. Yet, people’s access to these platforms is increasingly coming under threat from courts and legislatures under the guise of protecting young people online—presenting a si"
     }
   ]
 }
