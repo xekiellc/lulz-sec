@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T20:44:24.029Z",
+  "last_updated": "2026-09-18T02:09:03.785Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
+      "source": "EFF",
+      "publishedAt": "Fri, 18 Sep 2026 01:16:10 +0000",
+      "category": "NEWS",
+      "summary": "With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face incident and the many others reported in its aftermath. As they consider potentially regulating frontier AI, they should foc"
+    },
+    {
       "title": "California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights",
       "url": "https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 16 Sep 2026 16:36:37 +0000",
       "category": "NEWS",
       "summary": "The Electronic Frontier Foundation (EFF) is honored to announce today that Alexander “amac” Macgillivray — a former White House official who also served in top legal capacities at Twitter and Google — has joined EFF’s Board of Directors. \nMacgillivray served in the Biden Administration as Deputy Ass"
-    },
-    {
-      "title": "👮 Flock Searches for the LOLs | EFFector 38.16",
-      "url": "https://www.eff.org/deeplinks/2026/09/flock-searches-lols-effector-3816",
-      "source": "EFF",
-      "publishedAt": "Wed, 16 Sep 2026 16:23:19 +0000",
-      "category": "NEWS",
-      "summary": "Mass surveillance isn't a joke. But police are treating it like one when using automated license plate reader (ALPR) networks. In our latest EFFector newsletter, we're covering a new EFF report on how officers across the country are routinely logging completely nonsensical \"reasons\" for their Flock "
     }
   ]
 }
