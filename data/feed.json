@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T20:08:30.099Z",
+  "last_updated": "2026-09-19T02:12:33.112Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,30 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "EFF Statement on California Governor's Executive Order on AI",
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
+      "source": "EFF",
+      "publishedAt": "Fri, 18 Sep 2026 23:25:44 +0000",
+      "category": "NEWS",
+      "summary": "California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real anxiety about the risks of artificial intelligence, and as an organization that works to ensure technol"
+    },
+    {
+      "title": "How to Limit What Apple’s New Siri AI Can Access in iOS 27",
+      "url": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
+      "source": "EFF",
+      "publishedAt": "Fri, 18 Sep 2026 21:55:16 +0000",
+      "category": "NEWS",
+      "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you invok"
+    },
+    {
+      "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
+      "url": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
+      "source": "EFF",
+      "publishedAt": "Fri, 18 Sep 2026 21:53:55 +0000",
+      "category": "NEWS",
+      "summary": "Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS, operate on a straightforward assumption: the content at each end of a conversation is private to the participants in the conversation. End-to-end encryption helps provide the mathematical guarantees that the companies wh"
+    },
+    {
       "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
       "url": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Thu, 17 Sep 2026 19:43:17 +0000",
       "category": "NEWS",
       "summary": "A California law that prohibits teens from receiving recommended social media content from other social media users violates their First Amendment rights, EFF argued this week.\nThe case, Meta v. Bonta, challenges SB 976, which requires that teen social media users get their parents’ permission befor"
-    },
-    {
-      "title": "Victory! Appeals Court Rejects Expansive New Copyright Claim",
-      "url": "https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim",
-      "source": "EFF",
-      "publishedAt": "Wed, 16 Sep 2026 22:47:35 +0000",
-      "category": "NEWS",
-      "summary": "The U.S. Court of Appeals for the Ninth Circuit handed internet users and programmers a big win today, by rejecting an attempt to stretch a narrow provision of the Digital Millennium Copyright Act (DMCA) into a new source of copyright liability.  \nThe case involves Section 1202 of the DMCA, which pr"
-    },
-    {
-      "title": "Victory: Court, Using a New Test, Rules Embedding Links is Legal",
-      "url": "https://www.eff.org/deeplinks/2026/09/victory-court-using-new-test-rules-embedding-links-legal",
-      "source": "EFF",
-      "publishedAt": "Wed, 16 Sep 2026 16:50:43 +0000",
-      "category": "NEWS",
-      "summary": "Courts have for two decades found that linking and embedding someone else’s web content, be it a photo, music, or an article, doesn’t violate copyright law–the entity that controls the server that hosts a copyrighted work, not the user or website that merely directs others to it, is directly liable "
-    },
-    {
-      "title": "EFF Welcomes Alexander Macgillivray to its Board of Directors",
-      "url": "https://www.eff.org/deeplinks/2026/09/eff-welcomes-alexander-macgillivray-its-board-directors",
-      "source": "EFF",
-      "publishedAt": "Wed, 16 Sep 2026 16:36:37 +0000",
-      "category": "NEWS",
-      "summary": "The Electronic Frontier Foundation (EFF) is honored to announce today that Alexander “amac” Macgillivray — a former White House official who also served in top legal capacities at Twitter and Google — has joined EFF’s Board of Directors. \nMacgillivray served in the Biden Administration as Deputy Ass"
     }
   ]
 }
