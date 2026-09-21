@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T11:24:45.558Z",
+  "last_updated": "2026-09-21T17:24:13.669Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "EU Kids Act Won't Keep the Internet Accountable and Trustworthy",
+      "url": "https://www.eff.org/deeplinks/2026/09/eu-kids-act-wont-keep-internet-accountable-and-trustworthy",
+      "source": "EFF",
+      "publishedAt": "Mon, 21 Sep 2026 12:27:52 +0000",
+      "category": "NEWS",
+      "summary": "The EU Commission draft law to restrict young people’s access to the internet that it presented last week will come at a high cost: it will put online services behind age gates, expand the use of intrusive age verification, and undermine the privacy of all users. \nThe EU Kids Act aims to protect chi"
+    },
+    {
       "title": "EFF Statement on California Governor's Executive Order on AI",
       "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 18 Sep 2026 01:16:10 +0000",
       "category": "NEWS",
       "summary": "With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face incident and the many others reported in its aftermath. As they consider potentially regulating frontier AI, they should foc"
-    },
-    {
-      "title": "California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights",
-      "url": "https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights",
-      "source": "EFF",
-      "publishedAt": "Thu, 17 Sep 2026 19:43:17 +0000",
-      "category": "NEWS",
-      "summary": "A California law that prohibits teens from receiving recommended social media content from other social media users violates their First Amendment rights, EFF argued this week.\nThe case, Meta v. Bonta, challenges SB 976, which requires that teen social media users get their parents’ permission befor"
     }
   ]
 }
