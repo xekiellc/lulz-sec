@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T21:23:28.053Z",
+  "last_updated": "2026-09-22T02:23:16.308Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
+      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+      "source": "EFF",
+      "publishedAt": "Mon, 21 Sep 2026 22:59:32 +0000",
+      "category": "NEWS",
+      "summary": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levi"
+    },
+    {
       "title": "EU Kids Act Won't Keep the Internet Accountable and Trustworthy",
       "url": "https://www.eff.org/deeplinks/2026/09/eu-kids-act-wont-keep-internet-accountable-and-trustworthy",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 18 Sep 2026 21:53:55 +0000",
       "category": "NEWS",
       "summary": "Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS, operate on a straightforward assumption: the content at each end of a conversation is private to the participants in the conversation. End-to-end encryption helps provide the mathematical guarantees that the companies wh"
-    },
-    {
-      "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
-      "url": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
-      "source": "EFF",
-      "publishedAt": "Fri, 18 Sep 2026 01:16:10 +0000",
-      "category": "NEWS",
-      "summary": "With doomsday AI scenarios dominating the news, lawmakers are rightly concerned about reports concerning security breaches at major US AI labs, such as the OpenAI–Hugging Face incident and the many others reported in its aftermath. As they consider potentially regulating frontier AI, they should foc"
     }
   ]
 }
