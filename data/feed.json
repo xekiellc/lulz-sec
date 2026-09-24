@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T16:07:19.199Z",
+  "last_updated": "2026-09-24T20:55:53.640Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "source": "EFF",
+      "publishedAt": "Thu, 24 Sep 2026 20:11:52 +0000",
+      "category": "NEWS",
+      "summary": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’ve"
+    },
+    {
       "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
       "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 18 Sep 2026 21:55:16 +0000",
       "category": "NEWS",
       "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you invok"
-    },
-    {
-      "title": "Secure Messaging and AI Remain In Conflict Despite the Promise of TEEs",
-      "url": "https://www.eff.org/deeplinks/2026/09/secure-messaging-and-ai-remain-conflict-despite-promise-tees",
-      "source": "EFF",
-      "publishedAt": "Fri, 18 Sep 2026 21:53:55 +0000",
-      "category": "NEWS",
-      "summary": "Secure messaging platforms, like Signal, WhatsApp, and recently, encrypted RCS, operate on a straightforward assumption: the content at each end of a conversation is private to the participants in the conversation. End-to-end encryption helps provide the mathematical guarantees that the companies wh"
     }
   ]
 }
