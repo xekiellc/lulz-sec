@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T16:07:41.258Z",
+  "last_updated": "2026-09-25T20:51:46.621Z",
   "articles": [
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -42,6 +42,14 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large"
     },
     {
+      "title": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' First Amendment Equal Access Rights",
+      "url": "https://www.eff.org/deeplinks/2026/09/ff-court-trumps-use-truth-socials-pay-see-posts-first-scheme-violates-americans",
+      "source": "EFF",
+      "publishedAt": "Fri, 25 Sep 2026 19:18:55 +0000",
+      "category": "NEWS",
+      "summary": "EFF legal intern Simar Kaur also contributed to this article.\nAmericans’ First Amendment right to equal access to official government statements is violated by the Trump administration’s use of Truth Social’s preferential treatment scheme, which blocks people who won’t pay Trump’s company up to $100"
+    },
+    {
       "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
       "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 18 Sep 2026 23:25:44 +0000",
       "category": "NEWS",
       "summary": "California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real anxiety about the risks of artificial intelligence, and as an organization that works to ensure technol"
-    },
-    {
-      "title": "How to Limit What Apple’s New Siri AI Can Access in iOS 27",
-      "url": "https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27",
-      "source": "EFF",
-      "publishedAt": "Fri, 18 Sep 2026 21:55:16 +0000",
-      "category": "NEWS",
-      "summary": "Apple’s new operating system is here, and along with it comes a new version of Siri, dubbed with two very familiar letters: AI. As the name suggests, this Siri power-up resembles an AI chatbot more than the often derided voice assistant you might be used to. It has even evolved from a blob you invok"
     }
   ]
 }
