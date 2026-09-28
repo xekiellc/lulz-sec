@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-09-28T12:20:13.838Z",
+  "last_updated": "2026-09-28T22:44:30.809Z",
   "articles": [
+    {
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "category": "NEWS",
+      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
+    },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -34,12 +42,12 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "source": "Krebs on Security",
-      "publishedAt": "Thu, 27 Aug 2026 11:04:15 +0000",
+      "title": "EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy",
+      "url": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
+      "source": "EFF",
+      "publishedAt": "Mon, 28 Sep 2026 20:30:00 +0000",
       "category": "NEWS",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\r\n\r\nIn a statement released today, the Australian Federal Police (AFP) said two unn"
+      "summary": "The San Francisco Police Department (SFPD) began regularly deploying drones two years ago and has since expanded their use in a way that has outpaced its documented policy and evaded existing local and state oversight of these devices. \nThe department has a new proposed policy, which continues to be"
     },
     {
       "title": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 21 Sep 2026 12:27:52 +0000",
       "category": "NEWS",
       "summary": "The EU Commission draft law to restrict young people’s access to the internet that it presented last week will come at a high cost: it will put online services behind age gates, expand the use of intrusive age verification, and undermine the privacy of all users. \nThe EU Kids Act aims to protect chi"
-    },
-    {
-      "title": "EFF Statement on California Governor's Executive Order on AI",
-      "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
-      "source": "EFF",
-      "publishedAt": "Fri, 18 Sep 2026 23:25:44 +0000",
-      "category": "NEWS",
-      "summary": "California Gov. Gavin Newsom's executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real anxiety about the risks of artificial intelligence, and as an organization that works to ensure technol"
     }
   ]
 }
