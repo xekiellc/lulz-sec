@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:14:57.471Z",
+  "last_updated": "2026-09-29T21:38:32.443Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,14 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards",
+      "url": "https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards",
+      "source": "EFF",
+      "publishedAt": "Tue, 29 Sep 2026 21:30:22 +0000",
+      "category": "NEWS",
+      "summary": "San Francisco's decision to retain its use of Automated License Plate Reader (ALPR) surveillance cameras belies what we know about this spying technology tool: it endangers residents and threatens the privacy and civil liberties of our community. Based on what's in the city's press release and annou"
+    },
+    {
       "title": "Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries",
       "url": "https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 24 Sep 2026 20:11:52 +0000",
       "category": "NEWS",
       "summary": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’ve"
-    },
-    {
-      "title": "D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents",
-      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-      "source": "EFF",
-      "publishedAt": "Mon, 21 Sep 2026 22:59:32 +0000",
-      "category": "NEWS",
-      "summary": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levi"
     }
   ]
 }
