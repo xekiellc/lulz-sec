@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T11:47:12.830Z",
+  "last_updated": "2026-09-29T17:14:57.471Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,14 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries",
+      "url": "https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries",
+      "source": "EFF",
+      "publishedAt": "Tue, 29 Sep 2026 15:00:32 +0000",
+      "category": "NEWS",
+      "summary": "People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recognition to creepy ads that – based on what we see and do online – seem to know everything we’re thinking and planning. It didn’t have to be this way, a"
+    },
+    {
       "title": "EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy",
       "url": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 21 Sep 2026 22:59:32 +0000",
       "category": "NEWS",
       "summary": "EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levi"
-    },
-    {
-      "title": "EU Kids Act Won't Keep the Internet Accountable and Trustworthy",
-      "url": "https://www.eff.org/deeplinks/2026/09/eu-kids-act-wont-keep-internet-accountable-and-trustworthy",
-      "source": "EFF",
-      "publishedAt": "Mon, 21 Sep 2026 12:27:52 +0000",
-      "category": "NEWS",
-      "summary": "The EU Commission draft law to restrict young people’s access to the internet that it presented last week will come at a high cost: it will put online services behind age gates, expand the use of intrusive age verification, and undermine the privacy of all users. \nThe EU Kids Act aims to protect chi"
     }
   ]
 }
