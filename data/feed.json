@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T11:33:45.304Z",
+  "last_updated": "2026-09-30T17:13:01.510Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,14 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
+      "url": "https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817",
+      "source": "EFF",
+      "publishedAt": "Wed, 30 Sep 2026 16:45:11 +0000",
+      "category": "NEWS",
+      "summary": "With the launch of iOS 27, Apple is rolling out a variety of new AI features to its familiar voice assistant, Siri. But how are AI tools like these handling our data? In our latest EFFector newsletter, we're talking about the privacy complications of AI phone features.\n\nJOIN OUR NEWSLETTER\nFor over "
+    },
+    {
       "title": "While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards",
       "url": "https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 25 Sep 2026 21:04:11 +0000",
       "category": "NEWS",
       "summary": "EFF legal intern Simar Kaur also contributed to this article.\nAmericans’ First Amendment right to equal access to official government statements is violated by the Trump administration’s use of Truth Social’s preferential treatment scheme, which blocks people who won’t pay Trump’s company up to $100"
-    },
-    {
-      "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "source": "EFF",
-      "publishedAt": "Thu, 24 Sep 2026 20:11:52 +0000",
-      "category": "NEWS",
-      "summary": "Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions. This kind of targeting is a form of online behavioral advertising, which is when companies personalize the ads they show you based on the data they’ve"
     }
   ]
 }
