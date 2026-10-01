@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T21:39:06.259Z",
+  "last_updated": "2026-10-01T03:04:08.569Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,14 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist",
+      "url": "https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless",
+      "source": "EFF",
+      "publishedAt": "Wed, 30 Sep 2026 22:38:05 +0000",
+      "category": "NEWS",
+      "summary": "When the rich and powerful try to use the court to silence negative reporting about themselves, it’s worth calling out that behavior for what it is: an attack on free speech. This is why EFF is happy to stand up for reporters who find themselves in that situation.\nThe California Court of Appeals uph"
+    },
+    {
       "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
       "url": "https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 28 Sep 2026 20:30:00 +0000",
       "category": "NEWS",
       "summary": "The San Francisco Police Department (SFPD) began regularly deploying drones two years ago and has since expanded their use in a way that has outpaced its documented policy and evaded existing local and state oversight of these devices. \nThe department has a new proposed policy, which continues to be"
-    },
-    {
-      "title": "EFF to Court: Trump's Use of Truth Social's Pay-To-See-Posts-First Scheme Violates Americans' 1st Amendment Equal Access Rights",
-      "url": "https://www.eff.org/deeplinks/2026/09/ff-court-trumps-use-truth-socials-pay-see-posts-first-scheme-violates-americans",
-      "source": "EFF",
-      "publishedAt": "Fri, 25 Sep 2026 21:04:11 +0000",
-      "category": "NEWS",
-      "summary": "EFF legal intern Simar Kaur also contributed to this article.\nAmericans’ First Amendment right to equal access to official government statements is violated by the Trump administration’s use of Truth Social’s preferential treatment scheme, which blocks people who won’t pay Trump’s company up to $100"
     }
   ]
 }
