@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T12:02:21.770Z",
+  "last_updated": "2026-10-01T22:06:45.680Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,44 +42,44 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data",
+      "url": "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data",
+      "source": "EFF",
+      "publishedAt": "Thu, 01 Oct 2026 21:59:08 +0000",
+      "category": "NEWS",
+      "summary": "The Marin County Sheriff’s Office is the latest California law enforcement agency to get caught sharing automated license plate reader (ALPR) data from their Flock Safety system with out-of-state and federal agencies. EFF and the ACLU of Northern California are calling them out for this direct viola"
+    },
+    {
+      "title": "Challengers Approach: Third Party App Stores Arrive to Google Play",
+      "url": "https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play",
+      "source": "EFF",
+      "publishedAt": "Thu, 01 Oct 2026 21:25:19 +0000",
+      "category": "NEWS",
+      "summary": "If you are an Android user, you may have noticed it already: Google has begun allowing rival, third-party app stores to be distributed through the Google Play Store. And if you are a developer, you may have noticed new options for billing and distributing your apps. \nFor years, Epic Games, maker of "
+    },
+    {
+      "title": "Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "source": "EFF",
+      "publishedAt": "Thu, 01 Oct 2026 19:57:20 +0000",
+      "category": "NEWS",
+      "summary": "When state lawmakers attempt to rewrite how the internet works, users rely on courts to recognize that laws can’t make technical impossibilities a reality. That’s why we were happy to see that a court has blocked Utah’s attempt to outlaw the privacy protections of Virtual Private Networks (VPNs). \nI"
+    },
+    {
+      "title": "Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants",
+      "url": "https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants",
+      "source": "EFF",
+      "publishedAt": "Thu, 01 Oct 2026 19:27:29 +0000",
+      "category": "NEWS",
+      "summary": "Over the years, the major tech companies have found all sorts of ways to embed themselves into our lives. We often use their software, their AI tools, their social media, and their operating systems by default without even thinking about potential alternatives. It’s time to rethink that relationship"
+    },
+    {
       "title": "Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist",
       "url": "https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless",
       "source": "EFF",
       "publishedAt": "Wed, 30 Sep 2026 22:38:05 +0000",
       "category": "NEWS",
       "summary": "When the rich and powerful try to use the court to silence negative reporting about themselves, it’s worth calling out that behavior for what it is: an attack on free speech. This is why EFF is happy to stand up for reporters who find themselves in that situation.\nThe California Court of Appeals uph"
-    },
-    {
-      "title": "📱 Hey Siri, How Do I Limit AI Data Access? | EFFector 38.17",
-      "url": "https://www.eff.org/deeplinks/2026/09/hey-siri-how-do-i-limit-ai-data-access-effector-3817",
-      "source": "EFF",
-      "publishedAt": "Wed, 30 Sep 2026 16:45:11 +0000",
-      "category": "NEWS",
-      "summary": "With the launch of iOS 27, Apple is rolling out a variety of new AI features to its familiar voice assistant, Siri. But how are AI tools like these handling our data? In our latest EFFector newsletter, we're talking about the privacy complications of AI phone features.\n\nJOIN OUR NEWSLETTER\nFor over "
-    },
-    {
-      "title": "While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards",
-      "url": "https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards",
-      "source": "EFF",
-      "publishedAt": "Tue, 29 Sep 2026 21:30:22 +0000",
-      "category": "NEWS",
-      "summary": "San Francisco's decision to retain its use of Automated License Plate Reader (ALPR) surveillance cameras belies what we know about this spying technology tool: it endangers residents and threatens the privacy and civil liberties of our community. Based on what's in the city's press release and annou"
-    },
-    {
-      "title": "Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries",
-      "url": "https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries",
-      "source": "EFF",
-      "publishedAt": "Tue, 29 Sep 2026 15:00:32 +0000",
-      "category": "NEWS",
-      "summary": "People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recognition to creepy ads that – based on what we see and do online – seem to know everything we’re thinking and planning. It didn’t have to be this way, a"
-    },
-    {
-      "title": "EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy",
-      "url": "https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust",
-      "source": "EFF",
-      "publishedAt": "Mon, 28 Sep 2026 20:30:00 +0000",
-      "category": "NEWS",
-      "summary": "The San Francisco Police Department (SFPD) began regularly deploying drones two years ago and has since expanded their use in a way that has outpaced its documented policy and evaded existing local and state oversight of these devices. \nThe department has a new proposed policy, which continues to be"
     }
   ]
 }
