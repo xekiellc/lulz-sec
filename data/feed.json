@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T17:01:15.459Z",
+  "last_updated": "2026-10-02T21:34:03.948Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,22 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "Site-Blocking Will Not Defend IP, No Matter the Bill’s Name",
+      "url": "https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name",
+      "source": "EFF",
+      "publishedAt": "Fri, 02 Oct 2026 18:59:23 +0000",
+      "category": "NEWS",
+      "summary": "There has been a raft of site-blocking bills in the latest Congress, and the latest is called the “Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property” aka the “DEFEND IP Act.” The problem is that instead of “defending IP,” this bill will incentivize censorship"
+    },
+    {
+      "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
+      "url": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
+      "source": "EFF",
+      "publishedAt": "Fri, 02 Oct 2026 17:41:08 +0000",
+      "category": "NEWS",
+      "summary": "Congress is taking another run at site-blocking, a deeply flawed concept that would undermine basic internet infrastructure. Rep. Darrell Issa (R-CA) has introduced the American Copyright Protection Act (ACPA), H.R. 10364, a bill that would give copyright owners a new legal tool to block Americans’ "
+    },
+    {
       "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
       "url": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Thu, 01 Oct 2026 21:59:08 +0000",
       "category": "NEWS",
       "summary": "The Marin County Sheriff’s Office is the latest California law enforcement agency to get caught sharing automated license plate reader (ALPR) data from their Flock Safety system with out-of-state and federal agencies. EFF and the ACLU of Northern California are calling them out for this direct viola"
-    },
-    {
-      "title": "Challengers Approach: Third Party App Stores Arrive to Google Play",
-      "url": "https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play",
-      "source": "EFF",
-      "publishedAt": "Thu, 01 Oct 2026 21:25:19 +0000",
-      "category": "NEWS",
-      "summary": "If you are an Android user, you may have noticed it already: Google has begun allowing rival, third-party app stores to be distributed through the Google Play Store. And if you are a developer, you may have noticed new options for billing and distributing your apps. \nFor years, Epic Games, maker of "
-    },
-    {
-      "title": "Court Agrees with EFF: Utah’s VPN Law Demands a Technical Impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "source": "EFF",
-      "publishedAt": "Thu, 01 Oct 2026 19:57:20 +0000",
-      "category": "NEWS",
-      "summary": "When state lawmakers attempt to rewrite how the internet works, users rely on courts to recognize that laws can’t make technical impossibilities a reality. That’s why we were happy to see that a court has blocked Utah’s attempt to outlaw the privacy protections of Virtual Private Networks (VPNs). \nI"
     }
   ]
 }
