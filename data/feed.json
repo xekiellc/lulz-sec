@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T11:33:46.264Z",
+  "last_updated": "2026-10-02T17:01:15.459Z",
   "articles": [
     {
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -42,6 +42,22 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning i"
     },
     {
+      "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
+      "url": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
+      "source": "EFF",
+      "publishedAt": "Fri, 02 Oct 2026 15:54:42 +0000",
+      "category": "NEWS",
+      "summary": "Judge Allows Social Media Surveillance Lawsuit Against Trump Administration to Move Forward\n\n\n\nNEW YORK — A lawsuit filed by three labor unions against the Departments of State and Homeland Security for their viewpoint-based surveillance and suppression of protected expression online can move forwar"
+    },
+    {
+      "title": "Ola Bini Ordered to Leave Ecuador Under Obscure Accusations",
+      "url": "https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations",
+      "source": "EFF",
+      "publishedAt": "Fri, 02 Oct 2026 13:34:01 +0000",
+      "category": "NEWS",
+      "summary": "In a new blow to Ola Bini’s legal guarantees, Ecuadorean authorities retained the free software developer and security expert yesterday in Quito and ordered his immediate deportation from the country. He is barred from returning to Ecuador for 10 years. \nAccording to information released by his lawy"
+    },
+    {
       "title": "We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data",
       "url": "https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Thu, 01 Oct 2026 19:57:20 +0000",
       "category": "NEWS",
       "summary": "When state lawmakers attempt to rewrite how the internet works, users rely on courts to recognize that laws can’t make technical impossibilities a reality. That’s why we were happy to see that a court has blocked Utah’s attempt to outlaw the privacy protections of Virtual Private Networks (VPNs). \nI"
-    },
-    {
-      "title": "Happy Opt Out October! Let’s Find Real Alternatives to the Tech Giants",
-      "url": "https://www.eff.org/deeplinks/2026/10/happy-opt-out-october-lets-find-real-alternatives-tech-giants",
-      "source": "EFF",
-      "publishedAt": "Thu, 01 Oct 2026 19:27:29 +0000",
-      "category": "NEWS",
-      "summary": "Over the years, the major tech companies have found all sorts of ways to embed themselves into our lives. We often use their software, their AI tools, their social media, and their operating systems by default without even thinking about potential alternatives. It’s time to rethink that relationship"
-    },
-    {
-      "title": "Victory! California Appeals Court Refuses to Revive Surveillance Tech CEO’s Meritless Lawsuit Against Journalist",
-      "url": "https://www.eff.org/deeplinks/2026/09/victory-california-appeals-court-refuses-revive-surveillance-tech-ceos-meritless",
-      "source": "EFF",
-      "publishedAt": "Wed, 30 Sep 2026 22:38:05 +0000",
-      "category": "NEWS",
-      "summary": "When the rich and powerful try to use the court to silence negative reporting about themselves, it’s worth calling out that behavior for what it is: an attack on free speech. This is why EFF is happy to stand up for reporters who find themselves in that situation.\nThe California Court of Appeals uph"
     }
   ]
 }
