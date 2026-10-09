@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T12:16:13.089Z",
+  "last_updated": "2026-10-09T21:59:41.921Z",
   "articles": [
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
@@ -42,6 +42,22 @@
       "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many o"
     },
     {
+      "title": "Resisting the Menace of Federal Data Consolidation",
+      "url": "https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation",
+      "source": "EFF",
+      "publishedAt": "Fri, 09 Oct 2026 21:46:34 +0000",
+      "category": "NEWS",
+      "summary": "In the past two years, the federal government has unlawfully consolidated data exposing our private information. \nThis consolidation has been chaotic but generally came in three rolling waves: It started with DOGE, moved to agency-to-agency data sharing with ICE, and then attempted data-driven purge"
+    },
+    {
+      "title": "Organizing in the Town at Oakland Tech Week",
+      "url": "https://www.eff.org/deeplinks/2026/10/organizing-town-oakland-tech-week",
+      "source": "EFF",
+      "publishedAt": "Fri, 09 Oct 2026 16:41:43 +0000",
+      "category": "NEWS",
+      "summary": "EFF was thrilled to join organizers, advocates, and activists in the East Bay for the second annual Oakland Tech Week last week. We are grateful to our friends at MediaJustice and Upturn for inviting us co-present this all-day event, “Building Beyond Big Tech: Organizing Oakland’s Future”, on Sept. "
+    },
+    {
       "title": "When No ID Means No Internet: Age Verification and the Right to Access Information",
       "url": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 02 Oct 2026 18:59:23 +0000",
       "category": "NEWS",
       "summary": "There has been a raft of site-blocking bills in the latest Congress, and the latest is called the “Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property” aka the “DEFEND IP Act.” The problem is that instead of “defending IP,” this bill will incentivize censorship"
-    },
-    {
-      "title": "Congress Has Another Site-Blocking Bill, And This One Targets VPNs",
-      "url": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
-      "source": "EFF",
-      "publishedAt": "Fri, 02 Oct 2026 17:41:08 +0000",
-      "category": "NEWS",
-      "summary": "Congress is taking another run at site-blocking, a deeply flawed concept that would undermine basic internet infrastructure. Rep. Darrell Issa (R-CA) has introduced the American Copyright Protection Act (ACPA), H.R. 10364, a bill that would give copyright owners a new legal tool to block Americans’ "
-    },
-    {
-      "title": "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit",
-      "url": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
-      "source": "EFF",
-      "publishedAt": "Fri, 02 Oct 2026 15:54:42 +0000",
-      "category": "NEWS",
-      "summary": "Judge Allows Social Media Surveillance Lawsuit Against Trump Administration to Move Forward\n\n\n\nNEW YORK — A lawsuit filed by three labor unions against the Departments of State and Homeland Security for their viewpoint-based surveillance and suppression of protected expression online can move forwar"
     }
   ]
 }
