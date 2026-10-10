@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-09T21:59:41.921Z",
+  "last_updated": "2026-10-10T03:19:02.813Z",
   "articles": [
+    {
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "publishedAt": "Sat, 10 Oct 2026 00:17:42 +0000",
+      "category": "NEWS",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
+    },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -34,14 +42,6 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides"
     },
     {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "source": "Krebs on Security",
-      "publishedAt": "Tue, 08 Sep 2026 21:44:22 +0000",
-      "category": "NEWS",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many o"
-    },
-    {
       "title": "Resisting the Menace of Federal Data Consolidation",
       "url": "https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation",
       "source": "EFF",
@@ -58,6 +58,14 @@
       "summary": "EFF was thrilled to join organizers, advocates, and activists in the East Bay for the second annual Oakland Tech Week last week. We are grateful to our friends at MediaJustice and Upturn for inviting us co-present this all-day event, “Building Beyond Big Tech: Organizing Oakland’s Future”, on Sept. "
     },
     {
+      "title": "Turkish Crackdown On LGBTQ+ Organizations Threatens Freedom of Expression and Association",
+      "url": "https://www.eff.org/deeplinks/2026/10/turkish-crackdown-lgbtq-organizations-threatens-freedom-expression-and-association",
+      "source": "EFF",
+      "publishedAt": "Fri, 09 Oct 2026 14:22:38 +0000",
+      "category": "NEWS",
+      "summary": "EFF strongly condemns Turkey’s state-led discriminatory, oppressive attacks on feminist and LGBTQ+ organisations, media platforms, student groups, and rights defenders and activists within the country. \nSince mid-September, access to the websites and social media accounts of a dozen organizations ha"
+    },
+    {
       "title": "When No ID Means No Internet: Age Verification and the Right to Access Information",
       "url": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 08 Oct 2026 16:02:24 +0000",
       "category": "NEWS",
       "summary": "Today is DAF Day! This event highlights the millions of donor-advised funds (DAFs) people have set up to make charitable donations and change the world. If you have a DAF, consider supporting EFF today.\nDecisions about your privacy, encryption, artificial intelligence, online speech, and digital sec"
-    },
-    {
-      "title": "Site-Blocking Will Not Defend IP, No Matter the Bill’s Name",
-      "url": "https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name",
-      "source": "EFF",
-      "publishedAt": "Fri, 02 Oct 2026 18:59:23 +0000",
-      "category": "NEWS",
-      "summary": "There has been a raft of site-blocking bills in the latest Congress, and the latest is called the “Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property” aka the “DEFEND IP Act.” The problem is that instead of “defending IP,” this bill will incentivize censorship"
     }
   ]
 }
