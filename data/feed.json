@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T13:09:33.322Z",
+  "last_updated": "2026-10-13T22:04:15.629Z",
   "articles": [
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -42,6 +42,22 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides"
     },
     {
+      "title": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
+      "url": "https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling",
+      "source": "EFF",
+      "publishedAt": "Tue, 13 Oct 2026 17:19:19 +0000",
+      "category": "NEWS",
+      "summary": "In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of automated license plate reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, "
+    },
+    {
+      "title": "Privacy's Defenders Podcast: No Privacy Without Encryption",
+      "url": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption",
+      "source": "EFF",
+      "publishedAt": "Tue, 13 Oct 2026 15:00:03 +0000",
+      "category": "NEWS",
+      "summary": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S g"
+    },
+    {
       "title": "Resisting the Menace of Federal Data Consolidation",
       "url": "https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 09 Oct 2026 14:22:38 +0000",
       "category": "NEWS",
       "summary": "EFF strongly condemns Turkey’s state-led discriminatory, oppressive attacks on feminist and LGBTQ+ organisations, media platforms, student groups, and rights defenders and activists within the country. \nSince mid-September, access to the websites and social media accounts of a dozen organizations ha"
-    },
-    {
-      "title": "When No ID Means No Internet: Age Verification and the Right to Access Information",
-      "url": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information",
-      "source": "EFF",
-      "publishedAt": "Thu, 08 Oct 2026 19:59:49 +0000",
-      "category": "NEWS",
-      "summary": "This post was co-authored by Sheila B. Lalwani, a doctorate student and recent COMPASS Fellow hosted by EFF.\nAge verification proposals are often presented as a simple tradeoff: sacrifice a little privacy to better safeguard children online. But that framing overlooks a more fundamental question. Wh"
-    },
-    {
-      "title": "It's DAF Day! Wait...What's a DAF?",
-      "url": "https://www.eff.org/deeplinks/2026/10/its-daf-day-wait-whats-daf",
-      "source": "EFF",
-      "publishedAt": "Thu, 08 Oct 2026 16:02:24 +0000",
-      "category": "NEWS",
-      "summary": "Today is DAF Day! This event highlights the millions of donor-advised funds (DAFs) people have set up to make charitable donations and change the world. If you have a DAF, consider supporting EFF today.\nDecisions about your privacy, encryption, artificial intelligence, online speech, and digital sec"
     }
   ]
 }
