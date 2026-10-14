@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-14T10:50:09.446Z",
+  "last_updated": "2026-10-14T16:09:14.276Z",
   "articles": [
+    {
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "source": "Krebs on Security",
+      "publishedAt": "Wed, 14 Oct 2026 14:22:49 +0000",
+      "category": "NEWS",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res"
+    },
     {
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -32,14 +40,6 @@
       "publishedAt": "Mon, 28 Sep 2026 15:08:57 +0000",
       "category": "NEWS",
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
-    },
-    {
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "source": "Krebs on Security",
-      "publishedAt": "Fri, 25 Sep 2026 21:44:40 +0000",
-      "category": "NEWS",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
     },
     {
       "title": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
