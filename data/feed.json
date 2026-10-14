@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-13T22:04:15.629Z",
+  "last_updated": "2026-10-14T02:40:06.069Z",
   "articles": [
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "Krebs on Security",
+      "publishedAt": "Tue, 13 Oct 2026 23:24:53 +0000",
+      "category": "NEWS",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond."
+    },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -32,14 +40,6 @@
       "publishedAt": "Fri, 25 Sep 2026 21:44:40 +0000",
       "category": "NEWS",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims."
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "publishedAt": "Wed, 16 Sep 2026 18:14:22 +0000",
-      "category": "NEWS",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides"
     },
     {
       "title": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
