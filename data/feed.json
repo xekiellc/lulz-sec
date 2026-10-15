@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T15:57:09.882Z",
+  "last_updated": "2026-10-15T20:41:36.637Z",
   "articles": [
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -42,6 +42,14 @@
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
     },
     {
+      "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
+      "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
+      "source": "EFF",
+      "publishedAt": "Thu, 15 Oct 2026 20:08:58 +0000",
+      "category": "NEWS",
+      "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in the U.S.   \nLast fall, we sued on behalf of three major labor unions to stop thi"
+    },
+    {
       "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
       "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 13 Oct 2026 17:19:19 +0000",
       "category": "NEWS",
       "summary": "In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of automated license plate reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, "
-    },
-    {
-      "title": "Privacy's Defenders Podcast: No Privacy Without Encryption",
-      "url": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption",
-      "source": "EFF",
-      "publishedAt": "Tue, 13 Oct 2026 15:00:03 +0000",
-      "category": "NEWS",
-      "summary": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S g"
     }
   ]
 }
