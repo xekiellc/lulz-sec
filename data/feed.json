@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T21:05:46.664Z",
+  "last_updated": "2026-10-15T02:19:58.020Z",
   "articles": [
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -42,6 +42,14 @@
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
     },
     {
+      "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
+      "source": "EFF",
+      "publishedAt": "Wed, 14 Oct 2026 23:21:37 +0000",
+      "category": "NEWS",
+      "summary": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent"
+    },
+    {
       "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
       "url": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 13 Oct 2026 15:00:03 +0000",
       "category": "NEWS",
       "summary": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S g"
-    },
-    {
-      "title": "Resisting the Menace of Federal Data Consolidation",
-      "url": "https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation",
-      "source": "EFF",
-      "publishedAt": "Fri, 09 Oct 2026 21:46:34 +0000",
-      "category": "NEWS",
-      "summary": "In the past two years, the federal government has unlawfully consolidated data exposing our private information. \nThis consolidation has been chaotic but generally came in three rolling waves: It started with DOGE, moved to agency-to-agency data sharing with ICE, and then attempted data-driven purge"
     }
   ]
 }
