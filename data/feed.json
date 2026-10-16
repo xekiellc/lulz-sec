@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T20:41:36.637Z",
+  "last_updated": "2026-10-16T02:12:34.295Z",
   "articles": [
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -42,6 +42,14 @@
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
     },
     {
+      "title": "In Memoriam: Barry Steinhardt",
+      "url": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
+      "source": "EFF",
+      "publishedAt": "Fri, 16 Oct 2026 00:07:22 +0000",
+      "category": "NEWS",
+      "summary": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. \nA Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before b"
+    },
+    {
       "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
       "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 14 Oct 2026 16:25:23 +0000",
       "category": "NEWS",
       "summary": "No one should have to think twice before criticizing the government online. But a mass surveillance program known as \"Catch and Revoke\" was created to make millions do just that. EFF and other defenders of free speech are fighting back. In our latest EFFector newsletter, we're talking about a key co"
-    },
-    {
-      "title": "As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling",
-      "url": "https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling",
-      "source": "EFF",
-      "publishedAt": "Tue, 13 Oct 2026 17:19:19 +0000",
-      "category": "NEWS",
-      "summary": "In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of automated license plate reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, "
     }
   ]
 }
