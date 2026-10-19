@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-10-19T11:32:40.906Z",
+  "last_updated": "2026-10-19T17:56:31.829Z",
   "articles": [
+    {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "publishedAt": "Mon, 19 Oct 2026 13:48:56 +0000",
+      "category": "NEWS",
+      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources c"
+    },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -34,12 +42,20 @@
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was "
     },
     {
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 28 Sep 2026 15:08:57 +0000",
+      "title": "Announcing Privacy Badger for Safari on macOS",
+      "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
+      "source": "EFF",
+      "publishedAt": "Mon, 19 Oct 2026 17:59:22 +0000",
       "category": "NEWS",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attac"
+      "summary": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it.\nWhether you want to protect yourself from data brokers or just don’t want Big Tech profiting off your browsing data, Privacy Badger is here to help. More than 4 m"
+    },
+    {
+      "title": "EFF Launches Privacy Badger for Safari on macOS",
+      "url": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
+      "source": "EFF",
+      "publishedAt": "Mon, 19 Oct 2026 16:00:25 +0000",
+      "category": "NEWS",
+      "summary": "Free Tracker Blocker Used by Millions Will Protect Even More Users' Privacy\n\n\n\nSAN FRANCISCO—Privacy Badger, the award-winning tracker blocker made by the member-supported digital rights nonprofit Electronic Frontier Foundation (EFF), is now available for Safari on macOS.  \nSafari users can download"
     },
     {
       "title": "In Memoriam: Barry Steinhardt",
@@ -64,22 +80,6 @@
       "publishedAt": "Wed, 14 Oct 2026 23:21:37 +0000",
       "category": "NEWS",
       "summary": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent"
-    },
-    {
-      "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
-      "url": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
-      "source": "EFF",
-      "publishedAt": "Wed, 14 Oct 2026 20:27:13 +0000",
-      "category": "NEWS",
-      "summary": "EFF legal intern Gabrielle Ladun was the principal author of this post. \nThe Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation Security Administration’s (TSA) facial recognition technology. While the detaile"
-    },
-    {
-      "title": "🗣 A Victory for Freedom of Speech Online | EFFector 38.18",
-      "url": "https://www.eff.org/deeplinks/2026/10/victory-freedom-speech-online-effector-3818",
-      "source": "EFF",
-      "publishedAt": "Wed, 14 Oct 2026 16:25:23 +0000",
-      "category": "NEWS",
-      "summary": "No one should have to think twice before criticizing the government online. But a mass surveillance program known as \"Catch and Revoke\" was created to make millions do just that. EFF and other defenders of free speech are fighting back. In our latest EFFector newsletter, we're talking about a key co"
     }
   ]
 }
