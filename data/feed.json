@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T21:54:46.051Z",
+  "last_updated": "2026-10-20T02:35:16.220Z",
   "articles": [
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -42,6 +42,14 @@
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was "
     },
     {
+      "title": "Require Police to Get a Warrant to Search ALPR Data",
+      "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
+      "source": "EFF",
+      "publishedAt": "Mon, 19 Oct 2026 23:28:38 +0000",
+      "category": "NEWS",
+      "summary": "This post was co-written by Andi Cao, an EFF legal intern.\nAutomated license plate readers (ALPRs) are mass surveillance. They photograph every passing car and log where and when it was captured, building a searchable record of where nearly everyone drives. Cities should not buy them, and cities tha"
+    },
+    {
       "title": "Announcing Privacy Badger for Safari on macOS",
       "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 15 Oct 2026 20:08:58 +0000",
       "category": "NEWS",
       "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in the U.S.   \nLast fall, we sued on behalf of three major labor unions to stop thi"
-    },
-    {
-      "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
-      "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
-      "source": "EFF",
-      "publishedAt": "Wed, 14 Oct 2026 23:21:37 +0000",
-      "category": "NEWS",
-      "summary": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent"
     }
   ]
 }
