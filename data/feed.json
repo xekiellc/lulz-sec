@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T20:59:28.911Z",
+  "last_updated": "2026-10-21T02:29:36.394Z",
   "articles": [
     {
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -42,6 +42,14 @@
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was "
     },
     {
+      "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+      "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+      "source": "EFF",
+      "publishedAt": "Tue, 20 Oct 2026 21:46:42 +0000",
+      "category": "NEWS",
+      "summary": "In a victory for data privacy, a federal court in New York definitively ruled that the Office of Personnel Management (OPM) violated the law when it disclosed millions of federal employee records to DOGE agents. In a summary judgment ruling issued on October 20, 2026, the court found that OPM violat"
+    },
+    {
       "title": "Require Police to Get a Warrant to Search ALPR Data",
       "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 16 Oct 2026 00:07:22 +0000",
       "category": "NEWS",
       "summary": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. \nA Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before b"
-    },
-    {
-      "title": "Our Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.",
-      "url": "https://www.eff.org/deeplinks/2026/10/our-lawsuit-against-trump-administrations-social-media-surveillance-moves-forward",
-      "source": "EFF",
-      "publishedAt": "Thu, 15 Oct 2026 20:08:58 +0000",
-      "category": "NEWS",
-      "summary": "No one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in the U.S.   \nLast fall, we sued on behalf of three major labor unions to stop thi"
     }
   ]
 }
