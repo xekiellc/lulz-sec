@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T16:17:17.687Z",
+  "last_updated": "2026-10-21T21:00:58.396Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
+      "url": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
+      "source": "EFF",
+      "publishedAt": "Wed, 21 Oct 2026 16:19:59 +0000",
+      "category": "NEWS",
+      "summary": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats \n\n\n\nSAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “Online Privacy for Parents and Youth,” a new guide to help families protect themselves online. \n\"Parents don’t need to be technology experts to h"
+    },
+    {
       "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
       "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 19 Oct 2026 16:00:25 +0000",
       "category": "NEWS",
       "summary": "Free Tracker Blocker Used by Millions Will Protect Even More Users' Privacy\n\n\n\nSAN FRANCISCO—Privacy Badger, the award-winning tracker blocker made by the member-supported digital rights nonprofit Electronic Frontier Foundation (EFF), is now available for Safari on macOS.  \nSafari users can download"
-    },
-    {
-      "title": "In Memoriam: Barry Steinhardt",
-      "url": "https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt",
-      "source": "EFF",
-      "publishedAt": "Fri, 16 Oct 2026 00:07:22 +0000",
-      "category": "NEWS",
-      "summary": "Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. \nA Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before b"
     }
   ]
 }
