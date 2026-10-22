@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T21:00:58.396Z",
+  "last_updated": "2026-10-22T02:25:59.534Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,44 +42,44 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
+      "url": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
+      "source": "EFF",
+      "publishedAt": "Wed, 21 Oct 2026 23:07:38 +0000",
+      "category": "NEWS",
+      "summary": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s complicated doesn’t mean it’s impossible. We’ve launched our Online Privacy for Par"
+    },
+    {
+      "title": "Interoperability vs. Security: Why not both?",
+      "url": "https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both",
+      "source": "EFF",
+      "publishedAt": "Wed, 21 Oct 2026 22:39:34 +0000",
+      "category": "NEWS",
+      "summary": "An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited from. In recent decades, however, corporations have taken control of an increasing share of this work, giving them a greater ability to stifle challeng"
+    },
+    {
+      "title": "EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations",
+      "url": "https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform",
+      "source": "EFF",
+      "publishedAt": "Wed, 21 Oct 2026 22:11:43 +0000",
+      "category": "NEWS",
+      "summary": "The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enfo"
+    },
+    {
+      "title": "EFF’s State Legislative Agenda to End ALPR Mass Surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance",
+      "source": "EFF",
+      "publishedAt": "Wed, 21 Oct 2026 17:52:16 +0000",
+      "category": "NEWS",
+      "summary": "Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and GPS coordinates. While the technology itself isn’t new (ALPRs have existed in various forms for more than 50 years, and in the U.S. since 1998), the "
+    },
+    {
       "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
       "url": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
       "source": "EFF",
       "publishedAt": "Wed, 21 Oct 2026 16:19:59 +0000",
       "category": "NEWS",
       "summary": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats \n\n\n\nSAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “Online Privacy for Parents and Youth,” a new guide to help families protect themselves online. \n\"Parents don’t need to be technology experts to h"
-    },
-    {
-      "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
-      "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
-      "source": "EFF",
-      "publishedAt": "Tue, 20 Oct 2026 21:46:42 +0000",
-      "category": "NEWS",
-      "summary": "In a victory for data privacy, a federal court in New York definitively ruled that the Office of Personnel Management (OPM) violated the law when it disclosed millions of federal employee records to DOGE agents. In a summary judgment ruling issued on October 20, 2026, the court found that OPM violat"
-    },
-    {
-      "title": "Require Police to Get a Warrant to Search ALPR Data",
-      "url": "https://www.eff.org/deeplinks/2026/10/require-police-get-warrant-search-alpr-data",
-      "source": "EFF",
-      "publishedAt": "Mon, 19 Oct 2026 23:28:38 +0000",
-      "category": "NEWS",
-      "summary": "This post was co-written by Andi Cao, an EFF legal intern.\nAutomated license plate readers (ALPRs) are mass surveillance. They photograph every passing car and log where and when it was captured, building a searchable record of where nearly everyone drives. Cities should not buy them, and cities tha"
-    },
-    {
-      "title": "Announcing Privacy Badger for Safari on macOS",
-      "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
-      "source": "EFF",
-      "publishedAt": "Mon, 19 Oct 2026 17:59:22 +0000",
-      "category": "NEWS",
-      "summary": "Exciting news for Safari users: Privacy Badger is now available on Safari for macOS! You’ll need Safari version 26.5 or higher to use it.\nWhether you want to protect yourself from data brokers or just don’t want Big Tech profiting off your browsing data, Privacy Badger is here to help. More than 4 m"
-    },
-    {
-      "title": "EFF Launches Privacy Badger for Safari on macOS",
-      "url": "https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos",
-      "source": "EFF",
-      "publishedAt": "Mon, 19 Oct 2026 16:00:25 +0000",
-      "category": "NEWS",
-      "summary": "Free Tracker Blocker Used by Millions Will Protect Even More Users' Privacy\n\n\n\nSAN FRANCISCO—Privacy Badger, the award-winning tracker blocker made by the member-supported digital rights nonprofit Electronic Frontier Foundation (EFF), is now available for Safari on macOS.  \nSafari users can download"
     }
   ]
 }
