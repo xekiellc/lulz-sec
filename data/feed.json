@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:05:58.134Z",
+  "last_updated": "2026-10-23T20:47:18.270Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
+      "url": "https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next",
+      "source": "EFF",
+      "publishedAt": "Fri, 23 Oct 2026 18:19:34 +0000",
+      "category": "NEWS",
+      "summary": "Last week, two federal appeals courts issued opinions that will allow Florida and Georgia to start enforcing laws that will age-gate and block young people from accessing social media. The laws do not adequately respect minors’ rights to play, speak, and learn online. More fundamentally, these laws "
+    },
+    {
       "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 21 Oct 2026 22:11:43 +0000",
       "category": "NEWS",
       "summary": "The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enfo"
-    },
-    {
-      "title": "EFF’s State Legislative Agenda to End ALPR Mass Surveillance",
-      "url": "https://www.eff.org/deeplinks/2026/10/effs-state-legislative-agenda-end-alpr-mass-surveillance",
-      "source": "EFF",
-      "publishedAt": "Wed, 21 Oct 2026 17:52:16 +0000",
-      "category": "NEWS",
-      "summary": "Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and GPS coordinates. While the technology itself isn’t new (ALPRs have existed in various forms for more than 50 years, and in the U.S. since 1998), the "
     }
   ]
 }
