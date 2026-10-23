@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T20:58:03.388Z",
+  "last_updated": "2026-10-23T02:30:50.983Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "EFF",
+      "publishedAt": "Thu, 22 Oct 2026 22:10:21 +0000",
+      "category": "NEWS",
+      "summary": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. \nCanadians still have an opportu"
+    },
+    {
       "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
       "url": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 21 Oct 2026 17:52:16 +0000",
       "category": "NEWS",
       "summary": "Police agencies across the U.S. have deployed Automated License Plate Readers (ALPRs) to capture images of passing vehicles along with time, date, and GPS coordinates. While the technology itself isn’t new (ALPRs have existed in various forms for more than 50 years, and in the U.S. since 1998), the "
-    },
-    {
-      "title": "EFF Launches Guide to Help Parents and Youth Protect Privacy Online",
-      "url": "https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online",
-      "source": "EFF",
-      "publishedAt": "Wed, 21 Oct 2026 16:19:59 +0000",
-      "category": "NEWS",
-      "summary": "Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats \n\n\n\nSAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “Online Privacy for Parents and Youth,” a new guide to help families protect themselves online. \n\"Parents don’t need to be technology experts to h"
     }
   ]
 }
