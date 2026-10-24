@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T20:47:18.270Z",
+  "last_updated": "2026-10-24T02:29:12.970Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,22 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
+      "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
+      "source": "EFF",
+      "publishedAt": "Fri, 23 Oct 2026 22:36:46 +0000",
+      "category": "NEWS",
+      "summary": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about \"The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the websites on the internet. You may find yo"
+    },
+    {
+      "title": "Computer Security Is About to Get a Lot Worse, Here’s What You Can Do",
+      "url": "https://www.eff.org/deeplinks/2026/10/computer-security-about-get-lot-worse-heres-what-you-can-do",
+      "source": "EFF",
+      "publishedAt": "Fri, 23 Oct 2026 22:36:29 +0000",
+      "category": "NEWS",
+      "summary": "It is a commonly held truth among computer geeks that there is no such thing as bug free software, or a secure computer. Any piece of software that anyone actually uses will have a security vulnerability somewhere in the code. The more complex that software is, the more likely there will be a vulner"
+    },
+    {
       "title": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
       "url": "https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Wed, 21 Oct 2026 23:07:38 +0000",
       "category": "NEWS",
       "summary": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s complicated doesn’t mean it’s impossible. We’ve launched our Online Privacy for Par"
-    },
-    {
-      "title": "Interoperability vs. Security: Why not both?",
-      "url": "https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both",
-      "source": "EFF",
-      "publishedAt": "Wed, 21 Oct 2026 22:39:34 +0000",
-      "category": "NEWS",
-      "summary": "An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited from. In recent decades, however, corporations have taken control of an increasing share of this work, giving them a greater ability to stifle challeng"
-    },
-    {
-      "title": "EFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations",
-      "url": "https://www.eff.org/deeplinks/2026/10/eff-brazils-anpd-data-privacy-and-free-expression-must-underpin-platform",
-      "source": "EFF",
-      "publishedAt": "Wed, 21 Oct 2026 22:11:43 +0000",
-      "category": "NEWS",
-      "summary": "The Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enfo"
     }
   ]
 }
