@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T17:52:54.408Z",
+  "last_updated": "2026-10-26T22:04:36.104Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -50,6 +50,14 @@
       "summary": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to journalist’s devices to infect them without the target ever needing to click anything. This sort of attack on journalists is dangerous and incredibly c"
     },
     {
+      "title": "Anti-Circumvention Laws Raise the Cost of Knowledge",
+      "url": "https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge",
+      "source": "EFF",
+      "publishedAt": "Mon, 26 Oct 2026 17:20:40 +0000",
+      "category": "NEWS",
+      "summary": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being able to analyze the overwhelming amount of material posted online every day. Unfortu"
+    },
+    {
       "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
       "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 23 Oct 2026 18:19:34 +0000",
       "category": "NEWS",
       "summary": "Last week, two federal appeals courts issued opinions that will allow Florida and Georgia to start enforcing laws that will age-gate and block young people from accessing social media. The laws do not adequately respect minors’ rights to play, speak, and learn online. More fundamentally, these laws "
-    },
-    {
-      "title": "Canadians Are Running Out Of Time To Oppose The Dangerous C-22 Surveillance Bill",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "source": "EFF",
-      "publishedAt": "Thu, 22 Oct 2026 22:10:21 +0000",
-      "category": "NEWS",
-      "summary": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. \nCanadians still have an opportu"
     }
   ]
 }
