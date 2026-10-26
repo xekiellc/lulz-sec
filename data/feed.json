@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T11:50:59.948Z",
+  "last_updated": "2026-10-26T17:52:54.408Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Lessons Learned From 'AdFection' and What To Do Next",
+      "url": "https://www.eff.org/deeplinks/2026/10/lessons-learned-adfection",
+      "source": "EFF",
+      "publishedAt": "Mon, 26 Oct 2026 17:28:02 +0000",
+      "category": "NEWS",
+      "summary": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to journalist’s devices to infect them without the target ever needing to click anything. This sort of attack on journalists is dangerous and incredibly c"
+    },
+    {
       "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
       "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Thu, 22 Oct 2026 22:10:21 +0000",
       "category": "NEWS",
       "summary": "Canada’s Parliament is debating a massive expansion of surveillance powers that will threaten the privacy and security of millions of people. Bill C-22, also called the Lawful Access Act, has already passed the House of Commons, and is now before the Canadian Senate. \nCanadians still have an opportu"
-    },
-    {
-      "title": "Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth",
-      "url": "https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and",
-      "source": "EFF",
-      "publishedAt": "Wed, 21 Oct 2026 23:07:38 +0000",
-      "category": "NEWS",
-      "summary": "The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s complicated doesn’t mean it’s impossible. We’ve launched our Online Privacy for Par"
     }
   ]
 }
