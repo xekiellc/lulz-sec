@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:15:02.762Z",
+  "last_updated": "2026-10-27T17:00:29.378Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,22 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment",
+      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+      "source": "EFF",
+      "publishedAt": "Tue, 27 Oct 2026 19:05:42 +0000",
+      "category": "NEWS",
+      "summary": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making. \nEFF sued the government back in March for information about the Wasteful and Inappropriate Servic"
+    },
+    {
+      "title": "French Court’s Site-Blocking Orders Drive Quad9 Out Of France",
+      "url": "https://www.eff.org/deeplinks/2026/10/french-courts-site-blocking-orders-drive-quad9-out-france",
+      "source": "EFF",
+      "publishedAt": "Tue, 27 Oct 2026 16:19:49 +0000",
+      "category": "NEWS",
+      "summary": "A nonprofit service that protects internet users’ privacy is leaving France. Quad9, a free DNS resolver, has said it will reluctantly stop serving users in France on November 24. This follows a French court order that Quad9 must block access to websites that are accused of infringing the copyrights "
+    },
+    {
       "title": "Lessons Learned From 'AdFection' and What To Do Next",
       "url": "https://www.eff.org/deeplinks/2026/10/lessons-learned-adfection",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Fri, 23 Oct 2026 22:36:46 +0000",
       "category": "NEWS",
       "summary": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about \"The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the websites on the internet. You may find yo"
-    },
-    {
-      "title": "Computer Security Is About to Get a Lot Worse, Here’s What You Can Do",
-      "url": "https://www.eff.org/deeplinks/2026/10/computer-security-about-get-lot-worse-heres-what-you-can-do",
-      "source": "EFF",
-      "publishedAt": "Fri, 23 Oct 2026 22:36:29 +0000",
-      "category": "NEWS",
-      "summary": "It is a commonly held truth among computer geeks that there is no such thing as bug free software, or a secure computer. Any piece of software that anyone actually uses will have a security vulnerability somewhere in the code. The more complex that software is, the more likely there will be a vulner"
-    },
-    {
-      "title": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
-      "url": "https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next",
-      "source": "EFF",
-      "publishedAt": "Fri, 23 Oct 2026 18:19:34 +0000",
-      "category": "NEWS",
-      "summary": "Last week, two federal appeals courts issued opinions that will allow Florida and Georgia to start enforcing laws that will age-gate and block young people from accessing social media. The laws do not adequately respect minors’ rights to play, speak, and learn online. More fundamentally, these laws "
     }
   ]
 }
