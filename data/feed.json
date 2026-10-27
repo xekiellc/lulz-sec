@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T17:00:29.378Z",
+  "last_updated": "2026-10-27T21:35:14.095Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Social Media When Elections Are Close: Doing the Impossible Better",
+      "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
+      "source": "EFF",
+      "publishedAt": "Tue, 27 Oct 2026 21:20:30 +0000",
+      "category": "NEWS",
+      "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at least reasonably close, especially when access to good information can have a pro"
+    },
+    {
       "title": "New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment",
       "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 26 Oct 2026 17:20:40 +0000",
       "category": "NEWS",
       "summary": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being able to analyze the overwhelming amount of material posted online every day. Unfortu"
-    },
-    {
-      "title": "The Vulnerability Apocalypse and Why We Should Fund Open Source",
-      "url": "https://www.eff.org/deeplinks/2026/10/vulnerability-apocalypse-and-why-we-should-fund-open-source",
-      "source": "EFF",
-      "publishedAt": "Fri, 23 Oct 2026 22:36:46 +0000",
-      "category": "NEWS",
-      "summary": "If you use the internet at all, you may have noticed that a large percentage of sites suddenly went down earlier this week—and all your nerdiest friends were talking about \"The Vulnerability Apocalypse” and this thing called PHP that powers nearly 70% of the websites on the internet. You may find yo"
     }
   ]
 }
