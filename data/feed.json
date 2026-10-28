@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:49:15.109Z",
+  "last_updated": "2026-10-28T17:37:04.627Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "💾 Fighting DOGE's Data Grab | EFFector 38.19",
+      "url": "https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819",
+      "source": "EFF",
+      "publishedAt": "Wed, 28 Oct 2026 15:21:42 +0000",
+      "category": "NEWS",
+      "summary": "When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won't later be used against us. But in a betrayal of that trust, the federal government has been pooling the information it has about us on an unprecedented scale—a"
+    },
+    {
       "title": "Social Media When Elections Are Close: Doing the Impossible Better",
       "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Mon, 26 Oct 2026 17:28:02 +0000",
       "category": "NEWS",
       "summary": "Last week, researchers at Citizen Lab revealed a horrifying new malware campaign, dubbed “AdFection.” It used an ad network to distribute spyware to journalist’s devices to infect them without the target ever needing to click anything. This sort of attack on journalists is dangerous and incredibly c"
-    },
-    {
-      "title": "Anti-Circumvention Laws Raise the Cost of Knowledge",
-      "url": "https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge",
-      "source": "EFF",
-      "publishedAt": "Mon, 26 Oct 2026 17:20:40 +0000",
-      "category": "NEWS",
-      "summary": "The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being able to analyze the overwhelming amount of material posted online every day. Unfortu"
     }
   ]
 }
