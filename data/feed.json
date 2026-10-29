@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T11:57:03.213Z",
+  "last_updated": "2026-10-29T17:55:03.042Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Tech Tips for Parents this Digital Parenting Week",
+      "url": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
+      "source": "EFF",
+      "publishedAt": "Thu, 29 Oct 2026 17:00:05 +0000",
+      "category": "NEWS",
+      "summary": "In today’s digital world, the internet is an essential resource for young people to access information, explore community, and find themselves. But we know that this often comes alongside fears of experiencing online harms like doxxing, grooming, or bullying.\nTrying to protect your family from every"
+    },
+    {
       "title": "Victory! You Can Now Exclude Apps from Siri AI",
       "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Tue, 27 Oct 2026 21:20:30 +0000",
       "category": "NEWS",
       "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at least reasonably close, especially when access to good information can have a pro"
-    },
-    {
-      "title": "New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment",
-      "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
-      "source": "EFF",
-      "publishedAt": "Tue, 27 Oct 2026 19:05:42 +0000",
-      "category": "NEWS",
-      "summary": "New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making. \nEFF sued the government back in March for information about the Wasteful and Inappropriate Servic"
     }
   ]
 }
