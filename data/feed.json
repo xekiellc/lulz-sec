@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T17:26:24.689Z",
+  "last_updated": "2026-10-30T21:47:08.075Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Why VPNs Are Worth Defending",
+      "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
+      "source": "EFF",
+      "publishedAt": "Fri, 30 Oct 2026 20:55:24 +0000",
+      "category": "NEWS",
+      "summary": "Developers of virtual private network (VPN) apps are reporting that their products are again being pulled from Apple’s App Store in Russia. This is an unacceptable crackdown on a vital tool to protect privacy and speech online.\nWhy? VPNs give people a way to control their own online activities. When"
+    },
+    {
       "title": "Tech Tips for Parents this Digital Parenting Week",
       "url": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 28 Oct 2026 15:21:42 +0000",
       "category": "NEWS",
       "summary": "When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won't later be used against us. But in a betrayal of that trust, the federal government has been pooling the information it has about us on an unprecedented scale—a"
-    },
-    {
-      "title": "Social Media When Elections Are Close: Doing the Impossible Better",
-      "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
-      "source": "EFF",
-      "publishedAt": "Tue, 27 Oct 2026 21:20:30 +0000",
-      "category": "NEWS",
-      "summary": "Everyone knows, or should, that perfect (balanced, targeted, transparent, swift and swiftly appealable) content moderation at scale is impossible. That doesn’t mean powerful social platforms don’t have to try to get at least reasonably close, especially when access to good information can have a pro"
     }
   ]
 }
