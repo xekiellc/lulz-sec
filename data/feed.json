@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T21:47:08.075Z",
+  "last_updated": "2026-10-31T03:14:23.555Z",
   "articles": [
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -42,6 +42,14 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSec"
     },
     {
+      "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+      "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+      "source": "EFF",
+      "publishedAt": "Fri, 30 Oct 2026 23:42:45 +0000",
+      "category": "NEWS",
+      "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and publishers fighting for a cut of Big Tech company profits. But this fight is act"
+    },
+    {
       "title": "Why VPNs Are Worth Defending",
       "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 28 Oct 2026 19:48:20 +0000",
       "category": "NEWS",
       "summary": "A federal appeals court should curb the government’s abuse of grand jury subpoenas to unmask social media users who criticize lawless immigration enforcement.\nThat is the message from the ACLU, EFF, and other civil liberties and trade groups who filed a friend-of-the-court brief in a sealed case in "
-    },
-    {
-      "title": "💾 Fighting DOGE's Data Grab | EFFector 38.19",
-      "url": "https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819",
-      "source": "EFF",
-      "publishedAt": "Wed, 28 Oct 2026 15:21:42 +0000",
-      "category": "NEWS",
-      "summary": "When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won't later be used against us. But in a betrayal of that trust, the federal government has been pooling the information it has about us on an unprecedented scale—a"
     }
   ]
 }
