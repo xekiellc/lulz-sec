@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:27:46.106Z",
+  "last_updated": "2026-11-04T22:59:01.804Z",
   "articles": [
     {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
@@ -42,6 +42,22 @@
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond."
     },
     {
+      "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically",
+      "source": "EFF",
+      "publishedAt": "Wed, 04 Nov 2026 20:26:48 +0000",
+      "category": "NEWS",
+      "summary": "Yesterday, along with the ACLU, EFF filed an amicus brief in the Ninth Circuit court of appeals in United States v. Spurlock, a case involving a “tower dump” warrant. These overbroad warrants require cellular providers to turn over location data about every phone in a given area at a given time. Thi"
+    },
+    {
+      "title": "Google Summaries Aren't About AI, They're About Lock-In",
+      "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
+      "source": "EFF",
+      "publishedAt": "Wed, 04 Nov 2026 20:05:03 +0000",
+      "category": "NEWS",
+      "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own ecosystem. Knowing that makes it possible for all of us to choose better services than Google's, defeating their anticompetitive goal. In this c"
+    },
+    {
       "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
       "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Mon, 02 Nov 2026 15:10:22 +0000",
       "category": "NEWS",
       "summary": "On November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr, will face trial for the second time in just two weeks. This time, she faces charges of spreading false news, an accusation that has become one of the Egyptian government's most frequently use"
-    },
-    {
-      "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
-      "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
-      "source": "EFF",
-      "publishedAt": "Fri, 30 Oct 2026 23:42:45 +0000",
-      "category": "NEWS",
-      "summary": "In courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and publishers fighting for a cut of Big Tech company profits. But this fight is act"
-    },
-    {
-      "title": "Why VPNs Are Worth Defending",
-      "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
-      "source": "EFF",
-      "publishedAt": "Fri, 30 Oct 2026 20:55:24 +0000",
-      "category": "NEWS",
-      "summary": "Developers of virtual private network (VPN) apps are reporting that their products are again being pulled from Apple’s App Store in Russia. This is an unacceptable crackdown on a vital tool to protect privacy and speech online.\nWhy? VPNs give people a way to control their own online activities. When"
     }
   ]
 }
