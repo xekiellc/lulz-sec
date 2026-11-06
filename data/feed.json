@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T13:26:07.594Z",
+  "last_updated": "2026-11-06T22:30:45.990Z",
   "articles": [
     {
       "title": "Want to Rent an Internet Address at the White House?",
@@ -42,6 +42,30 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res"
     },
     {
+      "title": "Google Forcing AI on Students Is BS",
+      "url": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
+      "source": "EFF",
+      "publishedAt": "Fri, 06 Nov 2026 19:14:22 +0000",
+      "category": "NEWS",
+      "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled and turned off the services by default, but made it clear search will continue to be just another AI chatbot. This mandate forces an ul"
+    },
+    {
+      "title": "Presenting 'Desire Lines: Encoding Queer Digital Futures'",
+      "url": "https://www.eff.org/deeplinks/2026/11/presenting-desire-lines-encoding-queer-digital-futures",
+      "source": "EFF",
+      "publishedAt": "Fri, 06 Nov 2026 18:21:41 +0000",
+      "category": "NEWS",
+      "summary": "What does the digital future look like? Who gets to imagine it, shape it, and make it real?\nBuilding a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making space for creativity, community, and radical imagination. \nThat's why earlier th"
+    },
+    {
+      "title": "EFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment",
+      "url": "https://www.eff.org/deeplinks/2026/11/eff-submission-ohchr-consultation-child-rights-and-safety-digital-environment",
+      "source": "EFF",
+      "publishedAt": "Fri, 06 Nov 2026 15:55:49 +0000",
+      "category": "NEWS",
+      "summary": "“The safety of young people in the digital environment cannot be assessed without also considering the safety of young people in offline environments. For millions of young people around the world, the digital environment is their safe place, their haven from an unsafe physical environment, communit"
+    },
+    {
       "title": "When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship",
       "url": "https://www.eff.org/deeplinks/2026/11/when-watchdogs-are-silenced-indias-crackdown-those-documenting-online-censorship",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Thu, 05 Nov 2026 23:33:19 +0000",
       "category": "NEWS",
       "summary": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year legislative session, which meant several bills resumed their legislative paths from"
-    },
-    {
-      "title": "Join EFF to Celebrate the Life of Aaron Swartz",
-      "url": "https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz",
-      "source": "EFF",
-      "publishedAt": "Thu, 05 Nov 2026 23:21:45 +0000",
-      "category": "NEWS",
-      "summary": "Join us to celebrate the legacy of Aaron Swartz on Nov. 8, 2026. With the organizers of Aaron Swartz Day, we’re honoring his life with an in-person and remote hackathon. This event is supported by several organizations that carry on his work, including the Internet Archive—which is hosting the in-pe"
-    },
-    {
-      "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
-      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically",
-      "source": "EFF",
-      "publishedAt": "Wed, 04 Nov 2026 20:26:48 +0000",
-      "category": "NEWS",
-      "summary": "Yesterday, along with the ACLU, EFF filed an amicus brief in the Ninth Circuit court of appeals in United States v. Spurlock, a case involving a “tower dump” warrant. These overbroad warrants require cellular providers to turn over location data about every phone in a given area at a given time. Thi"
-    },
-    {
-      "title": "Google Summaries Aren't About AI, They're About Lock-In",
-      "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
-      "source": "EFF",
-      "publishedAt": "Wed, 04 Nov 2026 20:05:03 +0000",
-      "category": "NEWS",
-      "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own ecosystem. Knowing that makes it possible for all of us to choose better services than Google's, defeating their anticompetitive goal. In this c"
     }
   ]
 }
