@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T23:01:08.859Z",
+  "last_updated": "2026-11-06T04:09:59.386Z",
   "articles": [
     {
       "title": "Want to Rent an Internet Address at the White House?",
@@ -42,6 +42,22 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res"
     },
     {
+      "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
+      "url": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
+      "source": "EFF",
+      "publishedAt": "Thu, 05 Nov 2026 23:33:19 +0000",
+      "category": "NEWS",
+      "summary": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year legislative session, which meant several bills resumed their legislative paths from"
+    },
+    {
+      "title": "Join EFF to Celebrate the Life of Aaron Swartz",
+      "url": "https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz",
+      "source": "EFF",
+      "publishedAt": "Thu, 05 Nov 2026 23:21:45 +0000",
+      "category": "NEWS",
+      "summary": "Join us to celebrate the legacy of Aaron Swartz on Nov. 8, 2026. With the organizers of Aaron Swartz Day, we’re honoring his life with an in-person and remote hackathon. This event is supported by several organizations that carry on his work, including the Internet Archive—which is hosting the in-pe"
+    },
+    {
       "title": "We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional",
       "url": "https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically",
       "source": "EFF",
@@ -64,22 +80,6 @@
       "publishedAt": "Tue, 03 Nov 2026 21:45:46 +0000",
       "category": "NEWS",
       "summary": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show.\nThe records, disclosed to EFF and other requesters suing the postal service under the Freedom of Information Act, show that the agency’s internet Covert Op"
-    },
-    {
-      "title": "Privacy's Defenders Podcast: The Secret Room",
-      "url": "https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-secret-room",
-      "source": "EFF",
-      "publishedAt": "Tue, 03 Nov 2026 15:00:01 +0000",
-      "category": "NEWS",
-      "summary": "The government’s surveillance powers grew rapidly after Sept. 11, 2001, some in public view and some in secret. EFF suspected but couldn’t prove that the National Security Agency was spying on Americans' communications. The New York Times sat on a story about it for over a year, finally publishing i"
-    },
-    {
-      "title": "Independent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr",
-      "url": "https://www.eff.org/deeplinks/2026/11/independent-digital-media-not-privilege-governments-can-revoke-fight-save-egypts",
-      "source": "EFF",
-      "publishedAt": "Mon, 02 Nov 2026 15:10:22 +0000",
-      "category": "NEWS",
-      "summary": "On November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr, will face trial for the second time in just two weeks. This time, she faces charges of spreading false news, an accusation that has become one of the Egyptian government's most frequently use"
     }
   ]
 }
