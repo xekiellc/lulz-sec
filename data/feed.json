@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T04:09:59.386Z",
+  "last_updated": "2026-11-06T13:26:07.594Z",
   "articles": [
     {
       "title": "Want to Rent an Internet Address at the White House?",
@@ -42,6 +42,14 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res"
     },
     {
+      "title": "When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship",
+      "url": "https://www.eff.org/deeplinks/2026/11/when-watchdogs-are-silenced-indias-crackdown-those-documenting-online-censorship",
+      "source": "EFF",
+      "publishedAt": "Fri, 06 Nov 2026 09:30:42 +0000",
+      "category": "NEWS",
+      "summary": "On November 3, our colleagues at the Software Freedom Law Center, India (SFLC.in) received notifications from X that the Delhi Police had issued takedown requests targeting 42 URLs. Among the accounts and posts targeted were those belonging to SFLC.in, the Internet Freedom Foundation (IFF), and X ac"
+    },
+    {
       "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
       "url": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
       "source": "EFF",
@@ -72,14 +80,6 @@
       "publishedAt": "Wed, 04 Nov 2026 20:05:03 +0000",
       "category": "NEWS",
       "summary": "Whether they call it AI summaries, knowledge panels, or AMP, Google takes actions that are less about functionality and more about locking you into its own ecosystem. Knowing that makes it possible for all of us to choose better services than Google's, defeating their anticompetitive goal. In this c"
-    },
-    {
-      "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
-      "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
-      "source": "EFF",
-      "publishedAt": "Tue, 03 Nov 2026 21:45:46 +0000",
-      "category": "NEWS",
-      "summary": "The U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show.\nThe records, disclosed to EFF and other requesters suing the postal service under the Freedom of Information Act, show that the agency’s internet Covert Op"
     }
   ]
 }
