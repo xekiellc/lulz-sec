@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T14:40:30.383Z",
+  "last_updated": "2026-11-10T00:58:06.514Z",
   "articles": [
     {
       "title": "Want to Rent an Internet Address at the White House?",
@@ -42,6 +42,30 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial res"
     },
     {
+      "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "source": "EFF",
+      "publishedAt": "Mon, 09 Nov 2026 22:09:24 +0000",
+      "category": "NEWS",
+      "summary": "Today, along with the ACLU, EFF filed an amicus brief in the Sixth Circuit court of appeals in United States v. Sturdivant, a case where police warrantlessly tracked a suspect’s movements using Automated License Plate Reader (ALPR) data. Our brief details the vast, interconnected network of ALPRs th"
+    },
+    {
+      "title": "Why Fewer People Are Challenging Bad Patents",
+      "url": "https://www.eff.org/deeplinks/2026/11/why-fewer-people-are-challenging-bad-patents",
+      "source": "EFF",
+      "publishedAt": "Mon, 09 Nov 2026 21:40:14 +0000",
+      "category": "NEWS",
+      "summary": "The number of petitions being filed at the Patent Trial and Appeal Board (PTAB) has collapsed. That’s not reason for celebration. The PTAB is an important line of defense against low-quality software patents being used in lawsuits against people and companies.\nThe drop didn’t happen because suddenly"
+    },
+    {
+      "title": "U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability",
+      "url": "https://www.eff.org/deeplinks/2026/11/us-supreme-court-deals-final-blow-corporate-human-rights-accountability",
+      "source": "EFF",
+      "publishedAt": "Mon, 09 Nov 2026 19:29:03 +0000",
+      "category": "NEWS",
+      "summary": "For the past two decades, the U.S. Supreme Court has been slowly weakening the Alien Tort Statute (ATS), a key human rights law that allows foreign nationals to sue persons or entities in civil court for harms resulting from violations of international law. The court’s recent ruling in Cisco Systems"
+    },
+    {
       "title": "Google Forcing AI on Students Is BS",
       "url": "https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs",
       "source": "EFF",
@@ -56,30 +80,6 @@
       "publishedAt": "Fri, 06 Nov 2026 18:21:41 +0000",
       "category": "NEWS",
       "summary": "What does the digital future look like? Who gets to imagine it, shape it, and make it real?\nBuilding a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making space for creativity, community, and radical imagination. \nThat's why earlier th"
-    },
-    {
-      "title": "EFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment",
-      "url": "https://www.eff.org/deeplinks/2026/11/eff-submission-ohchr-consultation-child-rights-and-safety-digital-environment",
-      "source": "EFF",
-      "publishedAt": "Fri, 06 Nov 2026 15:55:49 +0000",
-      "category": "NEWS",
-      "summary": "“The safety of young people in the digital environment cannot be assessed without also considering the safety of young people in offline environments. For millions of young people around the world, the digital environment is their safe place, their haven from an unsafe physical environment, communit"
-    },
-    {
-      "title": "When the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship",
-      "url": "https://www.eff.org/deeplinks/2026/11/when-watchdogs-are-silenced-indias-crackdown-those-documenting-online-censorship",
-      "source": "EFF",
-      "publishedAt": "Fri, 06 Nov 2026 09:30:42 +0000",
-      "category": "NEWS",
-      "summary": "On November 3, our colleagues at the Software Freedom Law Center, India (SFLC.in) received notifications from X that the Delhi Police had issued takedown requests targeting 42 URLs. Among the accounts and posts targeted were those belonging to SFLC.in, the Internet Freedom Foundation (IFF), and X ac"
-    },
-    {
-      "title": "Reflecting on Digital Rights Wins and Losses in Sacramento",
-      "url": "https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento",
-      "source": "EFF",
-      "publishedAt": "Thu, 05 Nov 2026 23:33:19 +0000",
-      "category": "NEWS",
-      "summary": "California’s 2026 legislative session has officially adjourned and it’s time to reflect on the wins and losses that have shaped Californians’ digital rights landscape this year. This was the second year of a two-year legislative session, which meant several bills resumed their legislative paths from"
     }
   ]
 }
