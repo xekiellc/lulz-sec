@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-11T13:10:54.326Z",
+  "last_updated": "2026-11-11T23:50:40.526Z",
   "articles": [
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "publishedAt": "Wed, 11 Nov 2026 18:06:01 +0000",
+      "category": "NEWS",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over "
+    },
     {
       "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
       "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
@@ -34,12 +42,12 @@
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaw"
     },
     {
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "source": "Krebs on Security",
-      "publishedAt": "Mon, 19 Oct 2026 13:48:56 +0000",
+      "title": "🤕 Medicare's AI Experiment | EFFector 38.20",
+      "url": "https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820",
+      "source": "EFF",
+      "publishedAt": "Wed, 11 Nov 2026 18:32:37 +0000",
       "category": "NEWS",
-      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources c"
+      "summary": "When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company's algorithm. But in January, the federal government launched a program that uses AI to evaluate Medicare beneficiaries' requests for certain procedures.\nEFF sued for records on WISeR, see"
     },
     {
       "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
@@ -72,14 +80,6 @@
       "publishedAt": "Fri, 06 Nov 2026 19:14:22 +0000",
       "category": "NEWS",
       "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled and turned off the services by default, but made it clear search will continue to be just another AI chatbot. This mandate forces an ul"
-    },
-    {
-      "title": "Presenting 'Desire Lines: Encoding Queer Digital Futures'",
-      "url": "https://www.eff.org/deeplinks/2026/11/presenting-desire-lines-encoding-queer-digital-futures",
-      "source": "EFF",
-      "publishedAt": "Fri, 06 Nov 2026 18:21:41 +0000",
-      "category": "NEWS",
-      "summary": "What does the digital future look like? Who gets to imagine it, shape it, and make it real?\nBuilding a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making space for creativity, community, and radical imagination. \nThat's why earlier th"
     }
   ]
 }
